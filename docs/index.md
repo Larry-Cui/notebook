@@ -1,20 +1,15 @@
 
-On 15 May 2025, I began my first job in Canada. 
+This website is a notebook.
 
-Zero Canada work experience as I have, and knowing little about my skills, a local law firm in Calgary is brave enough hire me. They are either desperate in need of people working for them, or blindly confident about their judgement on candidates for the job, or both, I guess. 
+From a legal assistant perspective, I will write down the notes I'm taking from time to time during my work. 
 
-That being said, people in this firm are really nice. A lot of people in the firm sacrifice their working time to teach me on every bits of details at work. I can tell they really want me to pick up the work soon, so they can trust me with more important work. 
+I don't think there's a high technical barrier between foreign lawyers and the legal practice in Canada, but it takes time to learn all bits of knowledge here and there in this new country and new legal system. 
 
-That's a strange feeling: you know you may work for a firm for quite a long time, but people there treat you from the first day of the work as if they know you will stay there forever, is quite different. 
+In my experience, I'm keeping asking questions with my colleagues, which really helps me a lot. But the disadvantage is also very obvious: it's a old school way of learning with low efficiency. 
 
-So I guess, maybe I need to be more serious about this job, and behave like a professional as people here see me. 
+By taking notes, I'm trying to reduce the need to ask the same questions more than once, and by putting them online for sharing, I hope on this site, new comers can find most answers to the questions they are going to encounter in their work, saving both a lot of time and becoming handy faster. 
 
-Yup, here I am. Taking notes is the only way I can think of to efficiently and effectively collect every bit of knowledge I come across at work.  
 
-But putting notes online? Basically it's a kind of showcase, but it does come with some side effects:
-
-- It prompts me to take notes more often;
-- It offers me an easy access to the notes for review. 
 
 
 

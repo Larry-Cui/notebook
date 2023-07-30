@@ -3,14 +3,17 @@ site_url: https://paralegal.netlify.app/
 copyright: Copyright &copy; 2023 Larry Cui
 
 nav:
+  - Real Estate:
+      - Documents for Residential Transactions: realestate/docu-list.md
   - Corporate:
       - Types of Business Structure: corporate/types.md
   - Family Law:
       - Family Property: family/property.md
       - Gift or Loan: family/giftorloan.md
+  - Immigration:
+      - New Policy for Work Permit Holder: immigration/newpolicy.md
   - About:
       - Why I Built this Site: index.md
-      - A New Policy: about/newpolicy.md
 
 theme:
   name: material
