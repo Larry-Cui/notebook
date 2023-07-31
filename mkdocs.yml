@@ -12,6 +12,8 @@ nav:
       - Gift or Loan: family/giftorloan.md
   - Immigration:
       - New Policy for Work Permit Holder: immigration/newpolicy.md
+  - Others:
+      - Email Templates: others/email.md
   - About:
       - Why I Built this Site: index.md
 
