@@ -161,7 +161,9 @@ The amount of the bank draft is $[303,412.12], payable to: “H. Zhang Professio
 
 二、付款方式
 
-E-transfer：我们的收款邮箱是 retainer@jadesunrise.com 。收款人请写 Kathy Zhang，这个邮箱已设为自动接收E-transfer 转款，所以不需要发密码给我们。
+E-transfer：我们的收款邮箱是 retainer@jadesunriselaw.com 。收款人请写 Kathy Zhang，这个邮箱已设为自动接收E-transfer 转款，所以不需要发密码给我们。
+
+check deposit: please check out the [void cheque](https://drive.google.com/file/d/156fMej9DPcqH0U9lXAAakuYbtqjoA4Ub/view?usp=sharing){:target="_blank"}.
 
 三、身份核实
 
