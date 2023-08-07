@@ -6,6 +6,7 @@ nav:
   - Real Estate:
       - Documents for Residential Transactions: realestate/docu-list.md
   - Corporate:
+      - Prepare Initial Minute Book: corporate/minbook.md
       - Types of Business Structure: corporate/types.md
   - Family Law:
       - Family Property: family/property.md
