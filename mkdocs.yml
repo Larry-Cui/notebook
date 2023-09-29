@@ -53,7 +53,10 @@ theme:
   language: en
 
   logo: assets/img/profile.png
-  favicon: assets/img/a4.png
+  favicon: assets/img/book-real.png
+
+  icon:
+    annotation: material/plus-circle
 
   features:
     - navigation.instant # without fully reloading the page, fast loading function
@@ -109,6 +112,8 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra_css:
   - assets/css/styled-table.css
