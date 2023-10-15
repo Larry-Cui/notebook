@@ -16,7 +16,7 @@ The imminent benefit the new policy brings is that any foreign workers on longer
 
 As the new policy says, many foreign professionals can "improve their education and receive more training, ... upskill or validate their foreign credentials through certain programs."
 
-## Disadvantages to pay attention to
+## Pay attention to drawbacks
 
 For those who want to apply PR through [CEC](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/experience/qualifying-work-experience.html){:target="_blank"} stream, they should be very careful when relying on this policy to study after work.
 
