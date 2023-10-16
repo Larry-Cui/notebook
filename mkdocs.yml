@@ -5,8 +5,6 @@ copyright: Copyright &copy; 2023 Larry Cui
 nav:
   - Real Estate:
       - Documents for Residential Transactions: realestate/docu-list.md
-      - Fee Quotations: realestate/email-quotation.md
-      - First Email to clients: realestate/email-1.md
   - Corporate:
       - Prepare Initial Minute Book: corporate/minbook.md
       - Minute Book of Share Transfer: corporate/minbook-2.md
@@ -16,11 +14,8 @@ nav:
       - Gift or Loan: family/giftorloan.md
   - Immigration:
       - New Policy for Work Permit Holder: immigration/newpolicy.md
-  - Others:
-      - Accounts: others/accounts.md
-      - Searches: others/searches.md
   - About:
-      - Why I Built this Site: index.md
+      - Why I Built This Site: index.md
 
 theme:
   name: material
