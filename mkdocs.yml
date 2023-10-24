@@ -15,8 +15,10 @@ nav:
   - Immigration:
       - New Policy for Work Permit Holder: immigration/newpolicy.md
       - Job Advertisement Prior to LMIA: immigration/jobad.md
+      - Residency Obligation of a PR: immigration/ro.md
+      - How to Count Residency Period: immigration/rc.md
   - About:
-      - Why I Built This Site: index.md
+      - Why this blog: index.md
 
 theme:
   name: material

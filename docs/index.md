@@ -1,16 +1,18 @@
 
-This website is a notebook.
+Greetings, dear readers!
 
-From a legal assistant perspective, I will write down the notes I'm taking from time to time during my work. 
+I extend a warm welcome to you all on my blog!
 
-I don't think there's a high technical barrier between foreign lawyers and the legal practice in Canada, but it takes time to learn all bits of knowledge here and there in this new country and new legal system. 
+In my daily pursuits of work and study, note-taking became a crucial part of my routine. However, finding the right method proved to be quite challenging. I experimented with various note-taking apps, but most of them were either cumbersome to use or came with exorbitant price tags.
 
-In my experience, I'm keeping asking questions with my colleagues, which really helps me a lot. But the disadvantage is also very obvious: it's a old school way of learning with low efficiency. 
+Around a year ago, I stumbled upon a fantastic theme called [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material){:target="_blank"}. Ever since, it has become my go-to tool for organizing my thoughts on a multitude of topics. The focus of this blog revolves around my legal work notes, meticulously compiled and presented here.
 
-By taking notes, I'm trying to reduce the need to ask the same questions more than once, and by putting them online for sharing, I hope on this site, new comers can find most answers to the questions they are going to encounter in their work, saving both a lot of time and becoming handy faster. 
+I have crafted this website with care, aiming for an aesthetic appeal that pleases your eyes and enhances your reading experience. My ultimate reward would be knowing that these notes prove useful to you in your endeavors.
 
+Thank you for visiting, and I hope you find valuable insights within these digital pages.
 
+Best regards, 
 
+![Husky Dog](/assets/img/husky_dog-s.jpg){ align=center }
 
-
-
+Larry
