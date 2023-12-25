@@ -3,6 +3,23 @@ site_url: https://paralegal.netlify.app/
 copyright: Copyright &copy; 2023 Larry
 
 nav:
+  # - Math:
+  - Computer:
+      - Algorithm:
+          - Bubble Sort: Computer/algo/2022-8-30-bubblesort.md
+          - Insert Sort: Computer/algo/2022-8-30-insertionsort.md
+          - Merge Sort: Computer/algo/2022-9-01-mergesort.md
+          - Quick Sort: Computer/algo/2022-9-01-quicksort.md
+          - Bucket Sort: Computer/algo/2022-12-9-bucketSort.md
+          - Counting Sort: Computer/algo/2022-12-9-countingSort.md
+          - Radix Sort: Computer/algo/2022-12-9-radixSort.md
+          - Select Sort: Computer/algo/2022-12-9-selectSort.md
+          - Heap Sort: Computer/algo/2022-8-31-heapsort.md
+          - Binary Search: Computer/algo/2022-8-31-binary-search.md
+          - Recursion Explained: Computer/algo/2022-9-01-recursion.md
+          - Master Theory: Computer/algo/2022-9-02-mastertheorem.md
+          - Pumping Lemma: Computer/algo/2022-9-02-pumpinglemma.md
+          - Stable Marriage: Computer/algo/2022-9-01-stablemarriage.md
   - Laws:
       - Real Estate:
           - Documents for Residential Transactions: realestate/docu-list.md
@@ -18,7 +35,7 @@ nav:
       - Job Advertisement Prior to LMIA: immigration/jobad.md
       - Residency Obligation of a PR: immigration/ro.md
       - How to Count Residency Period: immigration/rc.md
-  - Tax and Accounting:
+  - Finance:
       - Few Things to Know as New Immigrants: tax/fewthings.md
   - Blog:
       - blog/index.md
