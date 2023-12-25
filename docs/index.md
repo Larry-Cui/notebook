@@ -1,18 +1,13 @@
+# Why you can find this website?
 
-Greetings, dear readers!
+After tons of trial and error, I finally pick this python based theme - [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material){:target="_blank"} as my personal static website template.
 
-I extend a warm welcome to you all on my blog!
+I'm writing all articles/posts from scratch, not aiming to appeal any readers, but as a way to take notes of my ideas, my feeling and my mood. 
 
-In my daily pursuits of work and study, note-taking became a crucial part of my routine. However, finding the right method proved to be quite challenging. I experimented with various note-taking apps, but most of them were either cumbersome to use or came with exorbitant price tags.
+If you happen to come across this site, I hope you find it useful, or maybe have some reverberation with your heart somewhere inside. 
 
-Around a year ago, I stumbled upon a fantastic theme called [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material){:target="_blank"}. Ever since, it has become my go-to tool for organizing my thoughts on a multitude of topics. The focus of this blog revolves around my legal work notes, meticulously compiled and presented here.
+But if you don't like it? Okay, I don't care, as this site is my personal playground, it's not supposed to be for anyone else, including you. 
 
-I have crafted this website with care, aiming for an aesthetic appeal that pleases your eyes and enhances your reading experience. My ultimate reward would be knowing that these notes prove useful to you in your endeavors.
-
-Thank you for visiting, and I hope you find valuable insights within these digital pages.
-
-Best regards, 
-
-![Husky Dog](/assets/img/husky_dog-s.jpg){ align=center }
+In case I don't see ya, good afternoon, good evening, and good night!
 
 Larry

@@ -12,7 +12,11 @@ For example, if someone is considered a deemed resident in Canada and has busine
 
 The 183-day rule applies to anyone who spends more than half of the year, or 183 days, in Canada. At that point they become a deemed resident. 
 
-<div class="highlight">But someone who remains in Canada for less than 183 days may also become a deemed resident if other factors come into play, such as owning Canadian assets, like real estate, or having a spouse or other dependents in the country. </div>
+{==
+
+But someone who remains in Canada for less than 183 days may also become a deemed resident if other factors come into play, such as owning Canadian assets, like real estate, or having a spouse or other dependents in the country. 
+
+==}
 
 
 ## Capital Gains and Dividends
@@ -30,20 +34,11 @@ It's a misconception that they will be taxed on the assets on their arrival if n
 
 When you declare your foreign assets, you’re basically telling the Canadian government that you’ve acquired these foreign assets prior to your becoming a tax resident. This allows the government to establish a cost basis for the asset at the time of the move,
 
-<div class="highlight">meaning taxes will only be levied for any appreciation following arrival in Canada. </div>
+{==
+
+meaning taxes will only be levied for any appreciation following arrival in Canada. 
+
+==}
 
 Not fully disclosing assets can result in fines from the Canadian Revenue Agency (CRA), and could also result in the CRA treating an asset as if it was acquired while in Canada, which could trigger additional taxes or an audit.
 
-
-
-
-
-<style>
-  .highlight {
-	background: #fff6ee55;
-	border-left: 4px solid #efc6a1;
-	border-radius: 4px;
-  padding: 5px 10px;
-
-}
-</style>

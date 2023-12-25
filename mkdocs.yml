@@ -23,7 +23,7 @@ nav:
   - Blog:
       - blog/index.md
   - About:
-      - Why this blog: index.md
+      - The Purpose of this Website: index.md
 
 theme:
   name: material
@@ -100,6 +100,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - attr_list
   - tables
   - footnotes
