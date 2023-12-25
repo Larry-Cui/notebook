@@ -1,18 +1,17 @@
-site_name: Notes Getting Longer
+site_name: Study Notes of a Legal Assistant
 site_url: https://paralegal.netlify.app/
-copyright: Copyright &copy; 2023 Larry
+copyright: Copyright &copy; 2023 Larry Cui
 
 nav:
-  - Laws:
-      - Real Estate:
-          - Documents for Residential Transactions: realestate/docu-list.md
-      - Corporate:
-          - Prepare Initial Minute Book: corporate/minbook.md
-          - Minute Book of Share Transfer: corporate/minbook-2.md
-          - Types of Business Structure: corporate/types.md
-      - Family Law:
-          - Family Property: family/property.md
-          - Gift or Loan: family/giftorloan.md
+  - Real Estate:
+      - Documents for Residential Transactions: realestate/docu-list.md
+  - Corporate:
+      - Prepare Initial Minute Book: corporate/minbook.md
+      - Minute Book of Share Transfer: corporate/minbook-2.md
+      - Types of Business Structure: corporate/types.md
+  - Family Law:
+      - Family Property: family/property.md
+      - Gift or Loan: family/giftorloan.md
   - Immigration:
       - New Policy for Work Permit Holder: immigration/newpolicy.md
       - Job Advertisement Prior to LMIA: immigration/jobad.md
@@ -20,10 +19,9 @@ nav:
       - How to Count Residency Period: immigration/rc.md
   - Tax and Accounting:
       - Few Things to Know as New Immigrants: tax/fewthings.md
-  - Blog:
-      - blog/index.md
   - About:
       - Why this blog: index.md
+  - Blog: blog/index.md
 
 theme:
   name: material
@@ -31,18 +29,18 @@ theme:
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      scheme: larry-blue
-      primary: custom
-      accent: custom
+      # scheme: slate
+      primary: brown
+      accent: deep orange
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: larry-blue
-      primary: custom
-      accent: custom
+      scheme: default
+      primary: brown
+      accent: deep orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -50,22 +48,26 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: custom
-      accent: custom
+      primary: brown
+      accent: deep orange
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
 
-  # language: zh
+  language: en
 
-  logo: assets/img/hkadd.jpeg
+  logo: assets/img/profile.png
   favicon: assets/img/book-real.png
 
+  icon:
+    annotation: material/plus-circle
+
   features:
-    # - navigation.sections
-    - navigation.tabs
     - navigation.instant # without fully reloading the page, fast loading function
     - navigation.tracking
+    - navigation.tabs #top-level sections are rendered in a menu layer below the header
+    # - navigation.tabs.sticky
+    # - navigation.sections
     - navigation.path
     # - navigation.indexes ##enable it if you have an introduction to top level
     - navigation.top
@@ -79,10 +81,10 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/
+    - icon: fontawesome/brands/twitter
+      link: https://github.com/@
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/
+      link: https://facebook.com/@
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/@
     - icon: fontawesome/solid/paper-plane
@@ -90,11 +92,9 @@ extra:
   generator: false
 
 plugins:
-  - blog:
-      draft_on_serve: false
-      post_date_format: full
   - search
   - tags
+  - blog
 
 markdown_extensions:
   - admonition
@@ -112,20 +112,18 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra_css:
   - assets/css/styled-table.css
-  # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
-  # - assets/css/coverpic.css
-  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
-  - assets/css/icon.css
-  - assets/css/extra.css
 
 extra_javascript:
   - assets/js/mathjax.js
-  # - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-# - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
-
