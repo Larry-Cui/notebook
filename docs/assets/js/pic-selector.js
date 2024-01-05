@@ -22,4 +22,4 @@ pics.forEach((element) => {
 // element.classList.contains(class);
 
 // console.log(isLight);
-// console.log(pics);
+// console.log("beautiful!");
