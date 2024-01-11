@@ -25,7 +25,7 @@ The change of the ends occurs in the following situations.
 
 - [x] After the end of the 1st game
 - [x] At the end of the second game, if the match continues up to 3rd game
-- [x] In the 3rd game, when the score first reaches 11 points.
+- [x] In the 3rd game, when the score first reaches 11 points
 
 ## Badminton Scoring Rules
 
