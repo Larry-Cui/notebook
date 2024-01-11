@@ -2,7 +2,7 @@
 title: 英文名字的由来
 date: 2022-06-21
 categories: 
-  - English Study
+  - 英文学习
 ---
 
 <img style="display: inline-block; width: 100%; object-fit: cover" src="https://lh3.googleusercontent.com/iBTbUcTVaN_J2ITiQfH5NMra_Y79lrIwCzZbaB9DM5XQCOP0_P-gsU2mBDbMNuhE8VoyZrUL6sa5Gb6KUmtPgHCiAbVF4z-QJ3bx1YNr0jXfJtuWz_MXh8EtL3NrZ7qZNYIYO2mUxw=w2400" alt="RAZ-kids"/>
