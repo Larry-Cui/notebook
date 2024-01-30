@@ -1,8 +1,9 @@
 ---
 title: 小学毕业了
 date: 2022-06-23
-categories: 
+categories:
   - 只道是平常
+draft: true
 ---
 
 <img style="display: inline-block; width: 100%; object-fit: cover" src="https://lh3.googleusercontent.com/JJbKENDj4AsGLISu0cemLu3GMFD6nqEDaJJiSlv1zc1Q_ah-ysm8jYKmF7wcbB8siROxtrL3pp6hGpwddzH-xo-A2IDqvoN5FH4dVsUwfFt4rFScWAjWm-CWPzi0QsmlqTvGHPFikw=w2400" alt="CAIS"/>
