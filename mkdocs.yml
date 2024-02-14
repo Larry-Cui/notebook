@@ -3,7 +3,9 @@ site_url: https://paralegal.netlify.app/
 copyright: Copyright &copy; 2023 Larry
 
 nav:
-  # - Math:
+  - Math:
+      - Math123: math/math123/math123.md
+      - Fun Math: math/Fun_Questions/2022-10-04-compareNum.md
   - Computer:
       - Algorithm:
           - Bubble Sort: Computer/algo/2022-8-30-bubblesort.md
