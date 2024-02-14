@@ -20,6 +20,17 @@ nav:
           - Master Theory: Computer/algo/2022-9-02-mastertheorem.md
           - Pumping Lemma: Computer/algo/2022-9-02-pumpinglemma.md
           - Stable Marriage: Computer/algo/2022-9-01-stablemarriage.md
+      - Html & CSS:
+          - Embed Youtube Video: Computer/htmlCss/2022-8-19-video.md
+          - Google Files Link: Computer/htmlCss/2022-8-25-googlefiles.md
+      - Javascript:
+          - Takeaways from Project EE: Computer/JavaScript/takeawayEE.md
+      - p5js:
+          - Basics of Matter.js: Computer/p5js/2023-7-9-basics-of-matter.md
+      - Python:
+          - Set up Environment: Computer/Python/2023-4-22-venv.md
+      - Others:
+          - Docker and Jekyll: Computer/Others/2023-6-14-get-jekyll-running-locally.md
   - Laws:
       - Real Estate:
           - Documents for Residential Transactions: realestate/docu-list.md

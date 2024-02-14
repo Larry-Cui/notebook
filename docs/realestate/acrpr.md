@@ -1,3 +1,12 @@
+---
+layout: post
+title: Air Conditioner Permit Issue of RPR in Calgary
+date: 2024-2-12
+categories: Eng
+tags:
+  - Real Estate
+---
+
 # Air Conditioner Permit Issue of RPR in Calgary
 
 ## Background
