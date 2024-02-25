@@ -9,7 +9,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/larrycui/Library/Mobile Documents/com~apple~CloudDocs/Blog/paralegal/mini2012"
+setenv VIRTUAL_ENV "/Users/larrycui/Library/Mobile Documents/com~apple~CloudDocs/Blog/notebook/mini2012"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

@@ -7,8 +7,8 @@ tags:
   - Math123
 ---
 
-# A List of Basics of Math
+# A List of Basic Math
 
-### The Definition of Natural e as A Sum of Binomial
+- [The Definition of Natural e as A Sum of Binomial](https://drive.google.com/file/d/12GLtyGXjpRNgDbHRXfc-zRNRHy5ODCsg/view?usp=sharing){:target="\_blank"}
 
-For a binomial of $(1+ 1/n)^n$, when $n$ goes to infinity, we conclude that the sum of the binomial approaches natural number $e$. Click [here](https://drive.google.com/file/d/12GLtyGXjpRNgDbHRXfc-zRNRHy5ODCsg/view?usp=sharing){:target="\_blank"} to Read more.
+- [The Basic of Number Theory](/math/math123/2022-9-03-number){:target="\_blank"}

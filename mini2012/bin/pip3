@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/larrycui/Library/Mobile Documents/com~apple~CloudDocs/Blog/paralegal/mini2012/bin/python3.12" "$0" "$@"
+'''exec' "/Users/larrycui/Library/Mobile Documents/com~apple~CloudDocs/Blog/notebook/mini2012/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
