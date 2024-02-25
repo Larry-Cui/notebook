@@ -40,3 +40,5 @@ tags:
     - At the mine’s entrance, the old burro was tied to a rock. The **tattered rope** was fastened around her neck by just **one loose knot**.
     - Billy **cringed**, “Be quiet, you guys!” he screamed down the tunnel. “He could hear you!”
     - “Jacob! Billy! Heather!” Mr. Martinez said in an **exasperated `[ig-zes-per-rated]`** tone. “I’m trying to teach class here. What should I do with you three?”
+
+???+ quote "2. Adventure on the Amazon River"
