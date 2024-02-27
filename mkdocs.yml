@@ -52,8 +52,10 @@ nav:
       - Job Advertisement Prior to LMIA: immigration/jobad.md
       - Residency Obligation of a PR: immigration/ro.md
       - How to Count Residency Period: immigration/rc.md
-  - Finance:
+  - Taxes:
       - Few Things to Know as New Immigrants: tax/fewthings.md
+      - Tax Brackets: tax/2024-02-26-taxBrackets.md
+      - Non-resident Tax of Property Sale: tax/2024-02-26-nonResidentTax.md
   - Blog:
       - blog/index.md
   - About:
