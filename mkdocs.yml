@@ -7,21 +7,21 @@ nav:
       - Math123: math/math123/math123.md
       - Fun Math: math/Fun_Questions/2022-10-04-compareNum.md
   - Computer:
-      - Algorithm:
-          - Bubble Sort: Computer/algo/2022-8-30-bubblesort.md
-          - Insert Sort: Computer/algo/2022-8-30-insertionsort.md
-          - Merge Sort: Computer/algo/2022-9-01-mergesort.md
-          - Quick Sort: Computer/algo/2022-9-01-quicksort.md
-          - Bucket Sort: Computer/algo/2022-12-9-bucketSort.md
-          - Counting Sort: Computer/algo/2022-12-9-countingSort.md
-          - Radix Sort: Computer/algo/2022-12-9-radixSort.md
-          - Select Sort: Computer/algo/2022-12-9-selectSort.md
-          - Heap Sort: Computer/algo/2022-8-31-heapsort.md
-          - Binary Search: Computer/algo/2022-8-31-binary-search.md
-          - Recursion Explained: Computer/algo/2022-9-01-recursion.md
-          - Master Theory: Computer/algo/2022-9-02-mastertheorem.md
-          - Pumping Lemma: Computer/algo/2022-9-02-pumpinglemma.md
-          - Stable Marriage: Computer/algo/2022-9-01-stablemarriage.md
+      - Algorithm: Computer/algo/index.md
+        # - Bubble Sort: Computer/algo/2022-8-30-bubblesort.md
+        # - Insert Sort: Computer/algo/2022-8-30-insertionsort.md
+        # - Merge Sort: Computer/algo/2022-9-01-mergesort.md
+        # - Quick Sort: Computer/algo/2022-9-01-quicksort.md
+        # - Bucket Sort: Computer/algo/2022-12-9-bucketSort.md
+        # - Counting Sort: Computer/algo/2022-12-9-countingSort.md
+        # - Radix Sort: Computer/algo/2022-12-9-radixSort.md
+        # - Select Sort: Computer/algo/2022-12-9-selectSort.md
+        # - Heap Sort: Computer/algo/2022-8-31-heapsort.md
+        # - Binary Search: Computer/algo/2022-8-31-binary-search.md
+        # - Recursion Explained: Computer/algo/2022-9-01-recursion.md
+        # - Master Theory: Computer/algo/2022-9-02-mastertheorem.md
+        # - Pumping Lemma: Computer/algo/2022-9-02-pumpinglemma.md
+        # - Stable Marriage: Computer/algo/2022-9-01-stablemarriage.md
       - Html & CSS:
           - Embed Youtube Video: Computer/htmlCss/2022-8-19-video.md
           - Google Files Link: Computer/htmlCss/2022-8-25-googlefiles.md
