@@ -29,6 +29,7 @@ nav:
           - Takeaways from Project EE: Computer/JavaScript/takeawayEE.md
       - p5js:
           - Basics of Matter.js: Computer/p5js/2023-7-9-basics-of-matter.md
+          - Apollonian Gasket: Computer/p5js/2024-04-21-apollonianGasket.md
       - Python:
           - Set up Environment: Computer/Python/2023-4-22-venv.md
       - Others:
