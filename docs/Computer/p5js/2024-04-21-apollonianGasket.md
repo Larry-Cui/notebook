@@ -63,7 +63,7 @@ k_1^2z_1^2 + k_2^2z_2^2 + k_3^2z_3^2 + k_4^2z_4^2 = \frac{1}{2} \left(k_1z_1 + k
 ### Finding Coordinates of the Center of the 4th Circle
 
 \begin{equation}
-z_4 = \frac{k_1z_1 + k_2z_2 + k_3z_3 \pm 2 \sqrt{k_1k_2z_1z_2 + k_1k_3z_1z_3 + k_2k_3z_2z_3}}{k_4}
+z_4 = \frac{k_1z_1 + k_2z_2 + k_3z_3 \pm 2 \sqrt{k_1k_2z_1z_2 + k_1k_3z_1z_3 + k_2k_3z_2z_3}}{k_4} \tag{4}
 \end{equation}
 
 Same as curvature, we have two options for the center of the fourth circle.
@@ -94,3 +94,122 @@ We need to understand the complex number operations[^1] to apply the above formu
 ### Proof of Complex Descartes' theorem
 
 ["Beyond the Descartes Circle Theorem"](https://arxiv.org/pdf/math/0101066.pdf){:target="\_blank"} may provide a proof to this Complex theorem, or at least point to the right direction of the proof, though I've been having a hard time to follow its reasoning. I feel reassured when I came across [a post by a math professor](https://mathlesstraveled.com/2016/06/10/apollonian-gaskets-and-descartes-theorem-ii/){:target="\_blank"} who admitted he couldn't understand the proof either.
+
+## Coding Knacks
+
+### Operations can be applied continuously
+
+We not only need a vector-like function to annotate complex number, but want the function to handle calculation operations on the complex numbers continuously, like `complexA.add(complexB).sub(complexC)`.
+
+For this purpose, we need the operation return a new complex number every time it runs an operation. Here is the code snippets:
+
+```js
+class Complex {
+	constructor(x, y) {
+		this.x = x;
+		this.y = y;
+	}
+
+	add(c2) {
+		const a = this.x + c2.x;
+		const b = this.y + c2.y;
+		return new Complex(a, b);
+	}
+
+	minus(c2) {
+		const a = this.x - c2.x;
+		const b = this.y - c2.y;
+		return new Complex(a, b);
+	}
+
+	scale(value) {
+		const a = this.x * value;
+		const b = this.y * value;
+		return new Complex(a, b);
+	}
+
+	mult(c2) {
+		const a = this.x * c2.x - this.y * c2.y;
+		const b = this.x * c2.y + this.y * c2.x;
+		return new Complex(a, b);
+	}
+}
+```
+
+### Difference between `Math.atan()` and `Math.atan2()`
+
+We already know how to find the square root of a complex number from math perspective. But when it comes to coding, it will be very wrong if we use `Math.atan()`, because the result this method returns is quite different from what you will expect.
+
+In most cases, we need to use method `Math.atan2()`. Please refer to [this article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2){:target="\_blank"} for the connection and difference of these two methods.
+
+Now we can write the last operation `sqrt` for the complex number class:
+
+```js
+sqrt() {
+  const r = Math.sqrt(this.x * this.x + this.y * this.y);
+
+  // Math.atan2(y,x) is key to correct result
+  const theta = Math.atan2(this.y, this.x);
+
+  const a = Math.sqrt(r) * Math.cos(theta / 2);
+  const b = Math.sqrt(r) * Math.sin(theta / 2);
+
+  return new Complex(a, b);
+}
+```
+
+### Hash table for redundancy check
+
+The idea for coding an Apollonian gasket is quite simple and straight forward: we use the formulas to calculate the curvature and center position of each circle, push it to an circles array, and draw them one by one on the canvas.
+
+There's one catch however.
+
+As we will iterate all combinations of existing circles, there must be some duplicates, and if we push all calculated circles to the array, the calculation will go on infinitely and the array is doomed to overflow in the end.
+
+To check for duplicity, the easiest way is to iterate every value in the array, but this method is costly in terms of time complexity ($n$). A better approach is use a hash table.
+
+I mapped every circle in the array to a hash table, which is essentially another array, but with a length of the width of the maximum diameter of the circles. I used the x component of circle center as the array index (from how way the circles are created, the spread of x component is exactly same as the maximum diameter) and put the corresponding circle to that position in the hash table array. If two circles have the same x component of the center, they are saved as a sub-array under that index. In the end, we created a 2D hash table array.
+
+Here's the code snippets for hash table.
+
+```js
+// create a hash table
+let hashTable = new Array(canvasWidth);
+for (let i = 0; i < hashTable.length; i++) {
+	hashTable[i] = new Array();
+}
+
+// map value to hash table
+function mappingToHashTable(circle) {
+	const circleIndex = Math.floor(circle.center.x + canvasWidth / 2);
+	hashTable[circleIndex].push(circle);
+}
+
+// check redundancy
+function isDuplicated(circle) {
+	const circleIndex = Math.floor(circle.center.x + canvasWidth / 2);
+
+	// if the calculated circle is out of bound
+	// regarded as redundancy
+	if (circleIndex < 0 || circleIndex > canvasWidth - 1) return true;
+
+	// if x-bucket in hastTable is empty, no redundancy
+	if (hashTable[circleIndex].length == 0) return false;
+
+	// if x-bucket is not empty, iterate to check redundancy
+	for (let i = 0; i < hashTable[circleIndex].length; i++) {
+		const yDiff = Math.abs(
+			circle.center.y - hashTable[circleIndex][i].center.y
+		);
+		if (yDiff < epsilon) return true;
+	}
+
+	// when the program runs down to this point
+	// we are sure it isn't redundant
+	return false;
+}
+```
+
+The time complexity for hash table check is still $n$ in worst scenario, but on average it's just $1$.
+
+Here is the [full length code](https://drive.google.com/file/d/1tes6N1QT8YMBIgfpU5XPwsmppEs1pVqV/view?usp=sharing){:target="\_blank"} of this project.
