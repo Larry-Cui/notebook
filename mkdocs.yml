@@ -30,6 +30,7 @@ nav:
       - p5js:
           - Basics of Matter.js: Computer/p5js/2023-7-9-basics-of-matter.md
           - Apollonian Gasket: Computer/p5js/2024-04-21-apollonianGasket.md
+          - Vera Molnar's (Des)ordres: Computer/p5js/2024-04-21-Squares.md
       - Python:
           - Set up Environment: Computer/Python/2023-4-22-venv.md
       - Others:
