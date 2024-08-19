@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/mac2015/Library/Mobile Documents/com~apple~CloudDocs/Blog/paralegal/pro15"
+VIRTUAL_ENV="/Users/mac2015/Library/Mobile Documents/com~apple~CloudDocs/Blog/notebook/pro15"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -36,6 +36,7 @@ nav:
       - Others:
           - Docker and Jekyll: Computer/Others/2023-6-14-get-jekyll-running-locally.md
   - Laws:
+      - Path Toward Practice in Canada: articles/2024-08-18-NCA.md
       - Real Estate:
           - Documents for Residential Transactions: realestate/docu-list.md
           - Air Conditioning Unit On RPR: realestate/acrpr.md
@@ -51,7 +52,7 @@ nav:
           - Gift or Loan: family/giftorloan.md
   - Immigration:
       - ICL:
-          - 810: index.md
+          - ICL810: immigration/rc.md
       - Articles:
           - New Policy for Work Permit Holder: immigration/newpolicy.md
           - Job Advertisement Prior to LMIA: immigration/jobad.md
@@ -166,6 +167,7 @@ extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
   - assets/css/icon.css
   - assets/css/extra.css
+  - assets/css/other.css
 
 extra_javascript:
   - assets/js/mathjax.js
