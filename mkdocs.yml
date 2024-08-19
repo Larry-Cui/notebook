@@ -50,10 +50,13 @@ nav:
           - Family Property: family/property.md
           - Gift or Loan: family/giftorloan.md
   - Immigration:
-      - New Policy for Work Permit Holder: immigration/newpolicy.md
-      - Job Advertisement Prior to LMIA: immigration/jobad.md
-      - Residency Obligation of a PR: immigration/ro.md
-      - How to Count Residency Period: immigration/rc.md
+      - ICL:
+          - 810: index.md
+      - Articles:
+          - New Policy for Work Permit Holder: immigration/newpolicy.md
+          - Job Advertisement Prior to LMIA: immigration/jobad.md
+          - Residency Obligation of a PR: immigration/ro.md
+          - How to Count Residency Period: immigration/rc.md
   - Taxes:
       - Few Things to Know as New Immigrants: tax/fewthings.md
       - Tax Brackets: tax/2024-02-26-taxBrackets.md
