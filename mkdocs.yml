@@ -52,7 +52,8 @@ nav:
           - Gift or Loan: family/giftorloan.md
   - Immigration:
       - ICL:
-          - ICL810: immigration/rc.md
+          - 810:
+              - Syllabus: immigration/810/syllabus.md
       - Articles:
           - New Policy for Work Permit Holder: immigration/newpolicy.md
           - Job Advertisement Prior to LMIA: immigration/jobad.md
