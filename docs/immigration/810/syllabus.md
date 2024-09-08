@@ -90,3 +90,11 @@ We recommend you start with Gerald Graff & Cathy Birkenstein, _They Say / I Say:
 - Chapter 13 - [Don't make them Scroll Up - Online Conversations](https://drive.google.com/file/d/1D6RHdCCwYIJt8rHXPle_MsElnbFUw3S4/view?usp=sharing){:target="\_blank"}
 
 - Chapter 14 - [Reading for the Conversation](https://drive.google.com/file/d/1XzpMkwcZ5sRDlCdN7ewKgJLi2h4QcMJU/view?usp=sharing){:target="\_blank"}
+
+## Knowledge Checks: General Information
+
+To pass Engagement you must complete all Knowledge Checks to a level of **80% or better** with unlimited attempts.
+
+## Reflective Practice Journal
+
+The Reflective Practice Journal is a mandatory Engagement element in ICL 810. You are required to write three entries (200 - 250 words) over the course of your six weeks in ICL 810.
