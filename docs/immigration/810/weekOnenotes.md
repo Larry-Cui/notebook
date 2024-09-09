@@ -89,6 +89,15 @@ tags:
         - their need is acute; and
         - the risks and costs of giving it are relatively low for the other party.
 
+??? note "1.2"
+
+    - Immigration Data Sources: Immigration Levels Plan, Immigration Landing Data, Immigration Database (IMDB), Census
+
+???+ note "1.3"
+
+    - Three domains of **reflective practice**:
+      -
+
 ## Quizzes
 
 ??? note "Quiz: 1.1.1 The Contemporary Global Context"
