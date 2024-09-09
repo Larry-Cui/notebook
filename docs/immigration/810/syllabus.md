@@ -10,9 +10,17 @@ tags:
   - Syllabus
 ---
 
-# ICL 810 – FOUNDATIONS OF CANADIAN IMMIGRATION LAW
+# ICL 810 – FOUNDATIONS OF CANADIAN IMMIGRATION LAW [^1]
 
-<p class="highlight red">Sharry Aiken, Christa Bracci, Chantal Desloges and Cathryn Sawicki developed the original version of this course in 2020. Revisions were completed by Sharry Aiken, Christa Bracci and Harini Sivalingam in 2021; and by Sharry Aiken and Christa Bracci in 2023. Queen's University holds a license for the use of the Course Authors' intellectual property for the use of ICL 810.</p>
+## Land Acknowledgement
+
+<p class="highlight red">
+
+<b>Treaty 7 Territory Land Acknowledgements</b>
+<br>
+In the spirit of reconciliation, we acknowledge that we live, work and play on the traditional territories of the <b>Blackfoot Confederacy</b> (Siksika, Kainai, Piikani), <b>the Tsuut’ina</b> [Too-tina], <b>the îethka Nakoda</b> [*ee-eth-ga na-koda*] <b>Nations</b> (Chiniki, Bearspaw, Goodstoney), <b>the Otipemisiwak Métis</b> [o(dd)-ti-pemisi-wa may-tee] Government (Districts 5 and 6), and all people who make their homes in the Treaty 7 region of Southern Alberta.</p>
+
+[^1]: **Sharry Aiken**, **Christa Bracci**, **Chantal Desloges** and **Cathryn Sawicki** developed the original version of this course in 2020. Revisions were completed by **Sharry Aiken**, **Christa Bracci** and **Harini Sivalingam** in 2021; and by **Sharry Aiken** and **Christa Bracci** in 2023. Queen's University holds a license for the use of the Course Authors' intellectual property for the use of ICL 810.
 
 <!-- <a href="https://lh3.googleusercontent.com/pw/AP1GczNlPL2XU73ZrmLzVMPRzEBSOkONXic3ozpfB5HllVlxptDJDjXRKFh0o2iBsxRSfXRhP6BcH61XUeXrWKBpSZ354Hclhwt03wQfmXcBjpAHqouNSyo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczNlPL2XU73ZrmLzVMPRzEBSOkONXic3ozpfB5HllVlxptDJDjXRKFh0o2iBsxRSfXRhP6BcH61XUeXrWKBpSZ354Hclhwt03wQfmXcBjpAHqouNSyo=w600-h315-p-k" style="width: 100%"/> </a> -->
 

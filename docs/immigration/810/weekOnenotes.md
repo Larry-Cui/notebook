@@ -427,7 +427,7 @@ tags:
 
 <!-- ------------This is a separator between quizzes-------------- -->
 
-???+ note "Quiz: 1.1.5 Philosophical Debates on Migration and the Regulation of Borders"
+??? note "Quiz: 1.1.5 Philosophical Debates on Migration and the Regulation of Borders"
 
     1. True or false: Joseph H Carens acknowledges that his argument for open borders comes from the liberal tradition and he does not believe that it applies to cultures and nations who reject liberalism.
           - [ ] True
