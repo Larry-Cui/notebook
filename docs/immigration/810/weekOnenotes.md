@@ -93,10 +93,9 @@ tags:
 
     - Immigration Data Sources: Immigration Levels Plan, Immigration Landing Data, Immigration Database (IMDB), Census
 
-???+ note "1.3"
+??? note "1.3"
 
     - Three domains of **reflective practice**:
-      -
 
 ## Quizzes
 
@@ -535,3 +534,330 @@ tags:
           - [x] True
           - [ ] False
     <br>**True: See page 124. “I think these recent developments [e.g., Civil Rights Movement…] reflect something fundamental about the inner logic of liberalism. The extension of the right to immigrate reflects the same logic: equal treatment of individuals in the public sphere.”**
+
+<!-- ------------This is a separator between quizzes-------------- -->
+
+??? note "Quiz: 1.2.1 The Canadian Legal System"
+
+      1. True or false: Codification is the process by which statute laws are included in common law with little or no change.
+         - [ ] True
+         - [x] False
+      <br>**Codification is the process by which common law rules are included in statutes with little or no change.**
+
+      2. The three branches of the Canadian government are:
+         - [x] The legislative, the executive, and the judicial.
+         - [ ] Federal government, provincial governments/ territorial councils, and municipal governments.
+         - [ ] Cabinet, the department/ministry, and the courts
+         - [ ] Federal Parliament, provincial legislature/ legislative assembly, and the municipal council.
+
+      3. Which of the following refers to the part of a law that is concerned with the legal issue that the law is designed to address?
+         - [ ] Procedural law
+         - [x] Substantive law
+         - [ ] Commong law
+         - [ ] Case law
+
+      4. If a person is successful in arguing his s. 7 Charter rights have been infringed, what will the outcome be?
+         - [ ] The government will have to pay costs
+         - [x] If the government cannot justify the infringement, the law will not be binding on the person whose right or freedom it infringes
+         - [ ] If the government cannot justify the infringement, the law will not be binding on any person and must be rewritten
+         - [ ] If the government can justify the extent to which the law infringes a right or freedom guaranteed by the Charter, the courts will consider the law to be valid
+
+      5. When common law rules are included in statutes with little or no changes, the process is referred to as:
+         - [x] Codification
+         - [ ] Substantive law
+         - [ ] *Stare Dicisis*
+         - [ ] Statute law
+
+      6. Which of the following is **not** a municipal law-making power?
+         - [ ] Zoning
+         - [ ] Licensing local businesses
+         - [ ] The operation of schools and libraries
+         - [x] The creation of roads
+
+      7. True or false: the three levels of government (federal, provincial/territorial and municipal) are established by the Constitution.
+         - [ ] True
+         - [x] False
+      <br>**Municipal and territorial governments have no constitutional status. Their powers are granted by federal and provincial statute.**
+
+      8. Which of the following is a law enacted by a municipality under the authority of a statute?
+         - [ ] Procedural law
+         - [x] By-law
+         - [ ] Regulationn
+         - [ ] Common law
+
+      9. The Canadian law that sets out a list of fundamental freedoms, democratic or political rights, legal rights, mobility rights, and equality rights is called the:
+         - [x] Canadian Charter of Rights and Freedoms
+         - [ ] Statutory Powers Procedure Act
+         - [ ] Common law
+         - [ ] Constitution Act, 1867
+
+      10. The rule of law is designed to...
+         - [ ] ... prevent tyranny.
+         - [ ] ... avoid the arbitrary application of laws (i.e., ensure that like situations be treated in a similar fashion and different situations be distinguished from each other).
+         - [ ] ...ensure that all law-making is governed by the Constitution.
+         - [x] ...do all of the above.
+
+      11. Federal legislatures pass all of the following, except:
+         - [ ] Statutes
+         - [x] By-laws
+         - [ ] Acts
+         - [ ] Regulations
+
+      12. Which law permits tribunals to make their own rules for the conduct of certain aspects of their proceedings (such as postponement of a hearing, preliminary motions, and pre-hearing conferences)?
+         - [ ] Constitution Act, 1982
+         - [ ] Administrative Procedures and Jurisdiction Act
+         - [ ] Common law
+         - [x] Statutory Powers Procedure Act
+
+      13. Which of the following refers to a committee of members that is also known as the governor in council?
+         - [ ] Parliament
+         - [ ] Legislature
+         - [x] Cabinet
+         - [ ] Senate
+
+      14. Once a court has established the principles that should apply to a particular type of situation, all courts that are lower than that court in the judicial hierarchy must apply those principles when deciding cases similar to the one in which the principles were established. This principle is called:
+         - [ ] Common law
+         - [ ] Statute law
+         - [ ] Public law
+         - [x] *Stare decisis*
+
+      15. True or False: Laws fall into one of the following four mutually exclusive pairs:
+         - Common law and statute law
+         - Public law and private law
+         - Statutes and subordinate legislation
+         - Substantive law and procedural law
+         - [ ] True
+         - [x] False
+
+      16. True or false: private laws are enforced by the people who are affected/aggrieved, not by the police or government agencies.
+         - [x] True
+         - [ ] False
+      <br>**Although the government establishes laws that govern private relationships, it’s not in the public’s interest to provide prosecutors. The aggrieved person needs to hire a lawyer at their own expense.**
+
+      17. Which of the following is an area of private law?
+         - [ ] Immigration law
+         - [x] Contract law
+         - [ ] Aboriginal law
+         - [ ] Criminal law
+
+      18. Farmer Brown sets up a hog farm in the backyard of his residential home in Toronto. The stench from the pig farm has caused great concern amongst residents in the area. What type of remedy can they seek in court to stop the nuisance?
+         - [x] An injunction
+         - [ ] An adjournment
+         - [ ] Punitive damages
+         - [ ] Damages
+
+      19. Which of the following is **not** a branch of government?
+         - [ ] Executive
+         - [ ] Legislative
+         - [ ] Judicial
+         - [x] Agency
+
+      20. In 1938, Lord Wright compared a judge’s use of precedent to rule in common law cases to:
+         - [x] A sailor’s use of the coast to avoid the dangers of the open water
+         - [ ] A teacher’s use of a textbook to provide foreign language instruction
+         - [ ] A tree’s physical characteristics: the roots are the history, the trunk is the law and the branches are the precedents.
+         - [ ] All of the above.
+
+      21. The main functions of the three branches of government are as follows:
+         - [x] The legislative passes laws, the executive enforces laws, and the judiciary interprets laws.
+         - [ ] The legislative passes laws, the executive interprets the laws, and the judiciary enforces the laws.
+         - [ ] The legislative enforces the laws, the executive interprets the laws and the judiciary passes the laws.
+         - [ ] All three branches of government (the legislative, the executive and the judiciary) pass, enforce, and interpret laws in equal measure.
+
+      22. Match the Key Term with the most appropriate definition.
+         - **stare decisis:** A term referring to the principle that courts should decide similar cases in the same way unless there is good reason for them to do otherwise
+         - **Private law:** Law that governs the conduct of persons other than government.
+         - **Statute Law:** Generally, the body of laws passed by an assembly of elected representatives of the public
+         - **Common law:** A body of law set out in court decisions
+         - **Rule of Law:** The principle that governments, as well as individuals and corporations, must follow the law.
+         - **Case Law:** Decisions of courts, tribunals and other forms of legal decision makers.
+
+      23. Which of the following describes one important way laws differ from other rules or customs?
+         - [ ] Laws are written down; other rules and customs are less formal.
+         - [x] Compliance with laws is required by a government.
+         - [ ] Laws can be imposed through social pressure.
+         - [ ] Breaking rules or customs rarely leads to penalties.
+
+      24. Where are municipal by-laws passed?
+         - [ ] Parliament
+         - [ ] Provincial legislature
+         - [ ] Senate
+         - [x] Municipal council
+
+      25. Which of the following is **not** a federal law-making power?
+         - [ ] Foreign relations
+         - [ ] National defence
+         - [x] Land-use planning
+         - [ ] Criminal activity
+
+      26. Which of the following purposes is **not** generally associated with a constitution?
+         - [ ] Governs the validity of all other laws
+         - [ ] Establishes the basic institutions of government
+         - [ ] Reflects some of the fundamental values of society
+         - [x] Collects and organizes statutes (or acts) from different levels of government
+
+      27. Which of the following refers to a unit of the executive branch of government that is usually established to administer a specific set of laws and programs relating to a particular subject area?
+         - [ ] A cabinet
+         - [ ] Parliament
+         - [ ] The legislature assembly
+         - [x] a ministry
+
+      28. What document(s) describe(s) the federal and provincial levels of government and their powers?
+         - [x] The Constitution Act, 1867
+         - [ ] The Canadian Charter of Rights and Freedoms, 1982
+         - [ ] The Civil Code, 1991
+         - [ ] All of the above.
+
+      29. Which of the following is not a provincial law-making power?
+         - [ ] The regulation of professions
+         - [ ] The creation of the structure of municipal government
+         - [x] The operation of schools and libraries
+         - [ ] Land-use planning
+
+      30. A sum of money awarded by court as compensation for harm or loss caused by a violation of the law is also known as:
+         - [ ] Rectification
+         - [x] Damages
+         - [ ] an injunction
+         - [ ] specific performance
+
+      31. Public law includes:
+         - [ ] Criminal law, constitutional law, administrative law and treaties made under international law
+         - [ ] Regulations for all three branches of government at each level of government
+         - [ ] Regulations for the relationships between an individual/private organization and the government
+         - [x] All of the above
+
+      32. The difference between substantive and procedural laws is:
+         - [ ] Substantive laws may be applied retroactively.
+         - [ ] Officials have more flexibility and leeway applying substantive laws than procedural laws.
+         - [x] Substantive laws deal with the substance of a problem or legal issue, while procedural laws set out the procedures for implementing substantive law.
+         - [ ] All of the above
+
+      33. True or False: the Constitution of Canada is also called the Canadian Charter of Rights and Freedoms.
+         - [x] True
+         - [ ] False
+      <br>**The Constitution has two parts, one of which is called the Canadian Charter of Rights and Freedoms. The other part is the division of powers.**
+
+      34. A driver carelessly injures a pedestrian. Under the common tort of negligence, what type of remedy can the plaintiff seek in court?
+         - [ ] An adjournment
+         - [ ] Contempt of court
+         - [ ] An injunction
+         - [x] Damages
+
+      35. When implementing laws that infringe on a person’s constitutional rights, the government has to weigh the law’s benefit to the community against its drawbacks to the individual. Which of the following cases demonstrate/s the tension between individual rights and social goods?
+         - [ ] I want my children to go to school in English, but Quebec law requires them to attend a French-speaking school.
+         - [ ] I want to smoke in a bar, but provincial laws prohibit it.
+         - [ ] I don’t want to wear a motorcycle helmet because helmets require me to remove my religious head covering. Provincial laws require them but grant me an exemption.
+         - [x] All of the above
+
+<!-- ------------This is a separator between quizzes-------------- -->
+
+??? note "Quiz: 1.2.2 Decision-Makers: Key Actors & Institutions"
+
+      1. True or false: Members of the Immigration and Refugee Board of Canada (IRB) are bound by the same legal and technical rules of evidence as the Federal Courts.
+         - [ ] True
+         - [x] False
+      <br>**Members of the Immigration and Refugee Board of Canada [IRB] "may receive and base their decisions on any evidence they consider credible and trustworthy." See: Desloges and Sawicki, Chapter 2, s. V.**
+
+      2. Which of the following is **NOT** a power of the Immigration and Refugee Board's Chairperson?
+         - [ ] Assign decision-makers to the Immigration Appeals Division (IAD) or the Refugee Appeals Division (RAD)
+         - [x] Assign decision-makers to the Immigration Division (ID) and the Refugee Protection Division (RPD)
+         - [ ] Make the rules of practice and procedure for the tribunal
+         - [ ] Supervise and direct the work of the Board
+      <br>**"Decision-makers of both the ID and the RPD are public servants. Public servant decision-makers apply for their positions under the federal government's merit-based process and, if qualified, are appointed in accordance with the Public Service Employment Act." See: Desloges and Sawicki, Chapter 2, s. IV.**
+
+      3. Who are the ultimate decision-making authorities in the realm of immigration and citizenship law in Canada?
+         - [x] the Federal Court, the Federal Court of Appeal, and the Supreme Court of Canada
+         - [ ] the Immigration and Refugee Board (IRB)
+         - [ ] Immigration, Refugees and Citizenship Canada (IRCC)
+         - [ ] the ministers responsible for the Immigration and Refugee Protection Act (IRPA)
+      <br>**Desloges & Sawicki, Chapter 1, s. 1, in which you will find the following quotation from the Immigration and Refugee Protection Act (IRPA): "Judicial review by the Federal Court with respect to any matter—a decision, determination or order made, a measure taken or a question raised—under this Act [the IRPA] is, subject to section 86.1, commenced by making an application for leave to the Court."**
+
+      4. According to “An Introduction to Canada’s Refugee Determination System,” refugees are allowed to make their claims:
+         - [ ] At a Port of Entry with officers of the Canada Border Services Agency (CBSA)
+         - [ ] Within Canada to an officer of Immigration, Refugees and Citizenship Canada (IRCC)
+         - [ ] Within Canada to an office of the Canada Border Services Agency (CBSA)
+         - [x] All of the above
+
+      5. Sections 24 and 25 of the Immigration and Refugee Protection Act (IRPA), allow the minister of immigration, refugees, and citizenship to be able to consider the following actions…
+         - [ ] …grant permanent resident status to foreign nationals after 3 years (without any breaks) on a TRP (s 24).
+         - [ ] …grant temporary resident status to foreign nationals on discretionary or humanitarian and compassionate grounds.
+         - [ ] …allow foreign artists with criminal backgrounds to enter Canada for concerts.
+         - [x] all of the above
+
+      6. Which of the following is **NOT** a power of a regular member (i.e., non-Chairperson) of the Immigration and Refugee Board of Canada (IRB)?
+         - [x] The power to identify a Board decision as a jurisprudential guide
+         - [ ] The power to summoning witnesses and requiring them, on oath or affirmation, to give evidence, orally or in writing, and to produce documents
+         - [ ] The power to determine whether a hearing will be held in public or in private
+         - [ ] The power to determine that the hearing has been abandoned if the individual does not appear for their hearing
+      <br>**The power to identify a Board decision as a jurisprudential guide is reserved for the Chairperson. This power may not be delegated.**
+
+      7. Which of the following best describes how a case proceeds from the Immigration and Refugee Board (IRB) to the Federal Court?
+         - [ ] The Court decides which cases it will take (which is called granting or denying leave). It writes an explanation of its decision, which can be reviewed by the the Federal Court of Appeal.
+         - [x] The Court decides which cases it will take (which is called granting or denying leave). It does not provide reasons for its decision and the decision is not reviewable.
+         - [ ] The IRB decides which cases go to the Court (which is called granting or denying leave). The IRB does not have to provide reasons for its decision and the decision is not reviewable.
+         - [ ] The IRB decides which cases go to the Court (which is called granting or denying leave). It writes an explanation for its decision, which can be reviewed by the IRB.
+
+      8. What's the difference between the operational manuals and the operational bulletins (OBs) that immigration officers use as guidance in applying the Immigration and Refugee Protection Act (IRPA) and Immigration and Refugee Protection Regulations (IRPR)?
+         - [x] Operational manuals are comprehensive manuals, which are divided into different categories (e.g., "Inadmissibility" and "Removals"). The operational bulletins are one-time-only instructions that have not been incorporated into manuals.
+         - [ ] Operational manuals are the printed manuals that the officers work with. Operational bulletins are the electronic versions of the operational manuals.
+         - [ ] Operational manuals are for the Immigration, Refugees and Citizenship Canada (IRCC) and operational bulletins (OBs) are for the Canadian Border Services Agency (CBSA).
+         - [ ] Operational bulletins (OBs) are the chapters of the operational manuals.
+
+      9. The officers’ powers in the immigration process are divided into three main categories:
+         - [ ] Peace, security, and justice
+         - [x] Examination on application, examination on entry, and enforcement
+         - [ ] Delegated, designated and administrative
+         - [ ] Principles of fairness, including the right to be heard and the duty of impartiality
+
+      10. Representatives of the Canada Border Services Agency (CBSA) or Immigration, Refugees and Citizenship Canada (IRCC) can perform which of the following functions in the refugee determination process?
+         - [ ] Conduct an "eligibility interview" to determine whether the case is eligible for referral to the Immigration and Refugee Board of Canada (IRB)
+         - [ ] Act as a representative of the Minster (i.e., "the minister's counsel") at hearings with the Immigration and Refugee Board (IRB)
+         - [ ] Appeal decisions by the Immigration and Refugee Board (IRB)
+         - [x] All of the above
+
+      11. Which of the following describes a “security certificate”?
+         - [ ] A document 1) certifying that a permanent resident or foreign national poses a security threat and is inadmissible to Canada and 2) signaling there is information that needs to be protected for security reasons
+         - [ ] A document that must be personally signed by the minister of public safety and emergency preparedness and the minister of immigration, refugees, and citizenship
+         - [ ] A document that becomes a removal order if a judge of the Federal Court decides it is reasonable
+         - [x] All of the above
+
+      12. True or false: If you, as an immigration consultant, have a client's application denied at the Immigration Division (ID) and the Immigration Appeals Division (IAD), then you can take it to the Federal Court for judicial review.
+         - [ ] True
+         - [x] False
+      <br>**"Non-lawyers, such as immigration consultants and paralegals, are not authorized to represent clients in the Federal Court or the Federal Court of Appeal." See: Desloges and Sawicki, Chapter 2, s. IV.**
+
+      13. What’s the difference between the operational manuals and program delivery instructions (PDIs) that immigration officers use as guidance in applying the Immigration and Refugee Protection Act (IRPA)?
+         - [x] Operational manuals are being phased out and gradually replaced with program delivery instructions. Both documents perform similar functions.
+         - [ ] PDIs are electronic, and operational manuals are print.
+         - [ ] Operational manuals are for Immigration, Refugees, and Citizenship Canada (IRCC) and program delivery instructions (PDIs) are for the Canada Border Services Agency (CBSA).
+         - [ ] “Operational manuals” and “program delivery instructions” (PDIs) are two terms for the exact same thing.
+
+      14. Match the duty or delegated authority to the correct officer.
+         - Developing immigration policy and programs: IRCC
+         - Processing applications for temporary residence: IRCC
+         - Removing people who are inadmissible to Canada: CBSA
+         - Exercise powers of a peace officer to arrest and detain permanent residents or foreign nationals who are believed to be inadmissible under IRPA.: Both
+         - Conduct search and seize at random: None
+
+      15. Which policy documents instruct immigration officers in how to apply the law?
+         - [ ] Operational bulletins (OBs)
+         - [ ] Operational manuals
+         - [ ] Program delivery instructions (PDIs)
+         - [x] All of the above
+      <br>**Immigration officers and visa officers usually consider themselves bound by these policy instruments when determining a case. However, they do not have the force of law and must be consistent with the IRPA and the IRPR.**
+
+      16. True or false: the Immigration and Refugees Protection Act (IRPA) divides all responsibilities for immigration and refugee functions equally between the minister of immigration, refugees, and citizenship and the minister of public safety and emergency preparedness.
+         - [ ] True
+         - [x] False
+      <br>**the minister of employment and social development also carries some responsibilities, including "the administration and application of the IRPA and the Immigration and Refugee Protection Regulations." See: Desloges and Sawicki, Chapter 2, s. II.**
+
+      17. True or false: If my sponsorship application for my aging father to come to Canada is denied, I can dig up new evidence to use at my appeal to the Immigration Appeal Division (IAD).
+         - [x] True
+         - [ ] False
+      <br>**"All hearings before the IAD are considered to be de novo, and thus additional evidence and testimony can be submitted for consideration." See: Desloges and Sawicki, Chapter 2, s. IV.**
+
+      18. Who (or what) defines the role and responsibilities of the Canada Border Services Agency (CBSA) and the Immigration, Refugees, and Citizenship Canada (IRCC) in the refugee determination system?
+         - [ ] Immigration, Refugees and Citizenship Canada (IRCC)
+         - [ ] Immigration and Refugee Board of Canada (IRB)
+         - [ ] Ministerial Instructions (MIs)
+         - [x] Immigration and Refugee Protection Act  (IRPA)
