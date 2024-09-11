@@ -2,6 +2,8 @@ site_name: My Notebook
 site_url: https://paralegal.netlify.app/
 copyright: Copyright &copy; 2023 Larry
 
+# mkdocs serve -a localhost:8001
+
 nav:
   - Math:
       - Math123: math/math123/math123.md

@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-???+ note "2.1.1 The Parts of a Decided Case"
+??? note "2.1.1 The Parts of a Decided Case"
 
       - **Style of Cause:**
         - The style of cause shows the names of the parties to the legal dispute - e.g. *R v Desautel* or *Kanthasamy v Canada (Citizenship and Immigration)*.
@@ -43,5 +43,17 @@ tags:
             - <i class="fa-solid fa-2 number"></i> the **legal Issue(s)** - in other words, the **legal question(s)** that the court answers in its decision;
             - <i class="fa-solid fa-3 number"></i> the **legal Rule(s)** (in other words, the **law**) that the court relied on in its judgement, which could be derived from legislation, case law, and/or government policy;
             - <i class="fa-solid fa-4 number"></i> the court's **Reasoning**, in other words, the paragraphs in which the court **applies the law** to the legally relevant facts of the case in order to answer the question(s) posed in the issue.
+
+???+ note "2.1.2 Key Concepts in Legislation"
+
+    - The word legislation is an umbrella term. It refers to both statutes and regulations.
+    - In order to receive Royal Assent and become law, a bill must pass through a number of stages, such as readings, debate, committee hearings and reports, and voting.  It must be approved in both chambers of Parliament: the Senate and the House of Commons.
+    - An act may come into force in a number of ways:
+        - Upon receiving Royal Assent, the approval by the constitutional monarch, or by their representative in Canada (the **Governor General**)
+        - On a fixed date, either in the future (prospective) or in the past (retrospective- common with fiscal and tax legislation)
+        - Upon Proclamation of the Governor in Council (the **Governor General**)
+
+    - Once a federal statute has received Royal Assent, it is published in three places: in the [Canada Gazette](https://www.gazette.gc.ca/accueil-home-eng.html){:target="\_blank"}; in a printed annual volume called Statutes of Canada; and on the government's legislation website, which is called [Justice Laws](https://laws-lois.justice.gc.ca/eng/){:target="\_blank"}
+    - Revision or consolidation of statutes is the process by which various amendments made over time are “edited in” or incorporated into the version of the act that you see on the government database. The current consolidated version of an act on Justice Laws reflects all changes made to that act between the date of its enactment up to the date of the most recent consolidation (the "currency date").
 
 ## Quizzes
