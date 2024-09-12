@@ -55,5 +55,10 @@ tags:
 
     - Once a federal statute has received Royal Assent, it is published in three places: in the [Canada Gazette](https://www.gazette.gc.ca/accueil-home-eng.html){:target="\_blank"}; in a printed annual volume called Statutes of Canada; and on the government's legislation website, which is called [Justice Laws](https://laws-lois.justice.gc.ca/eng/){:target="\_blank"}
     - Revision or consolidation of statutes is the process by which various amendments made over time are “edited in” or incorporated into the version of the act that you see on the government database. The current consolidated version of an act on Justice Laws reflects all changes made to that act between the date of its enactment up to the date of the most recent consolidation (the "currency date").
+    - **FILAC** stands for: *Facts*, *Issues*, *Law* (or sometimes called Rule), *Application* (or sometimes called Analysis), and *Conclusion*. The first three steps are often described as iterative; these three elements are interwoven and interdependent.
+    - The A step in FILAC may take several forms:
+        - Reasoning by analogy: drawing an analogy between the two cases, comparing like to like.
+        - Rules based reasoning: applying the legislation to your client's facts. You may also rely on rules extracted and synthesized from case law.
+        - Policy-based reasoning: there may be serious policy issues that are raised by your client's file. This is especially true in an area of law like immigration and citizenship law, in which case you might argue that public policy objectives should be taken into account in any determination of your client's case.
 
 ## Quizzes
