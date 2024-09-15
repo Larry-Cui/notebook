@@ -61,15 +61,41 @@ tags:
         - Rules based reasoning: applying the legislation to your client's facts. You may also rely on rules extracted and synthesized from case law.
         - Policy-based reasoning: there may be serious policy issues that are raised by your client's file. This is especially true in an area of law like immigration and citizenship law, in which case you might argue that public policy objectives should be taken into account in any determination of your client's case.
 
-???+ note "2.3 Legal Research"
+??? note "2.3 Legal Research"
 
     - Legal information is divided into two types: **primary sources**, which "give" the law; and **secondary sources**, which provide commentary on the law and point you to relevant primary sources.
     - There are two Canadian legal encyclopedias, and they are only accessible through the subscription services. On Westlaw, the encyclopedia is called the **Canadian Encyclopedic Digest (the CED)**. On Lexis, the encyclopedia is called **Halsbury's laws of Canada (Halsbury's)**. CanLII does not currently have a legal encyclopedia.
     - Many older federal and provincial statutes can now be accessed for free on the searchable [Internet Archive](https://archive.org/){:target="\_blank"}. You may wish to make a note of this in your text.  
     - Both subscription services now carry **tribunal decisions**, including decisions of the various sub-bodies of the **Immigration and Refugee Board of Canada** – as does CanLII. As you may know, you can also find some of these decisions on the IRB’s own website.
     - “case summaries and digests” are not, in fact, secondary sources – they are more often characterized as **"finding tools"**. An important point to remember: **case digest databases exist both in Westlaw and Lexis, but not in CanLII.**
-    - **<span class="Coral">Noting up Statutes</span>**: **Finding case law that has interpreted the various provisions ofa statute is also a key component of statute Jaw research, and is referred to as noting-up.** Judicial consideration of the statute can be found using the noting-up features in databases such as WestlawNext Canada, LexisNexis Quicklaw, and CanLII.
+    - **<span class="Coral">Noting up Statutes</span>**: **Finding case law that has interpreted the various provisions ofa statute is also a key component of statute law research, and is referred to as noting-up.** Judicial consideration of the statute can be found using the noting-up features in databases such as WestlawNext Canada, LexisNexis Quicklaw, and CanLII.
+        - There are two parts. In the first part of a note up for legislation, you **check for currency** - ensuring your target legislation is in force, not repealed, and that you are looking at the most up-to-date version. In the second part you **check for judicial consideration**: how courts and tribunals have interpreted and applied that legislation in decided cases.
     - **<span class="Coral">Noting-up Cases</span>**: Noting-up involves finding the history of a case and the subsequent cases that have considered the case you are noting-up.
+    - The legal research checklist suggested in the McCormack text consists of 10 high-level steps:
+        - Identify the legally relevant facts and articulate the legal issues.
+        - Identify relevant keywords.
+        - Draw up a research plan using a checklist.
+        - Find secondary sources.
+        - Find relevant legislation (including Constitutional provisions).
+        - Find relevant case law.
+        - Read carefully.
+        - Consider relevant foreign or international law (like treaties).
+        - Update (note up) the law.
+        - Think, synthesize, write and proofread.
+      - An example of a click-path for a fictitious case law search using CanLII:
+      <br>**12 November 2022: CanLII > Primary Law > Federal > Courts > Supreme Court of Canada DB>  [keyword+Boolean:] spous* /3 sponsor* AND genuin* > [filter by decision date:] decision date = after 2010**
+      - **<span class="Coral">Chaining</span>**: also referred to as cited reference searching. Cases are constantly cited by other cases, usually those that are deciding the same legal issue, and those citing cases can be easily located using a tool called a citator.
+      - **cited references:** In your target case (search result), the court or legal decision maker cited other, earlier, decisions that were relevant to the legal issue being decided. These are called cited references and will appear in the text of your target case.
+      - **citing references:** Once your target case was published on CanLII and in other places, it was in turn cited by other legal decision makers, deciding other cases on the same or similar legal issues. These are called citing references.
+      - **Keywords**: serve several functions in legal research. Not only are they the basis for keyword searching, but the process of extracting keywords forces you to think carefully about your research problem as you frame it as a legal issue or issues within the larger body of immigration and citizenship law.
+      - **Keywords Hierarchy:**
+        - Primary level keywords (abbreviated as **1y**): are words that refer to the top-level areas of law - like immigration law, or citizenship law, or administrative law.
+        - Secondary keywords (**2y**) are words that refer to legal issues and sub-issues within that top-level area of law - like family class immigration or spousal sponsorship, or permanent residency, all under immigration law.
+        - Finally, tertiary (**3y**) keywords refer more or less to your client's fact pattern: second marriage, sole caregiver, poor health, cohabitation, shared finances, child, etc.
+      - **Boiler Plate Provisions**: clauses that are used from contract to contract.
+      - **CanLII commentary**: While CanLII does not currently have an encyclopedia, it does index commentary on cases and legislation, which can be useful.
+      - Non-traditional secondary sources serve the same two essential functions as any secondary source: they **orient you to an unfamiliar area of law** and they can **point you to relevant primary sources** (legislation and case law).
+      - [**CanLII Connects**](https://canliiconnects.org/en/){:target="\_blank"} is a free, searchable resource, and the content is created by legal professionals commenting on the law as it develops in their practice area.
 
 ??? note "2.3.1 The Vocabulary of Legal Research: A Short Glossary"
 
@@ -88,6 +114,90 @@ tags:
     - **Service**: A collection of research tools and databases available from a single access point. In legal research, a service provides a wide range of primary and secondary legal information and may also offer additional value-added elements, like annotations, classification schemes or commentary, as well as useful tools or integrated functionality to facilitate searching. CanLII is a free service. Westlaw and Lexis are also services and are both subscription-based (fee-based).
     - **Technique**: Any observable information-seeking behaviour. In an electronic research environment, a search technique involves the use of a computer. Techniques can be used alone or in combination, and tailored for the specific information seeking goals of the researcher. Keyword searching is an example of a search technique.
     - **Tool**: A broad term referring to anything you use in support of information-seeking for legal problem solving. An example of a research tool is a citator.
+
+??? note "2.3.2 Reference Documents"
+
+      - [Charterpedia](https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/index.html){:target="\_blank"}
+      - [IRCC – List of Acts, online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/acts-regulations/list-acts.html){:target="\_blank"}
+      - [IRCC – List of Regulations](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/agreements/federal-provincial-territorial.html){:target="\_blank"}
+      - [IRCC Federal/Provincial Agreements (sec 8 IRPA)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/agreements/federal-provincial-territorial.html){:target="\_blank"}
+      - [IRCC Operational Instructions and Guidelines](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals.html){:target="\_blank"}
+      - [IRCC Ministerial Instructions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions.html){:target="\_blank"}
+      - [IRCC Operational Bulletins and Manuals](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/latest-updates.html){:target="\_blank"}
+      - [IRCC Annual Reports to Parliament on Immigration (scroll down)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals.html){:target="\_blank"}
+      - [IRB Rules and IRB Legal and Policy Resources Index Page](https://irb-cisr.gc.ca/en/legal-policy/pages/index.aspx){:target="\_blank"}
+
+??? note "2.4 Legal Writing"
+
+      - Most legal writing can be classified as one of three types:
+          - descriptive: Descriptive writing is as it sounds: it describes the law and its impact, or describes a legal reasoning process. A **case brief** is an example of descriptive legal writing.
+          - predictive: ou apply law to facts and issues to analyze how you think a legal decision maker will determine an issue in a case. An example of this is when you give a client **an opinion** in writing on the strength of their case.
+          - persuasive: sometimes called legal argument, provides a decision maker with  information - the facts of the matter, an articulation of the legal issue, and a summary of the relevant law as applied to the facts - that compels them to render a fair and favourable decision on your client's case. **A submission letter** that accompanies your client's application application is an example of persuasive writing.
+      - **Legal writing paradigm "CREAC"**: Conclusion, Rule, Explanation of the law, Application of the law, and Conclusion.
+      - If your client's case requires the analysis of a multi-issue problem, then use CREAC to organize the analysis of each issue or sub-issue.
+      - It is unethical to omit unfavorable authority or facts or bend the law or distort facts to fit the conclusion you desire. Instead, **deal with the law and facts head-on and embrace any ambiguity, inconsistency, negative authority, or damaging facts**.
+      - Deal with any weakness in your case by anticipating counter-arguments.
+
+??? note "2.4 Legal Citation in Writing"
+
+      - As a general rule, legal citations are incorporated into writing via **footnotes**. However, in this program, you may occasionally be asked to cite "**in-text**", meaning your citations are embedded right in the paragraph you are writing.
+      - "**in text**" references in Rule 1.2:
+
+          - Example 1
+
+            In addition to the requirement of an “actionable wrong” independent of the breach sued upon, punitive damages will only be awarded “where the defendant’s misconduct is so malicious, oppressive, and high-handed that it offends the court’s sense of decency” **==(*Hill v Church of Scientology of Toronto*, 1995 CanLII 59 at paras 62—64, 196 (SCC) Cory J [Hill])==**.
+
+            Such behaviour has included defamation **==(*ibid*)==**, failure to provide medical care **==(*Robitaille v Vancouver Hockey Club Ltd*, 1981 CanLII 532 (BCCA))==**, and exceptionally abusive behaviour by an insurance company **==(Whiten v Pilot Insurance Co, 2002 SCC 18)==**.
+
+            Since the primary vehicle of punishment is the criminal law, punitive damages should be scarcely used **==(*ibid* at para 69)==**. It is also important to underline that there cannot be joint and several responsibility for punitive damages because they arise from the misconduct of the particular defendant against whom they are awarded **==(*Hill* at para 195)==**.
+
+          - Example 2
+
+            In addition to the requirement of an “actionable wrong” independent of the breach sued upon, punitive damages will only be awarded “where the defendant’s misconduct is so malicious, oppressive and high-handed that it offends the court’s sense of decency” (*Hill*). Such behaviour has included defamation (*Hill*), failing to provide medical care (Robitaille), and exceptionally abusive behaviour by an insurance company (*Whiten*)
+
+            ==***Hill v Church of Scientology of Toronto*, 1995 CanLII 59 at paras 62—64, 196 (SCC) Cory J [*Hill*].**== <br>
+            ==***Robitaille v Vancouver Hockey Club Ltd*, 1981 CanLII 532 (BCCA) [*Robitaille*].**== <br>
+            ==***Whiten v Pilot Insurance Co*, 2002 SCC 18 [*Whiten*].**==
+
+            Since the primary vehicle of punishment is the criminal law, punitive damages should be scarcely used (*Whiten*). It is also important to underline that there cannot be joint and several responsibility for punitive damages because they arise from the misconduct of the particular defendant against whom they are awarded (*Hill*).
+
+            ==***Whiten, supra* para 5 at para 69.**==<br>
+            ==***Hill, supra* para 5 at para 195.**==
+
+      - 1.3 Footnotes: Rules
+          - When to Footnote: Footnotes are required under the following circumstances:
+              - (1) at the first reference to the source;
+              - (2) at every subsequent quotation from the source; and
+              - (3) at every subsequent reference or allusion to a particular passage in the source.
+          - The full citation should be provided in the first footnote referring to a source.
+          - Example: ... the name of the corporation shall be set out in the articles of incorporation.[^1]
+
+      - Other citation notes:
+          - Place the short title in brackets directly after the citation but before any parenthetical information. Do not italicize the brackets.
+              - ==***Kadlak v Nunavut (Minister of Sustainable Development)*, 2001 NUCJ 1 [*Kadlak*]**==
+              - ==***Kadlak*, *supra* note 1 at para 15**==
+              - ==***Canada Business Corporations Act*, RSC 1985, c C-44 [*CBCA*]**==
+          - Create a short form by choosing one of the parties’ surnames or a distinctive part of the style of cause. If appropriate, you may use other elements to identify the case including a more widely known style of cause from a lower court, the name of a ship in admiralty cases, or the name of the drug in pharmaceutical patent litigation.
+          - When citing a book, **do not** create a short form at the end of the first reference to the source. Only use the author’s surname in subsequent references to the source.
+              - ==**John Humphrey, *No Distant Millennium: The International Law of Human Rights* (Paris: UNESCO, 1989) [Humphrey, *No Distant Millennium*]**==
+              - ==**Humphrey, *supra* note 2 at 25**==, or
+              - ==**Humphrey, *No Distant Millennium* at 25**==
+          - in legal writing, **a sentence only ever has one footnote call** associated with it.
+
+      - **Annual Statutes:** A yearly publication that includes all new and amending statutes that received Royal Assent during that calendar year.
+      - **Revised Statutes:** Once every decade or so, the government would issue a publication consolidating (or editing in) all amendments made to all statutes and regulations in force in that jurisdiction.
+      - “**RSC 1985**” stands for “**Revised Statutes of Canada 1985**”. The *Citizenship Act* is actually older than the 1985 consolidation – it originally received Royal Assent in 1977 – but we cite it to the last print consolidation in which it appeared, 1985. “**c C-29**" refers to chapter C-29. Revised statutes are typically arranged alphabetically.
+      - **Citing Journal Articles:**
+          - Use initial(s) or first name (as it appears in the journal), then last name, followed by a comma. Example: **Hoi L Kong,**
+          - The title of the article is placed in quotation marks. Example: Hoi L Kong, **"Deliberative Constitutional Amendments"**
+          - The year is contained in parentheses. Example: Hoi L Kong, "Deliberative Constitutional Amendments" **(2015)**
+          - Always include the volume number. Example: Hoi L Kong, "Deliberative Constitutional Amendments" **(2015) 41**
+          - if an issue number is available for the article, include it following the volume number and a colon. For instance, 41:1 is how you represent volume 41, issue 1. Example: Hoi L Kong, "Deliberative Constitutional Amendments" (2015) 41:**1**
+          - Use the established abbreviation for the journal. Example: Hoi L Kong, "Deliberative Constitutional Amendments" (2015) 41:1 **Queen's LJ**
+          - This number refers to **the first page of the article** within the journal. Example: Hoi L Kong, "Deliberative Constitutional Amendments" (2015) 41:1 Queen's LJ **105**
+          - When you need to cite to a particular passage, pinpoint to a page (or section, if they are numbered) using "at". Example: Hoi L Kong, "Deliberative Constitutional Amendments" (2015) 41:1 Queen's LJ 105 **at 429**.
+
+[^1]: **==See== _Canada Business Corporations Act_, RSC 1985, c C-44, s 6(1).**
 
 ## Quizzes
 
