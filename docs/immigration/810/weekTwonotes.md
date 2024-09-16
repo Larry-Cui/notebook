@@ -61,7 +61,7 @@ tags:
         - Rules based reasoning: applying the legislation to your client's facts. You may also rely on rules extracted and synthesized from case law.
         - Policy-based reasoning: there may be serious policy issues that are raised by your client's file. This is especially true in an area of law like immigration and citizenship law, in which case you might argue that public policy objectives should be taken into account in any determination of your client's case.
 
-??? note "2.3 Legal Research"
+???+ note "2.3 Legal Research"
 
     - Legal information is divided into two types: **primary sources**, which "give" the law; and **secondary sources**, which provide commentary on the law and point you to relevant primary sources.
     - There are two Canadian legal encyclopedias, and they are only accessible through the subscription services. On Westlaw, the encyclopedia is called the **Canadian Encyclopedic Digest (the CED)**. On Lexis, the encyclopedia is called **Halsbury's laws of Canada (Halsbury's)**. CanLII does not currently have a legal encyclopedia.
@@ -70,7 +70,18 @@ tags:
     - “case summaries and digests” are not, in fact, secondary sources – they are more often characterized as **"finding tools"**. An important point to remember: **case digest databases exist both in Westlaw and Lexis, but not in CanLII.**
     - **<span class="Coral">Noting up Statutes</span>**: **Finding case law that has interpreted the various provisions ofa statute is also a key component of statute law research, and is referred to as noting-up.** Judicial consideration of the statute can be found using the noting-up features in databases such as WestlawNext Canada, LexisNexis Quicklaw, and CanLII.
         - There are two parts. In the first part of a note up for legislation, you **check for currency** - ensuring your target legislation is in force, not repealed, and that you are looking at the most up-to-date version. In the second part you **check for judicial consideration**: how courts and tribunals have interpreted and applied that legislation in decided cases.
+        - Noting Up Step 1: Currency
+            - check Justice Laws website
+            - check that no amending provisions have been enacted and come into force during the currency gap using [LEGISinfo](https://www.parl.ca/LegisInfo/en/overview){:target="\_blank"}
+        - Noting up Step 2: Judicial treatment
+            - To help you do so, you will use a citator
+            - In CanLII, you can navigate to your target section and click on the speech bubble. Then click on "Citing documents"
     - **<span class="Coral">Noting-up Cases</span>**: Noting-up involves finding the history of a case and the subsequent cases that have considered the case you are noting-up.
+        - court decisions are not binding on administrative tribunals at all. This may be true in some situations, but less so **in the case of immigration law**.
+        - the Supreme Court noted in *Canada (Minister of Citizenship and Immigration) v Vavilov*, 2019 SCC 65 at para 111 (emphasis added): "**It is evident that both statutory and common law will impose constraints on how and what an administrative decision maker can lawfully decide.**"
+        - the IRB itself has said “[The IRB must follow decisions of the Federal Court and the Supreme Court of Canada](https://irb.gc.ca/en/legal-policy/policies/Pages/PolIntervention.aspx){:target="\_blank"}” .
+        - first step of the note up, we consider the effect of the passage of time on our target case. We look at the history of that decision.
+        - In the second step, we investigate the subsequent judicial treatment or judicial consideration of our target case. In other words, we want to know how other courts have subsequently treated our target decision.
     - The legal research checklist suggested in the McCormack text consists of 10 high-level steps:
         - Identify the legally relevant facts and articulate the legal issues.
         - Identify relevant keywords.
