@@ -88,9 +88,56 @@ tags:
     |||Decision-based solely on the evidence|
     |||The person who hears must decide|
 
-???+ note "3.2 Fairness and Impartiality"
+??? note "3.3 Fairness and Impartiality"
 
-    -
+    - Test for Reasonable Apprehension of Bias (**RAB**): [T]he apprehension of bias must be a reasonable one, held by reasonable and right minded persons, applying themselves to the question and obtaining thereon the required information. That test is ‘what would an informed person, viewing the matter realistically and practically – and having thought the matter through – conclude.
+    - threshold for establishing RAB: the threshold for establishing such a claim is **high**, and whether a reasonable apprehension of bias arises will depend entirely upon the **facts of the case**.
+    - 4 indicators of possible bias:
+        - conflict of interest
+        - Personal relationships
+        - Prior knowledge of facts (that are prejudicial to one of the parties)
+        - A predisposition toward an outcome
+    - Government officials are generally **free** to consult with other staff members when making decisions and are generally not required to notify the parties that have done so.
+    - An adjudicator can seek advice, including talking things over with other adjudicators or seeking advice from their agency’s legal counsel about risk, as long as:
+        - They make the final **decision**,
+        - The consultation is **voluntary**,
+        - No one puts **pressure** on the adjudicator to make a certain decision, and
+        - No new issues or facts are **introduced** without parties being notified and permitted to comment.
+    - At the first available opportunity: raise an allegation of RAB as early as possible
+
+??? note "3.4: Judicial Review"
+
+    - Achieving a high-level understanding of the **procedures**, the kinds of **errors** that prompt a reviewing court to intervene, and the **relief** available, are the main learning goals of this subunit.
+    - Immigration consultants are **not permitted** to apply for judicial review or represent clients in judicial review hearings。
+    - Where internal appellate remedies are prescribed by the IRPA, those must be exhausted first.
+    - An H & C refusal can only be challenged by judicial review in the Federal Court of Canada.
+    - Provincial superior courts may also hear applications for *habeas corpus* (A “writ” of *habeas corpus* is used to bring a prisoner or other detainee before the court to determine the lawfulness of the detention) from persons demanding to know whether their immigration detention is justified in law.
+    - During a Federal Court Judicial Review hearing, the person whose case is the subject of the review **does not testify**.
+    - Applications for judicial review are commenced with leave. Decisions on leave applications are rendered in a summary way which generally means in writing and without any reasons. **Leave decisions are not subject to appeal**.
+    - **No appeal** lies from the decision of the Court with respect to the application.
+    - Judicial review applications proceed in five basic stages:
+        - Application for Leave
+        - "Perfect Application" (Application Record)
+        - Decision: Leave granted / not granted
+        - If granted, further materials filed
+        - Hearing is held
+    - Grounds of judicial review:
+        - acted without jurisdiction, acted beyond its jurisdiction or refused to exercise its jurisdiction;
+        - failed to observe a principle of procedural fairness;
+        - erred in law;
+        - erroneous findings of fact;
+        - fraud or perjured evidence;
+        - contrary to law.
+    - Courts show this respect by deferring to the tribunal in certain cases – that is, by accepting its decision even if they disagree with it.
+    - the Supreme Court established a presumption that **reasonableness** is the applicable standard of review in all cases.
+    - On judicial review, the court **usually does not substitute** its decision for that of the decision-maker.
+    - In the immigration and citizenship context, the *Federal Courts Act* codifies the available remedies. However, you may find references to these writs in older case law so it is helpful to understand the terminology:
+        - ***Certiorari***: This is the most common; it involves quashing the decision and remitting it back for redetermination (usually by a different decision-maker)
+        - ***Mandamus***: An order requiring a party to perform a specific legal duty that the decision-maker has failed to perform
+        - ***Prohibition***: An order requiring a party not to do something
+        - ***Habeas Corpus***: An order determining the legality of detention (“free the body”)
+        - ***Quo Warranto***: This is the least common; it is used to challenge a person's entitlement to a public office that they purport to occupy and exercise
+    - Once a question is certified, the Federal Court of Appeal is not restricted to considering the certified question but may consider all issues raised by the appeal (*Baker*, at [para. 12](https://www.canlii.org/en/ca/scc/doc/1999/1999canlii699/1999canlii699.html){:target="\_blank"} )
 
 ## Quizzes
 
@@ -350,3 +397,116 @@ tags:
         - [ ] The common law requirement always takes precedence.
         - [ ] The common law requirement will take precedence only if it is more onerous.
         <br>**See Nastasi, Chapter 4, “Fairness: The Right to Be Heard”, p. 85.**
+
+??? note "3.3 Fairness and the Right to an Impartial Decision-Maker"
+
+    1. Which one of the following constitutes an example of impartiality?
+        - [ ] An agency lawyer who is responsible for assigning and approving proceedings against a person privately advises the tribunal as to how it should decide the case
+        - [ ] An agency lawyer who is arguing before the tribunal privately advises the tribunal as to how it should decide the case
+        - [ ] An official recommends action against an individual and then serves as a member of the panel that will decide whether to take the action
+        - [x] There is an investigator who investigates and recommends administrative action, a Minister’s representative who argues the case before the tribunal, and adjudicator who make the decision
+        <br>**A clear ==separation of roles== among those who investigate and recommend administrative action, those who argue the case before the tribunal, and those who make the decision, as described in “D”, is an example of institutional impartiality. In contrast, a multifunctional structure creates an appearance of bias when those who are responsible for recommending or prosecuting proceedings against a person are also involved in deciding whether to take away the person’s rights. See, Nastasi, c. 5 at p. 112.**
+
+    2. The requirement of independence takes an internal perspective, focusing on the state of mind of the administrative decision-maker.
+        - [ ] True
+        - [x] False
+        <br>**like individual bias, the emphasis is on the appearance of bias to a reasonable person.**
+
+    3. Why does Will Tao suggest that judges prefer not to engage with a reasonable apprehension of bias argument?
+        - [ ] Because it is too complicated
+        - [ ] Because they don’t understand the area well
+        - [x] Because they don’t want to allude to systemic problems
+        - [ ] A and B
+        <br>**Per Tao in "*Reasonable Apprehension of Bias in Immigration/Refugee Related Decision-Making: High Thresholds and Reticent Engagement*”: “My feeling is the ‘reasonable apprehension of bias’ not only is viewed as a case-specific procedural fairness issue but one that undermines the rule of law. As such, ==judges prefer not to give off the impression that there are potential systematic problems==”.**
+
+    4. Why, in *Kozak v Canada*, did the Federal Court of Appeal find that the IRB's lead case strategy was institutionally biased?
+        - [ ] The "lead case" idea was inherently biased
+        - [ ] The evidence established that the IRB members involved in preparing the lead case were racist
+        - [x] The cumulative effect of the facts of the case pointed to bias
+        - [ ] The facts disclosed a clear breach of Charter rights
+        <br>***Kozak v Canada*, at para 60: "Nonetheless, despite the absence of a 'smoking gun', I have concluded on the basis of the ==entire factual matrix== of this case that a reasonable person who had considered every aspect of the matter and had thought it through carefully, would think that the hearing panel was biased and was not acting independently when it rejected the appellants' claims for refugee status."**
+
+    5. What is generally the appropriate remedy when a reasonable apprehension of bias is substantiated on judicial review?
+        - [ ] The decision is invalidated, if it is likely that the substance of the decision was impacted
+        - [ ] The decision is invalidated, if it is certain that the substance of the decision was impacted
+        - [ ] The decision is invalidated, unless the efficiency of the administrative decision-maker would be unduly impacted
+        - [x] The decision is invalidated
+        <br>**If there was a RAB, the decision cannot stand. It is therefore invalidated and sent back for re-determination – it must be heard again.**
+
+    6. The most important consideration/s in determining whether there is institutional bias are:
+        - [ ] the closeness of the relationship between an agency and a government department that is affected by its decisions;
+        - [ ] whether or not the agency has exclusive control to develop and implement its annual budget
+        - [ ] where an agency has multiple functions, the extent to which these functions overlap in a manner that suggests that some employees have inappropriate influence over others.
+        - [x] A and C
+        <br>**As noted in Nastasi, c. 5 at p. 110: the most important consideration/s in determining whether there is institutional bias are: the ==closeness== of the relationship between an agency and a government department that is affected by its decisions; where an agency has multiple functions, the extent to which these functions ==overlap== in a manner that suggests that some employees have inappropriate influence over others.**
+
+    7. You are representing Leo in a removal order appeal hearing at the IRB. Near the end of the hearing, you become aware that 10 years earlier, the presiding member, Luis Gonzalez, attended a meeting where the case before the tribunal was briefly discussed. At that time he was a junior lawyer with the Immigration Division of the Department of Justice. You raise the matter but Mr. Gonzlez explains he has no recollection of this meeting or the case from that time. The hearing is almost finished. He advises that he does not feel it is in the best interest of your client or the Minister to step aside.
+        - [ ] True
+        - [x] False
+        <br>**As noted in Nastasi, c. 5 at p. 114, if the adjudicator feels that they have no actual bias and any appearance of bias will not constitute a “reasonable apprehension” of bias, they may decide it is in the public interest for them to continue. While there is some dispute as to whether ==an adjudicator can present facts in his or her own defence==, in the case of *Weywaykum* the Supreme Court of Canada permitted Justice Binnie to file a statement saying he had no recollection of involvement in a case he had played a minor role in some 15 years earlier.**
+
+    8. The Supreme Court of Canada has endorsed the idea that administrative tribunals are constitutionally required to be fully independent from the government in the same manner as the judiciary.
+        - [ ] True
+        - [x] False
+        <br>**The Supreme Court of Canada ==rejected== the idea that administrative tribunals are constitutionally required to be independent in the case *Ocean Port Hotel Ltd. v. British Columbia (General Manager, Liquor Control and Licensing Branch)*. The Court held that there is a fundamental distinction between tribunals and courts. Tribunals are created precisely for the purpose of implementing government policy. Nevertheless, tribunals, in contrast to department officials, may enjoy some of the hallmarks of administrative independence, subject to their enabling statute. ==As noted in Module 3.2 (in onQ), a higher level of independence is required where a decision affects a party’s Charter rights.==**
+
+    9. You are representing Raj at an admissibility hearing at the IRB. The Minister is alleging that there are reasonable grounds to believe Raj poses a threat to national security. During a recess, Raj returns from the washroom distraught. Raj overheard the presiding Member speaking on the phone in the hallway. The Member said “I knew from the moment I saw that no good gangster in my hearing room today was pure trouble.” What is your very next step?
+        - [ ] Refer the client to a lawyer to initiate an application for leave and judicial review on grounds of bias
+        - [ ] Defer consideration of the bias question until after the hearing concludes
+        - [x] Bring a motion for the presiding member to step down and ask for a ruling by the member
+        - [ ] None of the above
+        <br>**Certain kinds of behaviour toward the parties during a hearing and even outside the hearing room may suggest that a decision maker does not have an open mind. An adjudicator expressing opinions about the issues in the case before all the evidence and arguments have been heard could lead a reasonable and well-informed person to assume that the decision-maker is biased. The hurdle to overcome with these facts is that it seems Raj was the only person who overheard the Member’s statement. Nevertheless, the courts usually consider a party that does not raise an allegation of bias during the hearing to have waived the right to argue it in court. So it is important to ==raise the issue== of an appearance of bias as early as possible. See Nastasi, c. 5, at p. 113.**
+
+    10. According to Alyssa Clutterbuck, what is **intersectionality**?
+        - [ ] A way of thinking about stereotypes
+        - [x] A theory that illuminates multiple and simultaneous sites of oppression and accounts for Baker’s multidimensional experience of disability and race
+        - [ ] A theory that helps understand why children’s interests should be a primary consideration in H & C decision-making
+        - [ ] A and B
+        <br>**Per Clutterbuck at 57: Disabled women of colour’s experiences of discrimination pose unique challenges to law. The multidimensionality of their subordination is best understood through the lens of intersectionality, a theory introduced by Kimberlé Crenshaw that ==illuminates the multiple and simultaneous sites of subordination and the limits of feminist, antiracist, and other critical discourses==. The theory has provided grounds for scholarly writing on women of colour, queer and trans people of colour, and groups with multiple and simultaneous experiences of oppression and structural marginalization.”**
+
+    11. You are waiting for the elevator with your client, a refugee claimant, on the main floor of the building of the IRB to return to the hearing room after the lunch break. When the doors open, you see the presiding Member from the hearing chatting and appearing very familiar with the Minister's counsel from your client's hearing. As soon as they see you, their conversation stops. Meanwhile, you do a quick Google search on each of their names and learn that prior to their respective appointments, they were both associates of the same law firm. What should you do?
+        - [x] Raise reasonable apprehension of bias immediately
+        - [ ] Apply for internal review, then raise reasonable apprehension of bias
+        - [ ] Refer them to a lawyer, who will sue the Member
+        - [ ] None of the above
+        <br>**Alleging that a tribunal member is or appears to be biased is a serious matter, and bias allegations should not be made lightly. Aside from any other reasons to exercise caution, the first rule of good advocacy is to not alienate the decision maker. Moreover, the courts have made it clear that restraint must be exercised when making such allegations. However, in this instance, a reviewing court would likely view the decision maker's close association with the Minister's counsel, a person whose interests may be affected by the outcome of the case, as rising to the level of disqualifying bias. Where it is necessary to initiate a motion on apprehension of bias, as is the case here, it is important to do so ==as soon as== the question of bias or conflict of interest arises. The courts generally consider that a party who fails to raise an allegation of bias during a hearing to have waived the right to argue it subsequently in court.**
+
+    12. Why does Clutterbuck say that Baker’s appeal was not as much of a success as it initially appeared?
+        - [ ] Because Mavis Baker was deported
+        - [ ] Because the Officer who made the decision in her case was not disciplined
+        - [ ] Because the Supreme Court failed to grant her residence application
+        - [x] Because the Supreme Court failed to grapple with the issue Mavis Baker’s intersecting vulnerabilities
+        <br>**See, Clutterbuck, at p 63: “I argue that Baker is an apt illustration of the ==inability of courts== to recognize ==how people with intersecting vulnerabilities are targeted and attacked by administrative systems==. I apply Spade’s notion of administrative violence to understand the violence committed against Ms. Baker by Canada’s immigration system and the epistemic violence of legal approaches that privilege procedural questions and ignore the centrality of race, gender, and disability as justiciable issues.” See also page 66: “The facts in Baker provided an opportune moment for the SCC to conceptualize racism, sexism, classism, and ableism as a feature in attitudes among certain personnel in Canada’s immigration system. However, the Court did not engage these central aspects of the case, sweeping their possible justiciability under the proverbial rug.”**
+
+    13. If the presiding member in a matter before the IRB rules against your motion for their recusal on the basis of bias, you should immediately refer the client to a lawyer to seek judicial review of the member’s decision to continue.
+        - [ ] True
+        - [x] False
+        <br>**If the member does not agree that their participation will result in reasonable apprehension of bias, it is ==not necessary to immediately seek judicial review== of the member’s decision to continue. A party’s continued participation in the hearing will not be considered a waiver of the right to raise the issue in later court proceedings, since the issue was raised during the hearing. See Nastasi, c. 5 at p. 113.**
+
+    14. Your client Marcel has been having a tough time recently, and you notice that they are very nervous about their IRB hearing. During the hearing, the presiding member adopts a somewhat aggressive tone with some of the questions posed to your client. You agree that the Member’s tone has been a bit rude, but your client is really upset. These facts suggest that Marcel has a strong basis for asking the member to stand aside on the basis of reasonable apprehension of bias.
+        - [ ] True
+        - [x] False
+        <br>**==the threshold for bias is high==. Bias must be obvious to the reasonable person and must be grounded in evidence. Remarks that are rude will likely not meet this high threshold – see de Grandpré’s dissent in *Committee for Justice and Liberty v National Energy Board* at para. 395. At the same time, if Marcel’s growing anxiety is negatively impacting his ability to provide testimony, a brief mid-hearing “conference” can be requested with the Board member to draw the Member’s attention to Marcel’s condition and request appropriate accommodations. Section 10.1 of Chairperson Guideline 8: Procedures with respect to vulnerable persons appearing before the IRB (which you will learn about in the Refugee Protection course) confirms: “The IRB ensures that all those who appear at its hearings or other proceedings are questioned with sensitivity and respect. This obligation is all the more important in the case of vulnerable persons. In probing the information provided by the person, the IRB will attempt to ==avoid traumatizing== or re-traumatizing the vulnerable person.”**
+
+    15. You are appearing before at the Immigration and Refugee Board. At the beginning of your client's hearing, the presiding member exchanges pleasant greetings with the Minister's representative. You overhear them chatting about the weather and they seem friendly. What should you do?
+        - [ ] Warn the Minister's representative of a possible conflict of interest
+        - [ ] Make notes about the incident to raise an allegation of reasonable apprehension of bias arguments in case you have to appeal the decision
+        - [x] Nothing – it is okay to be friendly in this professional setting
+        - [ ] Immediately request that the Member recuse himself from the proceedings due to personal relationship
+        <br>**While a close relationship with a person whose interests may be affected by the outcome of the case may give rise to an appearance of bias, ==friendly banter== in the hearing room likely does ==not== cross the line so long as the decision-maker is not intervening in the hearing process in a way that persistently favours one party over another. A reviewing court is not likely to consider the presiding Member's conduct in this scenario as rising to the level of reasonable apprehension of bias.**
+
+    16. Your client has been detained for 6 months now. They have a detention review hearing at the IRB. Your client receives an unfavourable decision – they will remain in detention. One week later, you receive an anonymous letter advising that before the decision was released, it was reviewed and changed by the Chairperson. The decision had initially directed that your client should be released. The facts as presented constitute an impermissible incursion on adjudicative autonomy.
+        - [x] True
+        - [ ] False
+        <br>**Tribunal members can seek advice from agency staff and colleagues. However, they must make the final decision ==voluntarily== (see, Module 3.3 in onQ: “Consultation and Advice”). The Chairperson’s intervention likely constituted institutional bias. See also, Nastasi, c. 5, p. 112; and c. 4, pp. 94-98.**
+
+    17. Tribunals are not expected to have the same degree of independence as courts.
+        - [x] True
+        - [ ] False
+        <br>**unless their enabling statutes stipulate otherwise, tribunals are not fully independent from government. They are part of the executive branch and are appointed by it.**
+
+    18. Why does Will Tao suggest that counsel should not be afraid to raise reasonable apprehension of bias?
+        - [ ] Because it is easy to establish on judicial review
+        - [ ] Because arguments about reasonable apprehension of bias often succeed
+        - [x] Because the system can be inherently biased and it is good to point it out
+        <br>**Per Tao: “Counsel should not also be dissuaded by the high-bar or the fear of being criticized, for putting together well-thought out criticisms of the structure of immigration-decision making that i[s] inherently biased. I do see a room for the argument – even if we never have another Baker-like decision that spells out the bias so clearly and unequivocally.”**
