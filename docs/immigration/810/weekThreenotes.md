@@ -139,6 +139,11 @@ tags:
         - ***Quo Warranto***: This is the least common; it is used to challenge a person's entitlement to a public office that they purport to occupy and exercise
     - Once a question is certified, the Federal Court of Appeal is not restricted to considering the certified question but may consider all issues raised by the appeal (*Baker*, at [para. 12](https://www.canlii.org/en/ca/scc/doc/1999/1999canlii699/1999canlii699.html){:target="\_blank"} )
 
+???+ note "3.5 The Constitution and the Charter"
+
+    - The Constitution Act of 1867 provides that immigration is a matter that is subject to concurrent or shared jurisdiction between the two levels of government. Nevertheless, the federal government has been the **dominant** player in this sphere.
+    - *Law Society of BC v. Mangat*. The Law Society of BC unsuccessfully challenged a provision of the former Immigration Act which permitted immigration consultants to represent individuals before the IRB.​
+
 ## Quizzes
 
 ??? note "3.1 Administrative Law"
@@ -510,3 +515,143 @@ tags:
         - [ ] Because arguments about reasonable apprehension of bias often succeed
         - [x] Because the system can be inherently biased and it is good to point it out
         <br>**Per Tao: “Counsel should not also be dissuaded by the high-bar or the fear of being criticized, for putting together well-thought out criticisms of the structure of immigration-decision making that i[s] inherently biased. I do see a room for the argument – even if we never have another Baker-like decision that spells out the bias so clearly and unequivocally.”**
+
+??? note "3.4 Judicial Review"
+
+    1. Your former client Roberto contacts you with good news. On judicial review, the Federal Court just quashed the decision that denied him refugee status. Roberto no longer needs your help, because his refugee status is now granted.
+        - [ ] True
+        - [x] False
+        <br>**While there are exceptions ==(including in the Vavilov case itself)==, courts more commonly send the matter back for redetermination. The court’s judgement should be reviewed to identify whether the matter was directed back to the IRB for redetermination. See Module 3.4 in onQ.**
+
+    2. You are an RCIC representing Salem who has been detained by CBSA for almost a year. Salem has been denied release in every preceding detention review hearing before the Immigration Division of the IRB. He is desperate to be released. You are aware that decisions of the Immigration Division could be judicially reviewed in Federal Court. A habeas corpus application may offer another avenue for challenging the legality of Salem’s continuing detention. What should you do?
+        - [x] Advise Salem that he should consider retaining a lawyer – you are not qualified to represent him before the courts
+        - [ ] Help Salem apply for *habeas corpus*
+        - [ ] Help Salem apply for judicial review
+        - [ ] B and C
+        <br>**Regulated immigration consultants are not authorized to represent clients before the courts, so Salem should be referred to a lawyer to discuss his options.**
+
+    3. Which one of the following circumstances is **NOT** an exception to reasonableness as the default standard of review on judicial review:
+        - [ ] when there are constitutional questions
+        - [x] when there are serious issues of credibility
+        - [ ] when their general questions of law of central importance to the legal system as a whole
+        - [ ] questions regarding the jurisdictional boundaries between two or more administrative bodies
+
+        **In *Vavilov*, the Supreme Court clarified that the presumption of reasonableness review (for judicial review as opposed to statutory appeals), may be rebutted:**
+
+        - where the **legislature** has indicated that a different standard should apply; or
+        - where the rule of law requires review on a **correctness** standard.
+
+        **The Supreme Court further confirmed that this will be the case for questions that fall within one of three categories:**
+
+        - **constitutional questions**, including the constitutional division of powers, whether provisions of a decision-maker’s enabling statute infringe the Charter;
+        - and general questions of law of central **importance to the legal system** as a whole, which require uniform and consistent answers as a result of their impact on the administration of justice as a whole.
+
+        The assessment of credibility does not fall within one of these categorical exceptions.
+
+    4. There has been significant disagreement within the Refugee Appeal Division (RAD) concerning the degree of risk faced by an ethnic minority in country X. About a third of the decisions dealing with appeals from country X in the past six months have been based on clear findings about the deteriorating human rights situation in the country, while the balance have found that state protection for the minority population remains adequate. You represented Ana in her appeal before the RAD. Ana fears return to country X. Her appeal is rejected and she has retained new counsel to pursue a judicial review application. **The existence of internal disagreement within the RAD will rebut the presumption of reasonableness in Ana’s case.**
+        - [ ] True
+        - [x] False
+        <br>**As noted by Deanna Okun-Nachoff (in conversation with Steven Meurrens) in “Borderlines Podcast Episode 35 – The Implications of the Supreme Court of Canada Decision in Vavilov”, the Supreme Court clarified in Vavilov that ==persistent discord within an administrative agency does not change the degree of deference of afforded to the agency’s decision== @ mins 21:00 – 24:12.**
+
+    5. Anna’s application for refugee status in Canada was denied and her appeal to the Refugee Appeal Division was rejected as well. She has exhausted internal appeals within the IRB and has retained counsel to initiate leave and judicial review in Federal Court. Her lawyer has reviewed the Member’s reasons for decision and the full contents of Anna’s case file at the IRB and believes that their decision was legally incorrect and based on a misinterpretation of key evidence. Which of the following should be the lawyer’s argument in relation to standard of review?
+        - [ ] Argue for review on a correctness standard, because then the Court can find the decision was wrong and substitute their own decision
+        - [ ] No need to address standard of review at all
+        - [x] Concede that the applicable standard of review is reasonableness and focus the argument on why the decision was unreasonable
+        - [ ] Argue for review on a correctness standard because of the error of law and focus the argument on why the decision at issue was incorrect
+        <br>**A legal error is reviewable on a standard of reasonableness. Anna’s lawyer should focus on the decision actually made and the justification offered for it in order to construct an argument that the decision was unreasonable per *Vavilov*.**
+
+    6. The Supreme Court found the Immigration Officer’s decision in Mavis Baker’s case unreasonable because:
+        - [ ] the reasons for decision failed to give sufficient weight or consideration to the **hardship** that a return to Jamaica might cause Ms. Baker
+        - [ ] the decision was contrary to the **guidelines** issued by the Minister
+        - [ ] the failure to give serious weight and consideration to the **interests of the children**
+        - [x] all of the above
+        <br>**See, Baker, paras. 63-74.**
+
+    7. The prerogative writ that is used to prevent an administrative decision-maker from doing something that it is not permitted to do, before it does so, is *certiorari*.
+        - [ ] True
+        - [x] False
+        <br>**The prerogative writ that is used to prevent an administrative decision-maker from doing something that it is not permitted to do is *prohibition***.
+
+    8. When the first instance decision contains a factual error, it is not a guarantee of a successful outcome on judicial review.
+        - [x] True
+        - [ ] False
+        <br>**Section 18.1(4)(d) of the Federal Courts Act requires that the decision-maker must have “based its decision or order on an erroneous finding of fact that is made in a perverse or capricious manner or without regard for the material before it’. As noted in Module 3.4 in onQ, ==the bar is very high for overturning factual errors==. Examples included where the decision maker based their decision on a finding fact for which there was no evidence or contrary evidence; or the decision maker ignored evidence directly contrary to the decision reached.**
+
+    9. *Canada (Minister of Citizenship and Immigration) v. Vavilov* concerned:
+        - [ ] the review of a decision by the Immigration Division of the IRB finding that Mr. Vavilov was inadmissible to Canada as the dependents of foreign nationals who had engaged in espionage against Canada’s interests
+        - [ ] the review of a decision by the Immigration Appeal Division of the IRB that removal order against Mr. Vavilov should be upheld
+        - [x] the review of a decision by the Registrar of Citizenship to cancel Mr. Vavilov’s Canadian citizenship
+        - [ ] the review of a decision by a Minister’s delegate to issue a Canadian passport to Mr. Vavilov and his brother
+        <br>**As noted in Module 3.4 in onQ, Vavilov involved the review of the decision of the Registrar of citizenship to cancel Vavilov’s Canadian citizenship. The Registrar held that he was not a Canadian citizen because, although he was born in Canada and would for this reason normally be entitled to citizenship under s. 3(1)(a) of the Citizenship Act, his parents, who had operated in Canada as Russian spies, were at that time “employee[s] of a foreign government” within the meaning of s. 3(2)(a) of the Act. Mr. Vavilov sought judicial review of the Registrar’s interpretation of this provision.**
+
+    10. What are the benefits of the Vavilov decision?
+        - [ ] It provides a simpler approach to determining the applicable standard of review for judicial review
+        - [ ] It has clearly defined the scope of deference afforded to first instance decision makers
+        - [ ] It confirmed that Alexander Vavilov is a Canadian citizen
+        - [x] All of the above
+        <br>**See Vavilov; and Deanna Okun-Nachoff (in conversation with Steven Meurrens) in “Borderlines Podcast Episode 35 – The Implications of the Supreme Court of Canada Decision in Vavilov.”**
+
+    11. In *Vavilov*, the Supreme Court found that the Registrar’s decision should be reviewed on a standard of reasonableness. Why did the Court find the decision unreasonable?
+        - [ ] The Registrar did not justify why she thought Va*v*ilov’s parents fell within section 3(2)(a) of the Citizenship Act
+        - [ ] Because section 3(2)(a) was not intended to apply to children of foreign government representatives
+        - [ ] Because the Registrar failed to address *Vavilov*’s submission without justifying why
+        - [x] All of the above
+        <br>**See Vavilov, para 172.**
+
+    12. An appeal lies as of right to the Federal Court of Appeal from a final judgment of the Federal Court on an immigration or citizenship judicial review.
+        - [ ] True
+        - [x] False
+        <br>**As noted in Module 3.4 in onQ, for those affected by decisions made under the IRPA or the Citizenship Act, an ==appeal from the judgment of the Federal Court== on an application for judicial review may be made ==only if==, when the judgment is rendered, the reviewing judge ==certifies that a serious question of general importance== is involved and states the question (see. IRPA,s.74(d); Citizenship Act, s. 22(d)).**
+
+    13. If an “adequate alternative remedy” (like an internal appeal mechanism granted by statute) is available in a particular administrative context, it should, as a general rule, be exhausted first, before seeking judicial review.
+        - [x] True
+        - [ ] False
+        <br>**As noted in Module 3.4, internal appellate remedies prescribed by the IRPA, must be exhausted first.**
+
+    14. An immigration, refugee or citizenship decision may be challenged on judicial review either on the basis of procedural deficiencies in the administrative process or because of deficiencies in the analysis of the decision maker on the substance of the decision but not both.
+        - [ ] True
+        - [x] False
+        <br>**==The six grounds of judicial review== are set out in s. 18. 1(4) of the Federal Courts Act. It is open to applicants to challenge first instance decisions on any or all of these grounds.**
+
+    15. **Correctness** is the standard of review that applies to determine whether an administrative decision-maker has complied with **procedural fairness**. If a decision maker violated the principles of procedural fairness, the decision is overturned.
+        - [x] True
+        - [ ] False
+        <br>**as noted in Module 3.4 in onQ, this approach to the review of decisions on grounds of procedural fairness violations was confirmed by the Supreme Court, pre-Vavilov.**
+
+    16. Match the items in the left hand column with the applicable provision or item in the right hand column:
+        - Within 15 days of being notified of the decision in the case of a matter arising in Canada (IRPA s. 72(2)(b)): Deadline for notice of application for leave and for judicial review in an immigration matter arising within Canada
+        - Within 60 days of being notified of the decision in the case of a matter arising outside Canada (IRPA s. 72(2)(b)): Deadline for notice of application for leave and for judicial review in an immigration matter arising outside Canada
+        - Within 30 days of being notified of the decision (Citizenship Act, s 22 .1(2)(a)): Deadline for notice of application for leave and for judicial review in a citizenship matter
+        - Full review on the merits: Appeal
+        - Not a hearing *de novo*: Judicial Review
+        - Remit the matter for redetermination by a different decision maker: The most common remedy on judicial review
+        - Substituting the negative decision for a positive decision: An unusual remedy on judicial review
+        - **Federal Courts Act, section 18.1(4)**: One or more of the **six grounds** of review may provide the basis for allowing an application for judicial review
+        - Federal Court Rules, Rule 119: A person may represent themself or be represented by a solicitor
+
+    17. The prerogative writ that is used to compel an administrative decision-maker to perform a duty that it is obliged to perform is mandamus.
+        - [x] True
+        - [ ] False
+        <br>**See “Prerogative Writs” in Module 3.4 in onQ.**
+
+    18. Robert Danay explains the concept of deference with real life examples in “What does standard of review mean?” (Borderlines podcast #35 with Steven Meurrens). What analogy does Mr. Danay use to describe reasonableness as a deferential standard of review?
+        - [ ] A child who is given authority to decide every day what to eat for breakfast
+        - [x] A child who is given authority to choose what their mother should wear every day for a week
+        - [ ] A couple deciding which restaurant to visit for dinner
+        - [ ] A spouse having the final say on which restaurant to visit for dinner
+        <br>**Mr. Danay explains that the standard of review concerns how closely the courts will scrutinize a first instance decision. He uses the analogy of a child who is given authority to choose what their mother should wear every day for a week and the mother has to accept the child’s choice without question unless the choice is “bananas” (when the reasonableness issue is triggered) – an example, he neglects to select any clothing for her legs @ mins. 6:00 – 7:48.**
+
+    19. Once a question is certified, the Federal Court of Appeal is restricted to considering the certified question and may not consider any other issues on appeal.
+        - [ ] True
+        - [x] False
+        <br>**Once a question is certified, the Federal Court of Appeal is ==not== restricted to considering the certified question but may consider all issues raised by the appeal (Baker, at para. 12)**
+
+    20. Persistent discord or internal disagreement within an administrative agency changes the applicable standard of review or degree of deference a court will afford to the decision of that agency.
+        - [ ] True
+        - [x] False
+        <br>**As noted by Deanna Okun-Nachoff (in conversation with Steven Meurrens in “Borderlines Podcast Episode 35 – The Implications of the Supreme Court of Canada Decision in Vavilov”), the Supreme Court clarified in Vavilov that ==persistent discord within an administrative agency does not change the degree of deference of afforded to the agency’s decision== @ mins 21:00 – 24:12.**
+
+    21. The Federal Court delivers most of its decisions orally, from the bench, just after the hearing concludes
+        - [ ] True
+        - [x] False
+        <br>As noted by Justice Norris, the majority of the Federal Court’s decisions are ==written==, not oral. See, Interview with Justice John Norris, Module 3.4, onQ
