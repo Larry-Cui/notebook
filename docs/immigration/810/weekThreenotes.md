@@ -139,10 +139,24 @@ tags:
         - ***Quo Warranto***: This is the least common; it is used to challenge a person's entitlement to a public office that they purport to occupy and exercise
     - Once a question is certified, the Federal Court of Appeal is not restricted to considering the certified question but may consider all issues raised by the appeal (*Baker*, at [para. 12](https://www.canlii.org/en/ca/scc/doc/1999/1999canlii699/1999canlii699.html){:target="\_blank"} )
 
-???+ note "3.5 The Constitution and the Charter"
+??? note "3.5 The Constitution and the Charter"
 
     - The Constitution Act of 1867 provides that immigration is a matter that is subject to concurrent or shared jurisdiction between the two levels of government. Nevertheless, the federal government has been the **dominant** player in this sphere.
     - *Law Society of BC v. Mangat*. The Law Society of BC unsuccessfully challenged a provision of the former Immigration Act which permitted immigration consultants to represent individuals before the IRB.​
+
+???+ note "3.6 The Evolution of the United Nations and the International Human Rights Framework"
+
+    - The ***Magna Carta*** of 1215 is widely considered to be one of the precursors to today’s international human rights framework.
+    - Although there are 63 clauses in the Magna Carta, those that were foundational to evolving ideas about the rule of law and remain applicable today are clauses 39 and 40:
+
+    > “[39] No free man shall be seized, imprisoned, dispossessed, outlawed, exiled or ruined in any way, nor in any way proceeded against, except by the lawful judgement of his peers and the law of the land."
+
+    > “[40] To no one will we sell, to no one will we deny or delay right or justice.”
+
+    - Today’s international human rights framework emerged in the immediate aftermath of the devastation of World War II.
+    - International	law comes from a variety of sources. The two most significant are **customary international law** and **treaty law**. Customary international law is considered to be part of Canadian law to the extent that it modifies the common law. Treaty law is not considered to be part of Canadian law **unless** is has been duly passed into a Canadian statute by federal parliament or a provincial legislature, or in some cases both bodies.
+    - Canada's ‘**dualist**’ approach to international law: Once the executive has ratified a treaty, other states can call upon Canada to honour its treaty commitments, but those commitments will not be part of Canadian law until either federal parliament or a provincial legislature has passed them into domestic statute.
+    - International Law as an Advocacy Tool”: individual petition or complaint system and country reports.
 
 ## Quizzes
 
@@ -655,3 +669,146 @@ tags:
         - [ ] True
         - [x] False
         <br>As noted by Justice Norris, the majority of the Federal Court’s decisions are ==written==, not oral. See, Interview with Justice John Norris, Module 3.4, onQ
+
+??? note "3.5 The Constitution and the Charter"
+
+    1. In Canada v Taino, the Immigration Division considered whether the continuing detention of a permanent resident who could not be deported would violate his Charter rights. What rights were engaged?
+        - [ ] Section 9 – because his unlawful detention was arbitrary
+        - [ ] Section 15 – because his rights to equality were breached
+        - [ ] Section 7 – because section 248 of the Immigration and Refugee Protection Regulations breached his right to liberty
+        - [x] Sections 7 and 9 because Mr. Taino's ongoing detention breached his **right to liberty** and was **arbitrary**.
+        <br>**The Immigration Division ordered Mr. Taino's release on the basis that his ongoing detention violated both sections 7 and 9 of the Charter and was not saved by section 1. It is interesting to note, however, that on judicial review, the Federal Court determined that the matter should be decided by applying principles of administrative law and statutory interpretation. The scheme was ultimately upheld as Charter compliant. The detention was not long enough to engage section 9 of the Charter [*Canada (Public Safety and Emergency Preparedness) v Taino*, 2020 FC 427 (CanLII), <[https://canlii.ca/t/j611t](https://canlii.ca/t/j611t){:target="\_blank"}>].**
+
+    2. Your client is a business class immigrant and owns a parcel of land within the city limits that was subject to an expropriation order. The Expropriations Tribunal upheld the expropriation to facilitate the construction of an extension to the city’s subway system. This Tribunal is exercising a statutory power under the provincial Expropriations Act. Your client did not receive notice of the hearing before the Tribunal. She learned that a hearing had been convened when she received a decision letter in the mail. The consequence of this decision is that your client’s plans to build a shopping mall on the property have been upended, resulting in significant financial losses. Your client intends to invoke a provision in the Expropriations Act to request that the Tribunal reconsider the matter. For the reconsideration hearing, the Tribunal can apply the following authorities to this matter:
+        - [ ] Common law
+        - [ ] Section 7 of the Charter
+        - [ ] Relevant provisions of the Expropriations Act
+        - [x] A and C
+        <br>**The Charter will not be engaged, because your client’s rights to life, liberty, and security of the person are not at stake. Your client’s financial loss does not come within the ambit of s. 7.**
+
+    3. What remedy is a tribunal not permitted to award under section 24(1) of the Charter?
+        - [x] Declare a law unconstitutional
+        - [ ] Overrule a decision-maker
+        - [ ] Refuse to follow a procedure that is contrary to the Charter
+        - [ ] Refuse to apply a law that contravenes the Charter
+        <br>**Section ==52(1)== of the Constitution Act, 1982 is the source of authority for courts and many tribunals to declare a law or provision to be ==unconstitutional==. See, Nastasi, c. 3, p. 77. Note, as well, that it is only by obtaining a declaration of invalidity by a superior court that a litigant can establish the general invalidity of the legislation for all future cases.**
+
+    4. Which of the following would **not** be bound by the Charter?
+        - [ ] A private body carrying out a public policy
+        - [ ] A community college with a board appointed by the provincial government
+        - [ ] A court hearing a criminal trial
+        - [x] A federally incorporated business
+        <br>**The Charter applies to governments, government ministries/departments, agencies, boards, commissions, and maybe some bodies that have a public function and receive public funding, including hospitals. See Nastasi, c. 3 at pp. 60-61.**
+
+    5. What examples does the Springtide Collective video, “The Charter of Rights and Freedoms” use to explain the concept of the Charter as a “living tree”?
+        - [ ] Same-sex marriage
+        - [ ] Legalization of marijuana
+        - [ ] Internet privacy
+        - [ ] Physician-assisted suicide
+        - [x] A and C
+        <br>**@ min. 4:16, the video begins a segment on the Charter as a “living tree”, emphasizing that the Charter changes every time a new ruling is made by the Supreme Court. The video proceeds to cite the examples of rulings on ==same sex marriage and internet privacy==.**
+
+    6. In *Law Society of British Columbia v Mangat*, the Supreme Court of Canada found that immigration as a subject matter fell within provincial and federal jurisdiction. Why, then, did it assign responsibility for the matter to the federal government?
+        - [ ] Because it is more efficient to only have one level of government legislating in the area
+        - [ ] Because the Court trusts the federal government more
+        - [ ] Because the paramountcy doctrine says the federal government’s historical involvement in relation to naturalization and aliens must be respected
+        - [x] Because the **paramountcy doctrine** stipulates that the federal government prevails where there is conflict between federal and provincial legislation
+        <br>**Section 95 of the Constitution Act, 1867 grants to both the federal and provincial legislatures the jurisdiction to legislate in relation to immigration. Where there is an operational conflict, the federal government’s jurisdiction will prevail. See, Aiken, Grey, c. 4.**
+
+    7. In Singh v Minister of Employment and Immigration, which of the following was/were the Court’s reason/s in holding that the procedures for determining refugee status violated the applicant’s section 7 rights?
+        - [ ] The Charter applies to every person present in Canada, regardless of their immigration status
+        - [ ] The concept of “fundamental justice” in section 7 requires that a refugee claimant have an opportunity to state their case and know the case they have to meet; the procedures failed to provide that opportunity
+        - [ ] The scheme violated procedural fairness because refused claimants were not provided access to a statutory appeal on the merits of a refused refugee claim
+        - [x] A and B
+        <br>**The Supreme Court held the ==Charter applies to every person physically present in Canada== and that “fundamental justice”, at a minimum, incorporates the common law rules of ==procedural fairness==, requiring the refugee claimant to be afforded an opportunity to state their case and know the case the case they have to meet. Justice Wilson also expressed the view that “where a serious issue of credibility is involved, fundamental justice requires that credibility be determined on the basis of an oral hearing.” See, Aiken, Grey, c. 4.**
+
+    8. Your client recently attended an admissibility hearing at the IRB to determine whether they are a national security risk. During a break in the hearing, your client overhears the presiding member chatting with a colleague in the hallway. The member remarked that your client “is certainly a hoodlum and a bad actor – it is plain as day.” What should you do?
+        - [ ] Swiftly initiate a notice of constitutional question and raise s.15 of the Charter as this is discrimination based on race, an enumerated ground
+        - [x] Request that the presiding member step down on the basis of reasonable apprehension of bias.
+        - [ ] Suggest your client retain counsel to begin a Charter claim in court against the Member.
+        - [ ] All of the above
+        <br>**This is indicative of an apprehension of bias, not a Charter breach – as there is no action or legislation that interferes with your client’s s.15 rights. Initiating a motion for recusal – that the member step down – on the basis of reasonable apprehension of bias, is the recommended course of action.**
+
+    9. True or false: The Supreme Court of Canada has endorsed the application of the Oakes test, developed for evaluating the compliance of laws with the Charter, to determine the propriety of discretionary immigration decisions.
+        - [ ] True
+        - [x] False
+        <br>**==The Supreme Court of Canada has refused to apply the Oakes test==, developed for evaluating the compliance of laws with the Charter, to determine the propriety of discretionary administrative decisions, including discretionary immigration decisions. The alternative approach chosen by the Supreme Court of Canada was to analyze whether the administrative decision was ==reasonable== overall. Included in this analysis would be a consideration of whether the decision took Charter values sufficiently into account. This involves weighing whether the decision achieves a reasonable balance between furthering the objectives of the statutory regime under which the decision is made and the values underlying the Charter. This balancing exercise must ensure that the Charter protections are limited no more than is necessary to achieve the statutory objectives that the discretionary decision-maker is required to pursue. See, Nastasi, c. 3, pp. 73-74.**
+
+    10. True or false: Provincial influence in relation to immigration matters has been waning in recent years.
+        - [ ] True
+        - [x] False
+        <br>**As noted by Mireille Paquet (cited in Aiken, Grey, c. 4), provincial influence over immigration matters has been growing, resulting in a more crowded and contested regulatory sphere.**
+
+    11. True or false: the remedies tribunals can award under section 24(1) of the Charter are **not** the same as the remedies available to courts.
+        - [x] True
+        - [ ] False
+        <br>**Section ==24(1) allows a court== of competent jurisdiction to provide any remedy that it considers “appropriate and just in the circumstances”. Some tribunals are deemed “courts of competent jurisdiction” while others are not (see Nastasi, c. 3, p. 75). Although this is a potentially broad power, in practice, ==tribunals, as creatures of statute, can only award remedies that are provided for in their enabling statute==. Absent a statutory power to grant remedies such as damages or costs, a tribunal does not have jurisdiction to grant these remedies (in contrast to actual courts). See, Nastasi, c.3, p. 74.**
+
+    12. True or false: to successfully demonstrate that an immigration rule violates section 15 of the Charter, an applicant only has to establish that: the statute, program, policy, or activity results in a disadvantage being imposed on an enumerated ground.
+        - [ ] True
+        - [x] False
+        <br>**to successfully demonstrate that an immigration rule violates section 15 of the Charter, an applicant must establish two elements: that the statute, program, policy, or activity results in a ==disadvantage== being imposed on an enumerated or analogous ground; and this disadvantage results from ==discrimination==, which the Supreme Court has identified as “the perpetuation of prejudice or stereotyping.” See, Nastasti, c. 3, p. 69.**
+
+    13. True or false: immigration status qualifies as an analogous ground under section 15 of the Charter.
+        - [ ] True
+        - [x] False
+        <br>**As per *Toussaint v Canada (Attorney General)*, 2011 FCA 213, Stratas JA held that immigration status does not qualify as an analogous ground under section 15 of the Charter. The reasons were: “immigration status is not a [characteristic] that we cannot change. It is not immutable or changeable only at unacceptable cost to personal identity”… and immigration status is a characteristic that the government has a legitimate interest in expecting the applicant to change. See, Aiken, Grey, c.4.**
+
+    14. What is the threshold for triggering section 7 in relation to a provision of the IRPA or the Citizenship Act?
+        - [ ] You need to demonstrate that the provision negatively impacted the person’s life, liberty, or security.
+        - [ ] You need to demonstrate that the provision is connected to the negative impact.
+        - [ ] You need to demonstrate that the breach is not in accordance with the principles of fundamental justice.
+        - [x] All of the above
+
+        **The onus is on the person claiming s.7 breach. This is established through two steps:**
+
+        - (1) show there has been a ==negative impact==, and that the negative impact actually flows from the impugned legislation.
+        - (2) Demonstrate that it is not justified under ==s.1.== See *Vigo v Canada* at para 49-50:
+
+        > “[49] With a section 7 of the Charter claim such as this, the appellant first has to show that the impugned legislation ==negatively impacts== or limits her life, liberty or security of the person, thus engaging section 7 of the Charter.
+
+        > [50] The appellant must show that the impugned law is sufficiently connected to the prejudice suffered before section 7 of the Charter is engaged, and even if section 7 is found to be engaged, the appellant must then show that the deprivation of her section 7 Charter rights is not in accordance with the principles of ==fundamental justice==.”
+
+    15. Your client, who is currently applying for refugee status in Canada, experiences ongoing racial harassment by a neighbour and wants to pursue legal action. Is there a Charter remedy?
+        - [x] No – the Charter does not apply to the neighbour’s actions.
+        - [ ] Yes – the Charter provides a remedy for discrimination.
+        - [ ] No – prospects for a Charter remedy are slim because it is a he said she said case.
+        - [ ] Maybe – the client should retain a lawyer to assist with a Charter application – the courts will assess whether your client is protected by the Charter.
+        <br>**The Charter applies to governments, government ministries/departments, agencies, boards, commissions, and some bodies that have public functions and receive public funding. It does ==not apply to private activities by private persons==. See Nastasi, c. 3, p. 62; and Aiken, Grey, c.4.**
+
+    16. True or false: In immigration proceedings, the Charter has a broader reach than administrative law because all government bodies are subject to the Charter.
+        - [ ] True
+        - [x] False
+        <br>**Administrative law principles apply more broadly, whereas the ==Charter only applies to public actors== and decisions in specific circumstances. Many immigration and citizenship decisions, for example, are not subject to the Charter, but are subject to administrative law principles. See Nastasi, c. 3, pp 60-62; 73.**
+
+    17. Match the items in the right-hand column below with the applicable provision of the Constitution or Charter in the left-hand column.
+        - **Section 1 of the Charter:** The provision that places the onus on the government to justify the violation of a Charter right
+        - **s. 2 of the Charter:** The ==open justice== principle (freedom of expression and others)
+        - **s. 7 of the Charter:** fundamental justice - Disclosure of government's evidence in a security certificate proceeding
+        - **s. 11 of the Charter:** A fair hearing before an independent and impartial tribunal for a person charged with an offense - Procedural Safeguard
+        - **s. 12 of the Charter:** A decision to deport a non-citizen to a country where they may be tortured - against torture
+        - **Section 13 of the Charter:** The right of witnesses against self-incrimination
+        - **Section 14 of the Charter:** The right to an interpreter in a refugee status determination hearing before the IRB
+        - **Section 15 of the Charter:** The accommodation of the religious customs or observances of a party or a witness in an administrative proceeding - discrimination
+        - **Section 33 of the Charter:** The provision that authorizes Parliament or provincial legislatures to override certain Charter rights - "**notwithstanding**" Clause
+        - **s 91 (25) of the Constitution Act, 1867:** Legislative authority over "Naturalization and Aliens"
+        - **s 92 (13) of the Constitution Act, 1867:** Jurisdiction over "civil rights"
+
+    18. True or false: section 15 of the Charter does **not** consider citizenship status to be an analogous ground of discrimination.
+        - [ ] True
+        - [x] False
+        <br>**In *Andrews v Law Society of British Columbia*, the Supreme Court of Canada held that non-citizens are a group lacking in political power and as such vulnerable to having their interests overlooked and their rights to equal concern and respect violated. ==Non-citizens fall into an analogous category== to those specifically enumerated in s.15. See, Aiken, Grey, c. 4.**
+
+    19. Your client, a Canadian permanent resident, calls you in a panic. Their spouse, a member of a persecuted minority group from their country of origin with no legal status in Canada, has received a removal order and a specific date to report for removal to their country of origin. Your client is worried that their spouse will be targeted and harmed by the authorities if returned to their country of origin. Are Charter rights engaged?
+        - [ ] Yes – because deportation always engages section 7 rights
+        - [ ] No –because deportation never engages section 7 rights
+        - [ ] No - because family unity is not protected under section 7
+        - [x] Maybe - section 7 may be engaged in the context of removal proceedings (and efforts to defer or quash removal orders) where a risk of harm on return is established
+        <br>**Where a risk of harm is alleged in the last stage of removal proceedings, s.7 may be engaged. This is a fact-specific analysis, and will require marshalling evidence to establish that your client’s spouse faces a serious risk of harm in their country of origin. ==Recent case law suggests that Charter arguments related to return cannot be raised before the IRB in most circumstances as those proceedings do not constitute the end point prior to removal See==, Aiken, Grey, c. 4.**
+
+    20. Your client, a Canadian permanent resident, calls you in a panic. Their spouse, a citizen of the Netherlands, who has been living without legal status in Canada for some time, just received a removal order. Your client asks you to help them defer or quash the removal order with the benefit of Charter arguments under s.7 on the grounds that the decision infringes their liberty to enjoy family unity.  Is this possible?
+        - [ ] Yes – because deportation always engages section 7 rights.
+        - [ ] No – deportation of a non-citizen never engages section 7 rights.
+        - [x] No - because courts do not recognize family unity as protected within the ambit section 7
+        - [ ] Yes - because it restricts the freedom to have family unity under section 7.
+        <br>**See *Begum v Canada* at para 100: "==Courts have consistently declined to recognize a right to family unity or family reunification under section 7==. In  *Medovarski*, for example, the appellant had argued that deportation would remove  "her liberty to make fundamental decisions that affect her personal life, including her choice to remain with her partner", and that her security would be infringed  "by the state-imposed psychological stress of being deported"  (at para. 45). The Supreme Court rejected that claim, stating that "the deportation of a non-citizen in itself cannot implicate the liberty and security interests protected by s. 7 of the [Charter]"  (at para. 46)." ==Section 7 may be engaged in removal proceedings where an individual faces risk of serious harm== in the country to which they are being removed. See, Aiken, Grey, c.4.**
