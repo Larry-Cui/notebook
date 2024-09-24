@@ -813,7 +813,7 @@ tags:
         - [ ] Yes - because it restricts the freedom to have family unity under section 7.
         <br>**See *Begum v Canada* at para 100: "==Courts have consistently declined to recognize a right to family unity or family reunification under section 7==. In  *Medovarski*, for example, the appellant had argued that deportation would remove  "her liberty to make fundamental decisions that affect her personal life, including her choice to remain with her partner", and that her security would be infringed  "by the state-imposed psychological stress of being deported"  (at para. 45). The Supreme Court rejected that claim, stating that "the deportation of a non-citizen in itself cannot implicate the liberty and security interests protected by s. 7 of the [Charter]"  (at para. 46)." ==Section 7 may be engaged in removal proceedings where an individual faces risk of serious harm== in the country to which they are being removed. See, Aiken, Grey, c.4.**
 
-???+ note "3.6 International Human Rights Standards"
+??? note "3.6 International Human Rights Standards"
 
     1. True or false: According to Frans Viljoen's "International Human Rights Law: A Short History," the chronological development of three generations of international human rights law correspond roughly with the motto of the French Revolution "Liberté, Egalité, Fraternité", namely: 1) civil and political rights; 2) socio-economic rights; 3) and collective rights (e.g., healthy environment).
         - [x] True
