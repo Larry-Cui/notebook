@@ -144,7 +144,7 @@ tags:
     - The Constitution Act of 1867 provides that immigration is a matter that is subject to concurrent or shared jurisdiction between the two levels of government. Nevertheless, the federal government has been the **dominant** player in this sphere.
     - *Law Society of BC v. Mangat*. The Law Society of BC unsuccessfully challenged a provision of the former Immigration Act which permitted immigration consultants to represent individuals before the IRB.​
 
-???+ note "3.6 The Evolution of the United Nations and the International Human Rights Framework"
+??? note "3.6 The Evolution of the United Nations and the International Human Rights Framework"
 
     - The ***Magna Carta*** of 1215 is widely considered to be one of the precursors to today’s international human rights framework.
     - Although there are 63 clauses in the Magna Carta, those that were foundational to evolving ideas about the rule of law and remain applicable today are clauses 39 and 40:
@@ -812,3 +812,134 @@ tags:
         - [x] No - because courts do not recognize family unity as protected within the ambit section 7
         - [ ] Yes - because it restricts the freedom to have family unity under section 7.
         <br>**See *Begum v Canada* at para 100: "==Courts have consistently declined to recognize a right to family unity or family reunification under section 7==. In  *Medovarski*, for example, the appellant had argued that deportation would remove  "her liberty to make fundamental decisions that affect her personal life, including her choice to remain with her partner", and that her security would be infringed  "by the state-imposed psychological stress of being deported"  (at para. 45). The Supreme Court rejected that claim, stating that "the deportation of a non-citizen in itself cannot implicate the liberty and security interests protected by s. 7 of the [Charter]"  (at para. 46)." ==Section 7 may be engaged in removal proceedings where an individual faces risk of serious harm== in the country to which they are being removed. See, Aiken, Grey, c.4.**
+
+???+ note "3.6 International Human Rights Standards"
+
+    1. True or false: According to Frans Viljoen's "International Human Rights Law: A Short History," the chronological development of three generations of international human rights law correspond roughly with the motto of the French Revolution "Liberté, Egalité, Fraternité", namely: 1) civil and political rights; 2) socio-economic rights; 3) and collective rights (e.g., healthy environment).
+        - [x] True
+        - [ ] False
+        <br>**Vilijoen uses "Liberté, Egalité, Fraternité" to sketch the development of human rights over three generations. However, he emphasizes that despite the historical development, it is best to think of all human rights as "interdependent and indivisible."**
+
+    2. In *Suresh v. Canada (Minister of Citizenship and Immigration)* [excerpted in Aiken, Grey, chapter 4] the Supreme Court concluded that “international law rejects deportation to torture, even where national security interests are at stake”, but went on to suggest that in Canada “exceptional circumstances” could justify deportation to torture. The disjuncture between the UN Convention Against Torture’s (CAT) categorical rejection of state action leading to torture on the one hand, and the Canadian government’s view as expressed in the Suresh case, on the other, is explained by:
+        - [x] the fact that the CAT has not been implemented in Canadian immigration law - the actions of the Canadian government are not directly constrained by the CAT
+        - [ ] the prohibition on return to torture in the CAT is not a jus cogens norm
+        - [ ] the authenticity of the evidence proffered in Suresh’s case
+        - [ ] the risk faced by Suresh failed to go beyond mere theory or suspicion
+        <br>**See, *Suresh v Canada (Minister of Citizenship and Immigration)*, 2002 SCC 1, at paras. 58-78 in Aiken, Grey, Chapter 4.**
+
+    3. Match the following terms, cases and acts to their corresponding descriptions.
+        - **jus cogens:** international norms that bind all states, regardless of their consent to be bound
+        - **dualism:** Canada’s approach to international treaties: not part of Canadian law until implemented into domestic statutes
+        - ***Baker v Canada:*** introduced the principle that ‘values and principles’ of unimplemented international human rights instruments can inform statutory **interpretation** and **discretionary** decision making
+        - ***de Guzman v Canada:*** found that Parliament intended for international human rights instruments to be persuasive and contextual factors in the interpretation and application of the IRPA, but **not determinative**
+        - ***Convention on the Rights of the Child:*** strongly supported by Canada, ratified but not fully implemented in domestic law
+        - ***Convention on the Protection of the Rights of All Migrant Workers and Members of their Families:*** imposes obligations on both migrant-sending and receiving states and has **not been ratified** by any major Western country, including Canada
+
+    4. According to the short film “Universal Declaration of Human Rights,” the Universal Declaration of Human Rights can be described as:
+        - [ ] A response to World War II, which was designed to prevent future atrocities
+        - [ ] A set of provisions that lays out the rights of all people irrespective of race, class, gender, ethnicity, citizenship, etc.
+        - [ ] A source of guidance and inspiration for international, national, and regional human rights work of various types
+        - [x] All of the above
+        <br>**The short film “Universal Declaration of Human Rights” contextualizes the Universal Declaration of Human Rights as a response to the atrocities of World War II (Answer A). It emphasizes that the provisions apply to all people equally (Answer B). Similar to Frans Viljoen’s “International Human Rights Law: A Short History,” the film also stresses that human rights work takes place at many different interrelated levels (i.e., international, national, and regional) (Answer C).**
+
+    5. The ruling in *Pillai v Canada* (2011) is an example of:
+        - [ ] how Canadian law overrides international law (specifically article 7 of the Protocol to the International Covenant on Civil and Political Rights).
+        - [ ] how international law (specifically article 7 of the Protocol to the International Covenant on Civil and Political Rights) overrides Canadian law
+        - [x] how the rulings of international bodies have in a rare cases had a direct impact on individuals in Canada
+        - [ ] how the ruling of international bodies have often had a direct impact on individuals in Canada
+        <br>**According to Aiken, Grey, “International Human Rights Standards & Immigration Law – Part 2,” *Pillai v Canada* was not an example of which set of laws took precedence (which rules out A and B). *Pillai v Canada* was ==a rare example of a ruling of an international body having a direct impact on individuals in Canada==. In this case, the Pillai family was allowed to remain in Canada. In most cases, the rulings of international bodies do not translate into a direct impact for individuals in Canada.**
+
+    6. In the short film “Universality of Human Rights,” Abdullahi An-Naim explores the following tension:
+        - [x] Universal human rights as the right to be the same and the right to be different
+        - [ ] Universal human rights as the right to the same in the face of radical inequities
+        - [ ] Universal human rights as the right to be different in the face of Western imperialism
+        - [ ] All of the above
+        <br>**Adbullahi An-Naim espouses a form of “rooted cosmopolitanism” which attempts to overcome the ==tension between universal rights (the right to be the same) and regional difference (the right to be different)==, which makes Answer A the best answer. Answer B may sound familiar as we’ve come across the tension between the theory and practice of human rights in other texts (e.g., “The Story of Human Rights”). Answer C also represents a common criticism of human rights (i.e., that human rights are a product of Western thought and thus another form of Western imperialism), but that is not An-Naim’s position.**
+
+    7. According to the “Committee Against Torture, Concluding observations on the seventh periodic report of Canada” (2018), which of the following committee recommendations from the previous reporting cycle have been fully implemented:
+        - [ ] Recommendations about the treatment of individuals who are detained as part of the “security certificates” system
+        - [ ] Recommendations about the medical and mental health care services available for non-citizens who are in detention facilities and who have been detained because of an “irregular arrival”
+        - [ ] Recommendations that the State take measures to ensure that confessions obtained under torture or ill treatment are ruled inadmissible
+        - [x] None of the above
+        <br>**Answers A, B, and C correspond to the recommendations not implemented under paragraphs 12, 13, and 17, respectively. See point 9 under the heading “Principal subjects of concern and recommendations”, which outlines which recommendations from the last report were not implemented.**
+
+    8. According to the short film “The Story of Human Rights,” the history of human rights begins in:
+        - [ ] Ancient Greece with Alexander the Great
+        - [x] Ancient Babylon with Cyrus the Great
+        - [ ] Ancient China with Qin Shi Huang
+        - [ ] Pre-revolutionary France with Jean-Jacques Rousseau
+        <br>**Frans Viljoen begins the history of human rights with the Magna Carta in England and the American Declaration of Independence in 1776, but the short film “The Story of Human Rights” reaches farther back in history and points to ancient Babylon / Persia and the Cyrus Cylinder as the first important milestone on the path to the Universal Declaration of Human Rights (1948).**
+
+    9. The authors of “Bots at the Gate: A Human Rights Analysis of Automated Decision-Making in Canada’s Immigration and Refugee System” (2018) highlight which of the following as cause for concern:
+        - [ ] Immigration and refugee law is a high-stakes context, in which people’s lives hang in the balance.
+        - [ ] Canada’s immigration and refugee system is already the source of human rights concerns, and automating it will be tantamount to endorsing the status quo of a flawed system.
+        - [ ] Migrants have limited access to human rights protections and resources with which to defend those rights.
+        - [x] All of the above
+
+    10. According to James Hathaway, the critical shortcomings of the 2018 Global Compact on Refugees include:
+        - [ ] a failure to remedy the operational deficiencies of the Refugee Convention
+        - [ ] a failure to include adequate consultative mechanism for stakeholder groups
+        - [ ] that every large movement of refugees will require a new agreement
+        - [x] A and C
+        - [ ] B and C
+        <br>**Hathaway describes the Refugee Compact process as “thin” and implies that it was an error not to aim for a binding protocol to ==remedy== the operational deficiencies of the Refugee Convention. He also notes that its application to undefined “large” movements will yield a “never-ending series of discussions”. The one clear output of the Compact is that there will be “==lots and lots of meetings==”, ruling out B.**
+
+    11. True or false: The authors of “Bots at the Gate: A Human Rights Analysis of Automated Decision-Making in Canada’s Immigration and Refugee System” (2018) are fundamentally opposed to the use of automated decision-making in Canada’s immigration and refugee system.
+        - [ ] True
+        - [x] False
+        <br>**The authors of “Bots at the Gate” are concerned about the potential for human rights abuses, but they are ==not fundamentally opposed== to the idea of automated decision-making. Implemented appropriately, automated decision making could reduce discrimination and nepotism and make the system “more transparent, equitable, and just.”**
+
+    12. 1. According to Frans Viljoen’s “International Human Rights Law: A Short History,” the history of human rights is best described as:
+        - [ ] A global history under the guidance of the United Nation’s Charter
+        - [ ] A regional history under three large umbrellas: the Council of Europe, the Organization of the American States (OAS) and the Organization for African Unity (OAU)
+        - [ ] A sub-regional history in which sub-Regional Economic Communities (RECs) play the most important roles in protecting human rights
+        - [x] A complex history that links global, regional, sub-regional and nongovernmental organizations in common cause
+        <br>**Viljoen organizes his text in such a way as to emphasize that human rights work is ==done at many different, interrelated levels (global, regional, sub-regional and nongovernmental)==. He dispels the popular notion that human rights are the sole purview of the United Nations.**
+
+    13. In “Committee Against Torture, Concluding observations on the seventh periodic report of Canada” (2018), the Committee recommends that the State “consider undertaking an assessment of the impact of the Safe Third Country Agreement on potential asylum seekers arriving from”:
+        - [ ] Afghanistan
+        - [ ] South Africa
+        - [x] the United States of America
+        - [ ] all of the above
+        <br>**Although Canada considers the United States a safe country for asylum claimants to seek and obtain protection when they meet the definition of a refugee, the Committee is concerned about an increase “in the number of individuals in the United States wishing to seek asylum in Canada in an attempt to flee aggressive anti-immigration policies” and asks Canada to reassess whether the US is indeed a safe country for asylum claimants.**
+
+    14. How can international law be used as an advocacy tool in Canadian migration law?
+        - [ ] the individual complaints procedure and the group complaints procedure
+        - [ ] the individual complaints procedure and media pressure on government
+        - [x] the **individual complaints** procedure and the requirement for **period reporting**
+        - [ ] the individual complaints procedure and appeals to the United Nations system
+        <br>**In “International Human Rights Standards & Immigration Law – Part 2”, Aiken, Grey et al make no distinction between individual complaints and group complaints, which rules out Answer A. Answer B is partially true insofar as the UN reporting process subjects countries like Canada to public/media scrutiny, but the UN reports themselves (not the media coverage of them) represent the advocacy tool, which makes C the best answer. Answer D refers to the same thing using two different terms: the “individual complaints procedure” and “appeals to the UN system” are one and the same.**
+
+    15. In *Suresh v Canada* (2016), Canada argued:
+        - [ ] that extended periods of detention during deportation do not violate the American Declaration.
+        - [ ] detention during deportation proceedings does not violate the right to equality under the American Declaration.
+        - [ ] that Mr. Suresh’s complaints under the American Declaration were moot.
+        - [x] all of the above.
+        <br>**See, Suresh v. Canada (2016), paras. 20-29.**
+
+    16. In “Technological Testing Grounds” (2020), how do technological advances threaten the human rights of migrants:
+        - [ ] The automated drones that patrol national borders force migrants to take more dangerous migration routes, which results in an increased number of deaths.
+        - [ ] Algorithms used to assess people’s “credibility” integrate the same discriminatory standards as human decision-makers.
+        - [ ] Partnerships between governments and private companies endanger the privacy of people whose information is collected (e.g., at borders).
+        - [x] All of the above
+
+    17. According to the short film “The Story of Human Rights,” this history of human rights is best described as:
+        - [ ] A slow but straight-forward trajectory toward the liberation of humankind from absolutist rule
+        - [x] A slow, spiral-like development in which progress is followed by regression
+        - [ ] A ambivalent development that exposes the weaknesses of liberal democracy at the same time that it protects minority rights
+        - [ ] A fast-paced and straight-forward trajectory toward a cosmopolitan future in which all people enjoy equal rights
+        <br>**“The Story of Human Rights” portrays the development of human rights as ==slow but not straight forward==, which rules out A and D. Answer C may sound familiar as Frans Vilijoen hints at the origin of human rights in the weaknesses of liberal democracy and “majority rule.” Answer B is the best summary of the short film “The Story of Human Rights” as it captures both the speed of the development as well as the back and forth between progress (e.g., the Magna Carta) and regression (e.g., the Holocaust) in the history of human rights.**
+
+    18. Which of the following best describes Canada’s approach to international law:
+        - [ ] Canada ratifies all international conventions, which provide a source of values and principles that inform the interpretation of Canadian law.
+        - [ ] Canada ratifies all international conventions, which then give rise to domestically enforceable obligations.
+        - [ ] Canada ratifies most international conventions, which then give rise to domestically enforceable obligations.
+        - [x] Canada ratifies most international conventions, but few have been systematically incorporated into Canadian law.
+        <br>**According to Aiken, Grey, Canada has not ratified the Convention on the Protection of the Rights of All Migrant Workers and Members of their Families, which rules out Answers A and B. Furthermore, Canada ratifies most international conventions but does not systematically integrate them into Canadian law, which renders them unenforceable in court and rules out Answer C.**
+
+    19. What is the Magna Carta and why is it still important today?
+        - [ ] The Magna Carta is a thirteenth-century historical document that established the separation of church and state in England and thus served an important precursor for the creation of liberal democracy and the international human rights framework.
+        - [x] The Magna Carta is a thirteenth-century historical document that established the rule of law in England and is considered a precursor to today’s international human rights framework.
+        - [ ] The Magna Carta is a thirteenth-century historical document that established England as a constitutional democratic monarchy, thus limiting the power of the king.
+        - [ ] The Magna Carta is a thirteenth-century historical map (Latin “Carta”) that outlined the geographical boundaries of the English nation.
+        <br>**The Magna Carta did not establish the separation of church and state. In fact, the pope overturned the Magna Carta, declaring it “null and void of all validity forever” (which rules out Answer A). The Magna Carta also ==did not establish England as a constitutional democratic monarchy==, though it was a stepping stone in that direction (which rules out Answer C). “Carta” means “charter” in Latin, not “map” (which rules out Answer D).**
