@@ -61,7 +61,7 @@ tags:
             - **Study**: then the FN must apply for and be granted a Study Permit before they request entry to Canada
             - **Work**: then the FN must apply for and be granted a Work Permit before they request entry to Canada
 
-???+ note "4.2: Temporary entry"
+??? note "4.2: Temporary entry"
 
     - IRPR regarding temporary resident status:
           - s. 191 IRPR – visitor
@@ -314,3 +314,79 @@ tags:
         - [ ] Using narrow questions to determine the core legal issue involved
         - [ ] Asking multiple questions about different topic areas
         <br>**Cochran discusses the importance of ensuring that you have gotten everything of value on a particular area before moving on (p. 60).  He calls this approach "data mining" which implies drilling down until all valuable information has been extracted.**
+
+??? note "4.2 Temporary Resident Status"
+
+    1. Melissa is a citizen of Cambodia. She would like to visit her sister in Canada for one (1) month. She applied for and was granted a Temporary Resident Visa (TRV) that is valid from September 1st, 2021 to November 15th, 2021. Although she has planned this trip for a while, the only flight into Canada she could get has her arriving on November 15th, 2021. Is Melissa allowed to be granted entry to Canada?
+        - [x] Yes – The TRV is still valid and thus, she can request entry.
+        - [ ] No – The TRV is no longer valid and thus, she cannot request entry.
+
+    2. A person can work in Canada without a Work Permit (WP).
+        - [x] True
+        - [ ] False
+        <br>**A person with a study permit can work off campus for maximum 20 hours per week.**
+
+    3. When is a Study Permit not required to study in Canada?
+        - [x] when the entire course or program is 6 months or less in duration (and not part of a longer program)
+        - [ ] Individuals from an eTA required country don’t need a study permit because they are Visa-exempt
+        - [ ] When the individual is seeking to study at a non-DLI institution
+        - [ ] Anyone completing a Ph.D program doesn’t need a study permit as the government is seeking to fill Canada’s knowledge gap
+
+    4. Temporary resident visa - Process: a TRV application should include (check all that apply):
+        - [x] country specific documents
+        - [x] Family information form IMM 5645 or IMM 5707
+        - [ ] Family information form is not needed if family is not travelling to Canada
+        - [x] Document checklist
+        - [x] Government application fee of $100 CAD
+        - [ ] No photo is required
+        - [x] Electronic visa application specific photo
+        - [ ] Application for Permanent Resident status IMM0008
+        - [ ] Government application fee of $155 CAD
+        - [x] Application for Temporary Resident Visa IMM5257
+        - [x] Bank statement or other financial records to demonstrate sufficient funds for their stay in Canada
+
+    5. If an FN simply wants to visit, what's the first thing you should consider?
+        - [ ] Length of stay – as this will determine what documents are needed
+        - [x] Nationality – as this will determine what, if any, documents are needed for entry Canada
+        - [ ] Processing time – as this will affect how long the FN can stay in Canada
+        - [ ] Reason for visit – as this will determine whether or not the Officer will allow the person to enter Canada
+
+    6. If a Temporary Resident Visa (TRV) allows a person to enter Canada as a Temporary Resident and stay up to six (6) months, unless otherwise indicated by a CBSA Officer, then what is a Visitor Record?
+        - [ ] A Visitor Record is a status document that is issued to a foreign national who was unable to obtain a Temporary Resident Visa (TRV).
+        - [x] A Visitor Record is a status document issued to a foreign national to extend or limit their stay in Canada, and/or to specify conditions of their stay.
+        - [ ] A Visitor Record is the notation in the Global Case Management System (GCMS) that records the date, time and place of the applicant’s entry to Canada.
+        - [ ] A Visitor Record is a status document that is issued to a foreign national who is inadmissible to Canada.
+
+    7. Temporary Resident Requirements. Match the items to proper category
+          1. eTA National:
+            - This individual must pay $7 for their application
+            - This individual gets an email that verifies the 5-year validity of their authorisation
+            - This process is only needed if the person is flying into Canada
+          2. TRV required National:
+            - This individual must pay $100 with their application
+            - This individual gets a counterfoil pasted into their passport
+            - This individual must complete an IMM 5257 application form
+          3. Exempt from a TRV and eTA:
+            - A Permanent Resident of Canada would like to enter Canada
+            - No fee is required for this national to enter Canada and visit
+            - An individual from a visa-exempt country is taking a boat to Canada
+
+    8. Shamina is a citizen of the Bahamas. She has been granted Temporary Resident status as a visitor by the CBSA officer at the border. While at the border, the CBSA officer reminded her that her eTA is set to expire in two (2) months. Shamina was thankful for the reminder and told the officer that she only wanted to visit for three (3) weeks. Her sister is in Canada on a valid Study Permit and is attending Queen’s University to study chemistry. How long is Shamina authorised to stay in Canada? Select the best answer.
+        - [x] She is permitted to stay in Canada for **up to 6 months** or as otherwise indicated by an officer.
+        - [ ] She is permitted to stay in Canada for up to three (3) weeks.
+        - [ ] She is permitted to stay in Canada for two (2) months, as her eTA will expire.
+        - [ ] She is permitted to stay in Canada for up to six (6) months.
+
+    9.  Temporary resident - Process. Identify from the list below what other supporting documents you would collect and submit on behalf of your client? (mark all that apply)
+        - [x] Evidence of employment in home country to demonstrate reason for return
+        - [x] Bank statement or other financial records to demonstrate sufficient funds for their stay in Canada
+        - [ ] Gym membership to demonstrate good health
+        - [x] Invitation to Canada or details about the reason for the visit
+        - [ ] Photos of house pets to demonstrate reason for return
+        - [ ] Marriage certificate
+
+    10. A Temporary Resident can be a visitor, student or worker. Depending upon the foreign national's citizenship and admissibility, a Temporary Resident Permit (TRP), a Temporary Resident Visa (TRV) or Electronic Travel Authorization (eTA) may also be required. In light of this, which of the following statements is **false**:
+        - [x] A business visitor to Canada is not a Temporary Resident.
+        - [ ] A Study Permit holder is a temporary resident who is authorised to study in Canada.
+        - [ ] A person who has been authorised to work in Canada has the same obligations as temporary residents.
+        - [ ] A person who seeks Temporary Resident status must meet the eligibility requirements for the category under which they have applied.
