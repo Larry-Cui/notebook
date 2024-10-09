@@ -133,7 +133,7 @@ tags:
         - [x] Have all your notes and supporting documentation on the computer screen
         <br>**There are additional challenges and preparation required for online interviews, including ensuring that you have the technical requirements and supports to conduct an online interview, have minimized distractions in your background, have a professional appearance, and have the camera set up so that it is at eye level (pp. 69-72).  <span class="Coral">It is not recommended to have your screen cluttered with notes and documents that you read off the screen</span>.**
 
-???+ note "5.1 Module 5: Chapter 5 of Cochran's Interviewing Skills"
+??? note "5.1 Module 5: Chapter 5 of Cochran's Interviewing Skills"
 
     1. According to Cochran, what are the three things that active listening communicates:
         - [ ] Content; Emotion; Response
