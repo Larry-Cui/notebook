@@ -166,6 +166,29 @@ tags:
         - Can Magda’s sister co-sign if Magda does not meet the income threshold? **No!** Magda’s sister cannot be a co-signer. Her husband could co-sign. See R 132(5).
     - For parents and grandparents, a sponsor must first be "**invited to apply**" before submitting a sponsorship application. Read more about this process in the IRCC guidance on "How will the 2020 Parents and Grandparents Program intake process work?"​
 
+???+ note "5.3: Economic Class"
+
+    - [Byrne v. Canada 2017 FC 640](https://canlii.ca/t/h4pxv){:target="\_blank"}: Think about the differences between an ”employee” and “self-employed”. This Federal Court case emphasizes that **self-employed individuals cannot qualify under the CEC category**.
+    - There are two separate and distinct ways to apply to the PNP program:
+        - the foreign national can apply directly to the PNP (“**Base**” nominations) and
+        - the foreign national is selected via the Express Entry program (“**Enhanced**” nominations).
+    - "Intention to reside". Under the PNP category one of the requirements is that the foreign national “**intends to reside in the province** or territory that nominated them.” ​Review the IRCC website "[Processing Provincial Nominee Program (PNP) applications](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/provincial-nominees/examination-granting-permanent-residence-provincial-nominee.html){:target="\_blank"}".
+    - The many categories of the Economic Class:
+        - **Federal Skilled Workers (FSW)​**
+        - **Canadian Experience Class (CEC)​**
+        - **Federal Skilled Trades (FST)​**
+        - **Start-up Business Class​**
+        - *Investors (CLOSED)*
+        - *Entrepreneurs (CLOSED)*
+        - **Self-employed Persons Class**
+        - **Quebec Economic Classes and Provincial Nominee Programs (PNP)​**
+        - *Immigrant Investor Venture Capital Class (ON HOLD)​*
+        - **Atlantic Immigration Program​ (AIP)**
+        - **Caregiver classes​**
+        - **Rural and Northern Immigration Pilot Program​**
+        - **Agri-Food Pilot (AFP)**
+        - **Economic Mobility Pathways Pilot**
+
 ## Quizzes
 
 ??? note "5.1 Chapter 4 of Cochran's Interviewing Skills"
@@ -390,7 +413,7 @@ tags:
         - [x] A Permanent Resident cannot be granted a Canadian passport.
         - [ ] A Permanent Resident cannot run for Federal office, but they can run for a position at the Municipal level of government.
 
-???+ note "5.2.5 Family Class"
+??? note "5.2.5 Family Class"
 
     1. In the matter of *Gritsan v MCI (Citizenship and Immigration)*, 2004 Canlii 56726 (CA IRB), what was the main issue that the Board was called upon to decide?
         - [ ] None of the above
@@ -491,3 +514,72 @@ tags:
         - [ ] The person is in default of a previous sponsorship agreement
 
         - Only certain very specific Criminal Code convictions exclude a sponsor from eligibility, and even then the exclusion is not permanent. **Most criminal offences will not exclude a sponsor**.​ See: Desloges & Sawicki, Chapter 7, s. III B "Bars to Sponsorship." ==**Convictions that will bar**== sponsorships include committing or attempting to commit a **sexual assault** on any person, committing or attempting to commit an indictable offence that involves the use of **violence** and that had a maximum term of imprisonment of at least **10** years, and committing or attempting to commit an offence that results in **bodily harm against a relative or extended family member**. See: **s. 133(e)** of the IRPR for the full list of exclusions.
+
+??? note "5.3.2 Chapter 6 of Cochran's Interviewing Skills"
+
+    1. “Shotgun” questions are useful at all stages of the interview process
+        - [ ] True
+        - [x] False
+        <br>**Shotgun questions pepper the client with a bunch of distinct questions all at the same time. It can be confusing for the client and equally confusing for the interviewer to sort out what the response means.**
+
+    2. When is it appropriate to use closed or narrow questions?
+        - [ ] When you are trying to elicit specific information
+        - [ ] When a client is nervous or forgetful
+        - [ ] When a client is excessively talkative
+        - [x] All of the above
+        <br>Open questions help elicit more information, while narrow or closed questions help flush out **specific details**. It is also helpful to use more closed questions when your client is **nervous or forgetful**.  In addition, if you have a client who is long-winded, closed questions help keep your client **focused** on the relevant information (pp. 117-118).
+
+    3. True or False:  According to the funnel sequence, it is best practice to start an interview with a series of narrow questions.
+        - [ ] True
+        - [x] False
+        <br>The **funnel sequence** begins with broad open questions at first and then moves to more narrow specific questions (p. 125).
+
+    4. True or False: It is vital to get all the information required in the initial client interview.
+        - [ ] True
+        - [x] False
+        <br>It is **not always possible** to obtain all the required information needed in the initial client interview, and often some type of follow up is required (p. 132).
+
+    5. If you want to determine what your client learned in his first ski lesson, the following questions could be asked. An example of a good approach for an initial interview might be:
+        - [ ] They couldn't have taught you much in half an hour.
+        - [x] Can you tell me what the first lesson consisted of?
+        - [ ] Did you learn how to turn or slow down in that lesson?
+        - [ ] Did they teach you how to snowplow in the first lesson?
+        <br>Yes, an open question approach would work best. By asking, “Can you tell me what the first lesson consisted of?” the interviewer provides an opportunity for the client to recount his experience without interviewer contamination. This approach avoids the problem that comes when the interview is restricted to the interviewer’s anticipated answers.
+
+    6. It’s a best practice in interviewing to use open questions at all stages of the interview process.
+        - [x] True
+        - [ ] False
+        <br>**Open questions are useful at all stages of an interview.** That doesn’t mean there isn’t a place for closed or narrow questions but if you value quality information, give the client a chance to provide you with it rather than trying to show how smart you are by jumping to conclusions, even those that you think are obvious.
+
+    7. Which of the following is **an example of an open question**?
+        - [ ] You have come here today to discuss your visa application, correct?
+        - [x] Tell me what has brought you here today?
+        - [ ] Has your visa application been denied?
+        - [ ] Do you know when your visa application was sent?
+
+    8. An interview solely using closed questions will be:
+        - [ ] be dominated by the interviewer’s perspective on the situation.
+        - [ ] will not leave any room for the nuances of the client’s personal experience or point of view.
+        - [ ] effective in uncovering the specifics particular to the client’s experience.
+        - [x] A and B
+
+    9. True or False: The following are all examples of **probing questions**:
+        - The accident happened at 1:30 p.m., so you hadn't been drinking?
+        - You didn't see whether he picked up the knife, I take it?
+        - You were sober when you left your house?
+        - Would I be correct to assume you want to submit your permanent residence application very quickly so you can get on with your life?
+        - [ ] True
+        - [x] False
+        <br>These questions are all examples of **leading questions**. By asking leading questions, the interviewer influences or directs the respondent to an answer that the interviewer either prefers or, at the very least, anticipates. The interviewer tends to restrict the potential answers when leading and thus corrupts the information being received. A leading question directs the respondent to an answer, thereby injecting the interviewer's perspective into the interview.
+
+    10. Let's say you want to elicit some information about the quality of instruction. Would you ask:
+        - [x] What can you tell me about the quality of instruction in the class?
+        - [ ] Did the instructor tell you how much teaching experience he had?
+        - [ ] Did the instructor seem to know what he was talking about or not?
+        - [ ] I don't imagine they pay these instructors very much, do they?
+        - [ ] Were any of your instructors Swiss?
+
+    11. True or False: Either/or questions can be misleading because they imply that there are only two possibilities in a given situation.
+        - [x] True
+        - [ ] False
+        <br>While there are often two obvious or even likely actions, usually there are **a multitude of possibilities**. Even when there are only two possibilities, by posing an either/or question the interviewer loses the benefit of hearing the description in the client's own words. This can be extremely valuable in alerting the immigration consultant to subtle nuances in the circumstances of the situation and in knowing how the client will manage the litigation process.
