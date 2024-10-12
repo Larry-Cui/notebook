@@ -166,7 +166,7 @@ tags:
         - Can Magda’s sister co-sign if Magda does not meet the income threshold? **No!** Magda’s sister cannot be a co-signer. Her husband could co-sign. See R 132(5).
     - For parents and grandparents, a sponsor must first be "**invited to apply**" before submitting a sponsorship application. Read more about this process in the IRCC guidance on "How will the 2020 Parents and Grandparents Program intake process work?"​
 
-???+ note "5.3: Economic Class"
+??? note "5.3: Economic Class"
 
     - [Byrne v. Canada 2017 FC 640](https://canlii.ca/t/h4pxv){:target="\_blank"}: Think about the differences between an ”employee” and “self-employed”. This Federal Court case emphasizes that **self-employed individuals cannot qualify under the CEC category**.
     - There are two separate and distinct ways to apply to the PNP program:
@@ -583,3 +583,51 @@ tags:
         - [x] True
         - [ ] False
         <br>While there are often two obvious or even likely actions, usually there are **a multitude of possibilities**. Even when there are only two possibilities, by posing an either/or question the interviewer loses the benefit of hearing the description in the client's own words. This can be extremely valuable in alerting the immigration consultant to subtle nuances in the circumstances of the situation and in knowing how the client will manage the litigation process.
+
+??? note "5.3.3 Economic Immigration"
+
+    1. Immigration is the shared responsibility of Immigration, Refugees and Citizenship Canada (IRCC), Canada Border Services Agency (CBSA) and Economic and Social Development Canada (ESDC). Which of the following is NOT the responsibility of ESDC?
+        - [ ] To verify that the job offer is genuine
+        - [x] To verify that the foreign national has the requisite educational background to perform the duties outlined in the job offer
+        - [ ] To verify that the Canadian employer has completed a genuine search for a local candidate to fill a labour shortage
+        - [ ] To verify that the working conditions meets the required legal standards
+
+    2. Kaylie is a citizen of the UK. She got a new job in 2016 and although she has been stationed out of the UK, her new job has required her to travel a lot. Kaylie has always obtained the proper immigration paperwork for her business travels. In the past ten (10) years, she has temporarily resided in the following countries:
+        - 20 January 2019 to 20 March 2019 – India;
+        - 22 June 2018 to 3 January 2019 – USA;
+        - 15 February 2018 to 19 April 2018 – China;
+        - 3 August 2017 to 18 October 2017 – India;
+        - 28 May 2017 to 18 July 2017 – Nigeria;
+        - 2 March 2017 to 24 April 2017 – India;
+        - 20 January 2017 to 12 February 2017 – China
+        - 3 September 2016 to 12 December 2016 – India.
+
+        You have been retained to compile Kaylie's application for Permanent Resident status via the Express Entry Federal Skilled Worker category. From which country or countries must Kaylie obtain a police clearance certificate? Select the best answer.
+
+        - [x] The UK, as it's her country of residence, and the USA as she resided there **for 6 months or more in a row**
+        - [ ] She should obtain police clearance certificates from all of these countries, as the IRCC Officer may require these documents
+        - [ ] The UK as it's her country of residence and the USA and India as she resided there for a total of 6 months or more.
+        - [ ] The USA only, as she resided there for 6 months or more in a row
+
+    3. George is citizen of the UK and is currently in Canada on an open three-year Post-Graduate Work Permit. He obtained his Master's in Astronomy from Queen's University and since his graduation, two years ago, he has been working in a full-time position with the Canadian Space Agency (CSA) as a Senior Astronomer. He is earning approx. $100k a year and the prevailing wage for his position is $87k. The CSA has offered him a permanent full-time position with the organization. The CSA has put their job offer in writing, in support of his Permanent Resident application via the online Express Entry portal. George has asked you whether he can be granted points for "arranged employment". What is the best response?
+        - [ ] Yes – Because the employer has offered him a permanent and full-time position after he becomes a Permanent Resident of Canada.
+        - [x] No – Because he is on an open work permit and thus points for "arranged employment" cannot be awarded unless the employer provides a formal written job offer for at least one year of full-time employment
+        - [ ] No – Because it must be a government approved job offer in order to be awarded points for "arranged employment".
+        - [ ] Yes – Because he has worked for at least one year for the specific employer who has offered him a written job offer.
+        <br>In order for arranged employment to qualify towards points in Express Entry, the foreign national must have either **(1) an LMIA for ESCE and a formal written job offer**, OR **(2) be working for a specified employer for at lease 1 year on an LMIA-exempt work permit, AND have a written formal job offer for at least one year**.  Since, the Post Graduate Work Permit is an open work permit, the job offer that George has will not qualify towards additional points for arranged employment, unless the employer provides a written job offer for at least one year of full-time employment.  See: Desloges & Sawicki, Chapter 8, s. III "Express Entry."
+
+    4. True or false: Most immigrants earn less at entry but catch up after a number of years in Canada.
+        - [ ] True
+        - [x] False
+
+    5. When a foreign national meets all of the criteria to become a Permanent Resident of Canada, they are issued the following document(s), which must be presented at the port of entry or to an IRCC officer within Canada:
+        - [ ] A confirmation of permanent residence document and a landed immigrant document
+        - [x] A confirmation of permanent residence document and a permanent resident Visa or eTA (if needed)
+        - [ ] A permanent resident card
+        - [ ] A confirmation of permanent residence document and a permanent card
+
+    6. The basic eligibility requirements for the Canadian Experience Class (CEC) category include:
+        - [x] The applicant must have completed a minimum of one year of work in Canada on a valid work permit in a TEER 0, 1, 2, or 3 occupation.
+        - [ ] The applicant must have completed a minimum of one year of work in Canada in a TEER 0, 1, 2, or 3 occupation, including self-employment and work performed while a full-time student.
+        - [ ] The applicant must have completed a minimum of one year of work in Canada on a valid work permit in a NOC O or A occupation.
+        - [ ] The applicant must have completed a minimum of one year of work in Canada or abroad in TEER 0, 1, 2, or 3 occupation.
