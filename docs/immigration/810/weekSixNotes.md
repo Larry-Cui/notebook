@@ -39,7 +39,7 @@ tags:
     - The Four Rs of a trauma-informed approach:
         <a href="https://lh3.googleusercontent.com/pw/AP1GczNZsfZMEKhgWyECdFtzimGuXI3UHUmmx3SxLgJWAhlQkggltbwGAERlSEFQwQW2e4puwNFpSxp66rY5nA7ukntw3ALIUnE5ahSUYD7PnECHGcbOWUE=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczNZsfZMEKhgWyECdFtzimGuXI3UHUmmx3SxLgJWAhlQkggltbwGAERlSEFQwQW2e4puwNFpSxp66rY5nA7ukntw3ALIUnE5ahSUYD7PnECHGcbOWUE" style="width: 100%" /> </a>
 
-???+ note "6.2: Detention & removal"
+??? note "6.2: Detention & removal"
 
     - There is **no statutory limit** (or even soft law limit) to the length of immigration detention in Canada (90 days for France; while for EU member states, the upper limit is 18 months).
     - In the absence of actual law reform, the grounds upon which detention is mandated remains the same and judicial oversight remains limited. The Federal Court considers only the “**reasonableness**” of detention review decisions, and frequently stays release decisions and upholds continued detention orders.
@@ -70,7 +70,40 @@ tags:
     - For the vast majority of people, the reason they are detained is flight risk pursuant to **s 58(1)(b)** of the IRPA.
     - Federal Court of Appeal’s decision in *Canada (Minister of Citizenship and Immigration) v. Thanabalasingham* 2004 FCA 4 Online, is still considered a leading precedent on the approach to this question. " However, previous decisions to detain the individual must be considered at subsequent reviews and the Immigration Division must give **clear and compelling reasons for departing** from previous decisions."
     - Section **58(1)** of the IRPA provides that the **onus** to justify detention remains with the **Minister** at each subsequent review.
-    - Supreme Court’s decision in *Canada (Public Safety and Emergency Preparedness) v Chhina* 2019 SCC 29 (CanLII), [Online](https://canlii.ca/t/j075t){:target="\_blank"}. Prior to the ruling in *Chhina*, the law was unclear as to whether provincial superior courts had the jurisdiction to hear applications for habeas corpus from immigration detainees, due to the existence of an alternative remedy under the IRPA. In its ruling in Chhina, the Supreme Court identified some important gaps in the IRPA’s detention review scheme, concluding that the scheme is not equally as broad and advantageous as *habeas corpus*.
+    - Supreme Court’s decision in *Canada (Public Safety and Emergency Preparedness) v Chhina* 2019 SCC 29 (CanLII), [Online](https://canlii.ca/t/j075t){:target="\_blank"}. Prior to the ruling in *Chhina*, the law was unclear as to whether provincial superior courts had the jurisdiction to hear applications for habeas corpus from immigration detainees, due to the existence of an alternative remedy under the IRPA. In its ruling in *Chhina*, the Supreme Court identified some important gaps in the IRPA’s detention review scheme, concluding that the scheme is not equally as broad and advantageous as *habeas corpus*.
+    - What is a Security Certificate? The security certificate process within the Immigration and Refugee Protection Act (IRPA) is an immigration proceeding for the purpose of removing from Canada **non-Canadians** who are **inadmissible** for reasons of national security, violating human or international rights, or involvement in organized or serious crimes. **Only permanent residents or foreign nationals can be subject to a security certificate.**
+    - How is an immigration security certificate procedure initiated and reviewed?
+        - This alternative to the regular process is initiated by the **Minister** of IRCC and the **Minister** of Public Safety and Emergency Preparedness when they exercise the authority granted by **s 77** of the IRPA and sign a security certificate.
+        - Once signed, the certificate is **referred to a Federal Court** judge who must determine its reasonableness. The determination may be **appealed** to the Federal Court of Appeal only if the judge certifies that a serious question of general importance is involved.
+        - A certificate that is determined to be reasonable is conclusive proof that the individual is inadmissible and is deemed to be a **removal** order that is in force (IRPA, s 80).
+    - The process of removal:
+        - begins with an officer’s **inadmissibility report** made under the authority of **s 44(1)** of the IRPA. This report (also known as a “**section 44(1) report**”) outlines **reasons** for concluding that the individual in question is inadmissible.
+        - The report is forwarded to the **Minister’s delegate**, who must determine whether the report is **well-founded**.
+        - Under **s 44(2)**, the Minister’s delegate may make a removal order in relation to permanent residents **only when** the ground of inadmissibility is a failure to meet the **residency requirements**.
+        - In relation to foreign nationals, **s 228** of the IRPR specifies the straightforward cases where the Minister’s delegate may issue a **removal order**, including cases where the person has been convicted of a **criminal** offense in Canada, cases of **misrepresentation**, and cases where the individual has an **inadmissible family member**.
+        - In all other cases, the Minister’s delegate may refer the matter to the IRB’s Immigration Division (ID) if he or she considers the report well-founded.
+    - Removal orders may be issued either by the Minister’s delegate under IRPA, s 44(2), the ID under s 45(d), or the IAD under s 67(2).
+        - **Section 228** applies only to foreign nationals and identifies the removal orders that the Minister’s delegate can issue without referral to the ID.
+        - **Section 229** sets out the applicable removal orders to be made by the ID in relation to both foreign nationals and permanent residents.
+    - **Sections 223 to 226** of the Regulations identify three types of removal order that may be issued:
+        - **Departure Order**: a departure order requires that a person to leave Canada within 30 days, **confirming their departure** with the CBSA on exit from the country. If the person does not leave Canada within the 30 days, in nearly all cases the departure order will become a deportation order. (IRPR, s. 224)
+        - **Exclusion Order**: an exclusion order requires that a person leave Canada, confirming their departure with the CBSA on exit from the country. Depending upon the reasons for which the exclusion order was issued, the person will be **barred** from making an application to return to Canada for one to five years. (IRPR, s. 225)
+        - **Deportation Order**: a deportation order requires that a person leave Canada, confirming their departure with the CBSA, failing which the CBSA will arrange for their removal from Canada. If the person leaves Canada under a deportation order, they will **require** an Authorization to return to Canada (**ARC**) should they ever wish to return to Canada. (IRPR, s. 226)
+    - Challenging a removal order:
+        - The IAD’s powers in relation to removal orders are found in the IRPA, **ss 63-68**. Section 63 grants the right to **appeal** against the making of a removal order to a foreign national who holds a permanent resident visa, a permanent resident, or a protected person.
+        - Where a decision has been made outside Canada that a permanent resident has not met the residency obligation, that decision may also be **appealed**.
+        - for foreign nationals who have not been issued a permanent resident visa, **judicial review** in Federal Court is the only recourse to challenge the legality of a removal order.
+        - The Minister may also appeal an ID decision not to make a removal order. The Minister’s appeal rights are broader than the individual: the Minister can appeal any ID decision in favour of the individual, even where the individual does not have a right of appeal (s 63(5))
+    - When dealing with an appeal by a person under a removal order, the IAD is given three options. It may
+        - (1) allow an appeal,
+        - (2) stay the removal order and impose conditions, or
+        - (3) dismiss the appeal.
+    - **Section 67** provides the **grounds** for allowing the appeal:
+        - (1) where the decision appealed is **wrong** in law, fact, or mixed law and fact;
+        - (2) where a principle of **natural justice** has not been observed; or
+        - (3) where, taking into account the **best interests of a child** directly affected by the decision, sufficient H&C considerations warrant special relief in light of all the circumstances of the case.
+    - The IAD has developed a list of factors, called the **Ribic factors** (*Ribic v Canada (Minister of Employment and Immigration)*, [1985] IABD No 4 (QL)), to be considered when determining whether the circumstances of the case justify such a decision.
+    - Removal orders may also be stayed by the minister, by application for a **pre-removal risk assessment (PRAA)**, and by approval in principle for permanent residence on **H&C grounds** (review pp. 629-631 in Desloges and Sawicki, for details).
 
 ## Quizzes
 
@@ -355,3 +388,142 @@ tags:
         - [ ] Denial
         - [ ] Emotional Swings
         <br>A typical response to trauma may be that a client **skips from one topic to another** rather quickly. In these cases, Cochran suggests gently guiding the client back to the topic or suggest taking a break.
+
+??? note "6.2.4 Detention & Removal"
+
+    1. Which of the following persons must be **present** at an Immigration Division hearing?
+        - [ ] The person concerned, their counsel, and the Immigration Division member
+        - [ ] The counsel of the person concerned, the minister's counsel, and the Immigration Division member
+        - [x] The person concerned, the minister's counsel, and the Immigration Division member
+        - [ ] The person concerned, their counsel, and the minister's counsel
+        <br>At an ID hearing, people who **must be present are the person concerned, the minister's counsel, and the ID member**. Other persons, such as the claimant's counsel, are likely to be present while others, such as witnesses, may be present. See Desloges & Sawicki, "Persons in Attendance" at page 607.
+
+    2. Your client is a foreign national who was found to be inadmissible for having committed organized criminality in their country of nationality. Which of the following removal order will be issued as a result?
+        - [ ] Departure Order
+        - [ ] Exclusion Order
+        - [x] Deportation Order
+        - [ ] Expulsion Order
+        <br>A deportation order **must be issued** by the ID in one of the following circumstances: the person has been found to be inadmissible on grounds of **security**, or for **violating human or international rights**, or for **serious criminality**, criminality, or organized criminality, as well as for having their citizenship revoked under section 40(1)(d) of IRPA. See "Deportation Orders" on page 628.
+
+    3. Your client is a foreign national who has committed a minor offense. Which of the following removal orders will be issued as a result?
+        - [ ] Departure Order
+        - [x] Exclusion Order
+        - [ ] Deportation Order
+        - [ ] Expulsion Order
+        <br>An exclusion order bars a foreign national from returning to Canada for a specified period of time – either for one year or for five years. **A foreign national who has committed a minor offense will be subject to an exclusion order**, likely with a one-year ban. See Desloges & Sawicki, "Exclusion Orders" at page 628.
+
+    4. True or false: At an admissibility hearing, if the counsel of the person concerned is present, then the person concerned does not have to testify during this hearing.
+        - [ ] True
+        - [x] False
+        <br>False, the person concerned is a compellable witness, which means they are forced to testify and answer questions during the proceeding. See Desloges & Sawicki, "Hearing Procedures" at pp. 611-612.
+
+    5. When an officer is of the opinion that a foreign national or permanent resident who is seeking to enter Canada or is already in Canada is inadmissible, the officer writes an inadmissibility report. Which of the following is not mandatory to include in the report?
+        - [x] The foreign national's ability to settle in Canada
+        - [ ] The IRPA section that the officer's opinion is based on
+        - [ ] The facts that constitute reasonable grounds for the officer's belief that the person is inadmissible
+        - [ ] The allegation
+        <br>As part of the section 44(1) report, the officer must include the following: the date of report and place of issue; basic information about the person; when the temporary resident visa was issued and when it expired; the allegation; the exact section of the IRPA upon which the officer's opinion that the person is inadmissible is based; and the facts in the narrative of the report that constitute reasonable grounds for the officer's belief that the person is inadmissible. See: Desloges & Sawicki, Chapter 14 s. III "Inadmissibility Reports: Contents of Report."
+
+    6. Once a person is under immigration detention, when will the initial, second, and subsequent reviews be conducted, respectively?
+        - [ ] Within 24 hours, within 7 days following the first review, within 21 days following the previous review
+        - [ ] Within 48 hours, within 14 days following the first review, within 30 days following the previous review
+        - [x] Within 48 hours, within 7 days following the first review, within 30 days following the previous review
+        - [ ] Within 7 days, within 14 days following the first review, within 30 days following the previous review
+        <br>The **timing** for when the ID holds a hearing on the reasons for detention is set out in sections **57(1) and (2) of IRPA**. The initial review must be within 48 hours of the person's detention. The second review must be during the seven days following the first review. Subsequent reviews must be conducted at least once during each 30-day period following the previous review. See Desloges & Sawicki, "Timing of Detention Reviews" on page 618.
+
+    7. The prescribed factors that must be considered when determining whether to detain a person do not include:
+        - [ ] Flight risk
+        - [ ] Identity not established
+        - [x] Whether they intend to seek asylum
+        - [ ] Danger to the public
+        <br>The factors are set out in the IRPR (s. 244), in the following four categories: **flight risk, danger the public, identity not established**, and other factors. See Desloges & Sawicki, "Factors that Affect Detention" at pp. 620-622.
+
+    8. Which of the following must the CBSA carry out before the execution of a removal order?
+        - [x] Instruct the individual about their responsibilities, confirm their identity, obtain their travel documents, and issue an immigrant warrant for their arrest if the person fails to appear for removal
+        - [ ] Confirm their identity, obtain their travel documents, place liens on their property, and issue an immigrant warrant for their arrest if the person fails to appear for removal
+        - [ ] Confirm their identity, obtain their travel documents, report the removal order to their embassy, and issue an immigrant warrant for their arrest if the person fails to appear for removal
+        - [ ] Instruct the individual about their responsibilities, confirm their identity, obtain their travel documents, and report the removal order to their embassy
+        <br>Before the CBSA may carry out the removal order, it must:
+        - instruct the individual for removal to ensure that they understand their **responsibilities**;
+        - confirm their **identity**;
+        - obtain their **travel documents**; and
+        - issue an immigration **warrant** for their arrest and detention if the person fails to appear for removal.
+        <br>See Desloges & Sawicki, "Timelines for Removal" at pp. 631-632.
+
+    9. True or false: At an admissibility hearing, the onus is always on the officer to prove that the person is inadmissible.
+        - [ ] True
+        - [x] False
+        <br>False, if the person has **no legal status** in Canada, then the onus is on that person to prove that they are not inadmissible. If the person has **legal status**, then the onus is on the hearing officer to prove that the person became inadmissible at a later time. See" Desloges & Sawicki, Chapter 14, s. III "Inadmissibility Reports: Onus of Proof."
+
+    10. True or false: The only basis upon which a person may be detained as a "danger to the public" is that they have been convicted of a serious crime inside or outside of Canada for which a sentence of 10 years or more could be imposed.
+        - [ ] True
+        - [x] False
+        <br>False: **Criminal convictions are only one basis** upon which a person may be detained as a danger to the public; other reasons include: that the person is inadmissible on grounds of security, violating human or international rights; that the person is associated with a criminal organization; or that the person concerned has engaged in people smuggling or human trafficking. See Desloges & Sawicki, "Danger to the Public", p. 621.
+
+    11. Immigration detainees can challenge the legality of their detention without mounting a collateral attack on the underlying immigration decision in situations that amount to "indefinite detention". This challenge is called:
+        - [ ] *Locus standi*
+        - [ ] *Caveat emptor*
+        - [x] *Habeas corpus*
+        - [ ] *Contra proferentem*
+        <br>In *Chaudhary v Canada (Public Safety and Emergency Preparedness)*, 2015 ONCA 700, the Ontario Court of Appeal ruled that immigration detainees can apply to the Superior Court of Justice for *habeas corpus* to challenge their incarceration in situations that amount to "indefinite detention" under the Charter. If one is challenging the legality of the detention, and not simply mounting a collateral attack on an underlying immigration decision, this may be an option for detained clients. See Desloges & Sawicki, "Timing of Detention Reviews" on page 618.
+
+    12. True or false: The minister has unlimited discretion to stay any removal order where the person would be sent to a country engaged in armed conflict, or where there is a serious environmental disaster, or another situation that poses a risk to the civilian population there.
+        - [ ] True
+        - [x] False
+        <br>False, the minister has discretion to stay a removal order in situations where the person would be sent to a country engaged in **armed conflict**, dealing with **serious environmental disaster**, or another situation that poses a **risk to the civilian** population there. However, the minister's **discretion is limited**. The minister **may not issue a stay when:**
+        - the person is inadmissible on grounds of security, violation of human or international rights, serious criminality, or organized criminality;
+        - the person is a refugee claimant who is ineligible because of section F of Article 1 of the Refugee Convention (crimes against peace, war crimes or crimes against humanity);
+        - the person has consented in writing to his removal. See Desloges & Sawicki, "Minister's Stay", pp. 629-630.
+
+    13. Which of the following is **NOT** an authority of the minister as conferred by Bill C-31 amendment to the IRPA?
+        - [x] To bar designated foreign nationals from applying for refugee status
+        - [ ] To designate a group of persons as irregular arrivals
+        - [ ] To hold ship owners to account for using their ship to smuggle humans
+        - [ ] To prosecute human smugglers and impose minimum mandatory prison sentences
+        <br>**Bill C-31 amended the IRPA** to give the minister the authority to confer the status of designated foreign nationals on a person who arrives in Canada as part of a group of smuggled persons. The minister has the authority to:
+        - designate a group of persons as irregular arrivals;
+        - to prosecute human smugglers and impose minimum mandatory prison sentences; and
+        - to hold ship owners and operators to account for allowing the use of their vessels to smuggle human beings. See Desloges & Sawicki, "Detention of Designated Foreign Nationals" on page 605.
+
+    14. When a person is arrested or detained, the Charter requires the officer to inform that person of their rights. Which of the following is not a right of that person?
+        - [ ] Right to know the reason of the arrest/detention
+        - [ ] Right to counsel
+        - [ ] Right to notify their government representative
+        - [x] Right to notify family members
+        <br>When a person is arrested or detained, the Charter requires the officer to **inform that person of their rights**, which includes:
+          - the right to know the **reason** for the arrest and detention;
+          - the right to **counsel**; and
+          - the right to **notify their government representative** of the arrest or detention. See: Desloges & Sawicki, Chapter 14, s. V "Arrest and Detention."
+
+    15. The "reasonable grounds" standard of proof is **more than**:
+        - [x] A mere suspicion
+        - [ ] A balance of probabilities
+        - [ ] 25% certainty
+        - [ ] A probable cause
+        <br>Reasonable grounds involve more than a mere suspicion that a person is inadmissible. There must be an objective basis for the allegation. The decision-maker must have credible information that is sufficiently specific and reliable to support the allegation that a person is inadmissible. See: Desloges & Sawicki, Chapter 14, s. IV "Review & Referral: Standard of Proof."
+
+    16. A **Pre-Removal Risk Assessment** is available to the following individual(s):
+        - [ ] A person who has a serious illness in need of urgent medical treatment
+        - [ ] A person who is accompanied by minor(s) under the age of 12
+        - [x] A person who faces a risk of torture in their country of origin
+        - [ ] All of the above
+        <br>The PPRA program is only available to persons who are considered to be "**at risk**"; it is intended for people who cannot return to their country of origin. For a person to be eligible, they must:
+        - have a well-founded fear of persecution in the country they are to be returned to; or
+        - face a risk of torture, a risk to their life, or a risk of cruel and unusual treatment or punishment. See Desloges & Sawicki, "Stay Pending Pre-Removal Risk Assessment" on page 630.
+
+    17. In some cases, the enforcement of a removal order may be stayed pending some other action or outcome. Which of the following is not an avenue for staying a removal order?
+        - [ ] By appeal to the Immigration Appeal Division
+        - [ ] By application for leave for a judicial review
+        - [ ] By application for a pre-removal risk assessment
+        - [x] by application for a post-removal risk assessment
+        <br>Enforcement of a removal order may be stayed pending some other action or outcome. There are **five** ways in which a removal order may be stayed:
+            1. by the **minister**,
+            2. by application for leave for a **judicial review**,
+            3. by application for a **pre-removal risk assessment**,
+            4. by **approval**-in-principle for PR on H&C grounds, or
+            5. by **appeal** to the IAD. See Desloges & Sawicki, "Stay of Removal" on page 629.
+
+    18. True or false: Detention reviews before the ID are inquisitorial hearings, which means the ID member is actively involved in investigating the facts behind the person's detention.
+        - [ ] True
+        - [x] False
+        <br>False, detention reviews before the ID are **adversarial** hearings. A hearings officer will argue why the detention should be continued or make recommendations about the conditions for release. The person concerned or their counsel will provide facts and arguments for release from detention. See Desloges & Sawicki, "Detention Review Hearings" on page 620.
