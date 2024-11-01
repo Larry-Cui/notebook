@@ -110,8 +110,6 @@ Kyle Broda
 
 [Biography](https://immigrationdiploma.queenslaw.ca/Course-Instructors/Kyle-Broda){:target="\_blank"}
 
-<i style="font-size: 2em; color: blue" class="fa-regular fa-envelope"></i> [knb5@queensu.ca](mailto:knb5@queensu.ca){:target="\_blank"}
+<i class="fa-regular fa-envelope"></i> [knb5@queensu.ca](mailto:knb5@queensu.ca){:target="\_blank"}
 
-Tutorial time: 11:00 am(ET)
-
-<i style="font-size: 2em; color: blue" class="fa-regular fa-comment-dots"></i> [Tutorial Zoom Link](https://queensu.zoom.us/j/97551789143?pwd=SskZMhFnTR5OFMkxTNEmyRbI4uKan4.1){:target="\_blank"}
+<img src="../../../assets/img/zoomLogo.png" alt="Zoom Logo" width="100"> Sunday @ 11:00 am(ET) [Tutorial Zoom Link](https://queensu.zoom.us/j/97551789143?pwd=SskZMhFnTR5OFMkxTNEmyRbI4uKan4.1){:target="\_blank"}

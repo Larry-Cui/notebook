@@ -12,15 +12,7 @@ tags:
 
 # ICL 830 – FOUNDATIONS OF CANADIAN IMMIGRATION LAW [^1]
 
-## Land Acknowledgement
-
-<p class="highlight red">
-
-<b>Treaty 7 Territory Land Acknowledgements</b>
-<br>
-In the spirit of reconciliation, we acknowledge that we live, work and play on the traditional territories of the <b>Blackfoot Confederacy</b> (Siksika, Kainai, Piikani), <b>the Tsuut’ina</b> [Too-tina], <b>the îethka Nakoda</b> [*ee-eth-ga na-koda*] <b>Nations</b> (Chiniki, Bearspaw, Goodstoney), <b>the Otipemisiwak Métis</b> [o(dd)-ti-pemisi-wa may-tee] Government (Districts 5 and 6), and all people who make their homes in the Treaty 7 region of Southern Alberta.</p>
-
-[^1]: **Sharry Aiken**, **Christa Bracci**, **Chantal Desloges** and **Cathryn Sawicki** developed the original version of this course in 2020. Revisions were completed by **Sharry Aiken**, **Christa Bracci** and **Harini Sivalingam** in 2021; and by **Sharry Aiken** and **Christa Bracci** in 2023. Queen's University holds a license for the use of the Course Authors' intellectual property for the use of ICL 810.
+[^1]: **Rafeena Rashid** and **Jelena Urosevic** developed the original instructional content for this course. Queen's University holds a license for the use of the Course Author's intellectual property for the use of ICL 830. Course revisions completed by **Kim K.C. Ly** for January 2022 and **Grace Daccache** for Fall 2022.
 
 <!-- <a href="https://lh3.googleusercontent.com/pw/AP1GczNlPL2XU73ZrmLzVMPRzEBSOkONXic3ozpfB5HllVlxptDJDjXRKFh0o2iBsxRSfXRhP6BcH61XUeXrWKBpSZ354Hclhwt03wQfmXcBjpAHqouNSyo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczNlPL2XU73ZrmLzVMPRzEBSOkONXic3ozpfB5HllVlxptDJDjXRKFh0o2iBsxRSfXRhP6BcH61XUeXrWKBpSZ354Hclhwt03wQfmXcBjpAHqouNSyo=w600-h315-p-k" style="width: 100%"/> </a> -->
 
@@ -37,19 +29,11 @@ In the spirit of reconciliation, we acknowledge that we live, work and play on t
 <i class="fa-solid fa-8 number"></i>
 <i class="fa-solid fa-9 number"></i> -->
 
-## Course Topics
+## Required Textbooks
 
-- Introduction to the social, historical and philosophical contexts of immigration
-- The architecture of Canadian immigration law
-- Introduction to legal skills (mini-course)
-- Administrative law
-- Entry and admissibility
-- Temporary entry
-- Permanent residence status & residency requirements
-- Family class immigration
-- Economic class immigration
-- Refugee protection
-- The process of removal
+- Desloges & Sawicki, _Canadian Immigration and Refugee Law, A Practitioner’s Handbook_, 4th ed (Emond 2023)
+- Douglas Cochran, _Interviewing Skills for Legal Professionals_, 3rd ed (Emond, 2022)
+- Green et al, _Temporary Entry into the Canadian Labour Market_ (Emond 2021)
 
 ## Assessment Weighing
 
@@ -62,47 +46,43 @@ In the spirit of reconciliation, we acknowledge that we live, work and play on t
     </thead>
     <tbody>
     <tr>
-        <td style= "text-align: left">Engagement (knowledge checks, Reflective Practice Journals, <b>tutorial</b> participation, Skills activities, discussions boards, and a final Skills Reflection)</td>
+        <td style= "text-align: left">Engagement/ Skills Reflection</td>
         <td>Pass/Fail</td>
     </tr>
     <tr>
-        <td style= "text-align: left">Legal Research and Writing Quiz (Module 2)</td>
-        <td>15%</td>
-    </tr>
-    <tr>
-        <td style= "text-align: left">Quiz on Modules 1 & 3</td>
-        <td>15%</td>
-    </tr>
-    <tr>
-        <td style= "text-align: left">Final Legal Research and Writing Assignment</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td style= "text-align: left">Oral Advocacy Assignment</td>
+        <td style= "text-align: left">Assignment 1: Interview Preparations and Recording</td>
         <td>20%</td>
     </tr>
     <tr>
-        <td style= "text-align: left">Quiz on Modules 4-6 (Proctored) </td>
-        <td>15%</td>
-        <!-- <td colspan="3">请致电本所咨询</td> -->
+        <td style= "text-align: left">Assignment 2: Work Permit</td>
+        <td>20%</td>
     </tr>
+    <tr>
+        <td style= "text-align: left">Assignment 3: LMIA Submission Letter/Memorandum (Group project)</td>
+        <td>20%</td>
+    </tr>
+    <tr>
+        <td style= "text-align: left">Final Quiz (Modules 1 to 6, closed-book, proctored)</td>
+        <td>40%</td>
+    </tr>
+<!-- <td colspan="3">请致电本所咨询</td> -->
     </tbody>
 </table>
 
-## Collaborative learning resources
+## Engagement
 
-We recommend you start with Gerald Graff & Cathy Birkenstein, _They Say / I Say: The Moves That Matter in Academic Writing_, 4th ed (New York : W. W. Norton & Company, 2018)
+Check out [Skills Relection](../../820/syllabus/#skills-reflection){:target="\_blank"} of ICL820. This course has the same requirement on the engagement part.
 
-- Chapter 12 - [Entering Class Discussions](https://drive.google.com/file/d/1Jn1Iet9cb2wGur3F1g1bGnt-oee11dma/view?usp=sharing){:target="\_blank"}
+## Reflective Practice in ICL 830
 
-- Chapter 13 - [Don't make them Scroll Up - Online Conversations](https://drive.google.com/file/d/1D6RHdCCwYIJt8rHXPle_MsElnbFUw3S4/view?usp=sharing){:target="\_blank"}
+You are **NOT** expected to submit regular reflections or journals for this course.
 
-- Chapter 14 - [Reading for the Conversation](https://drive.google.com/file/d/1XzpMkwcZ5sRDlCdN7ewKgJLi2h4QcMJU/view?usp=sharing){:target="\_blank"}
+## Instructor Information Phan
 
-## Knowledge Checks: General Information
+Thanh Phan
 
-To pass Engagement you must complete all Knowledge Checks to a level of **80% or better** with unlimited attempts.
+<i class="fa-solid fa-file-signature"></i> [Biography](https://immigrationdiploma.queenslaw.ca/Course-Instructors/Thanh-Phan){:target="\_blank"}
 
-## Reflective Practice Journal
+<i class="fa-regular fa-envelope"></i> [MWT5@queensu.ca](mailto:MWT5@queensu.ca){:target="\_blank"}
 
-The Reflective Practice Journal is a mandatory Engagement element in ICL 810. You are required to write three entries (200 - 250 words) over the course of your six weeks in ICL 810.
+<img src="../../../assets/img/zoomLogo.png" alt="Zoom Logo" width="100"> Saturday @ 11:00 am (ET) [Tutorial Zoom Link](https://queensu.zoom.us/j/96816409559?pwd=BbYvNHx6EgfQbPSlrMoIrNbIZmyUIp.1){:target="\_blank"}
