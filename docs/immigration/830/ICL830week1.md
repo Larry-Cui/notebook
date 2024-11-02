@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-???+ note "Tutorial notes"
+??? note "Tutorial notes"
 
     - **Continuous Territory** rule: people can go to US and back without a TRV if they have legal status in Canada.
     - "**Bona Fide**" visitor: coming to Canada with a genuine purpose of visit (they have strong tie with home country and will come back after temporary visit).
