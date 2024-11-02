@@ -15,6 +15,13 @@ tags:
 
 ## Notes
 
+???+ note "Tutorial notes"
+
+    - **Continuous Territory** rule: people can go to US and back without a TRV if they have legal status in Canada.
+    - "**Bona Fide**" visitor: coming to Canada with a genuine purpose of visit (they have strong tie with home country and will come back after temporary visit).
+    - **Dual Intent**: acknowledge the PR ready-ness, and show the intent to leave Canada at the end of the visit. Being a qualified applicant or having a good chance to apply for a PR does not make an applicant "dual intent".
+    - **Common Mistakes** in TRV application: inadmissibility issue. client shall be honest and tell truth.
+
 ??? note "Module 1 - Temporary Resident Visas"
 
     - The Canadian government can expand the **list of visa exempt countries** to facilitate travel for business and tourism purposes. On February 29,2024 **Mexican nationals** have been removed from the list of visa exempt countries and been added to eTA expansion。
