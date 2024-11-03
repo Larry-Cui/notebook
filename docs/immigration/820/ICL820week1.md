@@ -15,9 +15,60 @@ tags:
 
 ## Notes
 
+??? note "tutorial notes"
+
+    - case study: from most important to least important issues. use headings. don't copy codes or facts, use your own language.
+    - the goal of CICC code: to protect the public.
+    - key features of the code: 44 sections, 9 parts. Positive requirements (Competency, honesty, candor, trustworthiness, confidentiality, acting in client’s best interests, etc) and negative requirements (fraud, illegality, conflicts of interest, coercion, intimidation, assisting clients to misrepresent facts , helping fraudsters).
+    - Licensees of the College: RCIC and RISIA
+    - services includes pro bono services.
+    - charging fees: not written in stone, as long as it's "reasonable".
+    - RCIC is responsible for everything his/her staff does.
+    - Quality Services: s 22(1)
+    - best practices: have client review anything before submitted. always send copy to client. forward any correspondence from government to client immediately.
+    - confidentiality goes on forever.
+    - joint retainer: no confidentiality issue between joint clients.
+    - Cast Study 1:
+        - Group 1: Using the Code, identify the two most significant ethical violations potentially resulting in refusal of the application that Manuel has committed up to the point where he returned to work. Explain precisely when, and how, his actions or omissions breached each of the two provisions you identify.
+            - s 22(1)(a) Meet applicable deadlines: Manuel is responsible
+            - s 22(2) submission of necessary information to IRCC: Manuel and Jim are both responsible
+        - Group 2: Considering the definition of a “client” in s 1(1) of the Code, is Serwaah a client of Jim’s? Explain why or why not with reference to this definition. Is the fact of Jim doing this for free relevant to whether Serwaah is a client? What about the fact there is no service agreement with Jim?
+            - s 1(1)(b) definition of client. yes
+            - no s 1(1)(c)
+            - pro bono doesn't matter. Jim is at fault.
+        - Group 3: It would be possible for Manuel to request an extension of time from IRCC to submit the Procedural Fairness response; that request would likely be granted. In terms of “efficient and cost-effective” services required under s. 22(1)(b), would this be a good option? why or why not? Keep in mind that Manuel is not fully incapacitated (the College has a system for that, which does not apply here).
+            - not cost-effective or time-effective.
+            - there is a risk of extension not being granted: plan b must be organized.
+        - Group 4: Besides the main ethical violations as per Question 1, Manuel has failed to meet at least three other important duties to his client Serwaah. Identify at least three additional provisions of the Code applicable, and what Manuel could have done to avoid breaching them. You can identify more if you see them.
+            - s 28: confidentiality
+            - s 22(1)(c): communicate
+        - Group 5: Assuming that Jim is willing to help Manuel, what sections of the Code would guide them to properly share the work in these circumstances? Use these provisions to explain what Manuel and Jim should do. Keep in mind we do not have access to Manuel’s service agreement, so we do not know what it says.
+            - s 24(2)(c)(ii): possible? yes. practical? no. not efficient.
+            - terminate Manuel and retain Jim? possible but not efficient.
+            - proper way: Jim draft the submission, Manual reviews and sends it.
+        - Group 6: Manuel now knows the material submitted by Jim was not sufficient to protect Serwaah’s interests, and her file may be rejected as a result. Once he discovers this error – what are Manuel’s duties under the Code?
+            - s 30 applies
+    - Case study 2:
+        - Group 1: Identify who is Fathima’s client(s) here, with reference to the definition of client.
+            - s 1(1)(a): both spouses are clients.
+        - Group 2: Explain how section 28 (Confidentiality) applies to Fathima’s relationship with Juanita and Daniel.
+        - Group 3: Identify at least three provisions of the Code which may have been breached by Fathima before the case was filed; explain at what point in time she breached each provision you identify, and how her actions or omissions constitute a breach.
+            - s 5, 6 and 8
+            - s 15
+            - s 22(1)(c)
+            - s 15/35(1)(c): conflict of interest
+        - Group 4: Was there any ethical problem with Fathima filing the application when she did? Why or why not?
+            - not an issue with filling the application.
+            - relationship change after filling doesn't matter.
+        - Group 5: Describe Fathima’s situation from the perspective of terminating the service agreement in these circumstances given Sections 35 and 36 of the Code. Your explanation should clearly indicate you understand how this would apply to Fathima and any steps she must or should take.
+            - s 35(1)(a)
+            - s 36(1), 35(2)
+        - Group 6: Should Fathima assist Juanita with an H&C application? Why or why not?
+            - not for Fathima to do this.
+
 ??? note "Citing Regulations"
 
-    - A new code of conduct, the [Code of Professional Conduct for College of Immigration and Citizenship Consultants Licensees, SOR/2022-128](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2022-128/){:target="\_blank"}, has now been established by federal regulation for licensees of the College of Immigration and Citizenship Consultants. It was pronounced to be in force **effective June 10, 2022**. The parent act for establishing this regulation is the [*College of Immigration and Citizenship Consultants Act*](https://laws.justice.gc.ca/eng/acts/C-33.6/FullText.html){:target="\_blank"}, SC 2019, c 29, s 292 [*College Act*], and specifically the authority given to the Minister in s 43 of that act to establish the initial code of conduct for the new College members, including RCICs and RISIAs.
+    - A new code of conduct, the [*Code of Professional Conduct for College of Immigration and Citizenship Consultants Licensees*, SOR/2022-128](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2022-128/){:target="\_blank"}, has now been established by federal regulation for licensees of the College of Immigration and Citizenship Consultants. It was pronounced to be in force **effective June 10, 2022**. The parent act for establishing this regulation is the [*College of Immigration and Citizenship Consultants Act*](https://laws.justice.gc.ca/eng/acts/C-33.6/FullText.html){:target="\_blank"}, SC 2019, c 29, s 292 [*College Act*], and specifically the authority given to the Minister in s 43 of that act to establish the initial code of conduct for the new College members, including RCICs and RISIAs.
     - When the Minister published the Code on June 22, 2022, a background document was also published with it, called the [Regulatory Impact Analysis Statement (RIAS)](https://www.gazette.gc.ca/rp-pr/p2/2022/2022-06-22/html/sor-dors128-eng.html){:target="\_blank"}.
     - The [*Interpretation Guide*](https://onq.queensu.ca/content/enforced/938607-ICL820F24/M1/PC_Code%20Guide-EN.pdf?isCourseFile=true&ou=938607){:target="\_blank"} is intended to provide clarification and guidance, with reference to current best practices, for Regulated Canadian Immigration Consultants (RCICs) and Regulated International Student Immigration Advisors (RISIAs) (collectively licensees), on the Code of Professional Conduct for Licensees of the College of Immigration and Citizenship Consultants. The Guide should be read in conjunction with the Code. However, it must be noted that the Guide itself is not a substitute for the Code. **All work and submissions made to support an argument in your written assignments must refer to the Code rather than the Interpretation Guide.**
     - In 2023, a new [summary of professional standards for College licensees](https://college-ic.ca/protecting-the-public/professional-standards-of-practice?l=en-CA){:target="\_blank"}, drafted in conjunction with licensees themselves, was adopted by the College Board.
