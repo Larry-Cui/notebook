@@ -15,11 +15,15 @@ tags:
 
 ## Notes
 
-??? note "Tutorial notes"
+???+ note "Tutorial notes"
 
-    - truth.
+    - Province will give portal access to school for applying for a Provincial Attestation Letter (PAL).
+    - laws: A30, R9, (R9(2): R9(1) does not apply to FN under s 188, 189), R216(1), R219(1), R219(2), R220(repealed),
+    - full time, no longer than 150 days gap, and enough credit for each and every term, to maintain a study permit.
+    - any student leaving for more than 150 days loses the study permit status. he/she can restore the status if it's within 90 days, or apply for a new study permit and TRV.
+    - students are not allowed to work during the authorized leave. see IRCC link [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/while-you-study/study-permit-conditions.html){:target="\_blank"}.
 
-???+ note "Module 2 - Study Permits"
+??? note "Module 2 - Study Permits"
 
     - Study permits are needed for courses that are **longer than six months**.
     - The two most important parts of the study permit application package are the **study plan** and **financial documentation**.
