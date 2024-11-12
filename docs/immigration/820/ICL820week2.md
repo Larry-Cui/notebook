@@ -36,7 +36,7 @@ tags:
 
 ## Quizzes
 
-???+ note "Module 2: Knowledge Check"
+??? note "Module 2: Knowledge Check"
 
     1. Over-promising when it comes to clients is a poor communication practice and should be avoided. It is important for consultants to know which types of promises are permissible and which are not. Under standard rules of professional conduct, which type of promise would be permitted?
         - [x] Promising you will work very diligently on the file.
