@@ -38,6 +38,7 @@ tags:
         - Designated learning institutions list, [online](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html){:target="\_blank"}
         - Changing or transferring to **new DLI**, [online](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/change-schools/account.html){:target="\_blank"}
         - **Extend** your study permit: About the process, [online](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/extend-study-permit.html){:target="\_blank"}
+        - Temporary resident: **maintained status** (extending a stay)(IRCC Website), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/implied-status-extending-stay.html){:target="\_blank"}
         - Work as an international student:
             - on-campus, [online](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-on-campus.html){:target="\_blank"}
             - off-campus, [online](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html){:target="\_blank"}
@@ -51,7 +52,7 @@ tags:
         - IRCC, Study Permits: Assessing study permit conditions [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/assessing-conditions.html#study-permit-conditions){:target="\_blank"}
         - IRCC, Student Direct Stream (SDS), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/direct-stream.html){:target="\_blank"}
 
-???+ note "Module 2 - Study Permits"
+??? note "Module 2 - Study Permits"
 
     - Study permits are needed for courses that are **longer than six months**.
     - The two most important parts of the study permit application package are the **study plan** and **financial documentation**.
@@ -67,5 +68,24 @@ tags:
     - A student must apply for the PGWP within 180 days of graduation. The **calculation of the 180 days** begins the day the **final transcript is issued**, or the day formal **written notice** of confirmation from the institution is obtained.
     - PGWP is issued based on the program of study. If the foreign national accelerated their studies, they would still be eligible for an PGWP corresponding to the length the program, not the actual study period.
     - Programs that are part of a [curriculum licensing arrangement](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html#curriculum){:target="\_blank"}, are offered by private career colleges on behalf of public, PGWP-eligible institutions. Starting **May 15, 2024**, graduates of curriculum licensing programs will **no longer be eligible** for PGWP.
+    - Amendments obliged students both to remain **enrolled** in that institution and to "**actively pursue** their course or program of study" (*IRPR*, **s 22.1(1)**).
+    - Students will be deemed to have "**maintained status**" while waiting for the decision on their new application (*IRPR*, ss 183(5), 186 (w), 189). Processing times for study permit extensions can be lengthy (often more than three months).
+    - Maintained status will end when Immigration Refugees and Citizenship Canada (IRCC) decides the extension application. If the extension is refused, the client will have the option of applying for restoration. **A restoration application must be made within 90 days of the refusal letter or the expiration of the study permit.** Source: Under **s 47** of the *IRPA*, status is lost on expiry of the period of authorized stay **or** on determination by an officer that the foreign national has failed to comply with any other requirement of the *IRPA*.
+    - Students who did not want to wait for the decision on a new application may have opted to "**flagpole**", the practice of going to the United States and returning immediately or after a short stay to apply for an extension of the period of stay. Foreign nationals, do not need a visa to do so if their initial period of authorized stay has not expired (*IRPR*, **s 190(3)(f)**).
+    - For either a study permit extension or restoration application, you still need to submit:
+        - education enrolment documents
+        - proof of financial support
+        - valid passport
+        - proof of academic standing at the learning institution for the last two periods of study
+        - applicable IRCC completed application forms
+        - appropriate fee payment receipts: **for restoration applications it is important to pay the additional $229.00 restoration application fee, as well as the $150 study permit fee**
+        - in most situations, a client will not need a new medical exam, unless they are working with children or in the health services
+    - If the applicant requires an extension or has lost status, the accompanying family members would **also require extension or restoration** applications. Each accompanying family member would need to submit their own application for extension or restoration of their temporary resident status.
+    - If your client **leaves Canada** while their extension application is being processed, they do **not benefit** from maintained status.
+    - Clients are only permitted to apply for restoration if they are **in Canada**. If they **leave Canada** after applying for restoration, they **cannot have their status restored**.
 
 ## Quizzes
+
+???+ note "Module 2 Knowledge Check: Study Permits"
+
+    1. re
