@@ -113,6 +113,13 @@ tags:
         - Your most recent T3010 Registered charity information return
         - Your most recent T4 or payroll records for a minimum of 6 weeks immediately prior to the submission of this LMIA application, if the temporary foreign worker (TFW) already works for you
         - An attestation confirming that your business is in good financial standing and will be able to meet all financial obligations to any TFW you hire for the entire duration of their employment.
+        - an attestation from a financial institution confirming that your business is in good financial standing and will be able to meet all financial obligations to any and all TFWs you hire for the entire duration of their employment. You can use this [sample attestation](https://www.canada.ca/en/employment-social-development/services/foreign-workers/business-legitimacy/sample-attestation.html){:target="\_blank"} as an example.
+            - The attestation must be prepared by an official (account manager, branch manager or above with delegated signing authority) from a federally or provincially regulated financial institution
+            - The attestation should generally include the following:
+                - the official/corporate letterhead of the financial institution
+                - the date and the signature of the official in a financial institution with delegated signing authority
+                - the signee’s contact information, such as phone number, email address, job title, professional designation (if applicable), membership ID (if applicable)
+                - clear and specific attestation on whether the employer has the financial ability to meet the TFWP requirements
     - Proof of Recruitment:
         - Screenshots of advertisements​
         - Summary of applicants with explanations
