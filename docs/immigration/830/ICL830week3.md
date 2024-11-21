@@ -278,7 +278,7 @@ tags:
 
 ## Quizzes
 
-???+ note "Module 3 Knowledge Check: Labour Market Impact Assessments"
+??? note "Module 3 Knowledge Check: Labour Market Impact Assessments"
 
     1. Elaina is about to make a job bank posting and is unsure of what that right code is for education counsellor. She is also confused about the various versions of the NOC. Which is the current NOC to use and what is the right code for education counsellor?
         - [ ] 2003 Code 2414
