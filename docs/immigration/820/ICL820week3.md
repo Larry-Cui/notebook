@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 2: Notes and Quizzes"
+title: "Week 3: Notes and Quizzes"
 date: 2024-11-11
 draft: false
 categories:
