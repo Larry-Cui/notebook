@@ -67,7 +67,7 @@ tags:
 
 ## Quizzes
 
-???+ note "Module 4: Knowledge Check - Conflicts of Interest"
+??? note "Module 4: Knowledge Check - Conflicts of Interest"
 
     1. A conflict of interest can be best described as a conflict of:
         -  [ ] instructions
@@ -136,3 +136,132 @@ tags:
         - [ ] charge the employer for recruitment services.
         - [ ] charge the employer for both immigration and recruiting services.
         > See s **17(3)(c)** of the Code.
+
+## Midterm Practice Quiz
+
+??? note "Quiz"
+
+    1. Which of the following is correct as it pertains to the main purpose of the College of Immigration and Citizenship Consultants:
+        - [ ] to assist members in the delivery of services to clients.
+        - [x] to regulate consultants in the **public interest** and protect the public.
+        - [ ] to protect the members' interests before the department of Immigration, Refugees and Citizenship Canada.
+        - [ ] to provide Continuing Professional Development training for its members.
+
+    2. RCIC Sarah is assisting her long-term friend Kiran with a study permit application. Sarah intends to represent him for no fee. During their meeting Sarah presents Kiran with the **service agreement** for review and signature. Kiran is very reluctant to sign it, because it is a very legalistic document which seems very odd to him since they are such good friends. What should Sarah's response be?
+        - [ ] Sarah may waive the need for a full-Service Agreement for the reason that no fees are being charged to Kiran.
+        - [ ] Sarah could choose the option of the simpler Consultation Agreement under Section 23 of the Code.
+        - [x] There are no exceptions and Sarah needs to explain to Kiran he **must sign** it, or she cannot provide the services.
+        - [ ] Sarah could write to the College and ask for an exemption from the need to have a Service Agreement on the basis they are friends.
+
+    3. When an immigration consultant advises someone incorrectly, and the client relies on that advice to their detriment, there can be serious consequences for the RCIC as well as the client. Justyna advised her client Kuldeep that he could obtain his new work permit at the border. But Kuldeep was out of status and was not eligible for a work permit at the border.  Instead, the border officer issued Kuldeep an Exclusion Order banning him from Canada for one year since he was out of status. Kuldeep sought advice from a lawyer about **whether he could sue Justyna in civil court for compensation** to recover his losses and obtain damages. The answer is:
+        - [ ] No, his only remedy is a complaint to the College of Immigration and Citizenship Consultants.
+        - [ ] Yes, provided Justyna agreed to this in the service agreement.
+        - [x] **Yes, that is what RCICs have Errors and Omissions insurance for**.
+        - [ ] No, his only remedy is to commence a Judicial Review to overturn the Exclusion Order.
+
+    4. Maryam represents Vijay and his spouse Leesa on their spousal sponsorship application. Each spouse has signed Maryam’s service agreement. During the process of preparing the file, Vijay disclosed to Maryam privately that he had just been diagnosed with liver cancer but does not want Leesa to know this yet – he might tell her later, when he is ready. He has not decided yet. This situation requires Maryam to:
+        - [ ] Inform Leesa herself without Vijay's knowledge.
+        - [ ] Withdraw as their representative due to the conflict of interest.
+        - [x] Inform Vijay that he must tell Leesa or else she will be required to do so.
+        - [ ] Keep Vijay's information confidential.
+        > the conflict is still **potential**, not actual, and may be resolved if Vijay tells Leesa now. Maryam should explain to him why this is necessary if she is to continue to represent them both.  Mandatory withdrawal under 35(1)(c) is only required when the conflict cannot be resolved.
+
+    5. Mohammad has received correspondence from the College requesting him to provide a response and documents within 15 days in relation to a complaint received by the College against him. Mohammad is extremely busy with a few refugee hearings coming up and is focused on providing proper service to his refugee clients. He knows he will not be able to respond fully to the College on time. Which of the following statements is most correct as it relates to Mohammad's next step?
+        - [x] Mohammad should write to the College and explain his current hearing schedule and request more time to deal with the College matter.
+        - [ ] Mohammad must prioritize the College matter even if it means seeking an adjournment of his hearings.
+        - [ ] Mohammad should write to the College to inform them that he is not able to provide any information without the client's consent due to client confidentiality.
+        - [ ] Mohammad must provide the information as requested from the College in the time allotted, regardless of the circumstances.
+        > it is always possible to explain and make reasonable requests for accommodation for valid reasons, and the negative impact on other clients would be a valid reason. **Section 40 does not preclude this approach.**
+
+    6. Your immigration practice in Vaughan, Ontario largely serves the Mexican community with help from your assistant Miriam. Your friend Estelle Navarro is very active in the Mexican community, especially in helping immigrants from Mexico bring their relatives to Canada. At a wedding reception, Estelle runs into your assistant Miriam. Estelle is thrilled to learn from Miriam that Estelle’s cousin Freda has set up a consultation with you for next week. Estelle calls you the next day and offers to help in any way she can with Freda’s case. What is your assessment of this?
+        - [ ] This is not an ethical problem as long as you yourself do not discuss it with Estelle.
+        - [x] This is a breach of confidentiality for which you are accountable.
+        - [ ] This was not a breach of confidentiality because Freda is not yet a client.
+        - [ ] This was a breach of confidentiality for which your assistant can be subject to discipline by the College.
+
+    7. A lawyer contacts you about a former client of yours, Amir. The matter is urgent, and she asks you to confirm you acted on Amir's refugee case five years ago and still have those records. If so, they will be providing you with the proper authorization and direction signed by the client to send the records. What is the correct course of action under the circumstances?
+        - [ ] Contact CICC to seek guidance as to the best approach under the circumstances.
+        - [ ] Inform the lawyer that you will speak with Amir first to obtain his consent before addressing their request.
+        - [x] Inform the lawyer that you cannot confirm or deny you acted for Amir without having the signed authorization and direction.
+        - [ ] Act promptly and check your records to facilitate the work of the lawyer.
+
+    8. Haining Wu is a student in the GDipICL Program at Queen’s University hoping to become licensed as an immigration consultant in the future. She is studying the Code of Professional Conduct regarding requirements to maintain client confidentiality under section 28 of the Code. Haining tells the class she has seen various ads and videos on Tik Tok and other Chinese social media where RCICs are talking about their successful cases. For example, one RCIC posted a video about a difficult study permit he was able to obtain for a client. He included several facts such as the client’s name, age, education, country, etc. Haining asked her classmates if this would be a breach of confidentiality. The most correct response would be:
+        - [x] It is not a breach of confidentiality if the RCIC obtained either **written or verbal consent from the client**.
+        - [ ] It is not a breach of confidentiality where the case was successful.
+        - [ ] Because a client cannot consent to have their information made public on social media, it would always be a breach of confidentiality.
+        - [ ] It is not a breach of confidentiality as long as the information is fully accurate.
+
+    9. An RCIC who holds a Class L2 (Restricted Practice) licence from the College of Immigration and Citizenship Consultants is permitted to undertake all of the cases below, except one. Which case is outside this RCIC's scope of licence?
+        - [ ] Advise an Express Entry applicant on the impact of their criminal record on their PR application.
+        - [x] If a spousal sponsorship is refused, appeal the refusal to the Immigration Appeal Division of the IRB.
+        - [ ] Representing a married couple to obtain permanent residence for the wife. 
+        - [ ] Represent a permanent resident on their citizenship application.
+
+    10. Which of the following best describes the responsibilities expected of the licensees of the College?
+        - [ ] The duty to conform to values and standards of the profession and to report a client's immigration violations.
+        - [ ] The duty to provide competent and ethical services to the public unless they are not charging for their services.
+        - [ ] The duty to act in good faith in all of their dealings outside of immigration practice.
+        - [x] The duty to practice honestly and not knowingly mislead or withhold relevant information from clients or government officials.
+
+    11. Professional immigration consultants are obliged to deliver “quality services” to clients as described in section 22 of the Code of Professional Conduct.  Delivering quality services requires:
+        - [ ] keeping clients informed and ensuring any marketing is truthful.
+        - [ ] avoiding conflicts of interest and being available to clients 24 hours a day.
+        - [ ] reporting serious mistakes to the College.
+        - [x] meeting deadlines and demonstrating cultural sensitivity.
+
+    12. RCIC Elena is representing Vicky on a study permit application. Elena feels that she has covered all the grounds and addressed any potential issues that the officer could possibly have. However, to her surprise, the application is refused. She discusses with Vicky the options arising out of the refusal and is pleased to learn that Vicky intends to challenge the decision at the Federal Court. What is the best action for Elena to take next? 
+        - [ ] Seek Vicky's consent to allow Elena to work with an immigration lawyer under section 20(1)(b) of the Code.
+        - [x] Try to refer her to an immigration lawyer, not an RCIC.
+        - [ ] Make a referral to another RCIC who practices in this area.
+        - [ ] Advise Vicky on the likelihood of success at Federal Court and encourage her to pursue it.
+
+    13. Under the Code of Professional Conduct, the duty to fulfil one’s professional obligations competently has several components. As part of the duty of competence, an RCIC must:
+        - [x] have relevant experience on matters they are advising clients about.
+        - [ ] do the work without charge if they are not fully competent when commencing a file.
+        - [ ] use the latest software programs on the market.
+        - [ ] provide services in the language of the client.
+
+    14. Banto agreed to assist his fellow RCIC Aboake when Aboake took a brief medical leave. Banto agreed to handle any urgent matters for free. One client, Maria, consented to this, despite having to travel across town to see Banto, because her matter was urgent and she wanted Aboake to remain her representative.  Banto prepared the updated forms as requested by IRCC, had Maria sign them, collected evidence and wrote a submission letter to address the officer's concerns, and sent the package on Aboake’s behalf to Canada Immigration.  There was no service agreement and Aboake did not see the package.  Banto’s professional relationship to Maria is:
+        - [ ] Maria is not Banto's client because Maria already has an authorized representative on the file, Aboake.
+        - [x] Maria is Banto's client because he is responsible for deciding what information, evidence and submissions to file.
+        - [ ] Maria is not Banto's client because he is not charging and has no written service agreement with her.
+        - [ ] Maria is Banto's client because he is preparing her forms and submitting the package.
+        > Preparing forms and submitting the package does not by itself create a consultant-client relationship; **these tasks are usually done by staff and supervised by a licensed person**.
+
+    15. Wahid is an RCIC who specializes in refugee cases. He has accepted a consultation to advise a potential client on their refugee file. When does Wahid need to **evaluate his competency** to advise and represent the client?
+        - [ ] Only if an inadmissibility issue arises, impacting the case.
+        - [ ] Because he has specialized expertise in the area, this step would not be needed.
+        - [ ] Before closing the file, to confirm he handled it properly.
+        - [x] At the **initial consultation**, and **as the case progresses through to the end**.
+
+    16. RCIC Gonzalo is representing a client in a residency appeal before the Immigration Appeal Division of the IRB. A week before the hearing, the client paid Gonzalo the last installment of $2,500 and everything seemed to be in order for the hearing. However, 3 days before the hearing, Gonzalo was informed by his bank that the cheque had bounced. He contacted the client who told him the reason was that he decided to fire Gonzalo effective immediately and had an appointment that afternoon with new counsel. Upon hearing this, what is Gonzalo's situation under the Code of Professional Conduct?
+        - [ ] He cannot end the service agreement for non-payment as it would prejudice the client.
+        - [ ] He can end the service agreement but only after he hears from new counsel, to ensure the client is not prejudiced.
+        - [ ] He cannot end the service agreement for non-payment because he cannot give reasonable notice.
+        - [x] He must end the service agreement immediately as the client has discharged him.
+
+    17. The Code of Professional Conduct requires RCICs to keep clients informed about the status of their file.  This obligation includes the fact that an RCIC must:
+        - [ ] contact the client, preferably by phone, when a letter is received from the government on their file.
+        - [x] inform the client in writing once they have submitted the client's application.
+        - [ ] notify the client by email within 30 days that correspondence was received.
+        - [ ] if correspondence is received, decide whether to inform the client.
+
+    18. There are many acronyms used in the field of immigration. A good example is the acronym “IRPA” which those working in this field recognize as the Immigration and Refugee Protection Act. Similarly, many agencies working in the immigration and refugee sector are also known by their acronyms. An immigration consultant must know these acronyms and use them correctly to communicate with others in the field. Which of these acronyms stand for agencies that currently have a direct role in the regulation of immigration consultants?
+        - [ ] CSIC and ICCRC
+        - [x] **IRCC and CICC**
+        - [ ] ICCRC and IRCC
+        - [ ] CBSA and IRB
+        > The Minister responsible for IRCC established the **initial Code** of Conduct for immigration consultants; **IRCC oversees the College** by appointing directors to the Board, attending Board meetings (including in camera portions) to observe, requiring regular reporting, and establishing Regulations under the College Act.  The **CICC** (College of Immigration and Citizenship Consultants) is the **regulatory body**.
+
+    19. Sahani recently obtained her license from the College and is in the process of setting up her own business. She is preparing templates for the documents she will need. One of these is a brief one-page agreement for Initial Consultations. She will prepare it on her letterhead with all her contact information and add her registration number and a statement about the College’s role. Sahani’s template will leave fields for the name and contact information of the potential client. There will be a signature line at the bottom with the date for Sahani and the client to sign. She plans to charge $250 for an Initial Consultation. In addition to the above, her Consultation Agreement will say: “The RCIC agrees to provide an initial consultation to the client for immigration advice for a fee of $250”.  Will her template satisfy the Code requirements?
+        - [x] No, because it does not adequately describe what the consultation will be about.
+        - [ ] Yes, because it includes all the information needed.
+        - [ ] No, because she needs a full-service agreement before providing any services.
+        - [ ] No, because initial consultations should be provided free of charge.
+        > Correct - the consultation agreement is required to include the **purpose and scope of the consultation** as per s. 23(2)(e). An RCIC should only hold a consultation within their scope of practice.
+
+    20. Badia wants to invite her sister Hafsa from Syria to visit Canada and requests your assistance.  After hearing the facts, you know it will be extremely difficult, although not impossible, for an officer to approve a visitor visa for Hafsa. The family previously made a refugee claim, and Hafsa is living in a country experiencing great insecurity.  Your main ethical obligation is to communicate to Badia and Hafsa that:
+        - [ ] You will work on it diligently but since the work is more, the fee will have to be higher.
+        - [ ] You can seek assistance if needed, provided the client consents.
+        - [x] You will put your opinion in writing that her chances are poor and why.
+        - [ ] You must decline to accept the case as success is so unlikely.
