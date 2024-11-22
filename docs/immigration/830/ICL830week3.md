@@ -275,6 +275,7 @@ tags:
         - pay the foreign workers by cheque or direct deposit and provide a pay stub indicating the deductions from the gross salary remitted to Canada Revenue Agency
         - keep all payroll records, time sheets, tax forms, receipts and documents related to any benefits, reimbursement of transportation costs, health insurance and/or workplace safety paid on behalf of the foreign workers, for a period of six years after the first date of foreign worker’s employment after obtaining the work permit
         - obtain advice before making any changes to the foreign workers’ terms and conditions of employment, as implementation of such changes may first require the filing of a **new LMIA** and obtaining a new work permit
+        - **Voluntary disclosure**: [online](https://www.canada.ca/en/employment-social-development/services/foreign-workers/voluntary-disclosure.html){:target="\_blank"}
 
 ## Quizzes
 
