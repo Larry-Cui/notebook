@@ -15,9 +15,15 @@ tags:
 
 ## Notes
 
-??? note "Tutorial notes"
+???+ note "Tutorial notes"
 
-    - IMP
+    - If a Canadian company wants to hire some foreign national, what is the first question you should?
+        - job offer: job duies, duration of employment, (NOC),  wage, location. Explain why the employer needs this employee to work in Canada?
+        - passport: nationality
+        - resume: experience
+        - education: qualification
+    - IMP Bible: - (LMIA) exemption codes – International Mobility Program (IMP), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html){:target="\_blank"}
+    - Business Visitor: R186 and R187, could be from both visa required and exempted countries. no work permit is needed.
 
 ??? note "IRCC websites"
 
