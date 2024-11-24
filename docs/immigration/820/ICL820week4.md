@@ -17,14 +17,28 @@ tags:
 
 ???+ note "Tutorial notes"
 
-      - Case 1: Discussion Questions
+      - **Case 1: Discussion Questions**
           - Groups 1 & 2: Assuming that Jacques may be unable to come to Canada due to his inadmissibility, consider the impacts on (1) the company and (2) Carly. In light of these, what office procedures might Carly adopt to reduce the possibility of being in this situation in the future?
+              - improve questionnaire.
+              - add a clause to the service agreement outlining what happens if there is an admissibility issue.
           - Groups 3 & 4: Using the definition of “conflict of interest” in section 1(2) of the Code, would you say that Carly’s situation, at the point where she pulls out the Code, amounts to an actual conflict of interest or a potential conflict of interest?  Explain. What is her immediate next step and why? Your answer should include who her clients are, and what role confidentiality plays in this scenario.
-          - Groups 5 & 6: Sections 5, 6, 15(1), and 28(3) of the Code all bear on this scenario. Carly’s plan will necessarily depend on whether Jacques is willing to disclose this offence to the company. Either way (if Jacques will not disclose; if Jacques will disclose) can you devise a plan in each case for Carly that would fulfill her duties to both parties?  Be specific.
-      - Case 2: Family Involvement
+              - regardless of who is paying, the work permit is between Jacques and Carly.
+              - Yes. a conflict of interest. the new information may change the company's strategy. company might want to know more, while Jacques might not want to disclose.
+              - avoid conflict. honesty, candour. timely and effective communication.
+          - Groups 5 & 6: Sections 5, 6, 15(1), and 28(3) of the Code all bear on this scenario. Carly's plan will necessarily depend on whether Jacques is willing to disclose this offence to the company. Either way (if Jacques will not disclose; if Jacques will disclose) can you devise a plan in each case for Carly that would fulfill her duties to both parties?  Be specific.
+              - withdraw if Jacques refused to disclose.
+              - tell the company client everything.
+              - disclose no more than necessary s 28(3)
+      - **Case 2: Family Involvement**
           - Groups 1 & 2: At the time when Samesh first retained Raj, did Raj have an actual conflict of interest? Was there a potential conflict of interest? Explain your answer with reference to the facts and the definition of “conflict of interest” in section 1(2) of the Code.
-          - Groups 3 & 4: Using the definition of “conflict of interest” in section 1(2) of the Code, describe the nature of the conflict of interest that Raj now has on this file after Devinder fired Samesh. Your answer should take into account the status of Raj and Devinder under the Code and Raj’s Code obligations.
-          - Groups 5 & 6: A client in this situation may desperately want Raj to continue – they may not know anyone else and have no income to hire someone. Considering ss 15(1) and 15(2), is this a situation where Raj could have Samesh consent in writing for Raj continue to be his Representative despite the conflict of loyalties Raj faces between the interests of Samesh and Devinder? Explain your answer.
+              - first time: no actual conflict of interest, but potential.
+          - Groups 3 & 4: Using the definition of “conflict of interest” in section 1(2) of the Code, describe the nature of the conflict of interest that Raj now has on this file after Devinder fired Samesh. Your answer should take into account the status of Raj and Devinder under the Code and Raj's Code obligations.
+              - client: Samesh
+              - third-party payee: not a client
+          - Groups 5 & 6: A client in this situation may desperately want Raj to continue - they may not know anyone else and have no income to hire someone. Considering ss 15(1) and 15(2), is this a situation where Raj could have Samesh consent in writing for Raj continue to be his Representative despite the conflict of loyalties Raj faces between the interests of Samesh and Devinder? Explain your answer.
+            - must terminate service agreement.
+            - written consent would not likely be effective.
+            - **perceived conflict of interest EXISTS**.
 
 ??? note "Conflicts of Interest"
 
