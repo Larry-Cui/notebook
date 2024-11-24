@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-??? note "Tutorial notes"
+???+ note "Tutorial notes"
 
       - Case 1: Discussion Questions
           - Groups 1 & 2: Assuming that Jacques may be unable to come to Canada due to his inadmissibility, consider the impacts on (1) the company and (2) Carly. In light of these, what office procedures might Carly adopt to reduce the possibility of being in this situation in the future?
