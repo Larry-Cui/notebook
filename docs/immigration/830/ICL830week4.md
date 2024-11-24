@@ -249,7 +249,7 @@ tags:
         - [ ] Yes, Myrna can obtain a work permit as she has a job offer from Mario
         - [ ] No, Myrna cannot obtain the work permit as she is not a citizen of Peru
 
-???+ note "Midterm Practice Quiz"
+??? note "Midterm Practice Quiz"
 
     1. Thomas, a Canadian citizen, applied to sponsor his spouse one year ago. There was an unfortunate delay in the application’s processing. In fact, the visa post closed down and the application had to be transferred. The couple hasn’t been together for some time now and Thomas would like his spouse to come to Canada on a Temporary Resident Visa (TRV) for the winter holiday. His spouse just lost her job in her home country, and he would like to be with her to support her. He is worried that his spouse’s application for Permanent Residence which is still in progress, might cause the refusal of the Temporary Resident Visa (TRV). Which of the following is most likely the reason the spouse’s TRV could be refused?
         - [ ] Because a foreign national is not allowed to have two applications in progress at the same time.
