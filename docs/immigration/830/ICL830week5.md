@@ -227,6 +227,11 @@ tags:
         - the **purpose** and the context of the stay
         - the **credibility** of documents and information submitted
         - **past compliance** with the requirements applicable to temporary residents (visitors, students and workers)
+    - Case Law (what **factors** can be considered for “dual intent” and the “intention to depart”?):
+        - Ramos v Canada (Citizenship and Immigration), 2017 FC 768, [Online](http://canlii.ca/t/h5h2b){:target="\_blank"}.
+        - Ul Zaman v Canada (Citizenship and Immigration), 2020 FC 268, [Online](http://canlii.ca/t/j5ch1){:target="\_blank"}.
+        - Chowdhury v Canada (Citizenship and Immigration), 2019 FC 1417, [Online](http://canlii.ca/t/j3c34){:target="\_blank"}.
+        - Pisarevic v. Canada (Citizenship and Immigration), 2019 FC 188, [Online](https://www.canlii.org/en/ca/fct/doc/2019/2019fc188/2019fc188.html){:target="\_blank"}.
 
 ## Quizzes
 
