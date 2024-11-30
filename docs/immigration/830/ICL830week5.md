@@ -43,10 +43,24 @@ tags:
         - International Mobility Program: Canadian interests - Designated by the minister R 205 (c)- Work related to a research, educational or training program – exemption codes C31, C32 and C33, [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/work-related-research-educational-training-program-r205-1-2-codes-c31-c32-c33.html){:target="\_blank"}.
         - International Mobility Program: Canadian interests - Charitable or Religious work R 205 (d), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-clergy.html){:target="\_blank"}.
 
-??? note "IMP: Employer-Specific Programs"
+???+ note "IMP: Employer-Specific Programs"
 
     - The work permit applications considered in this module are based on R205 Canadian interests - Significant benefit, where the importance of the LMIA can be overcome.
     - As described in Module 4, the LMIA-exempt process involves two steps. The first step is completed by the employer and the second step is the employee's work permit application. What the employer is required to do is to **submit an offer of employment through their employer portal**. The online portal will then generate **a number** that the employee needs to use in their work permit application.
+    - International Mobility Program: Labour Market Impact Assessment (LMIA) exemption codes, [Online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html){:target="\_blank"}.
+    - **C10, Significant Benefit:**
+        - Purpose of exemption: Foreign national's activities in Canada must yield a significant benefit to the country's society, culture or economy.
+        - Foreign nationals should hold substantial experience and/or accomplishments, and be clearly recognizable as a leader in the field.
+        - Required Reading: International Mobility Program: Canadian interests – Significant benefit general guidelines [R205(a) - C10], [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html){:target="\_blank"}.
+    - **C11 - Entrepreneurs:**
+        - Purpose of exemption: Business owners who are able to demonstrate that the establishment and operation of their business in Canada may generate significant economic, social or cultural benefits or opportunities for Canadians or permanent residents.
+        - Foreign nationals may use this category if they control at least **50% of the business** in Canada.
+        - Required Reading: International Mobility Program: Canadian interests – Significant benefit – Entrepreneurs/self-employed candidates seeking to operate a business [R205(a) – C11], [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-entrepreneurs-self-employed-candidates-seeking-operate-business-r205-c11.html){:target="\_blank"}.
+        - The first category applies to those who only seek entry for a temporary, usually seasonal, purpose to run their existing business (usually self- employed people).
+        - The second category applies to those who seek entry as a business candidate to start or run their business to meet the requirements **for provincial/territorial nomination** or selection as an entrepreneur or the requirements **for the federal Start-up Business Visa**.
+        - A foreign national may be issued a work permit under paragraph R204(c) (LMIA exemption code T13), even if they will be working as an entrepreneur. In this case, the foreign national must have both
+            - a valid formal nomination for permanent residence from a province or territory and
+            - a paragraph R204(c) support letter
 
 ## Quizzes
 
