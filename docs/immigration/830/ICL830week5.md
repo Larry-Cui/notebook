@@ -17,7 +17,25 @@ tags:
 
 ??? note "Tutorial notes"
 
-    - If
+    - What is "significant"?
+        - general economic support
+        - advancement of industry
+        - increased health and well-being
+        - increased tolerance,knowledge or opportunities to come together with others of similar culture
+    - Questions for determining significant benefit
+        - can the employer get an LMIA?
+        - what are the social and/or cultural benefits and are they significant?
+        - is the applicant a leader in their field or does the person have a particular expertise/skill?
+        - is there sufficient objective evidence to support the request?
+        - am I convinced?
+    - key supporting documents for R205(a) - C10?
+        - education, membership documents
+        - proof of experience, more than 10 years is preferred
+        - international awards, patent or evidence of recognition
+        - evidence that applicant has been the judge of other
+        - evidence of scientific or scholarly contributions
+        - publications in academia or industry
+        - **explanation why an LMIA was not filed or why an LMIA is not practical**
 
 ??? note "IRCC websites"
 
@@ -26,7 +44,7 @@ tags:
     - Conditions and validity period on work permits, [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/eligibility-admissibility-conditions-including-validity-period.html){:target="\_blank"}.
     - Temporary residents: Dual intent, [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/dual-intent-applicants.html){:target="\_blank"}.
     - International Mobility Program: Authorization to work without a work permit, [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit.html){:target="\_blank"}.
-    - International Mobility Program: Labour Market Impact Assessment (LMIA) exemption codes, [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html){:target="\_blank"}.
+    - **International Mobility Program: Labour Market Impact Assessment (LMIA) exemption codes**, [**online**](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html){:target="\_blank"}.
     - LMIA exemption codes:
         - International Mobility Program: Canadian interests – Significant benefit general guidelines [R205(a) – C10], [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html){:target="\_blank"}.
         - International Mobility Program: Provincial business candidates or Quebec self-employed applicants with a CSQ,[R205(a) – C11], [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-entrepreneurs-self-employed-candidates-seeking-operate-business-r205-c11.html){:target="\_blank"}
