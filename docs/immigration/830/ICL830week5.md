@@ -253,6 +253,67 @@ tags:
 
 ## Quizzes
 
-??? note "Module 4 Knowledge Check: IMP International Agreements"
+???+ note "Module 5 Knowledge Check: IMP Employer-Specific Programs"
 
-    1. Patrick
+    1. Indra's Canadian Experience Class (CEC) application was submitted but not yet approved. She wants to apply for a **Bridging Open Work Permit (BOWP)** as she is currently on a closed work permit. What are the requirements for a BOWP?
+        - [ ] Be currently in Canada on a work permit due to expire in four months, include evidence of a job offer, and paid the required fees.
+        - [ ] Be currently abroad, be the main applicant in one of the qualifying programs, have passed completeness check, and paid the required fees. Be in Canada on an expired work permit, be the main applicant in one of the qualifying programs, have passed completeness check and paid the required fees.
+        - [x] Be in Canada on a work permit that is due to expire, be the main applicant in one of the qualifying programs, have passed completeness check and paid the required fees.
+
+    2. Jacob's Canadian Experience Class (CEC) Express Entry application has been submitted and he received acknowledgment of receipt and R10 completeness check letter. His Labour Market Impact Assessment (LMIA)  work permit is about to expire. He is from the USA. What should he do next and what is the authority?
+        - [x] Apply for a bridging open work permit per A75 and R205(a)
+        - [ ] He must change his status to visitor per R179
+        - [ ] Flagpole to the border and request an open work permit per A11
+        - [ ] Have his employer apply for a new LMIA per R203
+
+    3. Juanita is an engineering researcher and has been accepted into the prestigious Cecil B. DeMille School of Engineering at the University of Parry Sound in Ontario for a master's degree. She has been awarded the Georgian Bay entrance scholarship. She inquires if she may be eligible for under R205(c)(ii) for a Labour Market Impact Assessment (LMIA) exempt work permit under **C44**.
+        - [ ] Yes, because she is a researcher and is studying her master's degree.
+        - [ ] No, researchers do not qualify.
+        - [ ] Yes, because she has been awarded a scholarship.
+        - [x] No, she must be a **post-doctoral** fellow holding a **PHD** or equivalent.
+
+    4. Labour Market Impact Assessment (LMIA) exemption codes are noted for:
+        - [ ] Identification codes for employers who need require foreign nationals.
+        - [ ] Designations to indicate locations for foreign national based employment.
+        - [x] For particular scenarios or occupations that do not require a LMIA.
+        - [ ] Foreign nationals who wish to pursue employment opportunities that require an LMIA.
+
+    5. Juanita's employer, Mexicana, has been awarded an academic award from Parry Sound University (PSU). Juanita has been invited to research and study at PSU in Canada. Juanita and her company have developed cutting edge research on food organics and PSU wishes to further that study. Juanita will work directly for PSU and lead the research team. She is highly educated and a leader in her field of organic chemistry. Do you think Juanita will be successful in obtaining a work permit under R205(c)(ii)?
+        - [ ] Yes, as her company has been awarded the award and research grant and she is invited by PSU.
+        - [ ] Yes, as she is highly educated and will lead the research at PSU.
+        - [x] No, as Juanita must be the **direct recipient of the academic award**.
+        - [ ] No, as organic chemistry is not under the available list of research grants.
+        > Government of Canada, IRCC, Operational instructions and guidelines, Temporary residents, Temporary workers,"Academic award recipients for research work – [**R205(c)(ii) – C52**](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c52.html){:target="\_blank"}
+
+    6. Johnny is a top-level chef from France who has been asked to go work at a sister restaurant in Vancouver, B.C. He has developed a special recipe for chocolate crème brule a few years ago that has been popular all over the world. The Canadian employer wishes to bring this world-famous chef and his speciality to the North American market. For Johnny's knowledge to be considered specialized, he must have:
+        - [x] Both **proprietary knowledge** and **advanced expertise**
+        - [ ] Be willing to travel to B.C. to share his knowledge and skill
+        - [ ] Advanced expertise and willingness to share the recipe
+        - [ ] Proprietary knowledge and general competence as a chef
+        > **C63**
+
+    7. The National Ballet of Canada is on the search for a new artist in residence, a position they often award to a non-Canadian dancer, with the requirements of having international experience, and being renowned for their artistic abilities. In 2022, they wish to award the position to Miyako Yoshida of Japan for an 18-month position. Miyako is considered a world level dancer and has performed as a guest all over the world. Miyako will lead in several performances and work with up-and-coming Canadian ballet dancers. Could Miyako meet the requirements of exemption code C10 under R205(a) applicant?
+        - [x] Yes, because she is world renowned as a dancer and will provide cultural benefits to Canadians.
+        - [ ] Yes, because she is from Japan and will only work for 18 months.
+        - [ ] No, the National Ballet of Canada must obtain a Labour Market Impact Assessment (LMIA) work permit for Miyako since it is not recognized by the federal government as a designated institution.
+        - [ ] No, because she must apply though the Japan-Canada Free Trade Agreement.
+        > Government of Canada, IRCC, Operational instructions and guidelines, Temporary residents, Temporary workers, Canadian interests – Significant benefit to Canada [**R205(a) – C10**](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html){:target="\_blank"}
+
+    8. Sebastian is an international student studying culinary arts at George Brown College in Toronto, ON. At the end of the two-year program, and in order to graduate, he is required to work in a restaurant for four months. He is concerned about working more than 20 hours a week without authorization. What can you tell Sebastian about working as part of his study program?
+        - [ ] He is not allowed to work in Canada as he came in as a student not a worker
+        - [ ] He can continue to work as long as his study permit is still valid
+        - [x] He needs to apply for a **co-op work permit** with a letter from the school
+        - [ ] If he applied for his Post-Graduate Work Permit (PGWP) already he can start to work full time
+        > Government of Canada, IRCC, Operational instructions and guidelines, Temporary residents, Temporary workers, Work related to a [research, educational or training program – exemption code C31, C32 and C33](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/work-related-research-educational-training-program-r205-1-2-codes-c31-c32-c33.html){:target="\_blank"}
+
+    9. Silvana is the General Manager of Gabriella Industries in Italy. She has been a part of the executive team for five years. She has been offered a job in Canada as Chief Executive Officer for Gia Capelli Fashions, a long-time international rival of Gabriella Industries. The two companies have similar markets, financial backgrounds, and often bid on competing contacts. Several years ago, they were jointly recognized as "international industrialist companies of the year in 2015". Could Silvana qualify for a R 205a) work permit?
+        - [ ] Yes, because the job titles are at the executive level.
+        - [ ] No, because the new job title does not match the existing one.
+        - [x] No, because there is no qualifying relationship between the two companies.
+        - [ ] Yes, because the companies are affiliates as they are share existing markets.
+
+    10. Johnny is a specialty chef from France and works in a three Michelin star restaurant. He has developed some innovative techniques, including a unique recipe and formulae for butterscotch crème brule that has taken the cooking world by storm. The restaurant has a sister location in Vancouver, B.C., and wishes to use the same techniques that Johnny has developed. The Canadian employer contacts you and wonders if he can bring Johnny to Canada. What would you advise him?
+        - [ ] As per 204, the only option is through B. C. Provincial Nominee Program (PNP) since the position is offered in B. C. and Johnnie is introducing innovation to the Canadian economy.
+        - [x] Johnny could possibly qualify under s. 205 of the IRPR as a specialized knowledge intra company transferee worker
+        - [ ] There is no option as there too many chefs already in Vancouver.
+        - [ ] All work permits, except open work permits require a Labour Market Impact Assessment (LMIA), so, as per R203 that is the only option.
