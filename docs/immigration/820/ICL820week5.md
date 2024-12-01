@@ -17,26 +17,52 @@ tags:
 
 ??? note "Tutorial notes"
 
+      - clients make your life more difficult?
+          - take steps without telling you.
+          - overly suspicious/distrustful/manipulative
+          - rude, accusatory
+          - not telling the whole truth, outright lying
+          - not responding
+          - constantly contact you for updates
+          - discharge you
+          - emotionally disturbed or mentally ill
+      - reducing stress in client relationship
+          - take charge, not domineering, but take control and set boundaries
+          - commit more time for ensuring clear communication
+          - manage expectations
+          - ensure payment
+          - professional boundaries, zero tolerance for harassment or abuse
       - **Case 1:** Lian's One Day
           - Group 1: Who are Lian’s clients at the point when she arrives to start her day? Use the definition of ‘client’ in section 1(1) of the Code to explain why each person is or is not a client.
               - Jaine, couple, and Carlos
           - Group 2: Identify the needs of Janine, Carlos and the couple on this morning, both for immigration services and any other needs impacting Lian’s schedule on this day. Which client’s needs should take precedence on this day, and why?
-              - Jaine, time sensitive
+              - Jaine, time sensitive, WP expires tonight
+              - couple, pay 3k, which is needed
+              - Carlos, shouting in the lobby
           - Group 3: What Code sections are most relevant to Janine? Explain how they should be implemented during this busy day.
-              - 22(1)(a), 22(2)
+              - 22(1)(a), 22(2), 22(3)(a)
           - Group 4: What Code sections are most relevant to Carlos? Explain how they should be implemented during this busy day.
-              - 22(1)(d), 10
+              - 22(1)(d), 28(1), 7, 8, 10
           - Group 5: What Code sections are most relevant to the couple? Explain how they should be implemented during this busy day.
               - ?
           - Group 6: Discuss some of the decisions Lian made in the weeks leading up to today that contributed to this predicament, and what she might do to reduce such stress in future.
               - wait until the last minute to submit application.
+              - booked another client when you have an urgent case is risky!
+              - poor financial planning!
       - **Case 2:** New EDI Issue Arising
           - Group 1: What is the Equity, Diversity, Inclusion (EDI) concept potentially arising here? Examine what assumption(s) you may be making about Mitzi in this scenario.
+              - objectively. see it from IRCC lens.
           - Group 2: Now that you have just received new information from Mitzi, how do your duties in sections 6 and **22(1)** of the Code impact what you need to do next with the client?
+              - meet with Mitzi and have a frank discussion.
           - Group 3: You arrange for a meeting with Mitzi. It is too soon to know exactly what to expect but you want to prepare for the possibility of new disclosures concerning her sexuality. The IRB Chairperson's Guideline 9 concerns SOGIESC communities. Although the Guidelines are not strictly applicable outside the IRB, identify at least three important concepts from Guideline 9 that might provide some helpful tips or guidance for your meeting with Mitzi.
+              - assess the truthfulness.
+              - a potential refugee claim.
           - Group 4: In preparing for your meeting with Mitzi, you realize that it is possible Mitzi may be traumatized by past life events. It is too soon to tell, but you decide to review the principles of trauma-informed practice just in case. What techniques or guidance about trauma-informed approaches offered by the readings might be useful to know as a service-provider in your upcoming meeting with Mitzi?
+              - license + up to date knowledge, experience
           - Group 5: Discuss how your own scope of practice may become a relevant consideration in this scenario.
+              - duty of honesty and candour
           - Group 6: Assuming Mitzi identifies as a member of the LGBTQ+ community and tells you this at your next meeting with her, can you see how a conflict of interest might arise with this new information between your own interests and your duty of loyalty to Mitzi's interests?
+              - trust issue.
 
 ??? note "Equity, Diversity, Inclusion and Self-Care"
 
