@@ -253,7 +253,7 @@ tags:
 
 ## Quizzes
 
-???+ note "Module 5 Knowledge Check: IMP Employer-Specific Programs"
+??? note "Module 5 Knowledge Check: IMP Employer-Specific Programs"
 
     1. Indra's Canadian Experience Class (CEC) application was submitted but not yet approved. She wants to apply for a **Bridging Open Work Permit (BOWP)** as she is currently on a closed work permit. What are the requirements for a BOWP?
         - [ ] Be currently in Canada on a work permit due to expire in four months, include evidence of a job offer, and paid the required fees.
@@ -306,7 +306,7 @@ tags:
         - [ ] If he applied for his Post-Graduate Work Permit (PGWP) already he can start to work full time
         > Government of Canada, IRCC, Operational instructions and guidelines, Temporary residents, Temporary workers, Work related to a [research, educational or training program – exemption code C31, C32 and C33](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/work-related-research-educational-training-program-r205-1-2-codes-c31-c32-c33.html){:target="\_blank"}
 
-    9. Silvana is the General Manager of Gabriella Industries in Italy. She has been a part of the executive team for five years. She has been offered a job in Canada as Chief Executive Officer for Gia Capelli Fashions, a long-time international rival of Gabriella Industries. The two companies have similar markets, financial backgrounds, and often bid on competing contacts. Several years ago, they were jointly recognized as "international industrialist companies of the year in 2015". Could Silvana qualify for a R 205a) work permit?
+    9. Silvana is the General Manager of Gabriella Industries in Italy. She has been a part of the executive team for five years. She has been offered a job in Canada as Chief Executive Officer for Gia Capelli Fashions, a long-time international rival of Gabriella Industries. The two companies have similar markets, financial backgrounds, and often bid on competing contacts. Several years ago, they were jointly recognized as "international industrialist companies of the year in 2015". Could Silvana qualify for a R 205(a) work permit?
         - [ ] Yes, because the job titles are at the executive level.
         - [ ] No, because the new job title does not match the existing one.
         - [x] No, because there is no qualifying relationship between the two companies.
@@ -314,6 +314,120 @@ tags:
 
     10. Johnny is a specialty chef from France and works in a three Michelin star restaurant. He has developed some innovative techniques, including a unique recipe and formulae for butterscotch crème brule that has taken the cooking world by storm. The restaurant has a sister location in Vancouver, B.C., and wishes to use the same techniques that Johnny has developed. The Canadian employer contacts you and wonders if he can bring Johnny to Canada. What would you advise him?
         - [ ] As per 204, the only option is through B. C. Provincial Nominee Program (PNP) since the position is offered in B. C. and Johnnie is introducing innovation to the Canadian economy.
-        - [x] Johnny could possibly qualify under s. 205 of the IRPR as a specialized knowledge intra company transferee worker
+        - [x] Johnny could possibly qualify under s. 205 of the IRPR as **a specialized knowledge intra company transferee worker**
         - [ ] There is no option as there too many chefs already in Vancouver.
         - [ ] All work permits, except open work permits require a Labour Market Impact Assessment (LMIA), so, as per R203 that is the only option.
+
+    11. Loui, a mechanical engineer who currently resides in London, UK, received a job offer to work for a manufacturing company in North Bay, Ontario. Loui's mother is from France, and she made sure that Loui learned French from a very early age. He was raised by French-speaking parents after all. Nonetheless, Loui wrote the French exam and obtained a Canadian Language Benchmark (CLB) of 9 in each of the abilities. What would be the best category for Loui to obtain a work permit?
+        - [ ] Labour Market Impact Assessment (LMIA)
+        - [x] **Mobilite Francophone**
+        - [ ] Significant benefit
+        - [ ] Canada-UK Trade Continuity Agreement (CUTKCA)
+
+    12. Acme Records, a Canadian music company has offered Diego, a musician from Argentina, a recording contract. He has won several music competitions/awards in his country and is now entering the North American market. He has been offered a 1-year recording contract with Acme Records. Acme Records contacts you to ask a few questions. They indicate Diego will earn a stipend and royalties on the sale of his recordings. They want to help him get a work permit. What would you advise Acme Records?
+        - [x] Diego can get a work permit under **significant benefit in cultural activities**
+        - [ ] The record company will have to apply and obtain a Labour Market Impact Assessment (LMIA) first.
+        - [ ] Diego can get a work permit under section 186 of the regulations
+        - [ ] Diego can get a work permit under the Canada-Argentina Free trade agreement
+
+    13. What is the legislative authority that permits applicants to apply for bridging open work permits?
+        - [x] R 205(a) and A75
+        - [ ] R 204(b) and A17
+        - [ ] R 205(a) and A25
+        - [ ] R 205(a) and A3
+        > Government of Canada, IRCC, Operational instructions and guidelines, Temporary residents, Temporary workers, Bridging open work permits for certain economic class permanent residence applicants [R205(a) - A75](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/bridging-open-work-permits.html){:target="\_blank"}
+
+    14. The National Ballet of Canada (NBC) has announced that world renowned dancer, Miyako Yoshida, is their guest dancer in residence for 24 months. The NBC will hold 20 workshops in eight locations across the country and to date, 1250 young students have signed up with the opportunity to learn under from this famous dancer. The NBC has been wanting to bring dance to smaller locations and these local communities are delighted at the spin off cultural and economic benefits. These workshops will take place over the summer months, led by Ms. Yoshida, upon which she will then complete the reminder of her dance in residence program at the NBC in Toronto. Does this profile meet the C-10 R205(a) cultural significance requirements?
+        - [ ] Yes, because the NBC wishes to bring the experience of dance to smaller locations.
+        - [ ] No, because the duties are broken down into workshops and as such, it requires a Labour Market Impact Assessment (LMIA).
+        - [x] Yes, because there are **cultural and economic benefits** for both Canadians and Canadian communities.
+        - [ ] No, because Canada does not participate in reciprocal programs with Japan.
+
+    15. Labour Market Impact Assessment (LMIA) exemption codes are attached to a particular set of regulations that designate the authority for which work permits do not require an LMIA. What are those regulations?
+        - [x] **R204 to R207**
+        - [ ] R186 to R203
+        - [ ] R186, R203, R204
+        - [ ] R203 to R208
+
+    16. Selma has been accepted into the Ola Mexico! and Hello Canada! **cultural exchange program** and has been advised that she can stay and work in Canada for two months. Canimex is a company that participates in that program and after completing a six-month internship at the Mexican office, Selma is ready to travel to Canada. Under what process and legislative authority may Selma obtain her work permit?
+        - [x] An application for a work permit under R 205(b) C 20 reciprocal employment
+        - [ ] No work permit required as R 186 allows her to work in Canada as she is graduated 12 months ago.
+        - [ ] A Canada-United States-Mexico (CUSMA) work permit per R 204(a) C 25 as Selma is from Mexico.
+        - [ ] None of the above
+
+    17. Irving Oil, in New Brunswick, has an affiliate office in Panama. They have offered a Vice President of Sales position to Juan Valdez who is currently the President of their Central American operations. They have also offered a position to Juan's research and design engineer, who has recently patented a new design for the mixing of oil and gas. What types of work permits might these two persons qualify for and what would be the maximum length of their employment period?
+        - [x] R205(a) executive and specialized-knowledge: **Seven** years and **five** years
+        - [ ] R203 Labour Market Impact Assessment (LMIA) for both; three years for both
+        - [ ] R205(b) Reciprocal employment: Seven years and Five years
+        - [ ] None of the above
+
+    18. In Temporary Entry into the Canadian Labour Market: **R205(a), C11**, work permits are applicable to:
+        - [ ] Foreign freelance jockeys
+        - [ ] Fishing guides (Canadian lakes)
+        - [ ] Self employed or potential provincial entrepreneur nominees
+        - [x] All of the above
+        > Government of Canada, IRCC, Operational instructions and guidelines, Temporary residents, Temporary workers, **Entrepreneurs or self-employed individuals seeking only temporary residence** – [R205(a) – C11](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/entrepreneurs-self-employed-seeking-only-temp-residence-r205-c11.html){:target="\_blank"}
+
+    19. Diego is a musician from Argentina, who has won several music awards throughout Latin America. He is now entering the North American market and has been offered a recording contract with a Canadian record company for one year. He will be earning a stipend and royalties from the sale of his recordings. He would like to obtain a work permit to work in Canada. Under what category would he get the work permit?
+        - [ ] Diego can get a work permit under the Argentina Canada Free Trade Agreement
+        - [x] Diego can get a work permit under **significant benefit in cultural activities**
+        - [ ] The record company will have to get a Labour Market Impact Assessment (LMIA) for Diego to obtain a work permit
+        - [ ] As a musician, Diego is exempt from the requirement to obtain a work permit because it is considered work without the need for a work permit
+        > International Mobility Program: Canadian interests – Significant benefit general guidelines [R205(a) – C10], [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html){:target="\_blank"}
+
+    20. Section 205 of the IRPR states a work permit may be issued under s. 200 of the IRPR to a foreign national who intends to perform work that:
+        - [ ] **Would create or maintain reciprocal employment** of Canadian citizens and/or Permanent Residents in other countries
+        - [ ] May be of a **religious or charitable** nature
+        - [x] A and B
+        - [ ] None of the above
+
+    21. Father Pedro is from Mexico. He contacts you to advise he has been offered a spiritual counseling position with the Catholic Church in Charlottetown, PEI. He is researching the best way to "work" in Canada and discovered he can come under R186 (l) or R205(d) of the Temporary Entry into the Canadian Labour Market. Can you explain the difference to him for these?
+        - [ ] R205(d) requires a Labour Market Impact Assessment (LMIA) but not a work permit and R186(l) requires neither.
+        - [ ] Both require work permits and LMIAS.
+        - [x] **R205(d) requires a work permit but not an LMIA, R186(l) requires no work permit and no LMIA.**
+        - [ ] R186(l) does require an LMIA, but R205(d) does not.
+
+    22. Danica Leo is a famous children's author, who has penned the "Cat Detective" and "Little Jammer" series. She is coming to Canada to do a series of author readings by invitation with the Canadian Author's Club over a ten-day period. Readings will take place at Tuck's Cafe, located at Victoria College at University of Toronto. Would a R205(a) work permit be the best option or is there something that might be more appropriate?
+        - [x] No, **R186(g) would be more appropriate for a time limited engagement**.
+        - [ ] No, she should opt for on campus employment under R 186(f).
+        - [ ] Yes, R 205(a) is the best option because she is a famous author.
+        - [ ] Yes, because R 205 includes unique situations.
+
+    23. Marta has a potential nomination through the B.C. Provincial Nominee Program (PNP) Entrepreneurial stream and is ready to implement her business plans. She is awaiting her nomination and the B.C. PNP has encouraged her to apply early for a work permit. What is her next step?
+        - [x] Apply for R205(a), LMIA exemption **C11/C60 work permit**
+        - [ ] Apply for a Labour Market Impact Assessment (LMIA ) from a Canadian employer
+        - [ ] Apply for R204(c) LMIA exemption T13 work permit
+        - [ ] Apply as a business visitor
+        > Entrepreneurs or self-employed individuals seeking only temporary residence – [**R205(a) – C11**](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/entrepreneurs-self-employed-seeking-only-temp-residence-r205-c11.html){:target="\_blank"}
+        >
+        > Provincial business candidates or Quebec self-employed applicants approved for a Quebec selection certificate seeking eventual permanent residence – [**R205(a) – C60**](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-entrepreneurs-self-employed-candidates-seeking-operate-business-r205-c11.html){:target="\_blank"}
+
+    24. Nicole is an international student in a one-year certificate program. As part of her studies, she is required to work in the field as a co-op student. She has found a position to satisfy the requirements of her program. However, the employer will only give her the job if she commits to working for him for more than the term required to graduate. He wants her to work for him for at least one year. Will Nicole be able to get a work permit for one year?
+        - [x] No, because as a **co-op** student, Nicole can only perform work that is **an essential part of her post-secondary studies** required to graduate.
+        - [ ] Yes, because if the employer needs her for one year, she can get the work permit for one year as long as she can show a rationale with her application.
+        - [ ] Yes, she can apply under the destitute student provisions.
+        - [ ] No, because if the course of studies was only one-year she cannot get a work permit for the same duration.
+
+    25. Brigitta, single with no dependents, is from a visa-exempt country and presented herself at the Port of Entry offices in Niagara Falls, Ontario. She has been offered an executive position for the Canadian subsidiary company of her parent corporation. She holds an MBA and Bachelor of Business, has worked for 15 years for the parent company, with the last two years as a senior manager.  She is now offered this new executive position with the Canadian company. She has no criminal record, is healthy, and is fluent in English. She presents her work permit application package and is shocked when it is refused. In her application package, she had a job offer letter, together with all requisite documentation to establish the corporate relationship between the two companies.  She also had all of her credentials for education, work, and proof of language. She even submitted her police report, biometrics and did an upfront medical examination, as well as a receipt for the work permit application filing fees. What is the likely reason that the application was refused?
+        - [ ] Her employer was required to submit the work permit on her behalf.
+        - [ ] She presented a filing fee receipt for the work permit application which is only for applicants who apply from within Canada.
+        - [x] Her work permit application package did not include the **offer of employment number**.
+        - [ ] Persons who are Temporary Resident Visa (TRV) exempt cannot submit a request for work permit at a Port of Entry office.
+
+    26. Celia is applying through the Home Child Care Provider Pilot Program. She wonders if she is eligible to bring her spouse, James, as he too wants to work in Canada on an open work permit. Is this possible and how?
+        - [ ] Yes, as spouses are eligible to accompany and he needs only a visitor record to work.
+        - [x] Yes, James is eligible per R 205(a) and may apply for a work permit under Labour Market Impact Assessment (LMIA) exemption code **C91**
+        - [ ] Yes, pursuant to R 205(a) LMIA exemption code C10
+        - [ ] Yes, pursuant to R 186(j)
+
+    27. Brigitta is a foreign national who has been offered a job as senior manager for a Canadian subsidiary company called Portabella. The company must provide an offer of employment to Brigitta. The proper steps for the employer are:
+        - [x] Create an account in the Employer Portal, fill in the required information, pay the fees, and provide Brigitta the offer of employment number
+        - [ ] Create an account in the Employer Portal, submit the LMIA application and job offer, pay the fees and provide the offer of employment number to Brigitta.
+        - [ ] Fill in the Labour Market Impact Assessment (LMIA) application, advertise, collect the required documentation, pay the fee and ensure the prevailing wage is met, and then provide to Brigitta the offer of employment number.
+        - [ ] Provide Brigitta with a job offer letter, assist in the work permit application, and arrange pick up at the airport.
+
+    28. Fen is a citizen of China and has a master's degree in French.  She's also worked in France as a restaurant manager for five years and as such, is very fluent in the French language. She responded to an advertisement to manage a restaurant in Toronto, Ontario, and had a zoom interview with the owners. The owners were very impressed with her work experience and offered her the position of Restaurant Manager immediately after their interview. Fen contacts you and wants to know under what category she can get her work permit. Which of the following would be your answer?
+        - [ ] She will have to get the employer to apply for a Labour Market Impact Assessment in order for her to apply for the work permit because there could be Canadians who can qualify for the position
+        - [ ] She can come to Canada on a study permit as she will be allowed to work 20 hrs a week during her studies and full time when she graduates
+        - [ ] She can get a work permit under the Independent Professionals category of CETA as she meets all the requirements and France is part of the EU
+        - [x] She can get her work permit under the **Mobilite Francophone** because she speaks French
