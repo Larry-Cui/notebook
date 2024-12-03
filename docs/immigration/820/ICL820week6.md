@@ -24,8 +24,15 @@ tags:
         - Group 4: Identify what actions Samantha should have taken to handle this interpretation process correctly.
         - Group 5: Hiring an interpreter is a judgment call for an RCIC to make, as s 22(1)(e) only requires this be done “when necessary”. Based on what you know about immigration and refugee cases so far, post a factual situation where you believe it would be necessary to use a professional interpreter. Try to identify the factors that you think are important in making this decision in the case you raise, and generally what factors are important in deciding when to hire a professional to interpret rather than using family or friends.
         - Group 6: Given the “Six Rules” of the Code of Conduct for IRB Interpreter Service Contractors in the Required Readings, pick one of the rules that apply at the IRB that would also be expected of Fredrico as a professional interpreter in this scenario, and explain how his conduct violated the spirit of that rule.
+    - **Case Study 2: Medical Inadmissibility**
+        - Group 1: This consultation will be on Zoom. Discuss the applicability of the Code to virtual meetings – are there any differences in RCIC obligations when client meetings are virtual? What do you think is the most applicable section of the Code?
+        Group 2: Based on the matters raised in the section titled “Virtual Meetings, Hearings and Interviews” at page 39 of the CBA article “Legal Ethics in a Digital Context”, identify at least two technical matters the RCIC should consider when setting up this virtual meeting.
+        - Group 3: Under the “Professional Conduct” sections of the Code (sections 4-18), do you believe that Juan’s plan violates any of these provisions?  Explain.
+        - Groups 4: Under the “Competence” sections of the Code (sections 19-22), do you believe that Juan’s plan violates any of these provisions? Explain.
+        - Group 5: Under sections 23-28 of the “Relationship to Clients” provisions of the Code, do you believe that Juan is in breach of any of these provisions? Explain.
+        - Group 6: Assume this Zoom meeting went ahead as planned. After a few minutes, Maria realized that Juan knew very little about medical inadmissibility and could not answer any of her questions about what was likely to happen in her case. She pointedly asked him whether he had ever dealt with a cancer case before. What do you think Juan should do?
 
-???+ note "onQ module"
+??? note "onQ module"
 
     - It may be appropriate to have a direct conversation with a client with help from **a relative or friend** interpreting for them when **setting appointments or obtaining general information** but not for the purposes of preparing **an affidavit** for them. 
     - the appropriate and effective use of **technology** is one of the requirements of being competent found in section **19(2)(e)** of the Code of Professional Conduct.
@@ -63,4 +70,63 @@ tags:
 
 ??? note "Module 6: Knowledge Check"
 
-    1. Ali
+    1. Jenny, an immigration consultant in Halifax, is a bit nervous.  She is about to hire her first professional interpreter to assist her with a sponsorship appeal where the applicant speaks Swahili, a language she has no knowledge of.  She found the interpreter through a local immigrant services agency and has arranged for a Zoom conference with the parties this afternoon.  From her reading on the protocols for professional interpreters, Jenny can expect the interpreter to:
+        - [ ] engage in small talk with the client before the formal start of the meeting so they can get to know each other.
+        - [ ] remain after the meeting with her to clarify anything the client said that Jenny does not understand.
+        - [x] raise a hand to interrupt if there appears to be a misunderstanding.
+        - [ ] keep notes of the session for future reference.
+
+    2. Tewedros was trying to submit a Labour Market Impact Assessment (LMIA) application on the new (and not very user-friendly) online system of Employment and Social Development Canada (ESDC). He completed the application and "signed" the Attestation as a third-party representative, as permitted. However, when he clicked submit, he was returned to the summary page. He tried it with both Chrome and Microsoft Edge. No luck. He is beyond frustrated as he is going on holiday for two weeks tomorrow and planned to get this uploaded before leaving. What ethical guidance, if any, does the Code provide?
+        - [ ] None – it does not address computer glitches that are the fault of government websites.
+        - [ ] He is **still responsible** to the client despite technical barriers.
+        - [ ] He can be **candid with the client** about the glitch and his holiday plans, and **seek instructions to wait for two weeks**.
+        - [x] Both B and C.
+
+    3. The Code of Professional Conduct requires RCICs to use technology that is appropriate and to use technology effectively.  These obligations are specifically stated in the Code as part of the duty of:
+        - [ ] delivering quality services.
+        - [ ] proper record-keeping.
+        - [ ] dilegence.
+        - [x] competence.
+        > **s 19(2)(e)**
+
+    4. Michael, an immigration consultant in Waterloo, Ontario has hired a professional Punjabi interpreter to help him prepare for a detention hearing. After introductions and some ground rules, Michael starts by asking the client: Where were you born? The client speaks briefly. The interpreter tells Michael: He says he was born in Chandigarh. As a competent consultant Michael knows:
+        - [ ] this interpretation sounds efficient and proper.
+        - [ ] this is not the best way to interpret, but the meaning is clear and that is the main thing.
+        - [x] this is not a proper way to interpret and he should stop the interpreter.
+        - [ ] it is not proper interpretation, but is too minor to stop.
+
+    5. As immigration practice increasingly moves towards digitalization, it is important for consultants to understand key security and privacy risks and adopt good cybersecurity hygiene. Good **cybersecurity** hygiene in a legal context includes such practices as:
+        - [x] **Password protection**, **data encryption** and **up-to-date software**.
+        - [ ] Firewalls, two-step identification and cloud storage.
+        - [ ] Anti-virus software and banning digital signatures.
+        - [ ] Device location tracking software with remote wipe capabilities and one back-up.
+
+    6. Sarah conducts refugee cases before the Immigration and Refugee Board.  Her current client Yin Chin is a Chinese citizen who claims persecution based on being a proponent of Falun Gong¸ a practice which is banned in China. Sarah has no ability to communicate in Mandarin and Yin Chin has no ability to communicate in English. However, Yin Chin has a cousin who has offered to attend meetings and interpret for her. Yin Chin would prefer to do that than pay for a professional interpreter. Sarah’s best course of action is to:
+        - [ ] accept the cousin's offer gratefully, to save the costs.
+        - [ ] decline the offer as family is banned as interpreters by the College.
+        - [x] advise the parties that **a professional interpreter will be needed**.
+        - [ ] ask the cousin to obtain certification as a professional interpreter.
+
+    7. Which of the following statements is currently correct as it pertains to the use of Artificial Intelligence (AI) in processing immigration applications?
+        - [x] AI will **revolutionize** the delivery of immigration services.
+        - [ ] AI will find limited to no use in the delivery of immigration services.
+        - [ ] AI has improved the individualized assessment of applications.
+        - [ ] AI is in charge of making decisions on various types of applications.
+
+    8. Digital client data may be deleted once client information is no longer needed to comply with any College requirements for keeping client records. Deleting unneeded client data minimizes the negative impact if you are victim of a future security breach of your devices and files – as client information cannot be accessed. When deleting client digital data, the most practical and secure method is to:
+        - [ ] Use the standard "delete" function on your device.
+        - [ ] Physically destroy the device.
+        - [x] Wipe or scrub the device with a proper tool for this purpose.
+        - [ ] Transfer the client digital data to another secure device.
+
+    9. Cloud-based storage of data by businesses is increasingly common. Cloud services have many benefits for practitioners in the legal sector, such as access to data from anywhere. However, there are some drawbacks as well, as cloud services require placing your data in the hands of third parties.  Some ethical matters to consider when using cloud storage include:
+        - [ ] how to access your data and costs.
+        - [x] protection of confidentiality and where the server is located.
+        - [ ] who owns the encryption keys and competency.
+        - [ ] access to local back-up and conflicts of interest.
+
+    10. Professional interpreters are often members of an organization that promotes professional standards and ethics for interpreters.  **Standard elements** found in codes of ethics for **professional interpreters** include provisions on:
+        - [ ] confidentiality, fees and conflict of interest.
+        - [ ] accuracy, impartiality and dress code.
+        - [ ] confidentiality, conflict of interest and qualifying exams.
+        - [x] **accuracy**, **confidentiality** and **conflict of interest**.
