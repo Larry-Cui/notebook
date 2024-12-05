@@ -102,7 +102,7 @@ tags:
     - Be sure to check the [Designated learning institutions list](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html){:target="\_blank"} to ensure the institution has a DLI number and offers PGWP eligible programs.
     - On and after May 15, 2024, Graduates of curriculum l**icensing programs are no longer eligible** for PGWP
 
-???+ note "Open Work Permits pursuant to sections 205-208 of the IRPR"
+??? note "Open Work Permits pursuant to sections 205-208 of the IRPR"
 
     - **Bridging open work permit A75** for permanent residence applicants, [Online](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend-permit/bridging-open-work-permit.html){:target="\_blank"}.
         - The applicant must be currently in Canada
@@ -129,9 +129,123 @@ tags:
             - is employed in an occupation that falls within National Occupational Classification (**TEER 0, 1, 2 or 3**) or if before November 16, 2022, NOC skill type 0 (management occupations) or skill level A or B (which generally includes professional occupations and technical or skilled trades)
             - physically resides or plans to physically reside in Canada while working
             - be in a genuine relationship with the applicant as a spouse or common-law partner
+    - **Spouses or common-law partners of study permit holders** – [R205(c)(ii) – C42](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c42.html){:target="\_blank"}
+        - Starting **April 30, 2024**, Spouses and common law partners of students may be eligible for open work permit if main applicant studying in **master's or doctoral degree** program or eligible pilot program or studying studying in one of the following professional degree programs at a university:
+            - Doctor of Dental Surgery (DDS, DMD)
+            - Bachelor of Law or Juris Doctor (LLB, JD, BCL)
+            - Doctor of Medicine (MD)
+            - Doctor of Optometry (OD)
+            - Pharmacy (PharmD, BS, BSc, BPharm)
+            - Doctor of Veterinary Medicine (DVM)
+            - Bachelor of Science in Nursing (BScN, BSN)
+            - Bachelor of Nursing Science (BNSc)
+            - Bachelor of Nursing (BN)
+            - Bachelor of Education (BEd)
+            - Bachelor of Engineering (BEng, BE, BASc)
+        - Who will **not be eligible** for an open work permit?
+            - The spouses and common-law partners of international students in other levels of study, including undergraduate and college programs, will no longer be eligible for an open work permit unless they already hold an open work permit under this stream.
+    - **Graduation Work Permit Program** (PGWPP), [R205(c) - C43](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html){:target="\_blank"}.
+        - Applicants can receive **only one** post-graduation work permit in their lifetime.
+        - they meet all of the following criteria:
+            - have a study permit that has been valid **within the last 180 days**
+            - Have **extended a study permit** in Canada before the expiry of study permit
+            - they have completed an academic, vocational or professional training program at an eligible institution in Canada that is **at least 8 months** in duration leading to a degree, diploma or certificate
+            - they have maintained **full-time** student status in Canada during each academic session of the program or programs of study they have completed with exceptions made only for the following: leave from studies, final academic session, special measures between March 1, 2020 and August 31, 2024
+            - they have received **a transcript and an official letter** from the eligible DLI confirming that they have met the requirements to complete their program of study; the transcript and official letter must be included in a post-graduation work permit application
+            - Submit an application for a work permit within **180 days** from receiving confirmation of program completion
+        - IRCC, New measures starting February 2024, Additional information about International Student Program reforms, 3. PGWP eligibility for **public-private** partnership college programs
+        - **Post graduate work permit -  new eligibility requirements, starting November 1st, 2024**, [online](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/study-requirements.html#eligibility){:target="\_blank"}
+            - proof of English or French language with a minimum level of CLB 7 for graduates from university programs. proof of English or French language with a minimum level of CLB 5 for graduates from a college program or other non-university program
+            - No field of study requirements for university graduates with a bachelor’s degree, master’s degree or doctoral degree.
+            - Must graduate in an eligible field of study for university graduates from any other university program. The fields of study requirement are divided into 5 broad categories:
+                - agriculture and agri-food
+                - health care
+                - science, technology, engineering and mathematics (STEM)
+                - trade
+                - transport
+    - International Mobility Program: Applicants with no other means of support [R206], [Online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/applicants-no-other-means-support-r206.html){:target="\_blank"}.
+        - an open work permit may be issued to refugee claimants whose claims have been referred to the Immigration and Refugee Board (IRB)
+        - R206 does not include family members and **family members of refugee claimants are not entitled to an open work permit**
+    - International Mobility Program: Applicants with no other means of support [R206], [Online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/applicants-no-other-means-support-r206.html){:target="\_blank"}.
+        - an open work permit may be issued to foreign nationals w**ho are subject to an unenforceable removal order**; they must demonstrate that they cannot otherwise support themselves, but are otherwise eligible for open work permits
+        - onus is on applicants to prove that they are unable to subsist without public assistance; proof may be a letter or cheque stub from the provincial or territorial social service department; it is not the intent that refugee claimants apply for social assistance before being issued a work permit; other evidence (such as banking statements) can be submitted
+        - R206 does not include family members and **family members of a person subject to an unenforceable removal order are not entitled to an open work permit**
+    - Open work permit pilot program for permanent residence applicants in the spouse or common-law partner in Canada class (LMIA exemption code A70), [Online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/special-initiatives-pilot-project/partner.html){:target="\_blank"}.
+    - Open work permits for vulnerable workers, [Online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/vulnerable-workers.html){:target="\_blank"}
+        - migrant workers in Canada who currently hold **a valid LMIA-required work permit** issued under subparagraph R200(1)(c)(iii) or **a valid LMIA-exempt, employer-specific work permit** issued under subparagraph R200(1)(c)(ii.1)
+        - migrant workers who have applied for a renewal of their employer-specific work permit under subsection R201(1) and who are currently authorized to work in Canada under paragraph R186(u) (implied status)
+    - Exemption code H81 – Destitute students, [Online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/humanitarian-reasons-r208.html){:target="\_blank"}.
+        - applies to **foreign students** who, due to circumstances beyond their control, may find themselves unable to meet the cost of their studies in Canada, be it their day-to-day needs or their tuition
+            - some cases will be self-evident such as cases of war, upheaval in home country, collapse of the banking system, etc., while others will require further explanation by the applicant and supporting evidence
+    - Exemption code H82 – Holders of **TRP valid for minimum 6 months**
+        - Applies to persons who have been issued a temporary resident permit (TRP) to allow them to stay in Canada. If the TRP holder will be in Canada for a long period of time (six months or greater), **and they have no other means of support** (meaning no family support or other means of meeting their needs) they may be issued a work permit
+        - **validity** of the open work permit will **coincide** with the validity period of the TRP
+
+??? note "Vulnerable Workers"
+
+    - **Section 207.1** of the regulations gives IRCC the authority to issue Open Work Permits to temporary foreign workers holding an employer-specific Work Permit, who are experiencing **abuse** or who are at risk of experiencing abuse in their employment.
+    - Open work permits for vulnerable workers, [Online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/vulnerable-workers.html){:target="\_blank"}.
 
 ## Quizzes
 
-??? note "Module 5 Knowledge Check: IMP - Open Work Permits"
+???+ note "Module 6 Knowledge Check: IMP - Open Work Permits"
 
-    1. Indra's
+    1. Ashaki is a **refugee claimant** who has a friend who works for a company, which Ashaki thinks is called Massages, but she can't remember for sure. Her friend says they are looking for a bookkeeper because they ran into some difficulty with fines and Ashaki was a trained accountant before coming to Canada.  Ashaki is excited about the position, but currently has no work permit. Ashaki mentions that she is excited to work, but that she doesn't know much about the company except that it offers massages and hosts dances on-site. Which of the following would you advise Ashaki?
+        - [ ] Advise Ashaki that the company will need to obtain a Labour Market Impact Assessment (LMIA) before Ashaki can work there.
+        - [x] Inform Ashaki about her work permit eligibility and obtain more information about her friend's company and the services it provides.
+        - [ ] Advise Ashaki that she will not be able to work this position because to be an accountant in Canada, she will need an accreditation that refugee claimants cannot get.
+        - [ ] Tell Ashaki that she should not be soliciting job offers without a work permit and that she is risking sanction by Canada Border Services Agency (CBSA) officials in doing so.
+
+    2. Tyrone completed a study program at **an accelerated rate** at a PGWP eligible designated learning institute. He finished the **three-year program** in two years and completed one semester online while still in Canada. If Tyrone applies for a Post-Graduate Work Permit (PGWP), how long might it be valid for?
+        - [ ] 8 months
+        - [ ] 2 years
+        - [x] 3 years
+        - [ ] 1.5 years
+
+    3. Barbara is a student who is attending a PGWP- eligible Designated Learning Institution (DLI) in Sudbury, Ontario. She wishes to work at a job in New Brunswick beginning July 1st of the current year. She has been in her DLI program for two years and the job she hopes to work is a position that is also for two years. She graduates from her DLI program and gets her grades on December 29, of the past year. She then applies for a **Post-Graduate Work Permit (PGWP) 190 days later**. Will she be able to work the job in New Brunswick for two years as she hopes?
+        - [ ] Yes, because her program was for two years and she studied for two years, so the length is correct.
+        - [ ] No, because the job is for two years and she studied for only two years which is too few.
+        - [x] No, because she applied for the PGWP **too late**.
+        - [ ] No, because the job is in New Brunswick and she studied in Ontario.
+
+    4. Adesina is the spouse of a skilled worker who has a work permit that is valid for another eight months. Adesina just finished an English as a second language program at a public post- secondary institution. The program was 12 months. Adesina comes to you and asks about obtaining an open work permit. She wants the permit to be valid for as long as possible. What would you suggest?
+        - [ ] Adesina is eligible for both a spousal work permit and a Post-Graduate Work Permit (PGWP). But the spousal work permit is preferable because it can be extended and the PGWP cannot.
+        - [ ] Adesina is eligible for both a spousal work permit and a Post-Graduate Work Permit (PGWP). But the PGWP is preferable because it would be valid for 12 months. The spousal permit would only be valid for eight months.
+        - [ ] Adesina is only eligible for a 12-month Post-Graduate Work Permit (PGWP).
+        - [x] Adesina is only eligible for an eight-month spousal work permit.
+
+    5. Robin just turned 18 and wants to apply for an open work permit under the Working Holiday category of the **International Experience Canada program**. They want to work in Canada for two years. They have consulted IRCC's website to make sure they meet all the eligibility requirements and are confident that their application will be successful. They are a British citizen; have a valid passport that will not expire for three years; have a 12- month health care plan; and, have the required $2500 Canadian dollars to cover initial expenses. Robin is planning to submit his application soon although he did not receive an invitation to apply under International Experience Canada - Working Holiday category.  What  might be wrong with Robin's application?
+        - [ ] There is nothing wrong with Robin's application.
+        - [x] Robin has not received **an invitation to apply**.
+        - [ ] Robin is too young to apply under the Working Holiday Category.
+        - [ ] Robin wants to work in Canada for two years but only has health care coverage for one year.
+
+    6. Jaheem is a resident of South Africa who is studying graphic design and textile creation. He is a gifted student who cares greatly about developing new and sustainable textiles. Through his studies he found an internship available at the BLA textile museum in Victoria, British Columbia. The BLA museum is looking for an intern to organize their collection of textiles.  Jaheem applies for the internship and successfully obtains it.  Jaheem entered the country through the **International Experience Canada (IEC) program**, as part of the International Co-op Placement stream, to work at BLA museum. He enjoys the internship, but the real reason he wanted to work there is because on the same street as the BLA museum is JPG Industrial Fabrics, a world leader in sustainable fabric designs. This is Jaheem's true passion. If Jaheem is offered work at JPG, can he do it on his current work permit?
+        - [ ] Yes, because Jaheem has studied in a field that aligns with JPG Industrial Fabrics' work and is a highly skilled worker.
+        - [x] No, because **his work permit in Canada likely only allows him to work for BLA museum** and does not list JPG Industrial Fabrics.
+        - [ ] Yes, because the IEC program grants students of all nationalities the opportunity to pursue their dreams in Canada and Jaheem is a gifted student.
+        - [ ] No, because JPG industrial fabrics is a specialized and skilled business which should prioritize hiring Canadian students.
+
+    7. Fabian, a full-time international student, finds a job at a local coffee shop and begins working twice a week in the afternoon and evenings after classes. He works approximately 12 hours a week. Shortly after Fabian begins working his manager asks if he would like to work on the weekends. If Fabian accepts, he would be working 21 hours each week. Is Fabian allowed to accept the extra hours?
+        - [x] No, because he cannot work more than 20 hours per week.
+        - [ ] Yes, so long as his work contract is amended to reflect the new hours and IRCC is notified.
+        - [ ] Yes, post-graduation work permits do not stipulate how many hours an employee may work.
+        - [ ] Yes, because of new public policy which came to effect on October 7, 2022.
+
+    8. Vijay, a recent graduate from a PGWP-eligible designated learning institution, applied for a post-graduation work permit. He accepts a job after submitting his Post-Graduate Work Permit (PGWP) application. However, two weeks later, he is notified by IRCC that his PGWP application is refused. His study permit is still valid for another two weeks. What should Vijay do as a first course of action?
+        - [x] Vijay should tender his resignation and stop working immediately.
+        - [ ] Vijay should not have accepted the job offer in the first place, as he did not have a valid work permit.
+        - [ ] Vijay should apply for judicial review of the decision.
+        - [ ] Vijay should tender his resignation but continue to work until his study permit expires.
+
+    9. Gagandeep, is a foreign national, citizen of India. He applied for an employer-specific work permit as he would like to work for CAMI Automotive, a car manufacturer. Gagandeep' has three close friends who work for CAMI Automotive, and they helped him to fill in the application for a work permit. While waiting for a decision, two of his friends told Gagandeep about the horrible working conditions at CAMI Automotive. Employees are not given breaks and are working 14 hours per day. If they complain, they are docked pay or threatened. Gagandeep's friends tell him that they are going to apply for a**n open work permit under s 207.1(1)** and urge Gagandeep to do the same. Is Gagandeep eligible for this type of permit?
+        - [ ] Yes, because Gagandeep's friends are suffering from abuse and, on these facts, he is likely to face the same abuse when he begins work.
+        - [ ] No, because Gagandeep has not suffered any abuse yet.
+        - [ ] Yes, because you can amend work permit applications at any time prior to a final decision
+        - [x] No, because Gagandeep has not been issued a work permit nor has he previously held a work permit.
+
+    10. Radek wants to apply for an open work permit under the **vulnerable worker class**, as a family member of a principal applicant. If Radek proceeds with this type of application, what fees will they have to pay?
+        - [ ] $100 - Open Work Permit (OWP) fee
+        - [x] **No fees are payable**
+        - [ ] $255 – Open Work Permit (OWP) and Work Permit (WP) processing fees
+        - [ ] $155 - Work Permit (WP) processing fee
