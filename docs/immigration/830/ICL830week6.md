@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-???+ note "Tutorial notes: case study and discussion"
+??? note "Tutorial notes: case study and discussion"
 
     - Post-graduation work permit (PGWP) [R205(c) - C43](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html){:target="\_blank"}
     - Credibility and Insufficiency of Evidence. Read the following cases:
@@ -28,6 +28,9 @@ tags:
             - [44] A principled approach to reasonableness review puts the reasons first, “…by examining the reasons provided with ‘respectful attention’ and seeking to understand the reasoning process followed by the decision maker to arrive at [the] conclusion”: Vavilov, above at para 84. **The focus of reasonableness review, therefore, must be on the decision, including the decision maker’s reasoning process and the outcome.** The reviewing court must consider only whether the decision, taking into account the rationale and outcome, was unreasonable, and must avoid substituting its own analysis or preferred decision: Vavilov, above at para 83. As noted by the SCC, “[t]he burden is on the party challenging the decision to show that it is unreasonable. …the court must satisfied that any shortcomings or flaws … are sufficiently central or significant to render the decision unreasonable”: Vavilov, above at para 100.
             - [45] ... “[W]here reasons are provided but they fail to provide a** transparent and intelligible justification** ..., the decision will be unreasonable”: Vavilov, above at para 136...
         - *Badial v Canada (MCI)*, 2020 FC 108, [Online](http://canlii.ca/t/j4vlv){:target="\_blank"}.
+            - [12] Both the Applicant and the Respondent agreed that **the standard of review** applicable to the question of **procedural fairness** was that of **correctness**. Both parties also agreed that **the standard of review** applicable to this Court’s review of **the Officer’s assessment** of whether the Applicant met the relevant requirements was that of **reasonableness**.
+            - [15] ... The Supreme Court of Canada lists two types of fundamental flaws that make a decision unreasonable: **(1)** a failure of rationality internal to the decision-maker’s reasoning process; and **(2)** untenability “in light of the relevant factual and legal constraints that bear on it” (Vavilov, at para 101).
+            - [29] The Officer’s reasons and concerns arise directly and obviously from the requirements of the IRPA and the Regulations. The jurisprudence of this Court is clear that an officer is under **no obligation to put these concerns to an applicant**. See [*Hassani*](https://www.canlii.org/en/ca/fct/doc/2006/2006fc1283/2006fc1283.html#par24){:target="\_blank"}, at para 24.
 
 ??? note "IRCC websites"
 
