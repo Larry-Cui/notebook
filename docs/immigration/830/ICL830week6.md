@@ -15,9 +15,19 @@ tags:
 
 ## Notes
 
-??? note "Tutorial notes"
+???+ note "Tutorial notes: case study and discussion"
 
-    - What
+    - Post-graduation work permit (PGWP) [R205(c) - C43](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html){:target="\_blank"}
+    - Credibility and Insufficiency of Evidence. Read the following cases:
+        - *Likhi v Canada (MCI)*, 2020 FC 171, [Online](http://canlii.ca/t/j51j0){:target="\_blank"}.
+            - [26]  Given the **severe consequences of a finding of misrepresentation**, namely ineligibility to apply to come to Canada for a 5-year period, Ms. Likhi submits a **higher degree of procedural fairness is required** to ensure such findings are made only where there is clear and convincing evidence of misrepresentation: Ni v Canada (Citizenship and Immigration), [2010 FC 162](https://www.canlii.org/en/ca/fct/doc/2010/2010fc162/2010fc162.html){:target="\_blank"} [Ni] at para 18; Lin v Canada (Citizenship and Immigration), [2019 FC 1284](https://www.canlii.org/en/ca/fct/doc/2019/2019fc1284/2019fc1284.html){:target="\_blank"} [Lin] at paras 24-25; Seraj v Canada (Citizenship and Immigration), [2016 FC 38](https://www.canlii.org/en/ca/fct/doc/2016/2016fc38/2016fc38.html){:target="\_blank"} [Seraj] at para 1; Lamsen v Canada (Citizenship and Immigration), [2016 FC 815](https://www.canlii.org/en/ca/fct/doc/2016/2016fc815/2016fc815.html){:target="\_blank"} at para 24; Bao v Canada (Immigration, Refugees and Citizenship), [2019 FC 268](https://www.canlii.org/en/ca/fct/doc/2019/2019fc268/2019fc268.html){:target="\_blank"} at paras 17-18.
+            - [27] ... As noted in [*Vavilov*](https://www.canlii.org/en/ca/scc/doc/2019/2019scc65/2019scc65.html#par133){:target="\_blank"}, above at para 133, the severity of the outcome requires the decision maker’s reasons to reflect the stakes for, and from the perspective of, the affected individual:
+                - It is well established that individuals are entitled to greater procedural protection when the decision in question involves the potential for significant personal impact or harm: [*Baker*](https://www.canlii.org/en/ca/scc/doc/1999/1999canlii699/1999canlii699.html#par25){:target="\_blank"}, at para. 25. However, this principle also has implications for how a court conducts reasonableness review. **Central to the necessity of adequate justification is the perspective of the individual or party over whom authority is being exercised.** Where the impact of a decision on an individual’s rights and interests is severe, the reasons provided to that individual must reflect the stakes. The principle of responsive justification means that if a decision has particularly harsh consequences for the affected individual, the decision maker must explain why its decision best reflects the legislature’s intention. This includes decisions with consequences that threaten an individual’s life, liberty, dignity or livelihood. [Bold emphasis added.]
+            - [32] **I note credibility, on the one hand, and insufficiency of evidence, on the other, are distinct concepts that should not be conflated**, especially when a Visa Officer makes a finding of misrepresentation: Seraj, above at para [18](https://www.canlii.org/en/ca/fct/doc/2016/2016fc38/2016fc38.html#par18){:target="\_blank"}. **Findings of insufficiency, in themselves, do not amount automatically to misrepresentations.** Rather, a finding of misrepresentation is reasonable only where an applicant is shown to have **led incorrect information or omitted material information, intentionally or accidentally, which could have affected Canada’s ability to administer its immigration laws**: IRPA s 40(1); [*Muthui*](https://canlii.ca/t/g30pq){:target="\_blank"}, above at para 27.
+            - [33] When determining whether the Senior Officer’s finding of misrepresentation was arrived at in a procedurally fair manner, it is important to clarify whether the Senior Officer’s finding was based on the evidence provided being **(a)** insufficient to demonstrate a bona fides marriage, as the Minister asserts was the case; or **(b)** not credible, genuine, or accurate, as Ms. Likhi submits. **If the former**, the Interviewing Officer was entitled to rely on the fact that the IRPA and IRPR give notice of the evidentiary threshold for proving compliance with Canada’s immigration laws, and thus had no procedural duty to alert Ms. Likhi to concerns of insufficiency in her application: Zhou, above at para 28: Bains, above at para 58. **If the latter**, the Interviewing Officer did have a duty to bring these concerns to Ms. Likhi’s attention, and to provide her with an adequate opportunity to disabuse the Interviewing Officer of them: Zhou, above at para 29.
+            - [44] A principled approach to reasonableness review puts the reasons first, “…by examining the reasons provided with ‘respectful attention’ and seeking to understand the reasoning process followed by the decision maker to arrive at [the] conclusion”: Vavilov, above at para 84. **The focus of reasonableness review, therefore, must be on the decision, including the decision maker’s reasoning process and the outcome.** The reviewing court must consider only whether the decision, taking into account the rationale and outcome, was unreasonable, and must avoid substituting its own analysis or preferred decision: Vavilov, above at para 83. As noted by the SCC, “[t]he burden is on the party challenging the decision to show that it is unreasonable. …the court must satisfied that any shortcomings or flaws … are sufficiently central or significant to render the decision unreasonable”: Vavilov, above at para 100.
+            - [45] ... “[W]here reasons are provided but they fail to provide a** transparent and intelligible justification** ..., the decision will be unreasonable”: Vavilov, above at para 136...
+        - *Badial v Canada (MCI)*, 2020 FC 108, [Online](http://canlii.ca/t/j4vlv){:target="\_blank"}.
 
 ??? note "IRCC websites"
 
@@ -188,7 +198,7 @@ tags:
 
 ## Quizzes
 
-???+ note "Module 6 Knowledge Check: IMP - Open Work Permits"
+??? note "Module 6 Knowledge Check: IMP - Open Work Permits"
 
     1. Ashaki is a **refugee claimant** who has a friend who works for a company, which Ashaki thinks is called Massages, but she can't remember for sure. Her friend says they are looking for a bookkeeper because they ran into some difficulty with fines and Ashaki was a trained accountant before coming to Canada.  Ashaki is excited about the position, but currently has no work permit. Ashaki mentions that she is excited to work, but that she doesn't know much about the company except that it offers massages and hosts dances on-site. Which of the following would you advise Ashaki?
         - [ ] Advise Ashaki that the company will need to obtain a Labour Market Impact Assessment (LMIA) before Ashaki can work there.
@@ -249,3 +259,75 @@ tags:
         - [x] **No fees are payable**
         - [ ] $255 – Open Work Permit (OWP) and Work Permit (WP) processing fees
         - [ ] $155 - Work Permit (WP) processing fee
+
+    11. Ju-long is a migrant worker who was previously employed under an employer specific work permit at FRESH PRODUCE. When the pandemic started Ju-long became worried about the working conditions at the company; no safety measures were put in place to protect workers' health and anyone who expressed concern would be shamed and threatened by management. One day, Ju-long was complaining to a fellow employee and they discussed reporting the company for mistreatment. He thinks that a manager overheard him because the next day he was terminated. After being terminated, Ju-long decides to go back to his country of origin to save money. While at home, he decides to apply for an open work permit – will Ju-long be eligible?
+        - [x] No, because **vulnerable workers applying** for an open work permit **must be in Canada when they apply**.
+        - [ ] No, because Ju-long was terminated before he could apply for the open work permit.
+        - [ ] Yes, he can apply for a renewal under R201(1)(a) of the Immigration and Refugee Protection Regulations.
+        - [ ] Yes, because Ju-long was suffering abuse by his employer and, on these facts, was likely terminated as retribution for complaining.
+
+    12. Mi Kyong is a migrant worker who is on an employer-specific work permit which allows her to work for ABC Industrials. ABC Industrials is a cheese-making facility in Alberta which usually has 20 workers. Of these 20 workers, Mi Kyong is pretty sure that 15 of them are on the same work permit as her. Mi Kyong has been working for ABC Industrials for about 10 months and has gotten quite close with two of her co-workers who have worked there longer. She knows they are both also on the employer-specific work permit. One day in April, one of her co-workers is injured by the machinery and has to take three days off. Her co-worker thinks the machinery might be faulty and wants to report it to a government authority for inspection. When ABC Industrials finds this out, they deny her coworker the full month of pay and threaten to deny any future pay if the coworker reports the injury or seeks a medical case. They then threaten any employee who reports this or any other injury with docked pay. Is **Mi Kyong eligible for an open work permit**?
+        - [ ] No, because any abuse being suffered is being suffered by her co-worker and not her.
+        - [ ] No, because she already has a work permit that allows her to work in Canada.
+        - [ ] Yes, because her employer is hiring more than the allowed amount of workers on closed work permits.
+        - [x] Yes, because her co-worker is suffering abuse by her employer and on these facts, Mi Kyong also **appears to be at risk of abuse**.
+
+    13. Laviza has just applied for an open work permit under the vulnerable worker's class. Her employer, Ontario Farms, repeatedly withheld payment and would garnish her wages. The company stated that they garnished wages so that they could pay to implement new safety measures, but Laviza has not noticed any new measures in place. She also noticed that her pay cheque was always lower after she made complaints to management about their inconsistent payment schedule. Laviza has described her experience in a letter of explanation and has provided copies of her pay stubs – is this **evidence sufficient** to prove her claim?
+        - [ ] No, an officer will likely require supporting or additional material to substantiate claims.
+        - [ ] It depends, it is not the amount of evidence but whether the facts and evidence are credible on a balance of probabilities.
+        - [x] It depends, it is not the amount of evidence but whether the **officer has reasonable grounds to believe that the evidence is credible**.
+        - [ ] Laviza's evidence is likely sufficient. Laviza must undergo an interview with an immigration officer and the evidence gleaned during this interview is much more important.
+
+    14. Tyrone has completed a 2-year program of study at a PGWP eligible Designated Learning Institute (DLI). He met all the requirement for a Post-Graduate Work Permit (PGWP). He applies for PGWP work permit from within Canada. His passport expires in one year. What is the length of the work permit Tyrone is entitled to?
+        - [x] 1 year with the possibility of an **extension** when Tyrone obtains a new passport.
+        - [ ] 1 year
+        - [ ] 2 year
+        - [ ] 3 year
+
+    15. Boon-Mee is applying for a Post-Graduate Work Permit (PGWP) after completing a three-year program at a PGWP-eligible Designated Learning Institution (DLI). Boon-Mee's last exam is on November 5, 2024. She received their final marks on November 30, 2024, and is formally notified that she completed the program on December 5th, 2024. **When must Boon-Mee apply for the PGWP?**
+        - [ ] She has 180 days starting the day she received her final marks
+        - [ ] She has 180 days starting the day she received the official letter of completion
+        - [ ] She has 90 days starting the day her study permit expires
+        - [x] She has **180 days** from either the day when she received her **final marks** or either the day she received the official **letter of completion**
+
+    16. Eric's spouse was just granted a work permit under section **206 of the Immigration and Refugee Protection Regulations.** Is Eric eligible for a spousal open work permit?
+        - [ ] Eric is eligible for an open work permit because his spouse is a refugee claimant
+        - [ ] Eric is eligible for an open work permit because his spouse holds a valid work permit
+        - [x] **Eric is eligible for an open work permit if he is included as a family member in the refugee claim**
+        - [ ] All of the above
+
+    17. Karl is completing his studies at a designated learning institution and is eligible to apply for a Post-Graduate Work Permit (PGWP). He wants to start his own business after he graduates. Will a PGWP allow him to do this?
+        - [ ] No, with a PGWP, graduates can only work for a Canadian owned and operated company.
+        - [ ] No, PGWP holders may not be self-employed.
+        - [ ] It depends on the province that Karl wishes to start his business in – certain provinces do not allow PGWP holders to be self-employed.
+        - [x] Yes, **PGWP allow graduates to work full-time, part-time or be self-employed**.
+
+    18. Kasey successfully obtained an open work permit under subsection 207.1(2) after reporting CAMI Automotive to IRCC for ethical issues. The permit is valid for one year. Kasey is worried about not being able to financially support his family while he looks for another job. His eldest child offers to help by getting a part-time job while he completes his university degree. His son has a valid study permit and is enrolled full-time at a designated learning institution. What kind of work permit would you suggest for him?
+        - [x] The son can **work without a work permit** because he is enrolled **full-time in a post-secondary degree**.
+        - [ ] The son cannot hold a work permit and study permit at the same time. You advise him to complete his studies in an accelerated form so that he can finish school and apply for a Post-Graduate Work Permit (PGWP).
+        - [ ] The son is eligible to obtain an open work permit under the same program as his father (the vulnerable worker class).
+        - [ ] None of the above
+
+    19. Vijay recently graduated from a PGWP eligible - designated learning institution. Before graduating, and while his study permit was still valid, he applied for a post-graduation work permit. Vijay wanted to be proactive and began applying for jobs before he had received a decision on his application. Vijay comes to you for advice – he just received a job offer but they want him to start next week. The job is not in the field that Vijay studied in, but he thinks it could still be a great opportunity. Vijay does not know the status of his application. Can Vijay accept the job offer?
+        - [ ] Yes, but only if Vijay's study permit is still valid.
+        - [ ] No, because Vijay would have to work without a valid work permit.
+        - [ ] No, because the job is in a different field than what Vijay graduated from.
+        - [x] Yes, because graduates who apply for a post-graduation work permit are eligible to **work full-time while they wait for a decision on their application**.
+
+    20. Karl's program of study was four years. When the Designated Learning Institution (DLI) he was studying at lost its designation, Karl transferred to a public post secondary Designated Learning Institution (DLI) . When he switched schools, some of his credits did not transfer properly and Karl had to redo two classes. This meant he was in school for an additional semester, totalling four and a half years. Given this, what is the maximum length Post-Graduate Work Permit (PGWP) that Karl can receive?
+        - [ ] Two years, which is the maximum length of time that a PGWP can be issued for
+        - [x] Three years, which is the **maximum length** of time that a PGWP can be issued for
+        - [ ] Four years, because that was the length of his program
+        - [ ] Four and a half years, because that was the amount of time that he was enrolled at a DLI
+
+    21. Ju-long is a migrant worker experiencing abuse in the workplace. Ju-long's employer specific work permit is still valid for another six months. What impact, if any, would this have on his application for a work permit under the vulnerable worker class (section 207.1(1))?
+        - [ ] Ju-long will have to wait six months before he can apply for a permit under subsection 207.1(1).
+        - [ ] The remaining six-month time period is likely to have a negative impact on the duration of his open work permit.
+        - [x] It is **unlikely that the time period will have a negative impact on the duration of his open work permit**.
+        - [ ] A and C
+
+    22. Pyotr is the son of a diplomat from Russia which has a diplomatic service in Ottawa. He is a national of Russia and has been living in Canada during the four years his diplomat parent has been stationed here.  Russia stations diplomats for five years, so his diplomat mother will be relocated outside of Canada within one year and her work permit will expire then as well. As Pyotr has just turned 16, he feels he is old enough to work and wants to save some money for the future. He has found a job at the library and wants to know if he can work it. He hopes that if he works there for two years, he will be able to get enough experience and money to pursue becoming a librarian. Can he continue with this plan and get an appropriate work permit?
+        - [ ] No, because a library is a civil and public institution and he is not a Canadian national.
+        - [ ] Yes, but he will only be able to work for two years as he can apply as the family of a foreign representative and he is the same age as a student.
+        - [ ] No, because he is 16 and would be working under-age.
+        - [x] Yes, but he will **only be able to work for one year** at the library **until his mother leaves Canada**.
