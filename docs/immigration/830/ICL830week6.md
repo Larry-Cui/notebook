@@ -15,7 +15,20 @@ tags:
 
 ## Notes
 
-??? note "Tutorial notes: case study and discussion"
+??? note "Tutorial notes"
+
+    - two types of OWP: unrestricted and restricted.
+    - R183 and R185
+    - period of a work permit:
+        - passport
+        - LMIA-exempt offer during
+        - time allowed by any particular program or agreement
+    - spousal OWP:
+        - genuine relationship with the principal foreign national. spouse of a student that must be a master/doctoral student.
+        - for foreign worker spouse.
+    - BOWP: completeness check and have acknowledge of receipt letter.
+
+??? note "case study and discussion"
 
     - Post-graduation work permit (PGWP) [R205(c) - C43](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html){:target="\_blank"}
     - Credibility and Insufficiency of Evidence. Read the following cases:
