@@ -15,8 +15,10 @@ tags:
 
 ## Notes
 
-??? note "Tutorial notes"
+???+ note "Tutorial notes"
 
+    - s 22(1)(e): must hire interpreters and translators when necessary
+    - s 22(4): instruct accuracy
     - **Case 1: Refugee Claim**
         - Group 1: Identify as many errors as you can regarding the way in which the interpreter Fredrico has carried out his duties - just identify his errors, not the correct approach (that is Group 2).
         - Group 2: Identify what Fredrico should have done as a professional interpreter, according to the CISOC "Guide to Working with Interpreters".
