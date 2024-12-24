@@ -139,6 +139,7 @@ theme:
     - navigation.tracking
     - navigation.path
     # - navigation.indexes ##enable it if you have an introduction to top level
+    - navigation.prune #When pruning is enabled, only the visible navigation items are included in the rendered HTML, reducing the size of the built site by 33% or more.
     - navigation.top
     - header.autohide
     - navigation.footer
