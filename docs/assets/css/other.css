@@ -27,8 +27,8 @@
 .highlight.red {
 	width: 100%;
 	background-color: rgba(2220, 20, 60, 0.1);
-	border-radius: 5px;
-	border-left: 0.2em solid rgb(178, 34, 34);
+	/* border-radius: 5px; */
+	border-left: 0.3em solid rgb(178, 34, 34);
 	padding: 0.5em;
 	padding-left: 1em;
 	margin: 0 auto;
