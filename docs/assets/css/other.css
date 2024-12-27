@@ -26,12 +26,42 @@
 
 .highlight.red {
 	width: 100%;
-	background-color: rgba(2220, 20, 60, 0.1);
+	background-color: rgba(222, 20, 60, 0.1);
 	/* border-radius: 5px; */
 	border-left: 0.3em solid rgb(178, 34, 34);
 	padding: 0.5em;
 	padding-left: 1em;
 	margin: 0 auto;
+}
+
+.highlight.green {
+	width: 100%;
+	background-color: rgba(60, 222, 20, 0.1);
+	/* border-radius: 5px; */
+	border-left: 0.3em solid rgb(34, 178, 34);
+	padding: 0.5em;
+	padding-left: 1em;
+	margin: 0.5em auto;
+}
+
+.highlight.blue {
+	width: 100%;
+	background-color: rgba(20, 60, 222, 0.1);
+	/* border-radius: 5px; */
+	border-left: 0.3em solid rgb(34, 34, 178);
+	padding: 0.5em;
+	padding-left: 1em;
+	margin: 0.5em auto;
+}
+
+.highlight.yellow {
+	width: 100%;
+	background-color: rgba(255, 215, 0, 0.1);
+	/* border-radius: 5px; */
+	border-left: 0.3em solid rgb(218, 165, 32);
+	padding: 0.5em;
+	padding-left: 1em;
+	margin: 0.5em auto;
 }
 
 span.Coral {
