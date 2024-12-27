@@ -1,4 +1,4 @@
-# 围观就是力量
+# What is it about?
 
 <a href="https://lh3.googleusercontent.com/pw/ABLVV859fzpZfNCx09B2VY3eN-cP4OxvNORc-OMzuy-QEtVTC3dygNrnNyGZLvOhleVeb1iU5kVe36VbG1rOW-iNlROpkBjG9RdaPo4ehZeMr1OcS6sHn28=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/ABLVV859fzpZfNCx09B2VY3eN-cP4OxvNORc-OMzuy-QEtVTC3dygNrnNyGZLvOhleVeb1iU5kVe36VbG1rOW-iNlROpkBjG9RdaPo4ehZeMr1OcS6sHn28=w600-h315-p-k" style="width: 100%; display: inline-block" class="picture-select light"/> </a>
 
@@ -17,7 +17,7 @@
 
 Thanks to [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material){:target="\_blank"}, I can have my blog laid out in a nice format.
 
-This is a small place to put together my notes, summaries and other posts. I've not been intending to share them with others, but if you happen to find this place, thank you for pause for a few seconds to read these posts and know a little bit more about me.
+This is a small place to put together my notes, summaries and other posts. I was not intending to share them with others, but if you happen to find this place, thank you for your pausing for a few seconds to read any posts and know a little bit more about me.
 
 In case our paths don’t cross again, good afternoon, good evening, and good night!
 
