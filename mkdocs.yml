@@ -34,6 +34,7 @@ nav:
           - "S2: Introduction": Computer/Nodejs/s2.md
           - "S3: Back-End Web Dev": Computer/Nodejs/s3.md
           - "S4: Under the Hood": Computer/Nodejs/s4.md
+          - "S5: Promises": Computer/Nodejs/s5.md
       - p5js:
           - Basics of Matter.js: Computer/p5js/2023-7-9-basics-of-matter.md
           - Apollonian Gasket: Computer/p5js/2024-04-21-apollonianGasket.md
