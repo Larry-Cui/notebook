@@ -138,7 +138,7 @@ theme:
   features:
     # - navigation.sections
     - navigation.tabs
-    # - navigation.instant # without fully reloading the page, fast loading function
+    - navigation.instant # without fully reloading the page, fast loading function
     - navigation.tracking
     - navigation.path
     # - navigation.indexes ##enable it if you have an introduction to top level
