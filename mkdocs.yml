@@ -34,7 +34,7 @@ nav:
           - "S2: Introduction": Computer/Nodejs/s2.md
           - "S3: Back-End Web Dev": Computer/Nodejs/s3.md
           - "S4: Under the Hood": Computer/Nodejs/s4.md
-          - "S5: Promises": Computer/Nodejs/s5.md
+          - "S5: Asynchronous": Computer/Nodejs/s5.md
       - p5js:
           - Basics of Matter.js: Computer/p5js/2023-7-9-basics-of-matter.md
           - Apollonian Gasket: Computer/p5js/2024-04-21-apollonianGasket.md
@@ -45,6 +45,7 @@ nav:
           - Docker and Jekyll: Computer/Others/2023-6-14-get-jekyll-running-locally.md
   - Laws:
       - Path Toward Practice in Canada: articles/2024-08-18-NCA.md
+      - UBC online Courses: articles/2024-12-21-ubcOnline.md
       - Real Estate:
           - Documents for Residential Transactions: realestate/docu-list.md
           - Air Conditioning Unit On RPR: realestate/acrpr.md
