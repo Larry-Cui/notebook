@@ -35,7 +35,7 @@ tags:
 - Douglas Cochran, _Interviewing Skills for Legal Professionals_, 3rd ed (Emond, 2022)
 - Green et al, _Temporary Entry into the Canadian Labour Market_ (Emond 2021)
 
-## Assessment Weighing
+## Assessment Weighting
 
 <table class="styled-table">
     <thead>

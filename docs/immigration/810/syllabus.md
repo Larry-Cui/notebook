@@ -51,7 +51,7 @@ In the spirit of reconciliation, we acknowledge that we live, work and play on t
 - Refugee protection
 - The process of removal
 
-## Assessment Weighing
+## Assessment Weighting
 
 <table class="styled-table">
     <thead>

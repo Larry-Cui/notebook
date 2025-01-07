@@ -33,7 +33,7 @@ tags:
 
 The required textbook for this course is Desloges and Sawicki, _Canadian Immigration and Refugee Law, A Practitioner’s Handbook_, 4th edition (Toronto: Emond, 2023).
 
-## Assessment Weighing
+## Assessment Weighting
 
 <table class="styled-table">
     <thead>
