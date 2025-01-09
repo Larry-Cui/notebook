@@ -22,6 +22,8 @@ tags:
         - *Immigration and Refugee Protection Regulations*, SOR/2002-227, ss **70**, **295**, **303**; also scan headings from sections 72.8 to 109.
         - Canada, Immigration, Refugees and Citizenship, "Ministerial Instructions" (last modified 16 September 2024), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions.html){:target="\_blank"}.
         - Canada, Employment and Social Development Canada, "About the NOC" (last modified 2 June 2023), [online](https://noc.esdc.gc.ca/Home/AboutTheNoc){:target="\_blank"}.
+    - Subsection 2(2) of the IRPA:
+        - *Unless otherwise indicated, references in this Act to “this Act” include regulations made under it and instructions given under subsection 14.1(1).*
 
 ## Quizzes
 
