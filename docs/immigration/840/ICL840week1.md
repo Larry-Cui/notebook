@@ -23,11 +23,11 @@ tags:
         - Canada, Immigration, Refugees and Citizenship, "Ministerial Instructions" (last modified 16 September 2024), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions.html){:target="\_blank"}.
         - Canada, Employment and Social Development Canada, "About the NOC" (last modified 2 June 2023), [online](https://noc.esdc.gc.ca/Home/AboutTheNoc){:target="\_blank"}.
     - Subsection 2(2) of the IRPA:
-        - *Unless otherwise indicated, references in this Act to “this Act” include regulations made under it and instructions given under subsection 14.1(1).*
+        - *Unless otherwise indicated, references in this Act to “this Act” include **regulations** made under it and **instructions** given under subsection 14.1(1).*
 
 ## Quizzes
 
-???+ note "Knowledge Check 1.1: Required Readings: Overview and Context"
+??? note "Knowledge Check 1.1: Required Readings: Overview and Context"
 
     1. The largest share of newcomers who come to Canada arrive in the economic class. According to the annual report to Parliament, which of the following is a reason that it is important to admit so many newcomers?
         - [ ] To stimulate innovation in Canada's economy, given that so much future economic growth will depend on technological change.
