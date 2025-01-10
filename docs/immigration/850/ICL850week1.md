@@ -27,7 +27,7 @@ tags:
     - *M v H*, [[1999] 2 SCR 3](https://canlii.ca/t/1fqm4){:target="\_blank"}.
     - *Cloutier v Canada (Citizenship and Immigration)*, [2011 CanLII 91557 (CA IRB)](https://canlii.ca/t/fqkxz){:target="\_blank"}.
 
-???+ note "Reading M v H"
+??? note "Reading M v H"
 
     - *M v H*, [[1999] 2 SCR 3](https://canlii.ca/t/1fqm4){:target="\_blank"}.
     - In May 1999, the Supreme Court ruled in *M v H* that Ontario’s Family Law Act violated the Charter by excluding same-sex couples and ordered the Ontario government to change the law. The *M v H* case and a growing number of Charter victories by gays and lesbians resulted in **a wave of legislation across Canada to recognize same-sex relationships** in common law.
@@ -45,6 +45,19 @@ tags:
             5. **Economic support** - Whether the partners are financially interdependent or dependent - Whether the partners have joined, to some extent, their financial affairs (for example, as in joint-ownership of assets or arranged them to reflect their ongoing relationship) (for example, naming the other partner beneficiary in an insurance policy or will);
             6. **Children** - The partners’ attitude and conduct towards children in the context of their relationship; and,
             7. **Special perception** - Whether the partners are treated or perceived by the community as a couple.
+
+???+ note "Exclusion and Inclusion of LGBTQ+ Families _by_ Michael Battista"
+
+    - Question: When were LGBTQ+ families recognized under IRPA to permit sponsorship?
+        - MB: LGBTQ families were first allowed into the family class sponsorship regime with the promulgation of the Immigration and Refugee Protection Act in **2002**.
+    - Question: What impact did the *M v H* case have on sponsorships under Canadian immigration law?
+        - MB: The impact of the M v H case on immigration sponsorships was and is profound. Using M v H, immigration policymakers have taken the principles defining a conjugal relationship for the purpose of family law and applied them to immigration law. This has led to a flexible and realistic approach to determining a genuine spousal or partner relationship which looks beyond a marriage certificate or proof of cohabitation. Often, a marriage certificate or proof of cohabitation are not realistic expectations in the immigration context.
+    - Question: What did LGBTQ+ families do before IRPA was amended to include LGBTQ+ relationships? 
+        - MB: Prior to IRPA, LGBTQ+ families could not be sponsored by their same-sex Canadian partners because they did not meet the definition of "spouse" in the 1976 Immigration Act.
+    - Question: Is the current definition of a spouse inclusive of LGBTQ+ relationships? What needs to be changed?
+        - Same-sex couples are likely more dependent on the conjugal partner relationship category because there are fewer places in the world where they can legally marry, and cohabitation is unrealistic in the immigration context. Yet the conjugal partner relationship category involves **more evidence and less guidance** in adjudicating what is sufficient proof of a relationship.
+    - Question: How are LGBTQ+ sponsorships unique in the practice sense of preparing the application or preparing for an IAD sponsorship appeal?
+        - MB: Parties in LGBTQ+ relationships are usually concerned with stigma and shame, and they may fear being judged for their orientation and/or choices, or misunderstood. **They may not be forthcoming with details regarding the reality and complexity of their lives and decisions.**
 
 ## Quizzes
 
