@@ -29,6 +29,7 @@ tags:
         - Canada, Employment and Social Development Canada, "About the NOC" (last modified 2 June 2023), [online](https://noc.esdc.gc.ca/Home/AboutTheNoc){:target="\_blank"}.
     - Subsection 2(2) of the IRPA:
         - *Unless otherwise indicated, references in this Act to “this Act” include <strong>regulations</strong> made under it and <strong>instructions</strong> given under subsection 14.1(1).*
+    - A12(2): A foreign national may be selected as a member of the economic class on the basis of their ability to become economically established in Canada.
     - In the case of some provincial immigration programs, there is neither legislation nor regulation. All the programs details are set out in policy documents or on websites. Therefore familiarity with the government websites – being able to find the information you need and interpret it – on the website has become a vital skill.
     - Section 95 of the Canadian Constitution Act, 1867:
         - *In each Province the Legislature may make Laws in relation to Agriculture in the Province, and to <strong>Immigration into the Province</strong>; and it is hereby declared that the Parliament of Canada may from Time to Time make Laws in relation to Agriculture in all or any of the Provinces, and to Immigration into all or any of the Provinces; and any Law of the Legislature of a Province relative to Agriculture or to Immigration shall have effect in and for the Province as long and as far <strong>only as it is not repugnant to</strong> any Act of the Parliament of Canada.*
@@ -169,7 +170,7 @@ tags:
         - [ ] True
         - [x] False
 
-???+ note "Knowledge Check 1.3: Overview of Applying to Permanent Economic Programs"
+??? note "Knowledge Check 1.3: Overview of Applying to Permanent Economic Programs"
 
     1. Who among the following count as “family members” for the purpose of permanent resident visa applications?
         - [x] The spouse of the principal applicant.
