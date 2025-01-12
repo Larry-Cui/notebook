@@ -18,6 +18,14 @@ tags:
 ??? note "Tutorial notes"
 
     - Sunday 9:00am.
+    - who can be sponsor and applicant.
+        - A130: be 18 years old, citizen or PR, or Indian under the *Canadian Indian Act*, not receiving social assistance for reasons other than disability, can provide for the basic needs of the sponsored.
+        - no MNI for spouse, but yes for common law and conjugal partners and parents.
+        - R 130(2), sponsor not residing in Canada.
+        - R 133(1), prohibitions.
+    - R 117(1): who is a member of a family class
+    - Conjugal? Determinate factors: *M v H*
+    - R 117(9): excluded relationships. However, the Government of Canada introduced a 2-year pilot project via a temporary [public policy](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/non-economic-classes/family-class-spouse/pilot-exempt-r117-r125.html){:target="\_blank"} to facilitate the immigration of certain sponsored foreign nationals excluded under paragraph R117(9)(d) or R125(1)(d). This public policy will be in effect from **September 10, 2023 to September 10, 2026**.
 
 ??? note "Required Reading and Links"
 
@@ -80,7 +88,7 @@ tags:
 
 ## Quizzes
 
-???+ note "Module 1 Knowledge Check"
+??? note "Module 1 Knowledge Check"
 
     1. Taylor is looking to sponsor his parent to come to Canada. His parent's application has been refused because Taylor has been in receipt of social assistance. The refusal of Taylor's application is discriminatory.
         - [ ] True
