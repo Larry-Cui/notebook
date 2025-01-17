@@ -1,111 +1,44 @@
 ---
 layout: post
-title: "Case Study: a writ of *mandamus*"
-date: 2025-01-07
+title: "Case Study: a writ of mandamus"
+date: 2025-01-17
 draft: false
 categories:
   - Immigration
 tags:
-  - ICL850
-  - Syllabus
+  - Case Study
+  - Mandamus
 ---
 
-# ICL 850 Family Class Immigration W25 [^1]
+# Case Study: a writ of _mandamus_
 
-[^1]: **Adrienne Smith** and **Michael Battista** developed the instructional content for this course. Queen's University holds a license for the use of the course authors' intellectual property in ICL 850.
+## Target case
 
-<!-- <a href="https://lh3.googleusercontent.com/pw/AP1GczNlPL2XU73ZrmLzVMPRzEBSOkONXic3ozpfB5HllVlxptDJDjXRKFh0o2iBsxRSfXRhP6BcH61XUeXrWKBpSZ354Hclhwt03wQfmXcBjpAHqouNSyo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczNlPL2XU73ZrmLzVMPRzEBSOkONXic3ozpfB5HllVlxptDJDjXRKFh0o2iBsxRSfXRhP6BcH61XUeXrWKBpSZ354Hclhwt03wQfmXcBjpAHqouNSyo=w600-h315-p-k" style="width: 100%"/> </a> -->
+_Alinejad v. Canada (Citizenship and Immigration)_, [2024 FC 1994 (CanLII)](https://canlii.ca/t/k89nv){:target="\_blank"}
 
-<!-- more -->
+## Test for _mandamus_
 
-<!-- <i class="fa-solid fa-0 number"></i>
-<i class="fa-solid fa-1 number"></i>
-<i class="fa-solid fa-2 number"></i>
-<i class="fa-solid fa-3 number"></i>
-<i class="fa-solid fa-4 number"></i>
-<i class="fa-solid fa-5 number"></i>
-<i class="fa-solid fa-6 number"></i>
-<i class="fa-solid fa-7 number"></i>
-<i class="fa-solid fa-8 number"></i>
-<i class="fa-solid fa-9 number"></i> -->
+**[16]** ... The test was raised in _Apotex Inc v Canada (Attorney General)_, [1993 CanLII 3004 (FCA)](https://www.canlii.org/en/ca/fca/doc/1993/1993canlii3004/1993canlii3004.html){:target="\_blank"}.
 
-## Required Textbooks
+**[17]** As reproduced from _Almuhtadi v Canada (Citizenship and Immigration)_, [2021 FC 712](https://www.canlii.org/en/ca/fct/doc/2021/2021fc712/2021fc712.html){:target="\_blank"} [*Almuhtadi*] at para 30, the Applicant must satisfy the following **eight conditions** before the Court will exercise its discretion to issue mandamus:
 
-- Chantal Desloges & Cathryn Sawicki, _Canadian Immigration and Refugee Law, A Practitioner’s Handbook_, 4th ed (Emond, 2023).
-- Michael Battista & Adrienne Smith, _Family Class Sponsorship in Canadian Immigration Law_ (Emond, 2021)
-- Liz Nastasi, Deborah Pressman & John Swaigen, _Administrative Law: Principles and Advocacy_, 4th ed, chapters 8-11 (Emond, 2019)
-- Arlene Blatt & JoAnn Kurtz, _Legal Research: Step by Step_, 5th ed (Emond, 2020)
-- Douglas Cochran, _Interviewing Skills for Legal Professionals_, 3rd ed (Emond, 2022).
+1. There must be a public legal duty to act;
+2. The duty must be owed to the applicant;
+3. There is a clear right to performance of that duty;
+4. Where the duty sought to be enforced is discretionary, consideration must be given to the nature and manner of exercise of that discretion;
+5. No other adequate remedy is available to the applicant;
+6. The order sought will be of some practical value or effect;
+7. There is no equitable bar to the relief sought; and
+8. On a “balance of convenience,” an order of mandamus should be issued.
 
-## Assessment Weighting
+**[18]** In addition, the Court outlined three requirements that must be met if a delay is to be considered **unreasonable** in _Conille v Canada (Citizenship and Immigration)_, [1998 CanLII 9097 (FC)](https://www.canlii.org/en/ca/fct/doc/1998/1998canlii9097/1998canlii9097.html){:target="\_blank"}:
 
-<table class="styled-table">
-    <thead>
-    <tr>
-        <th>Assessment</th>
-        <th>Weight</th>
-        <th>Due Date</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td style= "text-align: left">Assignment 1: Critical Analysis of a Family Class Case</td>
-        <td>20%</td>
-        <td>2025-01-26</td>
-    </tr>
-    <tr>
-        <td style= "text-align: left">Assignment 2: Crafting a legal opinion for an IAD Appeal</td>
-        <td>20%</td>
-        <td>2025-02-09</td>
-    </tr>
-    <tr>
-        <td style= "text-align: left">Assignment 3: IAD Submissions for a Family Class Case</td>
-        <td>20%</td>
-        <td>2024-02-16</td>
-    </tr>
-    <tr>
-        <td style= "text-align: left">Engagement (Module 1 - 6, closed-book)</td>
-        <td>Pass/Fail</td>
-        <td>2024-02-18</td>
-    </tr>
-    <tr>
-        <td style= "text-align: left">Final Quiz</td>
-        <td>40%</td>
-        <td>2024-02-19</td>
-    </tr>
-<!-- <td colspan="3">请致电本所咨询</td> -->
-    </tbody>
-</table>
+1. The delay in question has been longer than the nature of the process required, _prima facie_;
+2. The applicant and his counsel are not responsible for the delay; and
+3. The authority responsible for the delay has not provided satisfactory justification.
 
-## Engagement (including Skill Reflection)
+**[19]** Further, the Applicants must demonstrate there is “**significant prejudice**” caused by the delay: _Vaziri v Canada (Citizenship and Immigration)_, [2006 FC 1159](https://www.canlii.org/en/ca/fct/doc/2006/2006fc1159/2006fc1159.html){:target="\_blank"} [Vaziri] at para 52, citing _Blencoe v British Columbia (Human Rights Commission)_, [2000 SCC 44](https://www.canlii.org/en/ca/scc/doc/2000/2000scc44/2000scc44.html){:target="\_blank"} at para 101; _Chen v Canada (Citizenship and Immigration)_, [2023 FC 885](https://www.canlii.org/en/ca/fct/doc/2023/2023fc885/2023fc885.html){:target="\_blank"} at para 16.
 
-Refer to correspondent requirement in ICL840.
+## Ongoing screening is not sufficient cause
 
-<div class="highlight yellow" markdown="1">
-**Skills Reflection Assignment:**
-
-<i class="fa-regular fa-clock" style="color: teal"></i> Due February 17 at 11:59 PM
-
-<i class="fa-regular fa-clock" style="color: teal"></i> Available on Jan 31, 2025 12:01 AM.
-
- </div>
-
-## Discussions
-
-Most required discussion topics follow a similar routine. You will respond to the specific prompts and instructions with **200 words (+ or - 50) across at least two distinct posts**. Unless instructed otherwise, you may contribute your answers by starting "new threads" or by replying to the threads of others.
-
-You must ensure that, over the course as a whole, **at least half your posts are replies**.
-
-## Reflective Practice Journals
-
-<p class="highlight red">This course has RPJ requirement.</p>
-
-## Instructor Information
-
-**Sofia Ijaz**
-
-[sofia.ijaz@queensu.ca](mailto:sofia.ijaz@queensu.ca){:target="\_blank"}
-
-<div style="display:flex; justify-content:flex-start; align-items:center ">
-<img src="../../../assets/img/zoomLogo.png" alt="Zoom Logo" width="100"> <span>Sunday @ 11:00 am (ET) <a href="https://queensu.zoom.us/j/94726680678?pwd=z9A7Z12T0WuNUa2vN58rEst9TlMN36.1" target="_blank">Tutorial Zoom Link</a></span>
-</div>
+**[23]** ... As the case law confirms, simply stating that a background or security screening is ongoing, without more, is not an adequate explanation for the delay: _Almuhtadi_ at para [40](https://www.canlii.org/en/ca/fct/doc/2021/2021fc712/2021fc712.html#par40){:target="\_blank"}; _Bidgoly v Canada (Citizenship and Immigration)_, [2022 FC 283](https://www.canlii.org/en/ca/fct/doc/2022/2022fc283/2022fc283.html){:target="\_blank"} at para 46; _Sowane v Canada (Citizenship and Immigration)_, [2024 FC 224](https://www.canlii.org/en/ca/fct/doc/2024/2024fc224/2024fc224.html){:target="\_blank"} at para 29.
