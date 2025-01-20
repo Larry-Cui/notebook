@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-???+ note "Tutorial notes"
+??? note "Tutorial notes"
 
     - Saturday 9:00am.
     - *Potla v Canada (Citizenship and Immigration)*, [2020 FC 646](https://canlii.ca/t/j7zwt){:target="\_blank"}

@@ -87,8 +87,9 @@ nav:
               - Week 6: immigration/830/ICL830week6.md
           - 840:
               - Syllabus: immigration/840/syllabus.md
-              - Week 1: immigration/840/ICL840week1.md
-              - Week 2: immigration/840/ICL840week2.md
+              - Week 1 Introduction: immigration/840/ICL840week1.md
+              - Week 2 Cross Tools: immigration/840/ICL840week2.md
+              - Week 3 Express Entry: immigration/840/ICL840week3.md
           - 850:
               - Syllabus: immigration/850/syllabus.md
               - Week 1: immigration/850/ICL850week1.md
@@ -199,6 +200,7 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+      clickable_checkbox: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.emoji:
