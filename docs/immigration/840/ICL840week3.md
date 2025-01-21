@@ -31,6 +31,51 @@ tags:
         - Singh v Canada (Immigration, Refugees and Citizenship), [2017 FC 266](http://canlii.ca/t/h0r1p){:target="\_blank"}.
         - Singh v Canada (Citizenship and Immigration), [2017 FC 132](http://canlii.ca/t/h03cj){:target="\_blank"}.
 
+??? note "Breaking Down the Ministerial Instructions"
+
+    - [Ministerial Instructions respecting the Express Entry system](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-application-management-system/current.html){:target="\_blank"}
+    - the Instructions can be thought of as having three parts:
+        - First, provisions determining the **scope and requirements** for Express Entry eligibility.
+        - Next, provisions determining the **mechanics**, such as how long invitations to apply last.
+        - Finally, provisions governing the awarding of **points** under the Comprehensive Ranking System, which determine who will receive invitations to apply.
+    - The statutory authority for Express Entry is found in [Division 0.1](https://laws.justice.gc.ca/eng/acts/i-2.5/page-2.html#h-274208){:target="\_blank"} of the IRPA.In that division, subsection 10.1(1) imposes on foreign nationals in certain circumstances the requirement that they receive an invitation before applying for permanent residence.
+    - section 1 and subsection 7(2): definitions.
+    - Section 2: classes for which the Express Entry system will be used.
+        - a foreign national must meet the minimum requirements and selection criteria for at least one of either the Federal Skilled Worker, Canadian Experience or Federal Skilled Trades to be accepted into the Express Entry pool.
+        -  [operational instructions for Immigration, Refugees and Citizenship](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/express-entry/assessing-electronic-application-on-section-a11-2.html){:target="\_blank"} states that: “**Settlement funds** are not included in the CRS. They do, however, relate to the program requirements of **FSW and FST** and may, by extension, be included in the [minimum eligibility criteria] for Express Entry.
+    - Sections 3, 4, 6 and 7:  Mechanics
+        - Under subsection 3(6), an expression of interest is considered **received** on the day and time recorded in the Express Entry system. Under section 4, if eligible, it then remains in the pool for up to **1 year**. During that time, section 7 of the Instructions permits the Minister to **share information** with the provinces for the purposes of facilitating a foreign national’s selection under a provincial nominee program.
+        - There are two ways that the foreign national can leave the pool before the year is up.
+            - First, they may receive an invitation to apply.
+            - Second, they may leave the pool because they cease to be eligible for the pool. (expiry of language result)
+    - Sections 8-32: The Comprehensive Ranking System, which is made up of **four** type of factors
+        - Core human capital factors: **500** points if they have no accompanying spouse or common-law partner, or **460** points if they do.
+        - Accompanying spouse or common-law partner factors: **40**
+        - Skill transferability factors: **100**
+        - Additional factors: **600**
+
+??? note "Qualifying Job Offers"
+
+    - Immigration Minister Marc Miller has confirmed that Express Entry points for a job offer will be **removed** in the **Spring of 2025**, exact date and circumstances have not yet been confirmed.
+    - subsection 29(1) of the Instructions allots either **200** or **50** points for having a “qualifying job offer.”
+    - for a job offer to count as arranged employment, it must be:
+        - made by a **single employer**;
+        - other than an embassy, high commission or consulate in Canada or **an employer who is referred to in any of subparagraphs 200(3)(h)(i) to (iii) of the IRPR**;
+            - Note that subparagraphs 200(3)(h)(i) to (iii) refer to employers who have failed to provide wages and working conditions in conformity with job offers that were the basis of previous work permits or employers who have failed to pay an administrative monetary penalty due to previous non-compliance;
+        - for continuous, **full-time** work in Canada;
+        - having a duration of at least **1 year after** the date on which a permanent resident visa is issued;
+        - that is in an occupation that is listed in Skill Type 0 Management Occupations or Skill Level A or B of the NOC 2016 and **TEER 0,1,2,3** of NOC 2021.
+    - In addition to meeting the definition of “arranged employment” from subsection 82(1) of the IRPR, the job offer for a non-trade occupation under paragraph 29(2)(a) must fulfil **one of three** further conditions.
+        - there must be a valid **LMIA** for the job offer,
+        - the offer is to **continue** a job that the foreign national already occupies under a valid work permit issued based on a positive **LMIA**, **or**
+        - the offer is to continue a job for which the foreign national already holds a valid work permit but for which they did not need an LMIA (i.e., because the work fell under the **International Mobility Program**).
+
+???+ note "Case Review: Express Entry System"
+
+    - Agbai v Canada (Citizenship and Immigration), [2019 FC 886](http://canlii.ca/t/j1b0m){:target="\_blank"}.
+    - Singh v Canada (Immigration, Refugees and Citizenship), [2017 FC 266](http://canlii.ca/t/h0r1p){:target="\_blank"}.
+    - Singh v Canada (Citizenship and Immigration), [2017 FC 132](http://canlii.ca/t/h03cj){:target="\_blank"}.
+
 ??? note "EE: Who Can Apply?"
 
     - First, [find your NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/find-national-occupation-code.html){:target="\_blank"}.
@@ -135,3 +180,95 @@ tags:
         - [ ] True
         - [x] False
         > **6 months**.
+
+??? note "Knowledge Check 3.2: System Analysis"
+
+    1. Under which economic-class category were the most invitations issued in 2021?
+        - [ ] Federal Skilled Trades Class
+        - [ ] Federal Skilled Worker Class
+        - [ ] Provincial/Territorial Nominee Class
+        - [x] Canadian Experience Class
+
+    2. From 2019-2021, which age group received the most invitations?
+        - [ ] 40-49
+        - [ ] 30-39
+        - [x] 20-29
+        - [ ] 50-59
+
+    3. Which of the following were initial concerns regarding the Express Entry system in its early life cycle that were subsequently addressed? (Choose all that apply)
+        - [x] Not many prospective applicants met the threshold of more than 800 points for receiving invitation to apply.
+        - [x] The number of individuals with an applicant was too low to meet Canada’s targets for economic immigration.
+        - [ ] There were not enough people submitting expressions of interest.
+        - [ ] Too few applicants had the human capital to become economically established in Canada.
+
+    4. What was the most common arranged employment occupation in 2021?
+        - [ ] Chefs and cooks
+        - [x] Food service supervisors
+        - [ ] Computer programmers and interactive media developers
+        - [ ] Architects and urban planners
+
+    5. Which of the following was among the rationale for introducing the Express Entry system in 2015?
+        - [ ] To increase the number of economic immigrants with French-language proficiency
+        - [ ] To give opportunities to applicants facing poverty in their country of nationality
+        - [x] To speed up the processing of applications
+        - [ ] To reunite families
+
+    6. For the years covered in the Express Entry Year-End Report 2021, which CRS score range had the largest number of eligible Express Entry profiles?
+        - [ ] 651-700
+        - [x] 351-400
+        - [ ] 451-500
+        - [ ] 401-450
+
+    7. Which of the following is a limitation of the Express Entry system, according to **Daniel Hiebert**?
+        - [ ] Express Entry fails to assess theoretical (credentials) as opposed to real skills (competence).
+        - [ ] Express Entry favoured entrepreneurs early on, but later could not attract sufficient entrepreneurs.
+        - [ ] Express Entry admits too many low-skilled workers.
+        - [x] Express Entry fails to adequately evaluate the labour-market potential of accompanying spouses or common-law partners.
+
+    8. True or False: While the original justification for the Comprehensive Ranking System (CRS) was the need to focus on human capital, the CRS now privileges candidates with LMIA job offers.
+        - [ ] True
+        - [x] False
+
+    9. Which of the following are problems that the Express Entry system was designed to address? (Choose all that apply)
+        - [ ] A system that had grown so complex that it required streamlining.
+        - [x] A backlog in applications to immigrate to Canada under an economic-class program.
+        - [ ] A system that had become too decentralized, requiring the federal government to assert control.
+        - [x] An inflexible system that could not respond to developing labour-market needs because it had to process applications on a first-come, first-served basis.
+        - [x] A situation in which new arrivals to Canada were having increasing difficulty finding work.
+
+??? note "Knowledge Check 3.3: Ministerial Instructions"
+
+    1. The criteria set out in Ministerial Instructions created under the authority provided in subsection 10.3(1) may **not** be **more stringent** than requirements set out elsewhere in the IRPA or its regulations.
+        - [ ] True
+        - [x] False
+
+    2. The Express Entry system can deem a foreign national ineligible for the pool based on a determination that the information provided by the foreign national in their expression of interest is not credible.
+        - [ ] True
+        - [x] False
+
+    3. Which of the following pieces of information cannot be shared by the Minister of Immigration, Refugees and Citizenship with the provinces for the purpose of selecting a foreign national for the provincial nominee class?
+        - [ ] Their surname.
+        - [ ] The economic class for which they qualify.
+        - [x] Their criminal record.
+        - [ ] Their highest level of education.
+
+    4. Your client worked two full-time jobs during the past year. Can she count that as 2 years' work experience?
+        - [ ] True
+        - [x] False
+
+    5. A foreign national without an accompanying spouse or common-law partner will receive how many points for age if they are 19 years old?
+        - [x] Answer: 105
+
+    6. Your client received an invitation to apply on March 5, 2023. They submit their application for permanent residence on June 5, 2023. They have submitted their application in time.
+        - [ ] True
+        - [x] False
+        > They were required to submit their application by the **60th day** following the day after they received their invitation. June 5, 2023 is 92 days after March 5, 2023.
+
+    7. Which subparagraphs of subsection 10.3(1) of IRPA relate to the **issuance of rounds** of invitations to apply?
+        - [ ] (c) and (f)
+        - [x] (i) and (j)
+        - [ ] (g) and (h)
+
+    8. How many points would a foreign national receive for 4 years of work experience in Canada as a Construction trade helper (TEER 5)?
+        - [x] 0 point.
+        > only **TEER Category 0, 1, 2 or 3 work receive points**: see Instructions, s 15(3)(a).
