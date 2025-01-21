@@ -72,9 +72,15 @@ tags:
 
 ???+ note "Case Review: Express Entry System"
 
-    - Agbai v Canada (Citizenship and Immigration), [2019 FC 886](http://canlii.ca/t/j1b0m){:target="\_blank"}.
-    - Singh v Canada (Immigration, Refugees and Citizenship), [2017 FC 266](http://canlii.ca/t/h0r1p){:target="\_blank"}.
-    - Singh v Canada (Citizenship and Immigration), [2017 FC 132](http://canlii.ca/t/h03cj){:target="\_blank"}.
+    - *Agbai v Canada (Citizenship and Immigration)*, [2019 FC 886](http://canlii.ca/t/j1b0m){:target="\_blank"}.
+    - *Singh v Canada (Immigration, Refugees and Citizenship)*, [2017 FC 266](http://canlii.ca/t/h0r1p){:target="\_blank"}.
+        - [8] Whether a visa officer erred by failing to bring his or her concerns to the attention of an applicant and offering the applicant an opportunity to address them is a question of procedural fairness which is **reviewable on the correctness standard** (*Dunsmuir v New Brunswick*, 2008 SCC 9 at paras 79 and 87 (“Dunsmuir”); *Muthui* at para 12; *Ramezanpour v Canada (Citizenship and Immigration)*, 2016 FC 751 at para 15).
+        - [9] The standard of review that applies to an officer’s assessment of an application for permanent residence under the Federal Skilled Worker Program, including the officer’s assessment of the evidence submitted in support of that application, **is reasonableness** (Hamza v Canada (Citizenship and Immigration), 2013 FC 264 at para 14 (“Hamza”); Roberts v Canada (Citizenship and Immigration), 2009 FC 518 at para 15; Bazaid v Canada (Citizenship and Immigration), 2013 FC 17 at para 36; Khowaja v Canada (Citizenship and Immigration), 2013 FC 823 at para 7; Muthui at para 10).  An officer’s assessment in that regard is entitled to a high degree of deference (Pathirannahelage v Canada (Citizenship and Immigration), 2015 FC 811 at para 25 (“Pathirannahelage”)).
+        - [30] ... s 82 of the IRPR requires that an employer has offered arranged employment to the applicant, which is defined as an offer of employment “for continuous full-time work in Canada having a duration of at least one year after the date on which a permanent resident visa is issued”
+    - *Singh v Canada (Citizenship and Immigration)*, [2017 FC 132](http://canlii.ca/t/h03cj){:target="\_blank"}.
+        - [8] The Officer’s failure to refer to this evidence or to explain why it was insufficient to overcome the initial concern about Mr.  Singh’s work experience renders the decision unreasonable.
+        - [10] The Officer’s lingering concern about an overlap between Mr. Singh’s accounting studies and his employment was also misplaced.  If the Officer had taken care to examine the relevant records, he could only have concluded that Mr. Singh’s accreditation studies required corresponding internship employment.  The fact that he was studying and working at the same time was not suspicious – it was expected.
+        - [12] The rejection of Mr. Singh’s permanent residency application appears to have been based on the Officer’s after-the-fact assessment of the merits of Mr. Singh’s previous temporary visa applications.  Whether or not those earlier visa applications ought to have been accepted was not before the Officer.  The Officer’s failure to engage with the evidence presented in support of the application before him is fatal to the decision and the decision is, accordingly, set aside.
 
 ??? note "EE: Who Can Apply?"
 
