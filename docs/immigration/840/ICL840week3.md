@@ -15,10 +15,14 @@ tags:
 
 ## Notes
 
-??? note "Tutorial notes"
+???+ note "Tutorial notes"
 
     - Saturday 9:00am.
     - **Express Entry:** the Federal Skilled Worker Class (**FSW**), the Canadian Experience Class (**CEC**), the Federal Skilled Trades Class (**FST**), and the Provincial Nominee Class (**PNP**).
+    - Because immigration practices often provide questionnaires to potential clients, you can easily find examples online.  Here is a sampling:
+        - [Immigration.ca](https://form.immigration.ca/skilled-worker/en){:target="\_blank"}
+        - [Murchie Immigration Consultancy](https://www.murchielaw.com/canadian-immigration-intake){:target="\_blank"}
+        - [Achtari Law](https://www.immigrationcan.com/questionnaire/){:target="\_blank"}
 
 ??? note "Required Reading and websites"
 
@@ -70,7 +74,7 @@ tags:
         - the offer is to **continue** a job that the foreign national already occupies under a valid work permit issued based on a positive **LMIA**, **or**
         - the offer is to continue a job for which the foreign national already holds a valid work permit but for which they did not need an LMIA (i.e., because the work fell under the **International Mobility Program**).
 
-???+ note "Case Review: Express Entry System"
+??? note "Case Review: Express Entry System"
 
     - *Agbai v Canada (Citizenship and Immigration)*, [2019 FC 886](http://canlii.ca/t/j1b0m){:target="\_blank"}.
     - *Singh v Canada (Immigration, Refugees and Citizenship)*, [2017 FC 266](http://canlii.ca/t/h0r1p){:target="\_blank"}.
@@ -278,3 +282,40 @@ tags:
     8. How many points would a foreign national receive for 4 years of work experience in Canada as a Construction trade helper (TEER 5)?
         - [x] 0 point.
         > only **TEER Category 0, 1, 2 or 3 work receive points**: see Instructions, s 15(3)(a).
+
+??? note "Knowledge Check 3.4: Case Review - Express Entry"
+
+    1. True or False - In Singh v Canada (Minister of Citizenship and Immigration), 2017 FC 266, as part of the duty of procedural fairness, the Officer was required to request from the Applicant, an offer of employment to show continuous full-time work in Canada.
+        - [ ] True
+        - [x] False
+        > False: The duty of procedural fairness owed by the Officer **does not require him/her to request deficient documentation** from the Applicant, in this case, provide an offer of employment that met the necessary criteria showing continuous, full-time work.
+
+    2. Which, if any, of the following are accurate statements of principle from the decision in Singh v. Canada (Immigration, Refugees and Citizenship), 2017 FC 266?
+        - [ ] The requirement to provide a letter of offer to confirm arranged employment for someone applying to the Federal Skilled Worker Program via Express Entry rests on non-binding policy, not legislation.
+        - [ ] Decision-makers must show in their reasons that they have considered every piece of submitted evidence.
+        - [x] The legislative basis for requiring **a letter offering employment** to establish arranged employment for someone applying to the Federal Skilled Worker Program via Express Entry is section **11.2 of the IRPA** and **section 82 of the IRPR**.
+        - [ ] Applicants have a legitimate expectation that an officer will bring any missing documents to their attention before rejecting an application for being incomplete.
+
+    3. Which of the following is/are reasons why the Court found the officer did not breach procedural fairness in Agbai v Canada (Citizenship and Immigration), 2019 FC 886? (Choose all that apply)
+        - [x] The duty of procedural fairness owed by visa officers is on the low end of the spectrum.
+        - [x] There is no obligation on a visa officer to provide an applicant with an opportunity to address concerns regarding supporting documents that are incomplete, unclear or insufficient.
+        - [ ] The applicant had the opportunity to update her valid medical and police clearances.
+        - [ ] The officer reviewed the application within the prescribed period for assessment.
+
+    4. True or False - In Singh v Canada (Minister of Citizenship and Immigration), 2017 FC 266, the Court held it was reasonable for the Officer to rely on policy reasons to deny the application because there was no forward-looking offer of employment for continuous, full-time work.
+        - [ ] True
+        - [x] False
+        > The Officer did **not rely on policy reasons but on s 82 of the IRPR and s 11.2 of the IRPA**.
+        > IRPA, s 11.2(1) states that an officer "may not issue a visa or other document in respect of an application for permanent residence to a foreign national who was issued an invitation ... if ... **at the time the officer received their application**[,] the foreign national ... did not have the qualifications on the basis of which they were ranked ... and were issued the invitation."
+
+    5. Which of the following is/are reasons why the Officer was found to have acted unreasonably in denying the application at issue in Singh v Canada (Minister of Citizenship and Immigration), 2017 FC 132?  (Choose all that apply)
+        - [ ] The Officer assessed the evidence using the standard of balance of probabilities, which is more stringent to the standard of reasonable belief that he ought to have used.
+        - [x] The Applicant provided the documents the Officer had requested, which carried indicia of reliability and required careful consideration by the Officer.
+        - [x] The Officer's concern about the applicant's concurrent studies and employment was addressed by records showing the applicant was expected to work and study at the same time.
+        - [x] The Officer failed to engage with the evidence before him.
+
+    6. Which, if any, of the following are accurate statements of principle from the decision in Singh v. Canada (Immigration, Refugees and Citizenship), 2017 FC 132?
+        - [ ] An officer may not rely on information from previous temporary resident visa applications to reject an application for a permanent resident visa.
+        - [x] If an applicant provides facially probative and corroborative evidence in response to a procedural fairness letter, an officer must demonstrate in their reasons that they have engaged with that evidence for their decision to be reasonable.
+        - [ ] An officer cannot draw adverse inferences regarding credibility based on documentary evidence alone.
+        - [ ] Section 11.2 of the IRPA is unconstitutional, and therefore cannot be used to reject an application.
