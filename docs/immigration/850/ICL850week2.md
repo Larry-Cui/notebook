@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-???+ note "Tutorial notes"
+??? note "Tutorial notes"
 
     - Sunday 9:00am.
     - A40 (misrepresentation), material facts that could induce an error in decision.
