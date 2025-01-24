@@ -10,11 +10,21 @@ tags:
   - progression phases
 ---
 
+<style>
+i {
+    color: #2E8B57
+}
+
+img {
+    width: 100%;
+}
+</style>
+
 # From AoR to CoPR - PR Application Journey
 
 This article is a reproduction of [this post](https://nextmigrant.com/pr/aor-to-ppr){:target="\_blank"}.
 
-## <i style="color: #556b2f" class="fa-solid fa-file-import"></i> Acknowledgement of Receipt (AoR)
+## <i class="fa-solid fa-file-import"></i> Acknowledgement of Receipt (AoR)
 
 <p class="highlight green">On the day or next day of application submission.</p>
 
@@ -24,7 +34,7 @@ Normally, you'll get an Acknowledgement of Receipt (AoR) right after submitting 
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczOte072qL9M5-vOPXGkz1o0XRe1SbTbBgd8UdM0JanaAkfFW99I7o196ER9Uy7c-xOHMKbh7V9pYoeseAo19C-XmG7njohvTixSqjESBW1dOsdUgbw" />
 
-## <i style="color: #556b2f" class="fa-solid fa-fingerprint"></i> Biometrics collection
+## <i class="fa-solid fa-fingerprint"></i> Biometrics collection
 
 <p class="highlight green">Within 1 week of AoR</p>
 
@@ -32,7 +42,7 @@ Biometric instruction letters are sent out automatically within 1 week of your A
 
 Permanent residence applicants are required to provide their biometrics every time they make a new PR application.
 
-## <i style="color: #556b2f" class="fa-solid fa-user-check"></i> R10 Completeness Check
+## <i class="fa-solid fa-user-check"></i> R10 Completeness Check
 
 <p class="highlight green">Within 1-2 months after AoR</p>
 
@@ -46,11 +56,11 @@ The R10 Completeness Check serves as the foundational step in the application pr
 
 <p class="highlight red">After you pass R10, you also become eligible to apply for Bridge Open Work Permit (BWOP).</p>
 
-## <i style="color: #556b2f" class="fa-solid fa-list-ul"></i> Incomplete Applications
+## <i class="fa-solid fa-list-ul"></i> Incomplete Applications
 
 In cases where an application is deemed incomplete, meaning it fails to meet the requirements pursuant to section R10, the Central Intake Office (CIO) takes appropriate action. The CIO returns the incomplete application package to the applicant, along with the associated fees, while also recording the action in the Global Case Management System (GCMS).
 
-## <i style="color: #556b2f" class="fa-solid fa-notes-medical"></i> Immigration Medical Exam
+## <i class="fa-solid fa-notes-medical"></i> Immigration Medical Exam
 
 <p class="highlight green">Within 1-3 months after AoR</p>
 
@@ -58,7 +68,7 @@ Immigration Medical Exams (IME) are conducted by panel physicians and are a mand
 
 Immigration medical exam requests are sent within a few days after the R10 completeness check has been passed.
 
-## <i style="color: #556b2f" class="fa-solid fa-magnifying-glass"></i> Eligibility review
+## <i class="fa-solid fa-magnifying-glass"></i> Eligibility review
 
 <p class="highlight green">Within 4-5 months after AoR</p>
 
@@ -84,7 +94,7 @@ The Review of Eligibility is a meticulous and time-intensive process, involving 
 
     Learn more about Review Required and Passed Candidate in GCMS notes.
 
-## <i style="color: #556b2f" class="fa-solid fa-circle-question"></i> Background check
+## <i class="fa-solid fa-circle-question"></i> Background check
 
 <p class="highlight green">Within 2-5 months after AoR</p>
 
@@ -96,7 +106,7 @@ Some applicants may be requested to attend an interview, either to verify inform
 
     Security check is a part of the background check process. One of the key parts of this step is info-sharing where IRCC shares applicant's info with other countries to verify the information provided. This step is usually completed the same day it is initiated.
 
-## <i style="color: red" class="fa-solid fa-crown"></i> Confirmation of Permanent Residence (CoPR)
+## <i style="color: #FFD700" class="fa-solid fa-crown"></i> Confirmation of Permanent Residence (CoPR)
 
 <p class="highlight green">Within 5-8 months after AoR</p>
 
@@ -118,23 +128,31 @@ CoPRs are non-extensible which means their validity cannot be extended after exp
 
 ## <i style="color: #556b2f" class="fa-solid fa-clock-rotate-left"></i> Timeline Examples
 
-### Example 1: RNIP
+**Example 1: RNIP**
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMynzAq78l6xJ78H5zTQjR7otu9VAPQhV-EumLPZLI-qMfZgiIaydybbPL8R8E2WkBFL8hQw4b5ZuVM81dQLCLDPNctvTt35mvd8O7SaD5NQ-jX2TE" />
 
-### Example 2: AIP-NS
+<br>
+
+**Example 2: AIP-NS**
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczO1CYWfvkcjXv-cbO-teWNZWxVdKBg3ikjw1HuDbxmkMRdPYkYXcVnYEL9bBTl10_VgRuQF2SwQlW6CoARm8B4p7lNVQtti9ynZYXud_CIzoIx03zE" />
 
-### Example 3: CEC
+<br>
+
+**Example 3: CEC**
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczOnJyU-RbHNkWrJ1HobRZsf-ECJkUhCnN9NBGOwT1XONmLQ3-PKV68VquVVP5ZhjG4cxzn2hc8CZvvIdJ2EalkGilcHPVD3BhVTbktqFZnnuWLIrUQ" /> </a>
 
-### Example 4: CEC
+<br>
+
+**Example 4: CEC**
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMwlOk5ZJ9QhYZoLoLD84Bd9F5zFWNpvREwIWvrSg7UNOpDZK4KzJNecUGMzqm0aMwkhu9whdJlmRGHML4JBykMJBqrovbbuVz_3PYmpkPbiljU9nc" />
 
-### Example 5: CEC
+<br>
+
+**Example 5: CEC**
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczOEfhBtk8HeYhI0iFTDRaTLm3IPzVuUw_cQPqkNNMHRBEtwCIsElW5JOdh56XyofjXTms_nq_y-z4100E5rnqO4HFerbCvWe5A1omBaOkupVxPFIx4" />
 
