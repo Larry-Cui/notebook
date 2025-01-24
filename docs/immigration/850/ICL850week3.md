@@ -22,7 +22,7 @@ tags:
         - Mock Sponsorship Application (Activity)
         - Case Study 2: Evidence and the admissibility of evidence
 
-???+ note "required reading"
+??? note "required reading"
 
     - Immigration, Refugees, and Citizenship Canada, "Sponsor your spouse, common-law partner, conjugal partner or dependent child – Complete Guide (IMM 5289)" (24 October 2021), [online: Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5525-basic-guide-sponsor-your-spouse-partner-child.html){:target="\_blank"}. (NOTE: Please read all links and review forms)
     - Immigration, Refugees, and Citizenship Canada, "Conjugal relationships" (04 July 2023), [online: Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/non-economic-classes/family-class-determining-spouse/assessing-conjugal.html){:target="\_blank"}.
