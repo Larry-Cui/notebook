@@ -23,6 +23,16 @@ tags:
         - [Immigration.ca](https://form.immigration.ca/skilled-worker/en){:target="\_blank"}
         - [Murchie Immigration Consultancy](https://www.murchielaw.com/canadian-immigration-intake){:target="\_blank"}
         - [Achtari Law](https://www.immigrationcan.com/questionnaire/){:target="\_blank"}
+    - EOI -> CRS -> Draw -> ITA -> 60 days to apply for PR
+    - 2023: start of category based selection
+    - make a note when your client's language results expire, and update the EOI with a new one.
+    - valid job offer (MI 29): (1) valid LMIA, or (2) LMIA-based work permit, or (3)204(a),(c), 205, **only after one year** of continuous work in Canada.
+    - if you are on a open work permit, you can never get this valid job points.
+    - A11.2: qualifications must meet when ITA received and Application submitted.
+    - If you have a spouse who doesn't bring a lot of points to the CRS, could you apply as a single? In practice, you can do that, but not recommended because of ethical issue.
+    - CEC -> FSW -> FST
+    - PNP-EE candidates must meet two criteria: (1) PNE-EE requirement, and (2) one of the three streams.
+    - FSW candidate work must be continuous.
 
 ??? note "Required Reading and websites"
 
@@ -77,6 +87,7 @@ tags:
 ??? note "Case Review: Express Entry System"
 
     - *Agbai v Canada (Citizenship and Immigration)*, [2019 FC 886](http://canlii.ca/t/j1b0m){:target="\_blank"}.
+        - points locked-in time: ITA and Application.
     - *Singh v Canada (Immigration, Refugees and Citizenship)*, [2017 FC 266](http://canlii.ca/t/h0r1p){:target="\_blank"}.
         - [8] Whether a visa officer erred by failing to bring his or her concerns to the attention of an applicant and offering the applicant an opportunity to address them is a question of procedural fairness which is **reviewable on the correctness standard** (*Dunsmuir v New Brunswick*, 2008 SCC 9 at paras 79 and 87 (“Dunsmuir”); *Muthui* at para 12; *Ramezanpour v Canada (Citizenship and Immigration)*, 2016 FC 751 at para 15).
         - [9] The standard of review that applies to an officer’s assessment of an application for permanent residence under the Federal Skilled Worker Program, including the officer’s assessment of the evidence submitted in support of that application, **is reasonableness** (Hamza v Canada (Citizenship and Immigration), 2013 FC 264 at para 14 (“Hamza”); Roberts v Canada (Citizenship and Immigration), 2009 FC 518 at para 15; Bazaid v Canada (Citizenship and Immigration), 2013 FC 17 at para 36; Khowaja v Canada (Citizenship and Immigration), 2013 FC 823 at para 7; Muthui at para 10).  An officer’s assessment in that regard is entitled to a high degree of deference (Pathirannahelage v Canada (Citizenship and Immigration), 2015 FC 811 at para 25 (“Pathirannahelage”)).
