@@ -21,6 +21,29 @@ tags:
     - The following activities will anchor important discussions in Tutorial 3:
         - Mock Sponsorship Application (Activity)
         - Case Study 2: Evidence and the admissibility of evidence
+    - spouse sponsorship - in Canada vs Overseas:
+        - in Canada:
+            - must remain in Canada until a decision is made
+            - cannot exit Canada, a few days would be allowed but the onus is on the applicant to prove they are re-entering Canada on a dual purpose.
+            - eligible for work permit
+            - cannot appeal to the IAD
+            - difficulty overcoming inadmissibility (not so much)
+        - Overseas application:
+            - right to appeal to IAD
+            - faster processing time
+            - only option for conjugal partners.
+    - evidence accepted for assessment:
+        - marriage certificate
+        - statutory declaration
+        - birth certificate
+        - financial interdependence
+        - cohabitation history
+        - wedding photos
+    - Officer's subjectivity
+        - calls for objectivity and cultural competence
+        - decision maker's pre-conceived notions
+        - potential for negative outcomes
+            - Van v Canada (CBSA), 2009, CanLII 93234, paras 33-34
 
 ??? note "required reading"
 
