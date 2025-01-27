@@ -43,7 +43,7 @@ tags:
         - calls for objectivity and cultural competence
         - decision maker's pre-conceived notions
         - potential for negative outcomes
-            - Van v Canada (CBSA), 2009, CanLII 93234, paras 33-34
+            - *Van v Canada (CBSA)*, 2009, CanLII 93234, paras 33-34
 
 ??? note "required reading"
 

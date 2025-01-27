@@ -24,6 +24,8 @@ img {
 
 This article is a reproduction of [this post](https://nextmigrant.com/pr/aor-to-ppr){:target="\_blank"}.
 
+<p markdown="1" class="highlight yellow">The explanation of the "AoR" is not accurate in this post. It's sent out after the completeness check, not at the very beginning of the application submission. Please refer to [IRCC website](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/procedures-centralized-intake-office-paper-based-non-applications.html){:target="\_blank"} for clarification.</p>
+
 ## <i class="fa-solid fa-file-import"></i> Acknowledgement of Receipt (AoR)
 
 <p class="highlight green">On the day or next day of application submission.</p>
@@ -31,6 +33,8 @@ This article is a reproduction of [this post](https://nextmigrant.com/pr/aor-to-
 The **Acknowledgement of Receipt (AoR)** serves as a crucial confirmation for applicants, indicating the successful submission of their immigration application. The AoR is automatically generated, typically sent out promptly to most applicants. In some cases, however, its arrival might be delayed, taking up to 24 hours.
 
 Normally, you'll get an Acknowledgement of Receipt (AoR) right after submitting your application.
+
+<p class="highlight yellow">As mentioned above, here the submission acknowledgement is not "AoR".</p>
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczOte072qL9M5-vOPXGkz1o0XRe1SbTbBgd8UdM0JanaAkfFW99I7o196ER9Uy7c-xOHMKbh7V9pYoeseAo19C-XmG7njohvTixSqjESBW1dOsdUgbw" />
 

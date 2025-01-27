@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-???+ note "Tutorial notes"
+??? note "Tutorial notes"
 
     - Saturday 9:00am.
     - **Express Entry:** the Federal Skilled Worker Class (**FSW**), the Canadian Experience Class (**CEC**), the Federal Skilled Trades Class (**FST**), and the Provincial Nominee Class (**PNP**).
