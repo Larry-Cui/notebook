@@ -21,7 +21,7 @@ tags:
 
 ??? note "Required Reading and websites"
 
-    - P**rovincial Nominee Program**
+    - **Provincial Nominee Program**
         - Canada, Immigration and Citizenship, “Provincial Nominee Program: How to apply (non-Express Entry process) - 3. How to apply” (23 October 2024), [online](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/non-express-entry/apply.html){:target="\_blank"}.
         - Canada, Immigration, Refugees and Citizenship, “Provincial Nominee Program (PNP)” (8 April 2021), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/provincial-nominees.html){:target="\_blank"}.
         - *Sarfraz v Canada (Citizenship and Immigration)*, [2019 FC 1578](https://canlii.ca/t/j3wnn){:target="\_blank"}.
