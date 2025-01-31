@@ -32,6 +32,16 @@ tags:
         - Patil v Canada (Citizenship and Immigration), [2020 FC 495](http://canlii.ca/t/j6mxv){:target="\_blank"}.
     - Canada, Immigration, Refugees and Citizenship, “Procedural fairness” (22 August 2018), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/procedural-fairness.html){:target="\_blank"}.
 
+???+ note "FSW: Minimum Requirements"
+
+    - R75(1): For the purposes of subsection 12(2) of the Act, the federal skilled worker class is hereby prescribed as a class of persons who are skilled workers and who may become permanent residents on the basis of their ability to become **economically established** in Canada and who intend to **reside in a province** other than the Province of Quebec.
+    - According to section 77 of the IRPR, these requirements and criteria must be met on the date on which an **application is made** and on the date on which a permanent resident **visa is issued**.
+    - it is helpful to divide the regulations for the Federal Skilled Worker Class into three parts:
+        - The minimum requirements: s 75, s 76(1)(b) and s 82(1)(a), (b) or (d) of the IRPR
+        - The criteria used to evaluate and admit: s 76 and s 85
+        - Provisions detailing the application of each criterion: ss 77-83
+    -
+
 ## Quizzes
 
 ??? note "Knowledge Check 5"
