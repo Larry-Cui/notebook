@@ -19,7 +19,7 @@ tags:
 
     - Saturday 9:00am.
 
-???+ note "Required Reading and websites"
+??? note "Required Reading and websites"
 
     - Immigration and Refugee Protection Regulations, SOR/2002-227, **ss 1(3)**, **73-84, 87.1, 87.2**
     - Canada, Immigration, Refugees and Citizenship, “Processing federal skilled worker class e-applications received on or after January 1, 2015" (6 June 2017), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/federal-skilled-workers/post.html){:target="\_blank"}.
