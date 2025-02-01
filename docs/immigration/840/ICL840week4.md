@@ -103,6 +103,22 @@ tags:
     - IRCC’s [online operational instructions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/federal-skilled-workers/making-selection-decision.html){:target="\_blank"} for substituted evaluation decisions provide guidance to officers on how to make substituted evaluation decisions under subsections 76(3) and (4) of the IRPR.
     - Now comes the tricky part: since the implementation of Express Entry in January 2015, all new FSW applications have been processed in that system, with a set of Ministerial Instructions. You will see in the **Departmental guidance** above that substituted evaluation does **not apply** to Ministerial Instructions.
 
+??? note "CEC Regulations"
+
+    - Unlike the Federal Skilled Worker Class, selection under the Canadian Experience Class is on a **pass-fail basis** rather than assigning an applicant points. As its name suggests, membership in the class is determined by whether you have the requisite **Canadian** experience—meaning **work experience**.
+    - The regulations for the Canadian Experience Class are found in a single provision, **section 87.1**.
+    - Paragraphs 87.1(2)(a) to (c) state that an applicant must have acquired in the **previous 3 years** at least **1 year's full-time** work experience, or the **equivalent in part-time** work, in one or more occupations that are listed in TEER 0,1,2,3
+        - In *Kumar*, the Court said “the real question for the visa officer is to determine the pith and substance of the work performed by the Applicant.”
+    - Paragraph 87.1(2)(d) and (e) state that the applicant must submit the results of an approved language test that is less than 2 years’ old.
+        - For occupations in **TEER 0 or 1** (formerly Skill Type 0 or Skill Level A), applicants must achieve at least Canadian Language Benchmark **(CLB) 7** for each language ability.
+        - For occupations in **TEER 2 or 3** (formerly Skill Level B), applicants must achieve **CLB 5** for each language ability.
+    - Qin v Canada (Citizenship and Immigration), [2013 FCA 263](https://canlii.ca/t/g1wrc){:target="\_blank"}
+        - Is it permissible for a visa officer to consider comparator salary data when assessing the nature of the work experience of an applicant who wishes to qualify as a member of the Canadian Experience Class, as described in section 87.1 of the IRPR?
+            - ==Yes==
+        - What standard of review is applicable to a visa officer’s interpretation of the IRPR and to the officer’s assessment of an application under the IRPR?
+            - ==Correctness== is the applicable standard in this case for reviewing the visa officer’s interpretation of IRPR
+            - ==reasonableness== is the standard of review of a visa officer’s **findings of fact** and **application of section 87.1 to the facts** of a CEC application
+
 ## Quizzes
 
 ??? note "Knowledge Check 4.1: Federal Skilled Worker Class Regulations"
@@ -180,7 +196,7 @@ tags:
         - [ ] None
         > Despite the fact that Tyson has arranged employment, he still needs to show that he has sufficient settlement funds, because **he is not currently holding a work permit in Canada**. Under paragraph **76(1)(b)** of the IRPR, he either needs to show that he has sufficient settlement funds OR that he is awarded points under ss **82(2)(a), (b) or (d)** of the IRPR for arranged employment as defined in ss 82(1), in Canada.
 
-???+ note "Knowledge Check 4.2: Federal Skilled Worker Class - The Points System"
+??? note "Knowledge Check 4.2: Federal Skilled Worker Class - The Points System"
 
     1. Your client, Yibo Wang, is a Chinese citizen who has been working in Canada for his employer since August 15, 2019 as a pharmacology researcher with Apotex Inc.
 
@@ -278,3 +294,55 @@ tags:
         - [x] Yes
         - [ ] No
         > They are likely entitled to 5 points under paragraph **83(1)(d)**.
+
+??? note "Knowledge Check 4.3: Canadian Experience Class Regulations"
+
+    1. Seri Yoon, a citizen of South Korea, wishes to apply to come to Canada under the Canadian Experience Class, based on their experience working in Manitoba as a water treatment plant operator (TEER 2) over the past year. Seri achieved the following scores under the IELTS: reading, 4.5; writing, 5.0; listening, 4.5; speaking, 4.5. Will their application be accepted?
+        - [ ] Yes
+        - [x] No
+        > Because their experience is in an occupation classified as TEER 2 in the NOC, Seri must attain Canadian Level Benchmark (CLB) 5 in each language skill area. Seri's listening and speaking scores are 4.5 which is equivalent to CLB 4, which is below the minimum benchmark.
+
+    2. True or false: Past studies in Canada is among one of the criteria that can lead to qualifying for the Canadian Experience Class.
+        - [ ] True
+        - [x] False
+        > While previous studies were once a basis for acceptance under the Canadian Experience Class, that possibility was removed in 2013.
+
+    3. *Patil v Canada (Citizenship and Immigration)*, [2020 FC 495](http://canlii.ca/t/j6mxv){:target="\_blank"} involves a similar issue to the one at issue in Qin. The immigration officer in Patil also refused an application after taking into account the wages of the applicant, a citizen of India. Justice Ahmed, however, found in his case that the officer had erred.
+
+        Please turn to *Patil* and answer the following question: Given the authority in Qin, did Justice Ahmed err in reaching his conclusion?
+        - [ ] Yes
+        - [x] No
+        > No. In *Patil*, Justice Ahmed allowed the judicial review on the basis that the officer's decision was procedurally unfair. The officer's notes revealed that the applicant's wages gave rise to credibility concerns. When there are credibility concerns (see para 41) or an "overall skepticism" regarding an applicant's claim, the applicant must be given notice and an opportunity to respond. (In any event, in Qin, it was agreed that there had been a breach of procedural fairness quite apart from the substantive issue determined by the Federal Court of Appeal.)
+
+    4. In *Qin v Canada (Citizenship and Immigration)*, 2013 FCA 263, Justice Evans found that the salary paid to an applicant for employment in Canada is a criterion for acceptance under the Canadian Experience Class.
+        - [ ] True
+        - [x] False
+        > At para 48 of Qin, Justice Evans writes:
+        > it is not a statutory condition to the grant of a visa under the CEC program that an applicant's wages must be consistent with the prevailing local wage rates for the occupation in which the applicant is being assessed. Wages are simply one of the many considerations that may be relevant to determining whether a CEC applicant satisfies the prescribed work experience requirement.
+        > In other words, **wages are relevant, but they are not a criterion for acceptance**.
+
+    5. Eligibility for permanent residence through the Canadian Experience Class is determined by work experience and education credentials.
+        - [ ] True
+        - [x] False
+        > Though formerly education was taken into account, access to permanent residence through the Canadian Experience Class is determined entirely by previous work experience in Canada and language ability.
+
+    6. Based on Justice Ahmed's reasons in Patil, would it have been open to the officer to reject the application on the basis that the letter did not establish that the applicant had sufficient qualifying work experience?
+        - [ ] Yes
+        - [x] No
+        > No. Justice Ahmed notes that **the officer did not find that the employment letter "did not accurately or sufficiently list the required duties of [the applicant's**] claimed position[.]" This distinguishes the case from Qin, where there were doubts about the sufficiency of the applicant's employment letter.
+
+    7. In *Qin v Canada (Citizenship and Immigration)*, 2013 FCA 263, Justice Evans found that when the Officer was assessing probative evidence before them, they must rely on express statutory authority to do so.
+        - [ ] True
+        - [x] False
+        > **Express statutory authority is not required to enable administrative decision-makers to consider evidence** that has probative value with respect to a question entrusted to them. It is normally implicit in the grant of legal authority to decide a question of fact that the decision-maker may consider evidence relevant to making that decision.
+
+    8.  In *Patil v Canada (Citizenship and Immigration)*, 2020 FC 495, why did the court find that the Officer breached procedural fairness?
+        - [x] The Officer was skeptical of the Applicant's credibility, and the Applicant was therefore owed an opportunity to address the Officer's concerns.
+        - [ ] The Officer speculated as to why the Applicant remained at his job position with a low salary.
+        - [ ] The Officer did not consider the Applicant's evidence as a whole.
+        - [ ] The Officer did not come to a reasonable conclusion in light of all the evidence.
+
+    9. True or false:  Eligibility for permanent residence through the Canadian Experience Class is determined by work experience and education credentials.
+        - [ ] True
+        - [x] False
+        > Though formerly education was taken into account, access to permanent residence through the Canadian Experience Class is determined entirely by previous work experience in Canada and language ability.
