@@ -15,9 +15,52 @@ tags:
 
 ## Notes
 
-??? note "Tutorial notes"
+???+ note "Tutorial notes"
 
     - Saturday 9:00am.
+    - CEC -> FSW -> FSTP
+    - CEC: s 87.1(2)
+        - excluded experience:
+            - work while enrolled in full-time studies in canada
+            - self-employed
+            - unauthorized work.
+        - CLB 7 for TEER 0, 1; CLB 5 for TEER 2, 3
+        - ==**No Substituted Evaluation**==
+        - **NOT** for open work permit
+        - Differentiate employee vs self-employed
+            - control or autonomy
+            - own or provide tools and equipment
+            - work personally or sub-contract/hire others to help
+        - Canadian experience class (CEC): [Qualifying work experience](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/experience/qualifying-work-experience.html#toc3){:target="\_blank"}.
+    - FSW: s 75(2)
+        - at least 67 on selection factors grid.
+    - FST: s 87.2(1)
+        - 2 in 5 years work experience
+        - meet the job requirement set by NOC, except for certification
+        - CLB 5 and 4
+        - valid job offer for one year, **OR** a certificate of qualification
+        - work experience under TEER 2 or 3
+        - settlement funds or a valid job offer
+    - Documents:
+        - you don't give any documents, just the necessary. A [sample list](https://lh3.googleusercontent.com/pw/AP1GczNSE0n9SS7dzLi3EfkfyKv50ccPpyshJLMG3A1wssOAla39nEYN9f87mWyG2dLdm9S9QBnvGh7JHJxqqBX8UqjLvsXP6fIlVbi-2OwaNUJQVfIXXqs=w2400){:target="\_blank"}.
+        - document checklist is far from perfect.
+    - Mr. Newton:
+        - not eligible because he doesn't have enough funds
+    - Procedural Fairness
+        - There can be more than one "reasonable" outcome
+        - A "correct" decision is about **law and facts**.
+        - the right to be heard:
+            - opportunity to take part in the process.
+            - concerns be communicated
+            - No PFL: insufficiency
+            - do need PFL
+                - credibility
+                - veracity
+                - authenticity
+        - PFL means the officer is leaning to refuse
+    - GCMS notes takes time, so request more time to respond to the PFL
+    - *Rahimi v. Canada (Citizenship and Immigration)*, [2017 FC 758](https://canlii.ca/t/h5bxl){:target="\_blank"}, the Court reinforced a stricter, legislative interpretation of the Regulations in the awarding of adaptability points under 83(5) of the Regulations.  For example, the court wrote:
+        - “If the marriage does not survive the death of the spouse, an emotional attachment to and among family members cannot be substituted for the legislative requirement of being related by marriage.”
 
 ??? note "Required Reading and websites"
 
