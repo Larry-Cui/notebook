@@ -119,6 +119,40 @@ tags:
             - ==Correctness== is the applicable standard in this case for reviewing the visa officer’s interpretation of IRPR
             - ==reasonableness== is the standard of review of a visa officer’s **findings of fact** and **application of section 87.1 to the facts** of a CEC application
 
+??? note "The Federal Skilled Trades Class Regulations"
+
+    - In contrast to the other two categories seen in this module, however, relatively few people come to Canada each year under the Federal Skilled Trades Class. In 2021, there were only **500** admissions to permanent residence in this category.
+    - The IRPR **s 87.1(1)** limit the trades included in the class to six types, classified according to major, minor and unit groups listed under TEER 2 and 3 of NOC 2021
+    - Subsection **87.2(2)** of the IRPR establishes the Federal Skilled Trades Class
+    - Subsection 87.2(3) of the IRPR sets out the requirements for admission under the Federal Skilled Trades Class.
+        - CLB 5 for speaking and listening and CLB 4 for reading and writing.
+        - paragraph 87.2(3)(b) requires **2 years of full-time** work experience, or the equivalent in part-time work experience, in the **5 years prior** to the application.
+        - The experience must be in one of the groups listed in subsection 87.2(1).
+        - the applicant must have performed the actions in the **lead statement** from the NOC for the specified occupation, as well as a substantial number of the **main duties** and all the essential duties.
+        - s 87.2(3)(c): requires that an applicant meet employment requirements.
+    - Subsection 87.2(5) also requires the applicant to have sufficient settlement funds (unencumbered transferable and available funds) equal to **1/2 the minimum necessary income** for the applicant and their family members, **unless** they have a qualifying offer of employment from up to two different employers to continue in work that they are already authorized to perform in Canada.
+    - Subsection 87.5(4) sets out a power for officers to **substitute** their own evaluation of an applicant’s likelihood of becoming economically established in Canada
+        - In Cabral v Canada (Citizenship and Immigration), [2018 FCA 4](http://canlii.ca/t/hpqtg){:target="\_blank"}
+            - [47] … there is nothing in subsection 87.2(4) of the IRPR that creates a right to the conduct of a substitute evaluation. Rather, the **provision is a permissive one and grants the right to Immigration Officers** (and **not to applicants**) to conduct a substitute evaluation in the prescribed circumstances.
+            - this statement leaves it unclear as to whether an officer is required to consider substituted evaluation if requested by the applicant.
+
+??? note "Procedural Fairness Letters"
+
+    - one aspect of procedural fairness is that an applicant must be made aware of the case they have to meet: see *Akhtar v Canada (Citizenship and Immigration)*, [2019 FC 123](http://canlii.ca/t/hxn8z){:target="\_blank"} at para 19; *Canadian Pacific Railway Company v Canada (Attorney General)*, [2018 FCA 69](http://canlii.ca/t/hrgf2){:target="\_blank"} at para 56.
+        - [19] Justice Rennie, writing for the Federal Court of Appeal in CP, made it clear that **an applicant must be aware of the case to meet in order to have a fair process**.  There, the Federal Court of Appeal clarified that there is an inherent “awkwardness” to “shoehorn” the question of procedural fairness into a standard of review analysis.  Evaluating whether a decision-maker provided a procedurally fair process requires the reviewing court to ask “whether the procedure was fair having regard to all of the circumstances” and “with a sharp focus on the nature of the substantive rights involved and the consequences for an individual, whether a fair and just process was followed” (CP at paras 54–55).  Ultimately, the reviewing court must first determinate **whether the applicant knew the case to meet**, and second, whether he or she had **a full and fair chance to respond** (CP at para 56).
+        - [56] No matter how much deference is accorded administrative tribunals in the exercise of their discretion to make procedural choices, the ultimate question remains **whether the applicant knew the case to meet and had a full and fair chance to respond**. It would be problematic if an a priori decision as to whether the standard of review is correctness or reasonableness generated a different answer to what is a singular question that is fundamental to the concept of justice: **was the party given a right to be heard and the opportunity to know the case against them?** Procedural fairness is not sacrificed on the altar of deference.
+    - This is also reflected in Immigration, Refugees and Citizenship Canada’s [operational instructions on procedural fairness](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/procedural-fairness.html){:target="\_blank"}. It is worthwhile to take note of how these instructions explain this principle:
+        - To ensure that the applicant has a meaningful opportunity to participate, decision-makers must give sufficient notice about any process or interview that could result in a decision on their application and must give the applicant a reasonable opportunity to bring evidence or make arguments supporting their application. Decision-makers should tell applicants **which documents may be required in order to address concerns**. Sufficient information should be included on interview invitation letters to allow applicants to prepare. If any additional concerns arise from an interview, decision-makers should provide the applicant with an opportunity to address those concerns either at the interview or subsequent to the interview, through a procedural fairness letter.
+        - The right to be heard requires that an applicant be given **a meaningful opportunity to take part in the process**. This requirement also applies in regard to information received from third parties, including IRCC partners. While this does not mean that the decision-maker must provide the physical documents consulted during the decision-making process (*El Maghraoui v Canada (Citizenship and Immigration)*, [2013 FC 883](http://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/62526/index.do?r=AAAAAQAJYXVndXN0IDIwAQ){:target="\_blank"}), there is a requirement that the **essence of the decision-maker’s concerns be communicated to the applicant** (*Krishnamoorthy v Canada (Citizenship and Immigration)*, [2011 FC 1342](http://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/60187/index.do?r=AAAAAQAOa3Jpc2huYW1vb3J0aHkB){:target="\_blank"}) and that the applicant is advised of the specific provisions of the Act at issue. What is important is that the decision-maker’s concerns are adequately communicated to the applicant, who must then be given a reasonable opportunity to respond.
+    - The purpose of procedural fairness letters is described in *Bui v Canada (Citizenship and Immigration)*, [2019 FC 440](http://canlii.ca/t/hzrhg){:target="\_blank"}:
+        - [29] An officer may put concerns to an applicant by way of a procedural fairness letter. Said letter must contain enough detail to enable the applicant to know the case to meet, meaning that **the applicant is provided with a reasonable understanding of why the officer is inclined to deny the application** (*Bayramov v Canada (Citizenship and Immigration)*, [2019 FC 256](https://canlii.ca/t/hxvtz){:target="\_blank"} at para 15; *Ezemenari v Canada (Citizenship and Immigration)*, [2012 FC 619](https://canlii.ca/t/frt67){:target="\_blank"} at para 11). In other words, an applicant should not be “kept in the dark” about the information upon which an officer may render a decision (*Chawla v Canada (Citizenship and Immigration)*, [2014 FC 434](https://canlii.ca/t/g6sdg){:target="\_blank"} at para 19). (Emphasis added.)
+    - Procedural fairness letters are less common in applications for permanent residence under the Economic Class, as compared to other types of applications.
+    - *Kapoor v Canada (Citizenship and Immigration)*, [2017 FC 1002](http://canlii.ca/t/hnsdw){:target="\_blank"}
+        - On judicial review, the decision was challenged in part on the basis that the visa officer did not properly discuss **all** the evidence submitted.
+        - [19] … **A visa officer does not need to mention every piece of evidence** in his or her reasons for a decision; and, moreover, it is assumed that an officer weighed and considered all of the evidence before him or her, unless the contrary is shown.
+        - The *Kapoor* decision, therefore, shows that a failure to **respond effectively** to a procedural fairness letter may lead to a refusal of an application.
+        - [A sample of PFL](https://lh3.googleusercontent.com/pw/AP1GczMkOGye5h4atIk2Tt7np6BKHlTyOm2_Q7ML0nhg0dm5XSf8IcxnVNtu37BoYzn5R8qR_lyRMlJWWqxUjLptRErOFlEuvzys3JWpb4hh4CYidikGApk=w2400){:target="\_blank"}.
+
 ## Quizzes
 
 ??? note "Knowledge Check 4.1: Federal Skilled Worker Class Regulations"
@@ -346,3 +380,88 @@ tags:
         - [ ] True
         - [x] False
         > Though formerly education was taken into account, access to permanent residence through the Canadian Experience Class is determined entirely by previous work experience in Canada and language ability.
+
+??? note "Knowledge Check 4.4: The Federal Skilled Trades Class Regulations"
+
+    1. Pedro, a construction electrician with trade certification in New Brunswick, was invited to apply for permanent residence under the Federal Skilled Trades Class on June 12, 2021. He submitted his application on July 30, 2021.
+
+        Pedro is unmarried but he has three adopted children all under the age of 14 from a previous marriage. He has $20,000 available in settlement funds.
+
+        Prior to submitting his application, Pedro had been working in New Brunswick for two different employers on a work permit that expired on June 30, 2021. The work permit was backed by a positive LMIA and he had applied for an extension prior to its expiry.
+
+        He now has an offer of employment from one of the employers listed on his work permit for a 1-year, full-time position beginning on the date he receives his permanent residence.
+
+        You are an immigration officer assessing his application for a permanent resident visa under the Federal Skilled Trades Class.
+
+        Do these facts give grounds for refusing his application?
+        - [ ] Yes
+        - [x] No
+        > Although Pedro's work permit has expired, he would still be authorized to work at the time under IRPR, s 186 the visa is issued because he applied for an extension. Therefore, **he has a qualifying job offer under IRPR, s 87.2(d)(ii)**. Further, although he does not have sufficient settlement funds for himself and his family members, his qualifying job offer exempts him from the requirement of showing he has sufficient settlement funds. (Note that his adopted children still count as dependent children under the definition found in s 1 of the IRPR.)
+
+    2. Binyamin is a gas fitter with trade certification in the Northwest Territories, where he currently works. He has a wife and two daughters, along with $8,125 in unencumbered, transferable and available funds. He has secured offers of employment from 3 different employers , for 5 months' of full-time work each.
+
+        You are an immigration officer assessing his application for a permanent resident visa under the Federal Skilled Trades Class. Do these facts give grounds for refusing his application?
+        - [x] Yes
+        - [ ] No
+        > Binyamin does not have sufficient settlement funds, and he does not have a qualifying job offer that would relieve him of the obligation to have such funds. **His job offer does not qualify because it is from 3 employers**, whereas the IRPR state that the offer may come from "**up to two" employers**.
+
+    3. Neal is a water well driller in Manitoba. He was invited to apply for permanent residence under the Federal Skilled Trades Class on April 12, 2022. He submitted his application on May 25, 2022.
+
+        Neal was divorced, and he has legal custody of his triplets, who turned 7 in early 2022. Neal's current girlfriend has a 5-year-old son from her previous marriage. He has $8,000 available in settlement funds.
+
+        Prior to submitting his application, Neal had been working for his employer on an LMIA based work permit that expired on May 30, 2021. His employer has been very satisfied with his job performance, and Neal had applied for an extension prior to its expiry, again under the LMIA category.
+
+        Neal's employer provided him with an offer of employment for a two-year, full-time position beginning on the date he receives his permanent residence.
+
+        You are an immigration officer assessing his application for a permanent resident visa under the Federal Skilled Trades Class. Do these facts give grounds for refusing his application?
+        - [ ] Yes
+        - [x] No
+        > Neal's LMIA work permit had not expired before he submitted his application for permanent residence. Because he applied for an extension prior to his work permit's expiry, he would still be authorized to work at the time his permanent resident visa would be issued under IRPR, s 186. Therefore, he has a qualifying job offer under IRPR, s 87.2(d)(ii). Further, although he does not have sufficient settlement funds for himself and his children (Neal's girlfriend is not yet his spouse or common-law partner, and therefore neither she nor her son does not count as his family members at the time of application), his **qualifying LMIA based job offer exempts him from the settlement funds requirement**.
+        > Water well drillers qualify for FSTP as they are also NOC 72501 - 72 - Technical trades.
+
+    4. Robert is a crane operator. Can he apply to the Federal Skilled Trades Class under that occupation?
+        - [x] Yes
+        - [ ] No
+        > Crane operators fall within NOC unit Code 72500, under Major Group 72 – Technical trades and transportation officers and controllers. That is one of the major groups included in the Federal Skilled Trades Class.
+
+    5. Antón is a denturist. Can he apply to the Federal Skilled Trades Class under that occupation?
+        - [ ] Yes
+        - [x] No
+        > **Denturists** fall within Major Group 32 – Technical occupations in health in the National Occupational Classification (NOC). Occupations in that major group are not admissible under the Federal Skilled Trades Class.
+
+    6. The Federal Skilled Trades Class differs from the Federal Skilled Worker Class and the Canadian Experience Class in that applicants have to show they meet the employment requirements, other than provincial certification, for the occupation identified in their application.
+        - [ ] True
+        - [x] False
+        > Neither FSW nor CEC demand that applicants show they meet the employment requirements.
+
+    7. Arton is an excavator operator in Saskatoon. He has a son and a daughter with his wife, along with $38,475 in unencumbered, transferable and available funds. Saskatoon recently approved a new development plan that involves building several condo buildings. He has secured offers of employment from 3 different condo developers, for 4 months' of full-time work each.
+
+        You are an immigration officer assessing his application for a permanent resident visa under the Federal Skilled Trades Class. Do these facts give grounds for refusing his application?
+        - [x] Yes
+        - [ ] No
+        > Arton's job offer does not qualify because it is from 3 employers, whereas the IRPR state that the offer may come from "**up to two**" employers.
+
+    8. Nilima is a construction manager. Can she apply to the Federal Skilled Trades Class under that occupation?
+        - [ ] Yes
+        - [x] No
+        > **Construction managers** are described by NOC Unit Code 70010, under Major Group 70 – Middle management occupations in trades and transportation. That Major Group is not included in the Federal Skilled Trades Class.
+
+    9. Victoria is a railway brakewoman. Can she apply to the Federal Skilled Trades Class under that occupation?
+        - [x] Yes
+        - [ ] No
+        > Brakemen/women fall within NOC unit Code **73311**, under Major Group 73 – General trades. That is one of the major groups included in the Federal Skilled Trades Class.
+
+    10. Jason is a curator. Can he apply to the Federal Skilled Trades Class under that occupation?
+        - [ ] Yes
+        - [x] No
+        > **Curators** are described by NOC Unit Code 51101, under Major Group 51 – Professional occupations in art and culture. This Major Group is not included in the Federal Skilled Trades Class.
+
+    11. Andrea is a registered nurse. Can she apply to the Federal Skilled Trades Class under that occupation?
+        - [ ] Yes
+        - [x] No
+        > **Registered nurse fall within Major Group 31** in the National Occupational Classification (NOC) matrix. Occupations in that major group are not admissible under the Federal Skilled Trades Class.
+
+    12. Alice is applying for permanent residence under the Federal Skilled Trades Class. She has been a railway engineer employed full-time with GO transit in the Greater Toronto Area since early 2019. It is now 2021. Her managers at GO have been very happy with her job performance and will extend her contract under and LMIA until 2023. She can meet the requirement per paragraph R87.2(3)(d).
+        - [x] True
+        - [ ] False
+        > Alice has an offer of employment for continuous, full-time work in Canada for a total of at least one year, which is one of the requirements under paragraph R87.2(3)(d). **Railway engineers** are described in NOC Unit Code **73310**, and so fall within a qualifying major group 73 - General trades.
