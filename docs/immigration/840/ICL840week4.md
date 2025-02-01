@@ -76,9 +76,36 @@ tags:
         - A Canadian **educational credential**, or a foreign diploma along with an equivalency assessment that is less than five years old.
         - Either transferable and available **funds**, unencumbered by debt, amounting to 1/2 of the minimum income necessary to support the applicant’s family or points for **arranged employment** under three defined situations.
 
+??? note "FSW Class: The Points System"
+
+    - The starting point for understanding the regulatory point system for the Federal Skilled Worker Class is the list of selection criteria set out in paragraph **76(1)(a)** of the IRPR.
+    - **Six** criteria: education, proficiency in an official language, experience, age, arranged employment, and adaptability.
+    - Subsection **76(2)** says that the Minister must fix the number of points based on **three factors**: the number of skilled worker applications currently being **processed**, the number of skilled workers **projected** to become permanent residents, and the **potential** for the establishment of skilled workers in Canada.
+    - For many years, the minimum number of points has been fixed at ==67==.
+        - Education: s 78
+        - Language: s 79
+        - Experience: s 80 (must be in an occupation listed in TEER Category 0,1, 2 or 3)
+        - Age: s 81
+        - Arranged employment: ss 82, 83
+            - to receive points, the employment offer must fall within one of four different categories:
+                - First, paragraph 82(2)(a) of the IRPR applies in the case of applicants who are in Canada
+                - Second, paragraph 82(2)(b) of the IRPR also applies to cases where an applicant is in Canada
+                - Third, paragraph 82(2)(c) of the IRPR covers cases where an applicant is not authorized to work in Canada on the date of their application but has received an offer that meets the definition of “arranged employment” and which has been approved by an immigration officer based on a positive LMIA
+                - Finally, paragraph 82(2)(d) of the IRPR awards points where the applicant is working in Canada either under a valid work permit or they are authorized to work in Canada without a permit
+        - Adaptability: s 83
+
+??? note "Exploring Substituted Evaluation"
+
+    - The criteria used in assigning points under the points system to see whether an applicant [obtains the pass mark of 67 points](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html){:target="\_blank"}.
+    - Circumstances for officer’s substituted evaluation. Subsections **76(3) and (4)** of the IRPR state:
+        - (3) Whether or not the skilled worker has been awarded the minimum number of required points referred to in subsection (2), an officer may **substitute** for the criteria set out in paragraph (1)(a) their evaluation of the likelihood of the ability of the skilled worker to become economically established in Canada if the number of points awarded is not a sufficient indicator of whether the skilled worker may become economically established in Canada.
+        - (4) An evaluation made under subsection (3) requires the **concurrence** of a second officer.
+    - IRCC’s [online operational instructions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/federal-skilled-workers/making-selection-decision.html){:target="\_blank"} for substituted evaluation decisions provide guidance to officers on how to make substituted evaluation decisions under subsections 76(3) and (4) of the IRPR.
+    - Now comes the tricky part: since the implementation of Express Entry in January 2015, all new FSW applications have been processed in that system, with a set of Ministerial Instructions. You will see in the **Departmental guidance** above that substituted evaluation does **not apply** to Ministerial Instructions.
+
 ## Quizzes
 
-???+ note "Knowledge Check 4.1: Federal Skilled Worker Class Regulations"
+??? note "Knowledge Check 4.1: Federal Skilled Worker Class Regulations"
 
     1. Joan has been invited to apply for permanent residence under the Federal Skilled Worker Class. She has arranged employment to work in Toronto as a mathematician and is currently in Toronto under a new work permit that was issued based on a positive Labour Market Impact Assessment, or LMIA. She is married, with a child (12 years old) from a previous marriage. Her husband, Paul, has three children (ages 14, 16, and 20), also from a previous marriage. Pauls' ex-wife, Ann, lives in Toronto, where Joan and Paul are planning to live. Ann is now married to Gemma. Together, Ann and Gemma have adopted two children (ages 4 and 6). Gemma has a daughter from a previous marriage who is 24 and who has always relied on her financially and continues to do so. Gemma cannot get a job because she is a recovering drug addict. What amount of settlement funds must Joan prove she has available to her?
         - [ ] C$31,638
@@ -116,3 +143,138 @@ tags:
         - [ ] The immigration officer improperly fettered her discretion by imposing a requirement (a verification letter from a financial institution) that is not found in the Immigration and Refugee Protection Act.
         - [x] It is reasonable to base a decision on a policy requiring additional verification by a financial institution of an applicant's available funds. No specific regulatory authorization of this requirement is necessary.
         - [ ] Settlement funds may not include amounts invested in mutual funds.
+
+    6. Paolo wants to come to Canada as a permanent resident to live in Trois-Rivières. He asks you if he can apply to do so under the Federal Skilled Worker Class. What do you answer?
+        - [ ] Yes
+        - [x] No
+        > No. It is a requirement of the **Federal Skilled Worker Class** that you do **not intend to reside in Quebec**.
+
+    7. True or false: The Court in Gugliotti v Canada (Minister of Citizenship and Immigration), 2017 FC 71, held that when a visa officer is requesting more supporting documents from the Applicant, they must obtain regulatory approval before asking for further and better verification.
+        - [ ] True
+        - [x] False
+
+    8. Jean is a citizen of France. He has been invited to apply for permanent residence under the Federal Skilled Worker Class. He is married to Saul, a citizen of the United Kingdom. Jean has a biological daughter (Audrey, 8 years old) from a previous marriage. Saul has a biological son (Mack, aged 12) also from a previous marriage.
+
+        Saul's ex-wife, Anita, is a Canadian citizen and lives in Montreal, although Jean and Saul are planning to live in Edmonton. Anita is now married to Herbert, also a Canadian citizen. Anita and Herbert have no children together, but Herbert has a 28-year-old biological daughter, Barbara, from a previous marriage. Barbara is a Canadian citizen, but she lives and works in New York City with her boyfriend; they are both highly successful lawyers.
+
+        Jean can provide a letter showing that he has $23,921 in unencumbered funds. Does he have sufficient settlement funds for his application to be accepted?
+
+        - [ ] Yes
+        - [x] No
+        > Answer: No. Since there is no mention of arranged employment, Jean must show he has **1/2 the minimum necessary income necessary to support his family members** (IRPR, s **76(1)(b)(i)**). His family members include himself and his spouse and their dependent children (IRPR, s 1(3)). Here that means that he must show he has 1/2 the minimum necessary income to **support 4 people** (himself, Saul, and their two biological children). According to the table provided by IRCC, that means he needs $27,297 in settlement funds (as of 28 May 2024). This answer may change in subsequent years, since the low-income cut-offs are recalculated each year by Statistics Canada.
+
+    9. Marco has been working in Guelph, Ontario for 2 years as a barber. He is a French citizen and wants to become a permanent resident and move to Montreal. He thinks he can transition smoothly given his fluency in French. He asks you if he can apply under the Canadian Experience Class given his plans. What do you answer?
+        - [ ] Yes
+        - [x] No
+        > No. It is a requirement of the Canadian Experience Class that you do **not intend to reside in Quebec**.
+
+    10. Your client, Hyun Bin, has an offer to come to Canada to work as a financial auditor to work for Deloitte. The position will be full-time and will last at least one year. He has just graduated from his accounting program. Prior to returning to school, he worked as an accounting clerk (NOC 14200) for 6 of the past 10 years in South Korea. Does Hyun Bin's work experience qualify him to apply through the Federal Skilled Worker Class ?
+        - [ ] Yes
+        - [x] No
+        > No. He does not have 1 year of experience in a high skilled NOC in the past 10 years, as required by IRPR, s **75(2)(a)**. Accounting Clerk is a TEER level 4 occupation.
+
+    11. Tyson has been invited to apply for permanent residence under the Federal Skilled Worker Class. He has arranged employment as a mechanical engineer at the Toronto Transit Commission. He has received a positive Labour Market Impact Assessment, however is not yet working in Canada. Ayson recently married Irina, and they are expecting a baby in three months. Irina also has custody of her 8-year-old daughter from a previous marriage. What amount of settlement funds must Ayson prove he has available to him?
+        - [ ] C$34,299
+        - [x] C$22,483
+        - [ ] C$19,836
+        - [ ] None
+        > Despite the fact that Tyson has arranged employment, he still needs to show that he has sufficient settlement funds, because **he is not currently holding a work permit in Canada**. Under paragraph **76(1)(b)** of the IRPR, he either needs to show that he has sufficient settlement funds OR that he is awarded points under ss **82(2)(a), (b) or (d)** of the IRPR for arranged employment as defined in ss 82(1), in Canada.
+
+???+ note "Knowledge Check 4.2: Federal Skilled Worker Class - The Points System"
+
+    1. Your client, Yibo Wang, is a Chinese citizen who has been working in Canada for his employer since August 15, 2019 as a pharmacology researcher with Apotex Inc.
+
+        His work permit did not require an LMIA because he held an open work permit based on his spouse's high skilled employment in Canada. He has recently left Apotex for Teva Pharmaceuticals, which offered him a better position with higher pay.
+
+        He wants to apply for permanent residence, can he get points for arranged employment?
+        - [ ] Yes
+        - [x] No
+        > Answer: No. This scenario is **not described in paragraph 82(2)** of the IRPR. He holds an open work permit.
+
+    2. Your client is an American citizen who has been working in Canada for her employer since September 1, 2021 as a consumer advisor under a LMIA-backed work permit. She wants to apply for permanent residence and her employer is willing to extend her a job offer of continuous, full-time employment of at least one year. It is now August 15, 2022. If she files her application now, can she receive points for arranged employment?
+        - [x] Yes
+        - [ ] No
+        > Yes. Because **her work permit was based on a positive LMIA, there is no requirement that she have worked for her employer for one year**. Therefore, she can receive points for arranged employment under paragraph 82(2)(a) and EE MI section 29.
+
+    3. Your client's common-law partner's older sister is a permanent resident of Canada living in Winnipeg. Is your client entitled to points for adaptability under the FSW points system?
+        - [x] Yes
+        - [ ] No
+        > Answer: Yes. They are likely entitled to 5 points under paragraph **83(1)(d)**.
+
+    4. Your client is a Mexican citizen who has been working in Canada for his employer since December 15, 2019 as a civil engineer under a work permit for which an LMIA was not required because the position is covered by the CUSMA. He has received a job offer to continue in the position with the same employer. It is now January 15, 2021. If he files his application now, can he receive points for arranged employment?
+        - [x] Yes
+        - [ ] No
+        > Answer: Yes. Under paragraph **82(2)(b)** of the IRPR, **an applicant must have accumulated at least 1 year of continuous, full-time employment** from the employer who has made them an offer in order to receive points for arranged employment. This client has just passed the 1-year mark.
+
+    5. Your client's spouse wrote the Test d'évaluation de français pour le Canada and results were issued to her on 1 September 2019. Her scores were as follows: 130 for reading, 226 for writing, 145 for listening and 120 for speaking. Can your client claim adaptability points under the FSW points system based on these test scores?
+        - [ ] Yes
+        - [x] No
+        > Answer: No. The 120 score for speaking is below the required threshold of benchmark level 4 under the Niveaux de compétence linguistique canadiens. Also, the results are now more than 2 years old.
+
+    6. Your client is an Armenian citizen who has been working in Canada for his employer since September 1, 2021 as a biomedical researcher under a work permit for which an LMIA was not required because his job creates economic benefits for Canadians. He wants to apply for permanent residence but also change employers. If he secures an offer from someone else, can he get points for arranged employment?
+        - [ ] Yes
+        - [x] No
+        > Answer: No. This is the scenario described in paragraph **82(2)(b)** of the IRPR. However, to get points for arranged employment under 82(2)(b), he has to have accumulated at least **one year of full-time work** experience over a continuous period of work for the employer also providing him the full-time job offer (see IRPR, s. 205(a) and s. 82(2)(b)(iii)) and EE MI section 29.
+
+    7. One year ago, your client, who has just turned 18 years old, came to Canada for a 4-week exchange program at a local high school, during which she also followed a short intensive program at a nearby university. This program was designed to attract high school students to study at Canadian universities. Is she entitled to points for adaptability under the FSW points system?
+        - [ ] Yes
+        - [x] No
+        > This scenario is not covered by any of the possibilities under IRPR, s 83. The closest fit, paragraph **83(1)(b)**, **requires at least 2 academic years** in Canada.
+
+    8. Your client, Vincenzia Pomadora, is an Italian citizen who has been working in Canada for her employer since February 1, 2020 as an actuary under a LMIA-backed work permit.
+
+        She wants to apply for permanent residence and her employer has extended a job offer of continuous, full-time employment. She will be under probation on an initial contract for 6 months, after which the contract will be renewed on an indeterminate basis.
+
+        It is now July 15, 2020. If she files her application now, is she likely to receive points for arranged employment?
+        - [ ] Yes
+        - [x] No
+        > Because her contract must be renewed after 6 months, the job offer will likely **not be construed as an offer for 1-year**'s continuous, full-time employment.
+
+    9. Your client is an American citizen who has been working in Canada for her employer since April 1, 2022 as a consumer advisor (TEER 1) under a LMIA-backed work permit.
+
+        She wants to apply for permanent residence and her employer is willing to extend her a job offer of continuous, full-time employment. She will however be under probation on an initial contract for 9 months, after which contract will be renewed on an indeterminate basis.
+
+        It is now September 15, 2022. If she files her application now, is she likely to receive points for arranged employment?
+        - [ ] Yes
+        - [x] No
+        > Because her contract must be renewed after 9 months, the job offer will likely **not be construed as an offer for 1-year**'s continuous, full-time employment.
+
+    10. Your client, Orisa Robertson is a British citizen who has been working in Canada for her employer since September 12, 2020 as a nanotech scientist under a LMIA-backed work permit. She wants to apply for permanent residence and her employer is willing to extend her a job offer of continuous, full-time employment of at least 1 year. It is now June 30, 2021. If she files her application now, can she receive points for arranged employment?
+        - [x] Yes
+        - [ ] No
+        > Because her work permit was **based on a positive LMIA**, there is **no requirement that she have worked for her employer for 1 year**. She can receive points for arranged employment under paragraph 82(2)(a).
+
+    11. Five years ago, your client, Yiyun Li, finished a 3-year program at George Brown College's culinary arts program. She is now applying from China for permanent residence under the Federal Skilled Worker (FSW) Class. Is she entitled to points for adaptability under the FSW points system?
+        - [ ] Yes
+        - [x] No
+        > She is likely entitled to 5 points under IRPR, s 83(1)(b)
+
+    12. Your client's common law partner wrote the IELTS and has CLB 7 for all language skill areas. Can your client claim adaptability points under the FSW points system based on these test scores?
+        - [x] Yes
+        - [ ] No
+        > The client is entitled to 5 points as their common law partner scored higher than CLB 4 for each of the four language skill areas. See IRPR, s 83(1)(a).
+
+    13. Your client is an American citizen who has been working in Canada for his employer since September 1, 2021 of last year as an engineer under a work permit for which an LMIA was not required because the position is covered by the CUSMA. He has received a job offer to continue in the position with the same employer. It is now August 15, 2022. If he files his application now, can he receive points for arranged employment?
+        - [ ] Yes
+        - [x] No
+        > Under paragraph 82(2)(b) of the IRPR and EE MI section 29, an applicant must have accumulated at least 1 year of continuous, full-time employment from the employer who has made them an offer in order to receive points for arranged employment. A CUSMA work permit is a IRPR s. 204 work permit.
+
+    14. Your client's former stepson, the child of his ex-wife, lives in Whitehorse. Is your client likely to be awarded points for adaptability under the FSW points system?
+        - [ ] Yes
+        - [x] No
+        >  "Child" is not defined in the IRPR, however "dependant child" is defined in terms of either biological or adopted children. The former stepson does not fall into either category.
+
+    15. 20 years ago, your client studied architecture for three years at McGill University. She left without completing her degree and never returned to her architecture studies. She is now applying from Argentina for permanent residence under the Federal Skilled Worker (FSW) Class. Is she entitled to points for adaptability under the FSW points system?
+        - [x] Yes
+        - [ ] No
+        >  She is likely entitled to 5 points under paragraph **83(1)(b)**. However, to be sure we need to know if she pursued her studies **full-time** and whether she remained in "good academic standing as defined by the institution."
+
+    16. Seven years ago, your client worked (a citizen of Argentina) in Canada for two weeks as a youth volunteer during the Pope's visit to Toronto. Is he entitled to points for adaptability?
+        - [ ] Yes
+        - [x] No
+        > This scenario is not covered by any of the possibilities under IRPR, s 83.
+
+    17. Your client's common-law partner's older sister is a permanent resident of Canada living in Winnipeg. Is your client entitled to points for adaptability under the FSW points system?
+        - [x] Yes
+        - [ ] No
+        > They are likely entitled to 5 points under paragraph **83(1)(d)**.
