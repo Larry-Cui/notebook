@@ -18,6 +18,22 @@ tags:
 ??? note "Tutorial notes"
 
     - Sunday 9:00am.
+    - A63 Right to appeal — visa refusal of family class, eligibility to appeal to IAD.
+    - A 182(1): In conducting an inquiry, the judge is not bound by any legal or technical rules of evidence and may receive, and base a decision on, evidence presented in the proceedings that the judge considers credible or trustworthy in the circumstances of the case.
+    - A 175(1): The Immigration Appeal Division, in any proceeding before it,
+        - (a) must, in the case of an appeal under subsection 63(4), hold a hearing;
+        - (b) is not bound by any legal or technical rules of evidence; and
+        - (c) may receive and base a decision on evidence adduced in the proceedings that it considers credible or trustworthy in the circumstances.
+    - *de novo*: "anew," "from the beginning," or "afresh."
+    - credibility (source), veracity(honest witness), reliability(accurate)
+    - Probative value: to what degree is this information useful in answering the question?
+    - Burden of proof rests with the appellant:
+        - s 63(1)
+        - s 63(4)
+        - s 67(1)
+    - Burden rests with the Minister, in a removal order appeal
+        - where the order was made by the ID under s45(d)
+        - subject of the section 44 report is a PR
 
 ??? note "required reading"
 
@@ -43,6 +59,7 @@ tags:
             - The **RPD** and the **RAD** apply this standard for assessments of a well-founded fear of persecution under section **96** of the IRPA. (hard to claim as a refugee)
     - a “Good” evidence decision: Wang v Canada (Citizenship and Immigration), [2018 CanLII 132834 (CA IRB)](http://canlii.ca/t/hxsrl){:target="\_blank"}.
     - a “Bad” evidence decision: Laskey v Canada (Citizenship and Immigration), [2019 CanLII 130863 (CA IRB)](http://canlii.ca/t/j5l54){:target="\_blank"}.
+    - 30 days to appeal to IAD
 
 ??? note "Q&A with a former IRB Member"
 
