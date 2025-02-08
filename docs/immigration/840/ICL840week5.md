@@ -18,6 +18,32 @@ tags:
 ??? note "Tutorial notes"
 
     - Saturday 9:00am.
+    - PNP: EE
+        - candidate initiates PNP application, EE stream
+        - Province initiate through notification of interest
+    - PNP: non-EE,
+        - apply to PNP and upon nomination, apply for PR online
+    - R 87(1),(2) and (3)
+    - how long to reside in the province?
+        - When receive a PR, reside in province
+        - After PR for about one year, free to go anywhere
+    - PNP: everything locked in when you apply to the province
+    - PNP-EE: membership of PNP class, admissibility, CEC/FWS/FST, at time of ITA and e-application, meets MEC and qualifications to support their CRS (A 11.2).
+    - IRCC shall admit Quebec nomination as long as they are not inadmissibility.
+    - AIP:
+        - Permanent January 2022, a federal program (R 87.3)
+        - Provincial endorsement certificate and intention to reside
+        - one year work experience, or international graduated
+        - language and education requirements
+        - 3 steps:
+            - provincial employer designation
+            - provincial endorsement application
+            - online PR application to IRCC
+    - Assignment 3:
+        - supporting documents list (not count down to words)
+        - memo
+        - include contact information
+        - BCEE, CEC requirements are met
 
 ??? note "Required Reading and websites"
 
