@@ -18,6 +18,26 @@ tags:
 ??? note "Tutorial notes"
 
     - Sunday 9:00am.
+    - right of appeal: A 62
+    - A 64(1): no appeal for inadmissibility:
+        - security
+        - human rights
+        - serious criminality
+    - A 65: no H&C unless
+        - FN is member of family class
+        - sponsor is within the meaning of the regulations
+    - **Notice of Appeal**: s 13 IAD Rules
+        - to file an appeal of a decision, a person must provide to the division a notice of appeal with in the case of a sponsorship appeal, the officer's decision and the written reasons, if any, for the refusal.
+    - Time limit: s 16
+        - 30 days
+    - *Nava Aguilar v. Canada (Citizenship and Immigration)*, [2024 FC 1714 (CanLII)](https://canlii.ca/t/k7jln){:target="\_blank"}
+        - [16] On the basis of the evidence before me, I find that the RAD communicated the decision to the applicant’s former counsel on July 18, 2023. In the absence of any evidence to the contrary or an allegation of ineffective assistance on the part of former counsel, I find that the decision was also communicated to the applicant on that date.
+    - A 72(2)(a): **judicial review may not be made until right of appeal is exhausted.**
+    - A 72(2)(b): 15 days for JR in Canada 60 days for outside Canada.
+    - 18.1(3): quash the decision and refer back fro determination.
+    - ADR: selected by the IAD, counsel can request ADR.
+        - lower threshold: *Jugpall v Canada (Citizenship and Immigration)*, [1999 CanLII 20685 (CA IRB)](https://canlii.ca/t/gmg5f){:target="\_blank"}.
+        - Pros: save time, expenses
 
 ??? note "required reading"
 
