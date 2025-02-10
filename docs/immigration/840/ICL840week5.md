@@ -261,6 +261,25 @@ tags:
                 - (1) The job was not advertised for long enough. On page 52 of the Program Guide, it states that “For NOC Skill Type 0 or NOC Skill Level A occupations (based on the National Occupational Classification), recruitment advertisement must be for at least **14 days**.”  Here the advertisement was for 1 week, or 7 days. Therefore, I would advise the client that the employer must advertise the position for longer before making the offer if they want the candidate to be nominated.
                 - (2) Further, the **salary** offer is outside the pay range posted in the job offer. That suggests that Mr. Hidalgo-Muniz is being underpaid. I would advise the client that the salary offered must be $23/hour or higher.
 
+??? note "The Quebec Economic Classes"
+
+    - [1991 Canada–Québec Accord relating to Immigration and Temporary Admission of Aliens](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/agreements/federal-provincial-territorial/quebec/canada-quebec-accord-relating-immigration-temporary-admission-aliens.html){:target="\_blank"} remains the instrument defining the different roles of the federal and Quebec governments.
+    - The key provision is section 12 of the Accord, which stipulates that:
+        - Québec has **sole responsibility** for the selection of immigrants destined to that province and Canada has sole responsibility for the admission of immigrants to that province.
+        - Canada shall **admit** any immigrant destined to Québec who meets Québec’s selection criteria, if the immigrant is not in an inadmissible class under the law of Canada.
+        - Canada shall **not admit** any immigrant into Québec who does not meet Québec’s selection criteria.
+    - subsection 86(2) imposes the simplest admissions criteria of any federal class. Namely, a foreign national is a member of the Quebec Skilled Worker Class if they
+            - Intend to reside in the province of Quebec, and
+            - Are named in a *Certificat de sélection du Québec*, or CSQ.
+    - Skilled Worker Program established in the [***Québec Immigration Regulation***](http://www.legisquebec.gouv.qc.ca/en/showdoc/cr/I-0.2.1,%20r.%203){:target="\_blank"}.
+        - The Skilled Worker Program is set out in sections 32 and 32.1. Recall that to apply as a regular skilled worker, an applicant must have been **invited** through Quebec’s Arrima Portal.
+        - The new Skilled Worker Selection Program has four streams:
+            - Stream 1: Highly qualified and specialized skills (for TEER 0, 1, or 2 positions)
+            - Stream 2: Intermediate and manual skills (for TEER 3, 4 or 5 positions)
+            - Stream 3: Regulated professions (for positions on the List of Regulated Positions of the Minister)
+            - Stream 4: Exceptional talents (requires an achievement listed on the Minister's list (eg. Canada Research Chair) or an opinion from the Minister's partner in one of the following fields: Strategic economic sectors, research, arts & culture, or sports)
+        - To be accepted, an applicant must get more than 50 points, if they do not have a spouse or a de facto spouse, or 59 points if they do.
+
 ## Quizzes
 
 ??? note "Knowledge Check 5.1: Shared Jurisdiction"
@@ -435,7 +454,7 @@ tags:
         - [ ] False
         > The issuing of an invitation to a nominee is “subject to that [province or territory’s] **overall nomination space**”.
 
-???+ note "Knowledge Check 5.4: British Columbia Provincial Nominee Program"
+??? note "Knowledge Check 5.4: British Columbia Provincial Nominee Program"
 
     1. Your client is an auto assembly worker who is currently employed with Mercedes. He must demonstrate his achievement of Canada Language Benchmark of 4 or higher in each of speaking, listening, reading, and writing to meet the minimum official language competency requirements.
         - [x] True
@@ -498,3 +517,89 @@ tags:
         - [ ] If the applicant has failed to produce supporting identification documents
         - [ ] If the applicant has failed to pay the processing fee for previous application(s)
         > The director may refuse to accept an application for processing on various grounds, which are set out in subsection 3(3) of the BCPIPA.
+
+??? note "Knowledge Check 5.5: Quebec Programs"
+
+    1. Your client, Francis Vergas, is a 28-year-old architect who has completed his bachelors in an approved area of study (4-year program) at Université de Montréal. He has 2 years of work experience and accumulated 1 year of internship experience during his studies. How many points would he be awarded for these experiences?
+        - [ ] 22
+        - [ ] 26
+        - [ ] 30
+        - [x] 32
+        > Francis would receive 32 points overall:  **10 points for his undergraduate degree**, **6 points for his work experience** (both paid work and internship), and **16 points for his age**.
+
+    2. Which of the following can the Minister consider when inviting foreign nationals to apply for selection? (Choose all that apply.)
+        - [x] The foreign national’s training or test score
+        - [x] The foreign national’s ability to successfully settle in Quebec
+        - [x] The foreign national’s occupation
+        - [ ] The foreign national’s endorsement of Quebec values
+
+    3. True or false: For both the English and French language tests, points are awarded equally across each language skill area, with a maximum of 7 points for each area.
+        - [ ] True
+        - [x] False
+        > For French language proficiency, the point system privileges speaking and listening, awarding up to 7 points for each of these skill areas, and only a maximum of 1 point for each of reading and writing. For English language proficiency, more points are available for speaking and listening (2 points each), than for reading and writing (1 point each).
+
+    4. Which of the following characteristic(s) of the Canada-Quebec agreement illustrate the more hands-off approach of the federal government compared to other provinces?
+        - [ ] The Canada-Quebec agreement is the oldest among the agreements between the federal and the provincial and/or territorial governments.
+        - [ ] Quebec must contribute funds to support the processing by federal immigration officers of candidates it has selected.
+        - [x] There is **no power of substituted evaluation** or supplementary restrictions that are present in other provinces’ programs
+        - [ ] Canada must admit any immigrant who meets Quebec’s selection criteria
+
+    5. In the event of a conflict between sections 24.1 and 24.5 of the Québec Immigration Regulation consistent with subsection 12(2) of the IRPA, are those regulatory provisions likely to be deemed unconstitutional?
+        - [ ] True
+        - [x] False
+
+    6. For an employment offer to be validated, which of the following must the applicant satisfy. (Choose all that apply)
+        - [x] The employer has been in business in Quebec for more than one year
+        - [x] The employer has spent reasonable efforts to recruit qualified residents in Quebec and was unable to fill the position
+        - [ ] The employer must have at least 5 full-time employees
+        - [x] The employer must file an application for validation
+
+??? note "Knowledge Check 5.6: The Atlantic Immigration Program"
+
+    1. Your client, John Bradshaw is an owner-operator of his company in Nova Scotia. He wants to become a designated employer in order to bring in talent from Europe, specifically Italy. Due to the nature of his company, all services can be provided remotely to its customers/clients, and therefore, John's company has been set up from his home office. John's company has had a minimum of $300,000 in revenue for the past two taxation years. He is willing to support the costs of settlement services for employees brought in through the program. Can John's company become a designated employer? Please write out your answer, including a reference to the relevant authority.
+        - [ ] Yes
+        - [x] No
+        > John's company cannot become a designated company because **home-based businesses** and businesses located in residential homes may **not be eligible** for designation.
+
+    2. True or false: If a candidate has been residing in the Province for more than 16 months, they are not required to submit a settlement plan as part of the Provincial Endorsement application.
+        - [ ] True
+        - [x] False
+        > **All applicants must provide a settlement plan** even if they are already living in the Province. As per the NS endorsement guidelines: "Applications that do not include a settlement plan completed by an approved immigrant settlement service provider organization will not be processed. Furthermore, the provincial government monitors employer commitments and failure to support access to settlement services as per the settlement plan may result in de-designation."
+
+    3. A Nova Scotia employer wishes to become designated. Which of the following is/are not required in their application form?
+        - [ ] Two-digit code of business section under the NAICS
+        - [ ] Revenue Canada Taxation Number
+        - [x] The designated officer’s home address
+        - [ ] Labour gaps in the company
+
+    4. Your client, Shimizu, a citizen of Japan, has just finished her PhD at Saint Thomas University in New Brunswick. It took her four years to complete her PhD, studying full time. She also occasionally worked as a research assistant for different professors, never more than 5-10 hours per week. Back in her home country, she obtained a bachelor's degree in engineering from Waseda University. She worked as a civil engineer for 3 years in Japan. Shimizu has received a job offer to work in New Brunswick as a civil engineer.
+
+        Can Shimizu apply to the Atlantic Immigration Program? Please explain.
+
+        - [x] Yes
+        - [ ] No
+        > Yes, as an **international graduate** of an institution in New Brunswick, Shimizu does **not** have to meet the work experience requirements for the AIP.
+
+    5. True or false: Any employer of a **certain size** in an Atlantic province will be able to hire foreign nationals through the Atlantic Immigration Program.
+        - [ ] True
+        - [x] False
+        > Employers must be designated by the province in which they are based by showing that they are in **good standing**.
+
+    6. True or false: The total number of prospective **permanent residents admitted** under the Atlantic Immigration Pilot Programs is 2,000 every year.
+        - [ ] True
+        - [x] False
+        > Instructions issued under section 87.3 of the IRPA cap the number of applications accepted under the program each year at 2,000, but because many applications will **include a principal applicant and accompanying family members**, the number of prospective permanent residents admitted will always be higher than 2,000.
+
+    7. For a Nova Scotia employer to be a designated employer, which of the following is **not** a requirement? (Choose all that apply).
+        - [ ] The employer must be in good standing with employment standards and occupational health and safety legislation
+        - [x] Has been in continuous and active operation for the past three years in Nova Scotia
+        - [ ] The employer must support the costs of settlement services for employees brought in through the program
+        - [x] The employer must have a minimum of $300,000 in revenue for the past two taxation years
+
+    8. Your client, Mohamed, has received a job offer to work in New Brunswick as a Hospital Custodian (NOC 65310). In his home country, Algeria, he worked as a Nurse Aide (NOC 33102) for the previous two years. He has a Certificate in Nursing from the University of Science and Technology in Algiers.
+
+        Can Mohamed apply to the Atlantic Immigration Program? Please explain.
+
+        - [ ] Yes
+        - [x] No
+        > Mohamed's job offer is for a position classified as TEER category 5. The Atlantic Immigration Program is only available to candidates with offers for employment in **occupations classified as TEER 0, 1, 2, 3, or 4**.
