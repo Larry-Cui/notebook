@@ -26,6 +26,7 @@ tags:
     - Canada, Immigration, Refugees and Citizenship, “Foreign workers: Work permits for start-up business class permanent resident visa applicants” (23 May 2023), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/work-permits-start-business-class-permanent-resident-visa-applicants.html){:target="\_blank"}.
     - Canada, Immigration and Citizenship, “Designated organizations for the Start-up Visa Program: About the process” (11 August 2023), [online](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/participate.html){:target="\_blank"}.
     - Canada, Immigration, Refugees and Citizenship, “Self-employed persons class” (17 May 2023), [online](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/self-employed-persons.html){:target="\_blank"}.
+    - Self-employed persons class: [Assessing the application against selection criteria](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/self-employed-persons/assessing-application-against-selection-criteria.html){:target="\_blank"}
     - Wei v Canada (Citizenship and Immigration), [2019 FC 982](https://canlii.ca/t/j1n5n){:target="\_blank"}. [Definition of “self-employed person” from s 88]
     - Zhang v Canada (Citizenship and Immigration), [2019 FC 764](https://canlii.ca/t/j0ss1){:target="\_blank"}. [Self-employed person; sufficiency of evidence; table tennis.]
     - Nguyen v Canada (Citizenship and Immigration), [2019 FC 439](https://canlii.ca/t/hzrhl){:target="\_blank"}. [Start-up business class; extrinsic evidence]
@@ -141,6 +142,72 @@ tags:
     - During a peer review of the commitment, does the applicant have a right to participate?
         - Under the current case law, your client does not have a right to attend and participate at the meeting. In *Bui v Canada (Citizenship and Immigration)*, [2019 FC 440 at paragraph 36](http://canlii.ca/t/hzrhg#par36){:target="\_blank"}, Justice LeBlanc writes:
             - [36]  In my view, the Panel was not required to invite the Applicant to attend the peer review. This process, I repeat, is to examine if Empowered had conducted due diligence in accepting the Applicant’s business proposal, and does not focus on the conduct of the Applicant.
+
+??? note "Self-Employed Persons Class"
+
+    - Foreign nationals who have the intention and ability to be self-employed in Canada and to make a “significant contribution” to either **cultural activities or athletics**.
+    - the Minister has paused intakes for the Self-Employed Persons Class as of **April 30, 2024**.
+    - the regulatory scheme for the Self-Employed Persons Class has two parts:
+        - A minimum eligibility requirement, namely that a foreign national fall within the definition of “self-employed person” in **subsection 88(1)**, and
+        - The ability to become economically established in Canada, which is determined according to a points system set out in **sections 102 to 105**.
+    - subsection 88(1) of the IRPR states:
+        - self-employed person means a foreign national who has relevant **experience** and has the **intention** and **ability** to be self-employed in Canada and to make a significant **contribution** to specified **economic activities** in Canada.
+    - In *Zhang v Canada (Citizenship and Immigration)*, [2019 FC 764](http://canlii.ca/t/j0ss1){:target="\_blank"}, Madam Justice Walker wrote that this definition has three requirements:
+        - relevant **experience**;
+        - the **intention and ability** to be self-employed in Canada; and
+        - the intention and ability to make a significant **contribution** to specified economic activities in Canada.
+    - If a worker operates with **significant autonomy**, takes on the risk of **loss** and the opportunity to **profit**, and **hires** people to assist them, they are likely to be considered self-employed.
+    - relevant experience, in respect of
+        - (a) a self-employed person, other than a self-employed person selected by a province, means a minimum of **two** years of experience, during the period beginning **five** years before the date of application for a permanent resident visa and ending on the day a determination is made in respect of the application, consisting of
+            - (i) in respect of **cultural activities**,
+                - (A) two one-year periods of experience in self-employment in cultural activities,
+                - (B) two one-year periods of experience in participation at a world class level in cultural activities, or
+                - (C) a combination of a one-year period of experience described in clause (A) and a one-year period of experience described in clause (B),
+            - (ii) in respect of **athletics**,
+                - (A) two one-year periods of experience in self-employment in athletics,
+                - (B) two one-year periods of experience in participation at a world class level in athletics, or
+                - (C) a combination of a one-year period of experience described in clause (A) and a one-year period of experience described in clause (B), and
+            - (iii) in respect of the purchase and management of a farm, two one-year periods of experience in the management of a farm; and
+        - (b) a self-employed person selected by a province, has the meaning provided by the laws of the province.
+    - The [operational instructions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/self-employed-persons/assessing-application-against-selection-criteria.html){:target="\_blank"} clarify how officers are to interpret “experience in self-employment” and “experience in participation at a world class level”:
+        - Self-employed experience in cultural activities or athletics will capture those traditionally applying in this category, for example, **music teachers, painters, illustrators, film makers, freelance journalists**. Beyond that, the category is intended to capture those people who work behind the scenes as a self-employed person, for example, **choreographers, set designers, coaches and trainers**.
+        - Participation at a world-class level in cultural activities or athletics intends to capture performers. This describes those who perform in the arts, and in the world of sport. “World class” identifies persons who are known internationally. It also identifies persons who **may not be known internationally but perform at the highest levels in their discipline**.
+    - Intention and Ability to be Self-Employed in Canada. The operational instructions states the following:
+        - (1) **sufficient funds** to launch their self-employment and support themselves and their family members; and
+        - (2) a demonstrated **past ability** to support themselves and their family members through their talents.
+    - “specific economic activities” of the Self-Employed Persons will be cultural activities, athletics, or the purchase and management of a farm.
+    - Significant Contribution". The operational instructions state the following:
+        - It is intended that the Self-Employed Persons Class enrich Canadian culture and sports. In other words, when applicants meet the test of experience and there is a reasonable expectation they will be self-employed, the test of significant contribution becomes relative. For example, a music teacher destined to a small town can be considered significant at the local level. Likewise, a freelance journalist who contributes to a Canadian publication will meet the test.
+
+??? note "Self-Employed Persons Class: Selection Criteria"
+
+    - the Self-Employed Persons Class is defined in subsection 100(1) IRPR as a class of persons
+        - who may become permanent residents on the basis of their ability to become economically established in Canada and
+        - who are self-employed persons within the meaning of subsection 88(1).
+    - Subsection **102(1)** sets out the five factors to be assessed in order to determine if a foreign national and their family members will be able to become economically established in Canada:
+        - **age**, for up to 10 points;
+        - **education**, for up to 25 points;
+        - **proficiency** in the official languages of Canada, for up to 24 points;
+        - **experience**, for up to 35 points; and
+        - **adaptability**, for up to 6 points.
+    - 108(1)(a) of the IRPR in turn states that applicants must receive the minimum number of points set by the Minister. The current minimum number of points that has been set is **35**.
+    - Section 109 of the IRPR sets out a power of **substituted evaluation**.
+
+??? note "Case Review"
+
+    - *Zhang v Canada (Citizenship and Immigration)*, [2019 FC 764](http://canlii.ca/t/j0ss1){:target="\_blank"}
+        - The applicant's annual income, benefits, the length of his time on contract with the school, and the fact that he did not coach players outside the school were indicative of an employment relationship.
+        - Madam Justice Walker states that the definition of relevant experience “requires a foreign national to establish participation at a world class level in athletics during the relevant period. It does **not require** the foreign national to establish **participation as a world class athlete** during that period.”
+    - *Wei v Canada (Citizenship and Immigration)*, [2019 FC 982](http://canlii.ca/t/j1n5n){:target="\_blank"}
+        - At paragraph 33, Justice Annis writes that “to make a significant contribution to Canadian culture, unless otherwise essential, it should not involve Chinese actors from China, or recourse to the Applicant's Chinese facilities in China to support filmmaking. In order to contribute significantly to the Canadian cultural economic scene, **all aspects of the production of the films should occur to the greatest extent possible in Canada**.”
+        - How can one establish an **ability** to make a significant contribution to specified economic activities in Canada? By demonstrating “the possession of the means to be able and to execute the project” (¶34)
+        - How can one establish an **intent** to make a significant contribution to specified economic activities in Canada? See paragraph 43: “[T]he test in section 88(1) of the IRPR for what might be described as “commitment or promised intention”, in combination with considering the applicable experience and ability factors, would require an applicant to persuasively demonstrate **past effort and commitment** of sufficient weight such that the officer may conclude that the applicant has demonstrated that he or she will likely proceed as a self-employed person after obtaining permanent resident status to implement the project, which will make a significant contribution to the specified cultural activity in Canada. Under normal circumstances, this will require a demonstration of significant **pre-application efforts** taken with a view to advancing a well-conceived, researched and executed project that indicates a serious possibility of economic success, such that it is unlikely that the applicant would not proceed with the project so long as permanent residency is obtained to enable this to happen under normal circumstances.”
+        - Five problems and advices:
+            - **Minimal role in production of film**: Provide detailed information of his role and responsibilities in past projects similar to those proposed to be undertaken in Canada.
+            - **Lack of detailed information on new project, including lack of budget**: Provide as much detail as possible for proposed venture as self-employed person in Canada, including timelines, budgets, who will be hired and how, and so on.
+            - **All workers and actors from China**: Set out concrete plans to hire Canadian workers and collaborate with Canadian businesses. Include budgets and, to the extent possible, proof of contact with proposed collaborators.
+            - **Failure to disclose past conviction for bribery**: Disclose any past convictions, or other issues that may raise concerns about inadmissibility.
+            - **Failure to show that permanent residence is necessary for the success of the project**: Set out concrete plans to hire Canadian workers and collaborate with Canadian businesses. Include budgets and, to the extent possible, proof of contact with proposed collaborators.
 
 ## Quizzes
 
@@ -271,3 +338,87 @@ tags:
         - [ ] The Governor in Council
         - [x] The Minister of Immigration, Refugees and Citizenship
         - [ ] The Prime Minister of Canada
+
+??? note "Knowledge Check 6.2: Self Employed Persons Class"
+
+    1. Dana Elaine Owens has been a self-employed violin teacher for the past 10 years. Last year she took a break from teaching to tour with the Andare String Quartet, performing across Europe and Asia in mostly small venues. The Quartet was promoting their most recent album, A Bushel of Brussel Sprouts.
+        - [x] Yes
+        - [ ] No
+        > On the facts given, Dana has f**our years' experience as a self-employed music teacher** and **1 year's experience as a world-class violinist**.
+
+    2. Your client, Shen Zhou, is a tenor from China who wishes to move to Prince Edward Island to start his opera career. Mr. Zhou is 29 years old. He graduated from a music high school in China, and obtained a double degree in music and teaching at a top Chinese university. His results on an approved language test – the International English Language Testing System (IELTS) – were: 7 for reading and writing; 7.5 for listening; and 7 for speaking.
+
+        Mr. Zhou has performed at least ten shows per year for the past 6 years. He earns an annual income of 611,000 RMB from all the performances (approximately $120,000 CAD). Mr. Zhou did not manage to save much of his income as he needed to take care of his elderly grandparents as he is the only unmarried child in his whole family. He has $30,000 in settlement funds.
+
+        Does Mr. Zhou likely meet the criteria for being a "self-employed person" as defined in the regulations?
+
+        - [x] Yes
+        - [ ] No
+        > Mr. Zhou is likely able to meet the criteria. He has been performing in the last 6 years, which satisfies "relevant experience". He also has the intention of becoming a self-employed musician in Canada. Under NOC unit code 51122 for "musicians and singers", the main duty is to "sing musical arrangements as soloists or as members of vocal groups before audiences or for recording purposes".
+
+    3. True or false: To determine if an applicant is self-employed, the immigration officer should use the conclusive test set out by the Supreme Court of Canada, which considers: **the level of control from the employer, whether the worker has their own equipment, whether the worker hires their own helpers, the degree of financial risk taken, the degree of responsibility, and opportunity for profit**.
+        - [ ] True
+        - [x] False
+        > Although the Supreme Court of Canada set out factors to consider in Sagaz, these factors do **not provide a conclusive test.**
+
+    4. Via Getty is a professional field hockey player from Estonia. She has a high school diploma and did not pursue a post-secondary education. Since graduating from high school, Via has participated in national and international tournaments and earned her living through prize winnings for the past four years. She is also a member of the Estonia national team.
+
+        During an international competition in Canada, Via's talent was spotted by a Canadian scout for the Toronto Lady Jayes, part of the Women's Field Hockey Association, or WFHA. Via has been offered a contract to train and compete in Canada, for an annual income of $70,000.
+
+        Via has taken an approved language test (the Canadian English Language Proficiency Index Program (CELPIP)) and scored 5 in reading and writing, 7 for speaking and 6 for listening.
+
+        - [ ] Yes
+        - [x] No
+        > it seems that she is entering an employer-employee relationship rather than as a "self-employed person". Indeed, in general **professional athletes in Canada are considered to be employees**.
+
+    5. Your client, Jogen Torbjorn has a mild learning disability that resulted in him repeating grades 7, 8, and 12. He graduated high school at 21 years old. With help from family, peers, and professors and other learning support workers, Jogen finished his 3-year college program. After graduation, he found that he had a talent for wood carving, which prompted him to initiate a Kickstarter project online. After just 2 years, he has been successful in his projects and now he's a famous self-made wood carver with clients all around the world.
+
+        How many points would Jogen receive for his education?
+
+        - [ ] 12
+        - [ ] 15
+        - [ ] 20
+        - [x] 22
+
+    6. In 1990, Matthew Robert Von Wunkle had a hit rap record, performing under the name Icy Vanilla. His biggest hit was a multiplatinum rap single, “Nice Nice Lady.” However, in 1994, Von Wunkle was dropped by his record label. After making records independently for about 10 years, he has spent the last 16 years as a mortgage broker.
+
+        Can he apply under the Self-Employed Persons Class?
+
+        - [ ] Yes
+        - [x] No
+
+    7. Your client, Mr. Michael C. Hammer, wants to buy a farm in Ontario to grow hot peppers. He plans on marketing his peppers under the slogan, "You can't touch this (hot pepper)!" He has 4 years of experience as a pepper farmer in his native Illinois. Can he apply under the Self-Employed Persons Class?
+        - [ ] Yes
+        - [x] No
+        > Based on ministerial instructions issued in March 2018, IRCC is no longer accepting applications to the Self-Employed Persons Class under the farm management stream.
+
+    8. Your client, Henry Sidgwick, is a genius. He skipped grades 2 through 4 in his native England and then completed secondary school in 3 years, so that by the time he received his secondary school diploma he had undergone only 6 years of schooling, half the time it usually takes. He went on to complete his bachelor’s degree in philosophy in 2 years rather than 4 before deciding to pursue a career as a sculptor. He has worked as a sculptor full-time for the past 4 years, with his first exhibition at a major gallery coming 2 years ago. At just 18, he is described as the second coming of Alberto Giacometti.
+
+        How many points would Sidgwick receive for his education?
+
+        - [ ] 5
+        - [ ] 15
+        - [x] 20
+        - [ ] 22
+        > He has a 2-year university educational credential. Although he has received only 8 years of actual schooling, he has received the equivalent of 16 years of full-time equivalent study on an accelerated basis, as set out in the definition of full-time equivalent in subsection 102.2(1).
+
+    9. Your client, Ernesto Cruz, is a pop star from Mexico who wishes to come to Vancouver to live with the family of his sister, who is a Canadian permanent resident. Mr. Cruz is 35 years old. He has a secondary school diploma, as well as a bachelor's degree in music. His results on an approved language test – the International English Language Testing System (IELTS) – were: 6.5 for reading and writing; 8.5 for listening; and 7.5 for speaking.
+
+        Mr. Cruz has not released a hit record in 10 years and has not gone on a tour in 8. He continues, however, to earn money from royalties and from sponsored appearances for photos in nightclubs. These sources of funds are enough to earn him an annual income of 1,020,632 Mexican Pesos (approximately $64,000). However, he no longer performs or writes music and doesn't wish to do so when he moves to Canada.
+
+        Is it likely that Mr. Cruz meet the criteria for being a "self-employed person" as defined in the regulations?
+
+        - [ ] Yes
+        - [x] No
+
+    10. Jingshuo Huang has been playing piano since he was 5 years old. In the last 14 months, Jingshuo has been on world tour with a jazz band. Their tour has been very successful – almost every event has been sold out. For the 12 months prior to the tour, he earned his living by giving piano lessons to children and adults of all skill levels. Does Jingshuo meet the "relevant experience" requirement to apply under the Self-Employed Persons Class?
+        - [x] Yes
+        - [ ] No
+        > On the facts given, Jingshuo has one year of experience as a self-employed piano teacher and one year's experience as a world-class pianist. A mix of one year of self-employment and one year of world-class participation can satisfy as relevant experience.
+
+    11. Sergey Preobrazhensky was a professional soccer player in Russia for two years. He suffered an injury in 2015, which caused him to stop playing. In March 2018, he officially retired from playing and became a coach. However, less than one year later, in February 2019, he quit coaching and decided to stay at home full-time with his children while his wife pursues her career.
+
+        Does Sergey meet the "relevant experience" requirement to apply under the Self-Employed Persons Class if he applies in April 2021?
+
+        - [ ] Yes
+        - [x] No
