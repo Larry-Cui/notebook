@@ -18,6 +18,10 @@ tags:
 ??? note "Tutorial notes"
 
     - Saturday 9:00am.
+    - for start-up program, the business doesn't have to be successful.
+    - cap is at 10 for each organization's endorsements.
+    - SUV substituted evaluation not for lack of commitment certificate
+    - PNP entrepreneur regulations: R 87(5), (6).
 
 ??? note "Required Reading and websites"
 

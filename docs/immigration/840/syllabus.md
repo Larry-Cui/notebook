@@ -12,9 +12,10 @@ tags:
 
 # ICL 840 Economic Immigration W25 [^1]
 
-[^1]: **Colin Grey** developed the original instructional content for this course. Queen's University holds a license for the use of the Course Author's intellectual property for the use of ICL 840.
+[^1]:
+    **Colin Grey** developed the original instructional content for this course. Queen's University holds a license for the use of the Course Author's intellectual property for the use of ICL 840.
 
-Course revisions completed by **Kim K.C. Ly** in Fall 2021 and 2022.
+    Course revisions completed by **Kim K.C. Ly** in Fall 2021 and 2022.
 
 <!-- <a href="https://lh3.googleusercontent.com/pw/AP1GczNlPL2XU73ZrmLzVMPRzEBSOkONXic3ozpfB5HllVlxptDJDjXRKFh0o2iBsxRSfXRhP6BcH61XUeXrWKBpSZ354Hclhwt03wQfmXcBjpAHqouNSyo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczNlPL2XU73ZrmLzVMPRzEBSOkONXic3ozpfB5HllVlxptDJDjXRKFh0o2iBsxRSfXRhP6BcH61XUeXrWKBpSZ354Hclhwt03wQfmXcBjpAHqouNSyo=w600-h315-p-k" style="width: 100%"/> </a> -->
 
