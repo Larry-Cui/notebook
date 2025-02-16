@@ -18,14 +18,18 @@ tags:
 ??? note "Tutorial notes"
 
     - Sunday 9:00am.
+    - Minister of IRCC: appeal to visa refusal of family class, residency obligation
+    - Minister of PSEP: removal order appeals, decision by the IRB immigration division
+    - It is not up to the hearings officer or panel to identify issues or ask the required questions. *Vo v Canada (Citizenship and Immigration)*, [2014 FC 816](https://canlii.ca/t/g8rb4){:target="\_blank"}
+    - IRB: [Designated representative guide](https://www.irb-cisr.gc.ca/en/designated-representant/Pages/designated-representative-guide.aspx#toc2){:target="\_blank"}
 
 ??? note "required reading"
 
     - Immigration, Refugees, and Citizenship Canada, "ENF 19: Appeals before the Immigration Appeal Division (IAD) of the Immigration and Refugee Board (IRB) (20 January 2020), [online (PDF)](https://www.canada.ca/content/dam/ircc/migration/ircc/english/resources/manuals/enf/enf19-eng.pdf){:target="\_blank"}.
     - Immigration and Refugee Board of Canada, "Forms: Immigration Appeals" (04 April 2023), [online: Government of Canada](https://irb-cisr.gc.ca/en/forms/pages/index.aspx#iaf){:target="\_blank"}.
-    - Basanti v Canada (Citizenship and Immigration), [2019 FC 1068 (CanLII)](http://canlii.ca/t/j23v7){:target="\_blank"}.
-    - Trieu v Canada (Citizenship and Immigration), [2017 FC 925 (CanLII)](http://canlii.ca/t/h6qgx){:target="\_blank"}.
-    - Canada (Citizenship and Immigration) v Mbandjock, [2020 FC 421 (CanLII)](http://canlii.ca/t/j6125){:target="\_blank"}.
+    - *Basanti v Canada (Citizenship and Immigration)*, [2019 FC 1068 (CanLII)](http://canlii.ca/t/j23v7){:target="\_blank"}.
+    - *Trieu v Canada (Citizenship and Immigration)*, [2017 FC 925 (CanLII)](http://canlii.ca/t/h6qgx){:target="\_blank"}.
+    - *Canada (Citizenship and Immigration) v Mbandjock*, [2020 FC 421 (CanLII)](http://canlii.ca/t/j6125){:target="\_blank"}.
 
 ??? note "module content"
 
