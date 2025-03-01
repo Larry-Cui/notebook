@@ -107,6 +107,19 @@ tags:
         - local integration
         - resettlement and complementary pathways for admission abroad
 
+??? note "Key Actors and Decision-Makers"
+
+    - Visa officers: Process visa applications for **resettlement** to Canada
+    - Immigration Officers: Receive refugee protection claims made **inside** Canada and determine their **eligibility**, and Process **pre-removal risk assessment** applications
+    - CBSA: Receive refugee protection **claims at ports of entry**
+    - Refugee Protection Division Member: Decide refugee protection **claims** before the Immigration and Refugee Board
+    - Refugee Appeal Division member: Decide **appeals** from decisions of the Refugee Protection Division
+        - Some but not all RPD decisions may be appealed to the Refugee Appeal Division, or RAD, an appellate division within the IRB. Unlike RPD members, who are public service employees, RAD members are appointed by the Governor in council or federal cabinet (that is, the Prime Minister and his ministers).
+    - United Nations High Commissioner for Refugees (UNHCR):
+        - May **attend** hearings at the Refugee Protection Division or observe proceedings at the Refugee Appeal Division
+        - **Monitors** the RPD and RAD
+        - Publishes influential legal guidance on the interpretation of the Convention refugee definition and other aspects of refugee law
+
 ## Quizzes
 
 ??? note "Introduction to Refugee Protection in Canada"
@@ -259,3 +272,128 @@ tags:
         - [x] The beginning of the path are the core rights granted without qualification to refugees once their status is declared – the right against non-discrimination, personal status rights, the right to transfer assets, and the right against non-refoulement. The end of the path is naturalization.
         - [ ] The beginning of the path are the human rights granted in instruments like the International Covenant on Civil and Political Rights. The end of the path is permanent residence.
         - [ ] The beginning of the path is exit from one’s country of origin. The end of the path is recognition as a refugee under the Convention.
+
+??? note "Immigration and Refugee Protection Act and Refugee Law"
+
+    1. Foreign nationals applying to resettle in Canada must fulfill the Convention refugee definition in section 96 of the IRPA and the definition of persons in need of protection in section 97.
+        - [ ] True
+        - [x] False
+        > Foreign nationals applying from abroad for refugee protection through resettlement must fulfill either the Convention refugee definition (IRPA, s 96) **or** the definition of the country of asylum class (section 147 of the Immigration and Refugee Protection Regulations (IRPR)).
+
+    2. A foreign national may receive protected person status by making an application from abroad under section 25 of the Immigration and Refugee Protection Act, or IRPA, for a humanitarian and compassionate exemption.
+        - [ ] True
+        - [x] False
+        > A foreign national may receive protected person status from abroad by applying for a visa under either the **Convention Refugee Abroad Class**, or the **Country of Asylum Class**.
+
+    3. Applications for a pre-removal risk assessment (i.e., applications for protection) are granted on the basis of one of two regulatory categories – the Convention refugees from abroad class and the Country of asylum class.
+        - [ ] True
+        - [x] False
+        > Applications for pre-removal risk assessments are evaluated using sections **96 to 98** of the IRPA.
+
+    4. Section 115 of the IRPA fulfills Canada's obligation for Article 3 of the Convention against Torture.
+        - [ ] True
+        - [x] False
+        > Article 3 contains an absolute prohibition on refoulement where there are substantial grounds for believing that he would be in danger of being subjected to torture.
+
+    5. According to the IRPA, a person whose removal to their country of nationality would subject them personally to a danger of torture is a person in need of protection.
+        - [x] True
+        - [ ] False
+        > See s 97(1)(a) of IRPA: A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally to a danger, **believed on substantial grounds to exist**, of torture within the meaning of Article 1 of the Convention Against Torture. Paragraph 97(1)(b) of the IRPA provides an alternate ground for being a person in need of protection.
+
+    6. There are three avenues for becoming a protected person in Canada, which are all addressed in sections 96 and 97 of the IRPA.
+        - [ ] True
+        - [x] False
+        > Not all of the three avenues involve applying sections 96 and 97 of the IRPA.
+
+    7. To give primary consideration to the best interest of the child is an example of an obligation set out in the 1951 Refugee Convention and 1967 Protocol.
+        - [ ] True
+        - [x] False
+        > The obligation to give primary consideration to the best interests of the child is set out in the **Convention on the Rights of the Child**.
+
+    8. Section 96 of the IRPA reproduces in its essentials the definition of "refugee" found in the 1951 Convention relating to the Status of Refugees.
+        - [x] True
+        - [ ] False
+        > There are **no substantive differences** between the Convention refugee definition and IRPA, s 96.
+
+    9. A claim for refugee protection made by a person inside Canada can be submitted by making an application for a visa as a Convention refugee.
+        - [ ] True
+        - [x] False
+        > See IRPA s **99(3)**: A claim for refugee protection made by a person **inside Canada** must be made **to an immigration officer**. The officer must then determine if the claim is eligible to be **referred to the Immigration and Refugee Board**.
+
+    10. According to the IRPR, a member of the country of asylum class requires the individual to be outside all of their countries of nationality and have been and continue to be seriously and personally affected by civil war, armed conflict, or massive violation of human rights in their countries.
+        - [x] True
+        - [ ] False
+        > See IRPR s **147**: A foreign national is a member of the country of asylum class if they have been determined by an officer to be in need of resettlement because: (a) they are outside all of their countries of nationality and habitual residence; and (b) they have been, and continue to be, seriously and personally affected by civil war, armed conflict or massive violation of human rights in each of those countries.
+
+    11. Subsection 12(3) of the IRPA provides the statutory basis for selecting refugees as permanent residents, whereas section 95 lays out the different ways a foreign national or permanent resident may become a protected person.
+        - [x] True
+        - [ ] False
+        > Note that there is nothing in IRPA that prevents a **permanent resident from applying to become a protected person**, as unlikely as that may be.
+
+    12. According to the IRPA, a Convention refugee is a person who has a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion.
+        - [ ] True
+        - [x] False
+        > This is false because it is **incomplete**. See IRPA s 96: A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion, **is outside each of their countries of nationality and is unable or, by reason of that fear, unwilling to avail themselves of the protection of each of those countries.** Similarly, if a person is stateless, they must be outside the country of their former habitual residence and is unable or, by reason of that fear, unwilling to return to that country.
+
+    13. The Comprehensive Refugee Response Framework and the Global Compact on Refugees are both binding in international law.
+        - [ ] True
+        - [x] False
+        > While these instruments seek to improve international cooperation on matters relating to refugees, they are both **non-binding**.
+
+    14. One cannot be found to be a person in need of protection if the risk to your life is caused by your home country's inability to provide adequate health or medical care.
+        - [x] True
+        - [ ] False
+
+    15. A person may not become a protected person by applying for refugee protection from the Immigration and Refugee Board.
+        - [ ] True
+        - [x] False
+
+    16. A foreign national who may be inadmissible can be granted a temporary resident permit if the officer is of the opinion that it is justified in the circumstances.
+        - [x] True
+        - [ ] False
+
+??? note "Actors and Decision-Makers"
+
+    1. Which Minister is charged with the management of the Canada Border Services Agency, whose officers receive refugee protection claims at ports of entry?
+        - [x] The Minister of Public Safety and Emergency Preparedness.
+        - [ ] The Minister of Immigration, Refugees and Citizenship.
+        - [ ] The Minister of Defence.
+        - [ ] The Minister of Multiculturalism and Citizenship.
+
+    2. The Chairperson of the **Immigration and Refugee Board** is appointed by the Governor in Council.
+        - [x] True
+        - [ ] False
+
+    3. The legal guidance published by UNHCR are binding authority on Canadian decision-makers evaluating refugee claims.
+        - [ ] True
+        - [x] False
+
+    4. Which officers handle routine applications for protection – that is, applications for pre-removal risk assessments that do not raise security or criminality issues?
+        - [ ] Immigration officers employed by the Canada Border Services Agency
+        - [ ] Immigration officers employed by the United Nations High Commissioner for Refugees.
+        - [x] Immigration officers employed by the Department of Immigration, Refugees, and Citizenship.
+        - [ ] Immigration officers employed by the Immigration and Refugee Board.
+
+    5. Representatives of the United Nations High Commissioner of Refugees may **attend refugee protection hearings**.
+        - [x] True
+        - [ ] False
+
+    6. Examine the 1951 Convention relating to the Status of Refugees. Is **Canada obligated under the Convention** to cooperate with the United Nations High Commissioner of Refugees?
+        - [x] Yes
+        - [ ] No
+
+    7. The Minister of Immigration, Refugees and Citizenship issues guidelines for the Refugee Protection Division and the Refugee Appeal Division.
+        - [ ] True
+        - [x] False
+        > The **Chairperson** of the Immigration and Refugee Board issues **guidelines** for the Refugee Protection Division and the Refugee Appeal Division.
+
+    8. Which Minister is responsible for the management and direction of the Department of Immigration, Refugees, and Citizenship?
+        - [ ] The Minister of Public Safety and Emergency Preparedness
+        - [ ] The Minister of the Immigration and Refugee Board
+        - [x] The Minister of Immigration, Refugees and Citizenship
+        - [ ] The Minister of Employment and Immigration
+
+    9. The Minister of Immigration, Refugees and Citizenship supervises and directs the staff at the Immigration and Refugee Board.
+        - [ ] True
+        - [x] False
+        > The **Chairperson** of the Immigration and Refugee Board **supervises and directs the staff at the IRB**.
