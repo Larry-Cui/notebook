@@ -18,6 +18,9 @@ tags:
 ??? note "Tutorial notes"
 
     - Sunday 9:00am.
+    - Non-refoulement
+        - A115(1): A protected person or a person who is recognized as a Convention refugee by another country to which the person may be returned shall not be removed from Canada to a country where they would be at risk of **persecution** for reasons of race, religion, nationality, membership in a particular social group or political opinion or **at risk of** torture or cruel and unusual treatment or punishment.
+    - A97 is based on UN convention against torture.
 
 ??? note "Required Readings and Resources"
 
