@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-???+ note "Tutorial notes"
+??? note "Tutorial notes"
 
     - Sunday 9:00am.
     - Group 1, **RPD Rules 49-52; RAD Rules 36-39**:
@@ -98,6 +98,23 @@ tags:
 ??? note "Introduction"
 
     - One of three ways to become a protected person under the IRPA is to make a refugee protection **claim in Canada**. If found eligible, refugee protection claims are decided by the Immigration and Refugee Board (or IRB), more specifically the two divisions of the Board that deal with refugee matters – the **Refugee Protection Division (or RPD)** and the **Refugee Appeal Division (or RAD)**.
+    - Time limit for appeal
+        - R159.91 (1) Subject to subsection (2), for the purpose of subsection 110(2.1) of the Act,
+            - (a) the time limit for a person or the Minister to file an appeal to the Refugee Appeal Division against a decision of the Refugee Protection Division is **15 days** after the day on which the person or the Minister ==receives== written reasons for the decision; and
+            - (b) the time limit for a person or the Minister to perfect such an appeal is **30 days** after the day on which the person or the Minister ==receives== written reasons for the decision.
+        - Extension: (2) If the appeal cannot be filed within the time limit set out in paragraph (1)(a) or perfected within the time limit set out in paragraph (1)(b), the **Refugee Appeal Division may**, for reasons of fairness and natural justice, **extend each of those time limits by the number of days that is necessary in the circumstances**.
+
+???+ note "Making a Refugee Protection Claim"
+
+    - A95 establishes a foundation for understanding the framework regarding claiming refugee protection in Canada.
+    - [A95(1)](https://www.canlii.org/en/ca/laws/stat/sc-2001-c-27/222404/sc-2001-c-27.html#275562){:target="\_blank"} sets out **three ways** a person may apply for refugee protection.
+        - **Apply for a visa from abroad to be resettled** to Canada as a Convention refugee or a person in similar circumstances. We will address resettlement as a refugee from abroad in Module 8.
+        - **Making a claim** for “refugee protection”, which will be processed by the **Refugee Protection Division**, or RPD, and possibly the **Refugee Appeal Division**, or RAD, of the IRB. Such claims will be the focus of this module.
+        - Make a claim for “protection” by applying for a **pre-removal risk assessment**. Pre-removal risk assessments are dealt with in the course on Enforcement (ICL 870).
+    - Sections 99 to 105 provide the framework for making claims that go to the IRB.
+        - These provisions first of all set out **how and where** to make a claim [(section 99)](https://www.canlii.org/en/ca/laws/stat/sc-2001-c-27/222404/sc-2001-c-27.html#275602){:target="\_blank"}.
+        - Second, they set out the process for assessing **eligibility** and the grounds for deeming a claim to be ineligible to go before the RPD [(sections 100-101)](https://www.canlii.org/en/ca/laws/stat/sc-2001-c-27/222404/sc-2001-c-27.html#1173943){:target="\_blank"}.
+        - Third, they set out the grounds for **suspending or terminating proceedings** before the RPD or the RAD [(sections 103-105)](https://www.canlii.org/en/ca/laws/stat/sc-2001-c-27/222404/sc-2001-c-27.html#275665){:target="\_blank"}.
 
 ## Quizzes
 
