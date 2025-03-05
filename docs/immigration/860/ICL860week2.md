@@ -115,6 +115,43 @@ tags:
         - These provisions first of all set out **how and where** to make a claim [(section 99)](https://www.canlii.org/en/ca/laws/stat/sc-2001-c-27/222404/sc-2001-c-27.html#275602){:target="\_blank"}.
         - Second, they set out the process for assessing **eligibility** and the grounds for deeming a claim to be ineligible to go before the RPD [(sections 100-101)](https://www.canlii.org/en/ca/laws/stat/sc-2001-c-27/222404/sc-2001-c-27.html#1173943){:target="\_blank"}.
         - Third, they set out the grounds for **suspending or terminating proceedings** before the RPD or the RAD [(sections 103-105)](https://www.canlii.org/en/ca/laws/stat/sc-2001-c-27/222404/sc-2001-c-27.html#275665){:target="\_blank"}.
+    - **How and Where To Make a Claim (Section 99)**
+        - Claims made by a person in Canada may be made either:
+            - at a port-of-entry, such as an official border crossing or an airport;
+            - within Canadian territory (“inside Canada other than at a port of entry”).
+        - Can Canadian citizens make a claim for refugee protection?
+            - No. As confirmed by the [operational instructions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/refugee-protection/canada/claims-refugee-protection-intake.html){:target="\_blank"}, Canadian citizens may not make a claim for refugee protection. However, claims may be made by both foreign nationals and permanent residents.
+        - Claims at **Port of Entry**
+            - Claims at a port of entry are made to officers of the Canada Border Services Agency, or **CBSA**
+            - Claimants will be asked to fill out several forms, including the Generic Application Form for Canada (IMM 0008) and provide supporting documents (as described on the IRCC page, Applying for Refugee Protection from within Canada (IMM 5746))
+            - The officer will seize claimants’ passport and travel documents (providing claimants with true copies of genuine passports and travel documents)
+            - The Claimant must submit the **Basis of Claim (BOC)** to the IRB within 15 days, in accordance with subsection 159.8(2) of the IRPR. It is possible to apply for an extension of time under subsection 159.8(3) of the IRPR and rule 8 of the RPD Rules.
+            - Claimants will also be issued a **conditional removal order**, in most cases because they are considered to be in non-compliance with the IRPA (under section 41 of the IRPA). The removal order comes into force once the claim has been rejected, abandoned, or withdrawn.
+        - Claims from **inside Canada**
+            - Claims for refugee protection made inside Canada other than at a port of entry are made to officers of Immigration, Refugees and Citizenship Canada, or **IRCC**.
+            - Persons making claims to IRCC officers will have to submit the various application forms and the **completed BOC** to the IRCC officer when they make their application. They will also be interviewed and, in most cases, issued a **conditional removal order**.
+            - The IRCC recently changed their [inland claims process](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/refugee-protection/canada/intake-procedures-inland-offices-regarding-claims-refugee-protection.html){:target="\_blank"} and requires refugee claimants to initiate their claims through the online portal.
+    - **Eligibility Determinations (Sections 100 and 101)**
+        - Once a person has made an application for refugee protection to a CBSA or an IRCC officer, either at a port of entry or inland, the officer will interview them to determine their **eligibility**.
+        - The grounds for ineligibility are as follows:
+            - That refugee protection has been **conferred** on the claimant in Canada.
+            - That a claim for refugee protection by the claimant has been **rejected** by the IRB.
+            - That a prior claim by the claimant was determined to be **ineligible** to be referred to the RPD, or to have been **withdrawn** or **abandoned**.
+                - A withdrawal occurs when a claimant chooses not to pursue their claim and formally withdraws it.
+                - An abandonment is a determination by the RPD or RAD that a claimant is in default in the proceedings, including by failing to appear. In other words, it is a deemed rejection in response to a lack of diligence.
+                - Withdrawals and abandonments are governed by section 168 of the IRPA, rules 59 and 65 of the RPD rules, and rules 47 and 68 of the RAD Rules.
+            - That the claimant has, before making a claim for refugee protection in Canada, made a **claim for refugee protection to a country** other than Canada, and the fact of its having been made has been confirmed under an information-sharing agreement with that other country.
+                - This ground of ineligibility was introduced in 2019. The countries with which Canada has an “information sharing” agreement are **Australia, New Zealand, the United Kingdom, and the United States**. ==Persons found ineligible on this ground may apply for a pre-removal risk assessment, with respect to which they are entitled to an oral hearing.==
+            - That the claimant has been **recognized** as a Convention refugee by a country other than Canada and can be sent or returned to that country.
+            - That the claimant came directly or indirectly to Canada **from a country designated by the regulations**, other than a country of their nationality or their former habitual residence.
+                - This ground of ineligibility refers to the **Safe Third Country Agreement (STCA)** with the United States, which is the only country designated (under section 159.3 of the Regulations). The STCA is discussed by Desloges and Sawicki in section II.B of Chapter 13.
+                - Note, however, that the **constitutional challenge** to the ongoing applicability of the STCA was successful before the Federal Court in Canadian Council for *Refugees v Canada (Immigration, Refugees and Citizenship)*, [2020 FC 770](https://canlii.ca/t/j8rd7){:target="\_blank"}.  However, the Federal Court of Appeal overturned that decision *Canada (Citizenship and Immigration) v Canadian Council for Refugees*, [2021 FCA 72](https://canlii.ca/t/jfbm9){:target="\_blank"}.
+                - That decision is currently under appeal. However, if the determination that paragraph 101(1)(e) of the IRPA and section 159.3 of the IRPR are unconstitutional is upheld on appeal, then paragraph 110(2)(d) would cease to have any application. Pending appeal, the STCA and its implementing provisions remain in force. Thus the fate of the STCA, its implementing provisions, and paragraph 110(2)(d) of the IRPA in particular, is uncertain at this time.
+            - That the claimant has been determined to be **inadmissible** on grounds of security, violating human or international rights, serious criminality or organized criminality, except for persons who are inadmissible solely on the grounds of paragraph 35(1)(c).
+            - In addition to the listed grounds of ineligibility in section 101, subsection 99(3) provides that a claim for refugee protection **may not be made by someone who is the subject of a removal order**.
+        - The officer will provide the claimant with a **Confirmation of Referral form**. For claims made at a port of entry, the Confirmation of Referral will also include the **deadline for submitting the Basis of Claim (BOC)** form – **15 days** after the claim is referred. For claims inland, the BOC must be submitted to an officer via the **online portal**.
+        - Although rule 3 of the RPD Rules requires officers to fix the date, time and location of a hearing, that has not been the practice since 2018. Claims are heard on a first-in, first-out basis. **The Notice to Appear with a hearing date for the claim is provided to claimants ==later== by the IRB**.
+    - **Suspension or Termination (sections 103 to 105 of the IRPA)**
 
 ## Quizzes
 
