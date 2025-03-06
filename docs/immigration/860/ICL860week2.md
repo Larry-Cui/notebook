@@ -161,11 +161,11 @@ tags:
     - **Procedure**
         - 162(2) Each Division shall deal with all proceedings before it as **informally and quickly** as the circumstances and the considerations of fairness and natural justice permit.
     - What factors determine the requirements of procedural fairness before the RPD and RAD?
-        - As set out in *Baker v Canada (Minister of Citizenship and Immigration)*, [[1999] 2 SCR 817](https://canlii.ca/t/1fqlk){:target="\_blank"}, the requirements for procedural fairness before an administrative tribunal – like the RPD or RAD – are determined by examining the following non-exhaustive list of 5 factors: 
-            - (1) the nature of the decision being made and process followed in making it; 
-            - (2) the nature of the statutory scheme and the terms of the statute pursuant to which the body operates; 
-            - (3) the importance of the decision to the individual or individuals affected; 
-            - (4) the legitimate expectations of the person challenging the decision; 
+        - As set out in *Baker v Canada (Minister of Citizenship and Immigration)*, [[1999] 2 SCR 817](https://canlii.ca/t/1fqlk){:target="\_blank"}, the requirements for procedural fairness before an administrative tribunal – like the RPD or RAD – are determined by examining the following non-exhaustive list of 5 factors:
+            - (1) the nature of the decision being made and process followed in making it;
+            - (2) the nature of the statutory scheme and the terms of the statute pursuant to which the body operates;
+            - (3) the importance of the decision to the individual or individuals affected;
+            - (4) the legitimate expectations of the person challenging the decision;
             - (5) the choices of procedure made by the agency itself. 
         - As we will see when reading *Thamotharem v Canada (Minister of Citizenship and Immigration)*, [2007 FCA 198](https://canlii.ca/t/1rmr4){:target="\_blank"}, **the procedural requirements before the RPD and RAD have generally be held to be high**, in part because of the importance of the decision to refugee protection claimants.
     - RPD and RAD: Inquisitorial, not Adversarial
@@ -194,7 +194,7 @@ tags:
         - First, it uses the mandatory “shall”, rather than the discretionary “may.” Second, no other criteria are mentioned other than those found in sections 96 and 97.
     - Subsection **107(2)** requires the RPD, if it is of the opinion that there was no credible or trustworthy evidence on which it could have made a favourable decision, to state that there is “**no credible basis**” for the claim. The leading case on “no credible basis” statements is *Rahaman v. Canada (Citizenship and Immigration)*, [2002 FCA 89](http://canlii.ca/t/4jbr){:target="\_blank"}.
     - Section **107.1** states that if the RPD, in rejecting a claim, is of the opinion that a claim is clearly fraudulent, it must state in its decision that the claim was “**manifestly unfounded**”. To make such a declaration, the RPD member must have **a firm conviction** that refugee protection is sought through fraudulent means that go to the core of the claim (see *He v. Canada (Citizenship and Immigration)*, [2019 FC 2](http://canlii.ca/t/hwr4l){:target="\_blank"} at paragraph 21; *Warsame v Canada (Citizenship and Immigration)*, [2016 FC 596](http://canlii.ca/t/gscvk){:target="\_blank"} at paragraphs 31 and 36).
-    - Under paragraph **110(2)(c)** of the IRPA, if the RPD makes a declaration that a claim has **no credible basis** or is **manifestly unfounded**, then the decision may **not be appealed to the RAD**.  
+    - Under paragraph **110(2)(c)** of the IRPA, if the RPD makes a declaration that a claim has **no credible basis** or is **manifestly unfounded**, then the decision may **not be appealed to the RAD**.
     - paragraphs 170(b) and 170(f) provide that in most cases the RPD **must hold a hearing** and give notice of the hearing to the claimant and the Minister. However, the RPD may decide **not to hold a hearing if a claim is allowed**, and the Minister has not given notice of an intention to intervene.
 
 ??? note "The Refugee Appeal Division"
@@ -204,7 +204,7 @@ tags:
     - Seven Grounds For **Denying a Right of Appeal**
         - **Designated Foreign Nationals:** paragraph 110(2)(a) of the IRPA, an RPD decision concerning a “designated foreign national” may not be appealed. This is a reference to section 20.1 of the IRPA, which empowers the Minister of Public Safety and Emergency Preparedness to designate certain groups arriving in Canada as “irregular arrivals.” Foreign national belonging to a group whose arrival was designated irregular are deemed “designated foreign nationals.” the government has used this designation power in only a very small number of cases, and not at all since the first weeks immediately after section 20.1 came into force in December 2012.
         - ==**Withdrawn or Abandoned Claims:**== paragraph **110(2)(b)** of the IRPA, there is no appeal from a decision by the RPD that a claim has been withdrawn or abandoned, in accordance with section 168 of the IRPA. The only recourse for a person whose claim has been determined to be withdrawn or abandoned by the RPD is to seek to **reinstate** (in the case of a withdrawal) or **reopen** (in the case of an abandonment) the claim before the RPD (Rules 60 and 62 of the RPD Rules govern reinstatements and reopenings, respectively).
-        - ==**No Credible Basis:**== under paragraph 110(2)(c) of the IRPA, there is no appeal from a decision by the RPD rejecting a claim that states that the claim has **no credible basis** or is **manifestly unfounded**, in accordance with subsection 107(2) and section 107.1. 
+        - ==**No Credible Basis:**== under paragraph 110(2)(c) of the IRPA, there is no appeal from a decision by the RPD rejecting a claim that states that the claim has **no credible basis** or is **manifestly unfounded**, in accordance with subsection 107(2) and section 107.1.
         - **Safe Third Country Agreement:** under paragraph 110(2)(d) of the IRPA, there is no right of appeal for foreign nationals who were able to come to Canada and claim refugee protection from the United States under an exemption to the [Safe Third Country Agreement, or STCA](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/agreements/safe-third-country-agreement/final-text.html){:target="\_blank"}.
             - The provisions implementing the STCA – paragraph **101(1)(e)** of the IRPA and section 159.3 of the IRPR, designating the United States – were successfully challenged under the Charter in *Canadian Council for Refugees v. Canada (Immigration, Refugees and Citizenship)*, [2020 FC 770](http://canlii.ca/t/j8rd7){:target="\_blank"}. However, the Federal Court of Appeal overturned that decision *Canada (Citizenship and Immigration) v. Canadian Council for Refugees*, [2021 FCA 72](https://canlii.ca/t/jfbm9){:target="\_blank"}.
             - if the determination that paragraph **101(1)(e)** of the IRPA and section 159.3 of the IRPR are unconstitutional is upheld on appeal, then paragraph **110(2)(d)** would cease to have any application.
@@ -231,8 +231,6 @@ tags:
             - (b) it **cannot make a decision** under paragraph 111(1)(a) or (b) **without hearing evidence** that was presented to the Refugee Protection Division.
         - In *Huruglica v Canada (Citizenship and Immigration)*, [2016 FCA 93](https://canlii.ca/t/gp2gp){:target="\_blank"} at para 70, the Federal Court of Appeal said that the power to send a case back to the RPD applied to cases where the RPD enjoys a “meaningful advantage” over the RAD.
 
-
-
 ## Quizzes
 
 ??? note "Making a Claim in Canada"
@@ -251,8 +249,8 @@ tags:
     3. Under which of the following circumstance(s) must a claim be **suspended**?
         - [ ] The claimant has a matter referred to the Immigration Division for a determination that they are inadmissible on grounds of criminality.
         - [ ] An officer provides notice to the RPD that they are waiting for a court decision with respect to an offense punishable by a maximum term of imprisonment of 5 years.
-        - [x] The claimant becomes the **subject of extradition** proceedings. 
-        - [ ] The claimant has married a Canadian citizen and is eligible to be sponsored for permanent residence under the Family Class. 
+        - [x] The claimant becomes the **subject of extradition** proceedings.
+        - [ ] The claimant has married a Canadian citizen and is eligible to be sponsored for permanent residence under the Family Class.
         > See s 105 for when claims are suspended due to **extradition proceedings**.
 
     4. According to the Refugee Protection Division Rules, when notifying the claimant about the hearing, which of the following must the officer include in the written notice?
@@ -262,8 +260,8 @@ tags:
         - [ ] Date, time, location, and the right to ask for a postponement.
 
     5. Claimants are photographed and fingerprinted as part of their application process. The purpose of collecting such biometrics is to maintain the federal government's biometrics database on every individual who is present in Canada.
-	    - [ ] True
-	    - [x] False
+        - [ ] True
+        - [x] False
 
     6. Under which of the following circumstance(s) can a claim be **suspended**? Choose all that apply.
         - [x] The claimant has a matter **referred to the Immigration Division** for a determination that they are inadmissible on grounds of **security**.
@@ -288,7 +286,7 @@ tags:
         > The offence of Arson by negligence is punishable by up to 5 years' imprisonment if prosecuted by way of indictment. Peter must have been prosecuted by way of indictment, since he received a 1-year term of imprisonment, and the maximum term of imprisonment for summary offences is 6 months. **Peter therefore is inadmissible on grounds of criminality, not serious criminality. Therefore his claim is not ineligible under IRPA, s 101(1)(f).**
 
     10. Parminder's claim has been rejected by the Refugee Protection Division. He has launched an appeal of that decision to the Refugee Appeal Division. A CBSA officer subsequently learns that the referral was in error, after confirming pursuant to an information-sharing agreement that Parminder made a claim for refugee protection in Australia. What can the officer do?
-        - [ ] Nothing. Once a claim has been the subject of a decision by the RPD, the officer no longer has the power to suspend or terminate the claim. 
+        - [ ] Nothing. Once a claim has been the subject of a decision by the RPD, the officer no longer has the power to suspend or terminate the claim.
         - [ ] The officer may terminate the claim pursuant to IRPA, s 104(1)(a)
         - [x] The officer may terminate the claim pursuant to IRPA, s 104(1)(a.1)
         - [ ] The officer may terminate the claim pursuant to IRPA, s 104(1)(b)
@@ -300,7 +298,7 @@ tags:
         - [ ] Yes
         - [x] No
         > IRPA, s 101(2)(a) states that in the case of inadmissibility because of conviction in Canada, the conviction must be "for an offence under an Act of Parliament punishable by a maximum term of imprisonment of **at least 10 years**."
-    
+
     12. Twenty years ago, Mikhail's parents brought him to Canada and made a claim for refugee protection. Mikhail was only four at the time. The family's claim was subsequently determined to be abandoned, and they returned to their country of origin. Mikhail is now back in Canada and has made a claim for refugee protection on his own behalf. Unfortunately, his claim is ineligible.
         - [x] True
         - [ ] False
@@ -322,3 +320,112 @@ tags:
         - [ ] The officer should intervene before the RPD to ask that the RPD deem Jolene to be ineligible.
         - [x] The officer can initiate a **section 44 report** regarding Jolene's inadmissibility for serious criminality. If the report is **referred to the Immigration Division**, then the officer can give **notice to the RPD**. Such notice would **suspend Jolene's claim**.
         - [ ] The officer should go to the media to denounce Jolene. Criminals should not be allowed to abuse Canada's generosity toward refugees.
+
+??? note "Statutory Framework for RPD and RAD"
+
+    1. Although each division of the IRB has jurisdiction to decide all matters that come before it, this broad power does not apply to constitutional questions.
+        - [ ] True
+        - [x] False
+        > The RPD and RAD have broad powers to decide the factual and legal issues that come before them, including legal issues with respect to their own **statutory framework as well as constitutional question**s.
+
+    2. Ichabod comes from an Islamic country in which apostasy is illegal and punishable by death. The RPD rejects Ichabod’s claim. It finds his allegation of having renounced Islam is not credible. On appeal, Ichabod submits a letter from his brother saying Ichabod had told him that he could no longer follow the Islamic faith. The RAD admits this letter under IRPA, s 110(4). The RAD must hold an oral hearing on this new evidence.
+        - [ ] True
+        - [x] False
+        > Even if on the facts the new evidence raises a serious issue with respect to Ichabod’s credibility on a matter central to his claim, **IRPA s 110(6) states only that the RAD ==“may”== hold a hearing if its requirements are met.** The RAD may decline to hold a hearing if it determines that fairness and natural justice do not require one.
+
+    3. Under the Immigration and Refugee Protection Regulations, an appellant has:
+        - [ ] 10 days to file a notice of appeal and 1 month to perfect their appeal.
+        - [x] 15 days to file a notice of appeal and 1 month to perfect their appeal.
+        - [ ] 20 days to file a notice of appeal and 1 month to perfect their appeal.
+        - [ ] 30 days to file a notice of appeal and 1 month to perfect their appeal
+
+    4. To be appointed as a designated representative for claimants under 18 years old, which of the following must be satisfied? 
+        - [x] The designated representative must be over 18 years old
+        - [ ] The designated representative must be a Canadian-licensed lawyer
+        - [x] The designated representative must not have a conflict of interest
+        - [ ] The designated representative must have immigration law or consultancy experience
+        > **RPD rule 20** provides that to become a designated representative, a person must be **18 years** or older, **understand** the nature of the proceedings, be willing and able to act in the **best interests** of the claimant, and not have a **conflict** of interest.
+
+    5. If a claimant has established that they are a Convention refugee, the RPD can nonetheless exercise its discretion not to grant protected person status.
+        - [ ] True
+        - [x] False
+        > Subsection 107(1) of the IRPA uses the mandatory “**shall**”, rather than the discretionary “may.” The RPD has no discretion to reject a claim if a person falls within either section 96 or 97. It also has no discretion to accept a claim if they do not or if they are excluded under section 98.
+
+    6. Which of the following defines the RPD’s inquisitorial powers? (Choose all that apply)
+        - [x] The RPD is not bound by any legal or technical rules of evidence
+        - [ ] The RPD can question the claimant to determine if there is a well-founded claim, but the questions are limited to circumstances surrounding the claim
+        - [x] The RPD can take notice of any facts that may be judicially noticed
+        - [x] The RPD can base its decision on credible evidence adduced in the proceedings
+
+    7. Which of the following decisions may be made by the RAD if it decides that the RPD erred in its determination of a claim? Click all that apply.
+        - [x] The RAD may refer the matter back to the RPD with directions if it cannot make a decision without hearing evidence that was presented to the RPD.
+        - [ ] The RAD may substitute its own determination for that of the RPD, but only after holding a new hearing at which claimants may present all their evidence afresh.
+        - [ ] The RAD may set aside only negative decisions of the RPD. Positive decisions are not subject to appeal.
+        - [x] The RAD may aside the determination and substitute a determination that, in its opinion, should have been made.
+
+    8. Any new evidence submitted by the Minister on an appeal to the RAD must comply with IRPA, s 110(4).
+        - [ ] True
+        - [x] False
+        > A110: Evidence that may be presented: (4) On appeal, the person who is the subject of the appeal may present only evidence that arose after the rejection of their claim or that was not reasonably available, or that the person could not reasonably have been expected in the circumstances to have presented, at the time of the rejection.
+        > Exception: (5) Subsection (4) **does not apply in respect of evidence that is presented in response to evidence presented by the Minister**.
+
+    9. Claimants have a right to request counsel to be provided free of charge at IRB proceedings.
+        - [ ] True
+        - [x] False
+
+    10. Proceedings before the RPD and RAD are adversarial in nature.
+        - [ ] True
+        - [x] False
+
+    11. Which of the following is/are grounds for denying a right of appeal to RAD? (Choose all that apply)
+        - [ ] A decision concerning foreign nationals who are **citizens of designated countries of origin**
+        - [x] A decision by the RPD rejecting a claim that has been declared to have no credible basis or to be manifestly unfounded
+        - [x] A claim that has been determined to be withdrawn or abandoned
+        - [x] A decision of the RPD allowing an application by the Minister for a determination that refugee protection has ceased under s 108 of the IRPA
+        > A is incorrect because paragraph 110(2)(d.1) was declared unconstitutionally discriminatory under section 15 of the Charter in *YZ v Canada (Citizenship and Immigration)*, 2015 FC 892. It is therefore of no force or effect.
+
+    12. Subsection 162(2) confirms an intention that the IRB’s divisions proceed informally and quickly. Therefore, the IRB can sacrifice procedural fairness in favor of efficiency. 
+        - [ ] True
+        - [x] False
+
+    13. In *Thamotharem v Canada (Minister of Citizenship & Immigration)*, the Federal Court of Appeal considered Guideline 7’s requirement that RPD hearings begin with the questioning of a claimant by the presiding member. The Court held that this Guideline breached procedural fairness because it deprived the claimant of the opportunity to be questioned first by their own counsel.
+        - [ ] True
+        - [x] False
+        > The Federal Court of Appeal held this Guideline does not distort the inquisitorial process established by the IRPA.
+
+    14. The RPD rejects Polly’s claim on the basis that she has not provided sufficient evidence to establish her alleged risk. The RPD makes no credibility findings. On appeal, Polly submits new evidence to support her claim under IRPA, s 110(4). The new evidence is an Amnesty International Report documenting human rights abuses in Polly’s country of origin similar to the persecution she says she faces if returned. The RAD must hold an oral hearing on this new evidence.
+        - [ ] True
+        - [x] False
+
+    15. Claimants are expected to put forth their strongest case before the RPD, rather than waiting for their appeal to the RAD. Which of the following showed Parliament’s intent to narrowly define the introduction of any new evidence at RAD proceedings?
+        - [ ] Leave from the RAD is required to introduce new evidence.
+        - [ ] The evidentiary burden is increased to the balance of probabilities for new evidence.
+        - [x] New evidence is only allowed if it arose after the rejection of the claim, or if it was not reasonably available, or if the claimant could not reasonably have been expected in the circumstances to present the evidence at the time of the rejection.
+        - [ ] The new evidence must be credible, relevant, and material to the RAD proceeding, whereas the evidence need not be material during the RPD proceeding.
+
+    16. In Huruglica, the Federal Court of Appeal determined that the RAD must review RPD decisions on a correctness standard. It owes no deference on any issue, including credibility determinations.
+        - [ ] True
+        - [x] False
+        > While the Federal Court of Appeal determined that the RAD must review the RPD on a correctness basis, it “should sometimes **exercise restraint**” when the RPD enjoys a “meaningful advantage” in making findings of fact or mixed fact and law requiring an assessment of the credibility or weight to be assigned to oral testimony.
+
+    17. Hagrid is a citizen of Country Y. He lived in the United States under a student visa for 12 months. In 2018, he came to Canada and made a refugee protection claim. Despite the Safe Third Country Agreement, he was permitted to do so because his mother lives in Canada. His claim was rejected by the RPD. The RPD stated in its decision that Hagrid was “the least credible claimant he had ever come across.” Can Hagrid appeal the decision to the RAD?
+        - [ ] True
+        - [x] False
+        > While the RPD on the facts did not state there was no credible basis for Hagrid’s claim or that it was manifestly unfounded, Hagrid was only eligible to make a claim for refugee protection under an exception to the **Safe Third Country Agreement**. Therefore his has **no right of appeal to the RAD under IRPA, s 110(2)(d)**.
+
+    18. Because the RAD appeal must proceed on the basis of the RPD record, the RAD may not base its decision on its own specialized knowledge or on facts with respect to which it takes judicial notice.
+        - [ ] True
+        - [x] False
+
+    19. Which of the following need **not** be included in a perfected appeal record on appeal to the RAD?
+        - [ ] The RPD’s written reasons.
+        - [ ] Any documents the RPD refused to accept as evidence, if the appellants wants to make use of them in the appeal.
+        - [x] A statement of the most up-to-date information regarding the appellant’s immigration status.
+        - [ ] All or part of the transcript of the RPD hearing, if the appellant wants to make use of it in the appeal.
+
+    20. After Aldous’s RPD hearing but before the RPD issued its decision, his family mailed him an affidavit from his former lawyer, attesting to the fact that he had been imprisoned for political reasons. The affidavit was not procured sooner because his lawyer has been in a coma after being beaten by police for helping Aldous flee his country. Because Aldous’s hearing had concluded, he did not submit the evidence to the RPD. His claim was subsequently rejected. Is the affidavit admissible on appeal to the RAD under IRPA, s 110(4)?
+        - [x] No. Aldous may not submit the evidence under s 110(4) because he could have submitted it prior to the RPD’s rejection of his claim.
+        - [ ] Yes. Aldous may submit the evidence under s 110(4) because he could not have submitted it prior to his RPD hearing.
+        - [ ] Yes. Aldous may submit the evidence under s 110(4) because in the circumstances he could not reasonably have been expected to present it
+        - [ ] No. Aldous may not submit the evidence under s 110(4) because it is not material.
+        > The admissibility of evidence before the RAD under s 110(4) is determined having reference to the time of the RPD’s decision (“**at the time of the rejection**”), not the time of the hearing. D is not correct because, on the facts, the evidence is likely to be material.
