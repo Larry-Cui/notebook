@@ -231,6 +231,23 @@ tags:
             - (b) it **cannot make a decision** under paragraph 111(1)(a) or (b) **without hearing evidence** that was presented to the Refugee Protection Division.
         - In *Huruglica v Canada (Citizenship and Immigration)*, [2016 FCA 93](https://canlii.ca/t/gp2gp){:target="\_blank"} at para 70, the Federal Court of Appeal said that the power to send a case back to the RPD applied to cases where the RPD enjoys a “meaningful advantage” over the RAD.
 
+??? note "Case law and the use of policy instruments"
+
+    - *Thamotharem v Canada (Minister of Citizenship and Immigration)*, [2007 FCA 198](https://canlii.ca/t/1rmr4){:target="\_blank"}
+        - having the RPD member, or (at the time) RPO, question the claimant first **did not violated** the principles of procedural fairness
+        - the evidence **did not** show that Guideline 7 was **unlawfully fettering** RPD members’ discretion.
+    - *Canadian Association of Refugee Lawyers v Canada (Citizenship and Immigration)*, [2019 FC 1126](https://canlii.ca/t/j28j0){:target="\_blank"}
+        - The decision involved a challenge to **jurisprudential guides** identified by the Chairperson as providing [guidance](https://irb-cisr.gc.ca/en/decisions/pages/TB7-01837.aspx){:target="\_blank"} on certain questions of fact or mixed fact and law that arose frequently with respect to claims from four different countries.
+        - the Chairperson of the IRB was empowered by paragraph 159(1)(h) of the IRPA to issue jurisprudential guides addressed issues of fact: **YES**
+        - whether the jurisprudential guides unlawfully fettered members of the RPD and RAD: **NO**
+
+???+ note "Application to Change in the Date and Time of a Proceeding"
+
+    - reading requirements:
+        - IRB, [Chairperson Guideline 6: Scheduling and Changing the Date or Time of a Proceeding (December 15, 2012)](https://irb.gc.ca/en/legal-policy/policies/Pages/GuideDir06.aspx){:target="\_blank"}
+        - RPD Rules, rules 49-52, rule 54
+    - New [Medical Certificate Form](https://irb-cisr.gc.ca/en/forms/Pages/MC_form_RPD.aspx){:target="\_blank"} for Refugee Claimants before the Refugee Protection Division (RPD)
+
 ## Quizzes
 
 ??? note "Making a Claim in Canada"
