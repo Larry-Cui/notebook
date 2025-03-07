@@ -508,7 +508,7 @@ tags:
         - [ ] The order of questioning will usually start with the RPD member questioning the claimant; this is also set out in rule 10 of the RPD Rules
         > If a claimant arrives more than 15 minutes late for a hearing, RPD members may either adjourn the hearing or schedule a special hearing to decide whether a claim should be declared abandoned. **The Guidelines do not state that the RPD will decide on abandonment immediately.**
 
-???+ note "Beginning Proceedings"
+??? note "Beginning Proceedings"
 
     1. If the claimant wishes to use a document in a hearing, they must provide a copy of the document to the RPD. Failing to do so will result in the claimant being forbidden from using the document.
         - [ ] True
