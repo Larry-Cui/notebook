@@ -33,7 +33,7 @@ tags:
     - *Senghor v. Canada (Citizenship and Immigration)*, [2016 FC 1041​](https://www.canlii.org/en/ca/fct/doc/2016/2016fc1041/2016fc1041.html){:target="\_blank"}
     - Alienage and Country of Reference
         - *Tretsetsang v Canada (Citizenship and Immigration)*, [2016 FCA 175](https://canlii.ca/t/gs2j6){:target="\_blank"}, Para 39-40
-        - IRB, [Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019)](https://irb-cisr.gc.ca/en/legal-policy/legal-concepts/Pages/RefDef.aspx){:target="\_blank"}, Chapter 2
+        - IRB, [Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019)](https://irb-cisr.gc.ca/en/legal-policy/legal-concepts/Pages/RefDef.aspx){:target="\_blank"}, [Chapter 2](https://irb-cisr.gc.ca/en/legal-policy/legal-concepts/Documents/Interpretation%20of%20Convention%20Refugee%20and%20Person%20in%20Need%20of%20Protection%20in%20the%20Case%20Law%20(31%20Dec%202020).pdf){:target="\_blank"}
 
 ## Quizzes
 
