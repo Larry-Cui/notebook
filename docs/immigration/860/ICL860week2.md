@@ -241,7 +241,7 @@ tags:
         - the Chairperson of the IRB was empowered by paragraph 159(1)(h) of the IRPA to issue jurisprudential guides addressed issues of fact: **YES**
         - whether the jurisprudential guides unlawfully fettered members of the RPD and RAD: **NO**
 
-???+ note "Application to Change in the Date and Time of a Proceeding"
+??? note "Application to Change in the Date and Time of a Proceeding"
 
     - reading requirements:
         - IRB, [Chairperson Guideline 6: Scheduling and Changing the Date or Time of a Proceeding (December 15, 2012)](https://irb.gc.ca/en/legal-policy/policies/Pages/GuideDir06.aspx){:target="\_blank"}
@@ -446,3 +446,130 @@ tags:
         - [ ] Yes. Aldous may submit the evidence under s 110(4) because in the circumstances he could not reasonably have been expected to present it
         - [ ] No. Aldous may not submit the evidence under s 110(4) because it is not material.
         > The admissibility of evidence before the RAD under s 110(4) is determined having reference to the time of the RPD’s decision (“**at the time of the rejection**”), not the time of the hearing. D is not correct because, on the facts, the evidence is likely to be material.
+
+??? note "Guidelines and Jurisprudential Guides"
+
+    1. Which of the following is/are held by the Federal Court of Appeal in *Thamotharem v Canada (Minister of Citizenship and Immigration)*, 2007 FCA 198?
+        - [ ] The fair adjudication of individual rights requires an adversarial process. Refugee claims are no different than criminal trials in that respect.
+        - [x] The seriousness of the rights involved in the determination of a refugee claim suggest a high degree of procedural protection is required.
+        - [ ] Due to the difficulty of making credibility findings, RPD members may question claimants in a badgering or aggressive manner.
+        - [ ] Chairperson's Guidelines have the same binding force as the statute.
+
+    2. Which of the following are tools that RPD and RAD members can use to guide their decisions? (Choose all that apply.)
+        - [x] Jurisprudential guides
+        - [x] Persuasive decisions
+        - [x] Reasons of interest
+        - [ ] Laws of the foreign national's country of nationality
+        > The tools used that specific aim at guiding decision-making with respect to certain kinds of claims are the following:  
+        > **Jurisprudential guides**, which the website describes as "policy instruments that support consistency in adjudicating cases which share essential similarities."  
+        > **Persuasive decisions**, identified by the head of a division "as being of persuasive value in developing the jurisprudence of a particular division."  
+        > **Reasons of interest**, which are decisions "that the IRB deems noteworthy" as models, among other things, of excellence in reasons writing, of a thorough assessment of a complex issue, or of how to respond to a timely or emerging issue.
+
+    3. Which of the following correspond to principles set out in Guideline 7? 
+        - [ ] The principles of natural justice and fairness require the RPD to give the claimant or their counsel discretion as to the length of their submissions.
+        - [ ] If the National Documentation Package has been updated in the week before the RPD hearing, the RPD may not relied on the updated version in its decision.
+        - [ ] Conferences will be held between the RPD member and the parties at the outset of every hearing to ensure the efficiency and fairness of proceedings.
+        - [x] At the beginning of the hearing, the interpreter must confirm they have used a standardized script to ensure that **the interpreter and claimant understand each other**.
+
+    4. In Canadian Association of Refugee Lawyers v Canada (Citizenship and Immigration), 2020 FCA 196, the Federal Court of Appeal held that the IRB Chairperson had no authority to issue jurisprudential guides on issues of fact. 
+        - [ ] True
+        - [x] False
+
+    5. Which of the following are policy instruments that the Chairperson may issue under IRPA, **s 159(1)(h)**?
+        - [ ] Divisional rules
+        - [x] Chairperson's **Guidelines**
+        - [ ] Federal Court decisions
+        - [ ] Ministerial Instructions
+        > Note that the Chairperson is authorized to make **rules** for each division under IRPA, **s 161**.
+
+    6. In *Thamotharem v Canada (Minister of Citizenship and Immigration)*, 2007 FCA 198, the Federal Court of Appeal held that guidelines and policies are "soft law", which **must be followed** by decision-makers to produce consistent decisions.
+        - [ ] True
+        - [x] False
+
+    7. In *Canadian Association of Refugee Lawyers v Canada (Citizenship and Immigration)*, 2020 FCA 196, the Federal Court of Appeal held that the statement that RPD and RAD members are “expected” to apply jurisprudential guides in similar cases or explain why not **unlawfully fettered members’ discretion**. 
+        - [ ] True
+        - [x] False
+
+    8. In *Thamotharem v Canada (Minister of Citizenship and Immigration)*, 2007 FCA 198, the Federal Court of Appeal held that although having the RPD member question the claimant first is unfair, it does not amount to breach procedural fairness where the claim is manifestly unfounded.
+        - [ ] True
+        - [x] False
+        > The Federal Court of Appeal held that while a claimant may derive tactical advantage from being taken through their claim first by their own counsel, the loss of that advantage does not necessarily lead to unfairness. Indeed, having the RPD member question a claimant first in one sense increases the level of fairness, in that it provides notice to the claimant and their counsel as to which areas of the claim most concern the member.
+
+    9. Which of the following is/are held by the Federal Court of Appeal in *Thamotharem v Canada (Minister of Citizenship and Immigration)*, 2007 FCA 198?
+        - [x] The degree of procedural protection at the RPD must be tailored to fit the inquisitorial and relatively informal nature of its hearings
+        - [ ] The fair adjudication of individual rights is better achieved in an adversarial process
+        - [ ] When the RPD member pose probing questions to the claimant, it makes the proceeding adversarial in the procedural sense
+        - [ ] Guideline 7 jeopardizes the ability of the RPD to accurately determine claims for refugee protection
+
+    10. Which of the following do not correspond to principles set out in Guideline 7?
+        - [ ] Claimants do not set the agenda for proceedings; RPD members are the ones to determine what issues must be resolved
+        - [ ] To use a document at the proceeding, the claimant/Minister must disclose the document to the other party
+        - [x] When a claimant is more than 15 minutes late for a hearing, the RPD members can decide if the claim should be declared abandoned
+        - [ ] The order of questioning will usually start with the RPD member questioning the claimant; this is also set out in rule 10 of the RPD Rules
+        > If a claimant arrives more than 15 minutes late for a hearing, RPD members may either adjourn the hearing or schedule a special hearing to decide whether a claim should be declared abandoned. **The Guidelines do not state that the RPD will decide on abandonment immediately.**
+
+???+ note "Beginning Proceedings"
+
+    1. If the claimant wishes to use a document in a hearing, they must provide a copy of the document to the RPD. Failing to do so will result in the claimant being forbidden from using the document.
+        - [ ] True
+        - [x] False
+        > Under RPD **Rule 34**, when a party wants to use a document in a hearing, they must provide a copy to the **other party and the RPD**. If the party fails to do so, the RPD can decide to **nevertheless allow the document** to be used under Rule 36.
+
+    2. If the Minister wishes to intervene at an appeal before the RAD, the Minister must provide a written notice to the RAD only. Any evidence can be submitted at the RAD hearing.
+        - [ ] True
+        - [x] False
+        > Under RAD **Rule 4(1)**, **the Minister must provide**, first to the appellant and then to the RAD, **a written notice of intervention, together with any documentary evidence** that the Minister wants to rely on in the appeal. The RAD rarely holds hearings and may only do so when the requirements of IRPA, s 110(6) are met.
+
+    3. After an RPD hearing, the member must always provide a written decision and/or reasons to the decision to the claimant in 14 days.
+        - [ ] True
+        - [x] False
+        > Under RPD **Rule 10(8)**, the RPD member must **render an oral decision and reasons at the hearing unless it is not practicable to do so**.
+
+    4. If a party wishes to provide a document as evidence after a hearing, the RPD can decide to accept it based on which of the following factor(s)? Click all that apply.
+        - [x] Whether the party could have provided the document during the hearing with reasonable efforts
+        - [x] Whether this document brings any new evidence to the proceeding
+        - [x] Whether the document is probative
+        - [x] Whether the document is relevant to the proceeding
+
+    5. Claimants may request extensions of time to complete Basis of Claim Form; however, extensions will not be granted for medical reasons.
+        - [ ] True
+        - [x] False
+        > Applications for **extensions** of time to submit the Basis of Claim form can be made **for medical reasons under Rule 8(3) of RPD**.
+
+    6. Phoebe wishes argue at the RAD that the RPD’s decision to only allow her counsel to ask her questions on two issues infringed her right to a fair hearing under section 7 of the Canadian Charter of Rights and Freedoms. She must complete **a notice of constitutional question** in accordance with RAD Rule 25.
+        - [ ] True
+        - [x] False
+        > A notice of **constitutional question** – at either the RPD or the RAD – is required only for challenges to the “**the constitutional validity, applicability or operability of ==a legislative provision==.**” Phoebe’s challenge is to a discretionary decision made by the RPD. See RPD subrule 66(1) and RAD subrule 25(1).
+
+    7. A claimant can only raise a constitutional question at the RAD if they first raised the question before the RPD.
+        - [ ] True
+        - [x] False
+        > RAD **Rule 25** sets out the requirements for raising a constitutional question at the RAD. **It does not require the issue to have been raised at the RPD**.
+
+    8. When a counsel wishes to **terminate representation** of a claimant, they can do so during the RPD proceeding by asking for leave to do so.
+        - [ ] True
+        - [x] False
+        > According to **RPD subrule 15(1)**, counsel must first provide to the claimant and to the Minister, if the Minister is a party, a copy of a **written request to be removed** and then provide the written request to the Division, no later than **three working days before** the date fixed for the next proceeding. ==A request to be removed as counsel of record may only be made at the hearing if it is impossible to comply with subrule 15(1).==
+
+    9. In an RPD hearing of a claim for refugee protection where the Minister is not a party, the RPD member will typically question the claimant first.
+        - [x] True
+        - [ ] False
+
+    10. After filing the Basis of Claim Form, the applicant will not be able to make any subsequent changes.
+        - [ ] True
+        - [x] False
+        > Changes or additions to Basis of Claim Form can be made under RPD Rule 9.<br>
+        > 9 (1) To make changes or add any information to the Basis of Claim Form, the claimant must <br>
+        > (a) provide to the Division the original and a copy of each page of the form to which changes or additions have been made; <br>
+        > (b) sign and date each new page and underline the changes or additions made; and <br>
+        > (c) sign and date a declaration stating that <br>
+        >   - (i) the information given by the claimant in the Basis of Claim Form, together with the changes and additions, is complete, true and correct, and<br>
+        >   - (ii) the claimant understands that the declaration is of the same force and effect as if made under oath.<br>
+        > (2) The documents referred to in subrule (1) must be provided to the Division without delay and must be received by it no later than **10 days before** the date fixed for the hearing.
+
+    11. Which of the following is/are factors the RPD will consider in determining whether a claimant is unable to appreciate the nature of the proceedings and hence requires a designated representative? (Choose all that apply).
+        - [x] The claimant’s behaviour at the proceeding
+        - [x] The evidence of an expert witness on the claimant’s intellectual capacity
+        - [ ] Specialized knowledge with respect to claimants with similar circumstances
+        - [ ] The claimant’s age or educational credentials
+        > RPD Rule 20(5) lists the factors to consider when determining if a claimant is unable to appreciate the nature of the proceedings: (a) whether the person can **understand** the reason for the proceeding and can instruct counsel; (b) the person’s **statements and behaviour** at the proceeding; (c) **expert** evidence, if any, on the person’s intellectual or physical faculties, age or mental condition; and (d) whether the person has     designated for a proceeding in another division of the Board.
