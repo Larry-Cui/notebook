@@ -67,3 +67,5 @@ This concludes the proof the $e^x$ derivative:
     \[
     f'(x) = \frac{e^{x+h} - e^x}{h} = e^x \cdot \lim_{h \rightarrow 0} \frac{e^h -1}{h} = e^x \cdot 1 = e^x
     \]
+
+Khan Academy also has [a details explanation](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-7/a/proof-the-derivative-of-is){:target="\_blank"} help you navigate through the proof process. 
