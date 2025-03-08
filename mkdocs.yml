@@ -6,8 +6,9 @@ copyright: Copyright &copy; 2021-2025 Haddock
 
 nav:
   - Math:
-      - Math123: math/math123/math123.md
-      - Fun Math: math/Fun_Questions/2022-10-04-compareNum.md
+      - Number Theory: math/math123/2022-9-03-number.md
+      - Trig Limit: math/math123/2022-10-05-triglimit.md
+      - e Derivative: math/math123/2025-03-07-derivativeE.md
   - Computer:
       - Algorithm: Computer/algo/index.md
         # - Bubble Sort: Computer/algo/2022-8-30-bubblesort.md
