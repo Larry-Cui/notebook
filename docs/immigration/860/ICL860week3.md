@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 3: Refugee Protection Claim"
+title: "Week 3: Inclusion-I"
 date: 2025-03-06
 draft: false
 categories:
@@ -11,7 +11,7 @@ tags:
   - Quizzes
 ---
 
-# Week 2: Refugee Protection Claim in Canada
+# Week 3: Inclusion-I
 
 ## Notes
 
