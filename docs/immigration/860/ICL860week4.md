@@ -55,7 +55,7 @@ tags:
             - Paragraphs 34 to 50
         - Aiken et al., Immigration and Refugee Law: Cases and Materials, 3d ed. (Emond, 2020), pp. 1002-1011, [PDF](https://drive.google.com/file/d/1lYQ1NrLRoZr4hnEz3m71_ZNvF7IWLG3R/view?usp=sharing){:target="\_blank"}
 
-??? note "Nexus to a Convention Ground"
+??? note "module content"
 
     - The fear of persecution must be “for reasons of” one of the five Convention grounds. This is commonly referred to as the **“nexus”** requirement.:
         - Race
@@ -63,12 +63,13 @@ tags:
         - Nationality
         - Membership in a particular social group 
         - Political opinion
-
+    - Failure to rebut the **presumption of state protection** or to show the absence of **an internal flight alternative** are common grounds for rejecting refugee protection claims.
+    - Once more, *Ward* is a crucial case on state protection, as are *Hinzman* and *Flores & Carillo*. Meanwhile, *Thirunavukkarasu* is a leading case setting out the test for determining whether there is an internal flight alternative.
 
 
 ## Quizzes
 
-???+ note "Nexus, with a Focus on Membership in a Particular Social Group, Political Opinion"
+??? note "Nexus, with a Focus on Membership in a Particular Social Group, Political Opinion"
 
     1. A refugee claimant has previously belonged to a terrorist group. The terrorist group no longer exists. Under the Supreme Court's decision in *Ward*, the claimant would not receive refugee protection under the "particular social group" definition. 
 	    - [ ] True
@@ -90,7 +91,7 @@ tags:
 	    - [x] True
 	    - [ ] False
 
-    5. The fact that violence against women is common in Canada is relevant when considering whether a claim based on gender-based violence can succeed before the RPD or RAD. 
+    5. The fact that violence against women is common is relevant when considering whether a claim based on gender-based violence can succeed before the RPD or RAD. 
 	    - [ ] True
 	    - [x] False
         > See section B of the IRB, Chairperson Guidlines 4: Women Refugee Claimants Fearing Gender-Related Persecution (November 13, 1996): "The fact that violence, including sexual and domestic violence, **against women is universal is irrelevant** when determining whether rape, and other gender-specific crimes constitute forms of persecution. The real issues are whether the violence -- experienced or feared -- is a serious violation of a fundamental human right for a Convention ground."
@@ -105,7 +106,7 @@ tags:
         - [ ] Fantine may establish her claim under each of the Convention grounds. 
         - [ ] Fantine may not establish her claim because no one Convention ground can be said to substantially contribute to her well-founded fear of persecution. 
         - [ ] Fantine may establish her claim based on race, nationality, religion and membership in a particular social group, but not based on political opinion. 
-        > Although Fantine's claim potentially has a nexus to four different Convention grounds --  as suggested by D – we need to know more about why Fantine herself was targeted before coming to a conclusion about which Convention ground applies. 
+        > Although Fantine's claim potentially has a nexus to four different Convention grounds --  as suggested by D – we need to know more about **why Fantine herself was targeted** before coming to a conclusion about which Convention ground applies. 
 
     8. The Court in *Klinko v Canada*, [2000] 3 FC 327 (CA) held that a political opinion ceases to be political when the ruling government agrees with such opinion. 
 	    - [ ] True
@@ -122,6 +123,120 @@ tags:
         - [ ] Yes. A political opinion does not depend on the government's agreement.
         - [x] Maybe. If corruption is widespread enough, then denouncing the corruption can be an expression of "political opinion". 
         > See *Klinko v Canada*, [2000] 3 FC 327 (CA) at paras 34-35: "I have no doubt that the widespread government corruption raised by the claimant's opinion is a 'matter in which the machinery of state, government, and policy may be engaged' … Where, as in this case, the corrupt elements so permeate the government as to be part of its very fabric, **a denunciation of the existing corruption is an expression of 'political opinion'**. "
+
+    11. The evidence in a claim establishes the following on a balance of probabilities: Gemma has been singled out for arrest after publishing a leaflet. In it, she criticized the ruling political party's arrest and torture of homosexuals. Gemma is homosexual, but the authorities do not believe she is. Assuming there are no further relevant facts, which of the following statements best characterizes the nature of her claim? Choose one. 
+        - [ ] Gemma can claim a well-founded fear of persecution because of her political opinion. 
+        - [ ] Gemma can claim a well-founded fear of persecution because of her membership in a particular social group.
+        - [x] Gemma can claim a well-founded fear of persecution because of **her political opinion and her membership** in a particular social group.
+        - [ ] Gemma can claim a well-founded fear of persecution because of her political opinion or her membership in a particular social group, but not both. 
+
+    12. The evidence in a claim establishes the following on a balance of probabilities: Gemma has been singled out for arrest after publishing a leaflet. In it, she criticized the ruling political party's arrest and torture of homosexuals. Gemma is not homosexual, and the authorities do not believe she is homosexual. Assuming there are no further relevant facts, **can Gemma claim a well-founded fear of persecution because of her political opinion**? 
+        - [x] Yes
+        - [ ] No
+        - [ ] It depends
+        > 
+
+    13. *Femenia v. Canada (Minister of Citizenship and Immigration)*, [1995] F.C.J. No. 1455 (T.D.) (QL) clarified the meaning of "engaged" as meaning "sanctioned by, condoned by, or supported by". The Federal Court of Appeal in *Klinko v Canada*, [2000] 3 FC 327 (CA) stated that *Femenia* is consistent with the Supreme Court's decision in Ward. 
+	    - [ ] True
+	    - [x] False
+        > The Court in *Klinko* held that the meaning given to the word "engaged" in *Femenia* is inconsistent with the law as set forth in *Ward*. See paras 24-25 of the decision. 
+
+    14. For a claimant to establish that their well-founded fear of persecution is due to their political opinion, they must have expressed their opinion in words.
+	    - [ ] True
+	    - [x] False
+        > In *Ward*, Justice LaForest explained that some claimants may not have the opportunity to articulate their beliefs, but their beliefs can be perceived from their actions. **The absence of expression in words** may make it more difficult for the claimant to establish the relationship between their political opinion and the feared persecution, but it **does not preclude protection** of the claimant. See para 82 of Ward v Canada (Minister of Employment & Immigration) (QL). 
+
+    15. In *Ward*, the court was not worried that it was making refugee protection too widely available by defining political opinion to include any dissent against any organization because: 
+        - [ ] The claimant's political opinion must be grounded in their words and/or actions. 
+        - [ ] The claimant must subjectively fear persecution.
+        - [x] The claimant's dissent must be **rooted in an actual or imputed political conviction**.
+        - [ ] The persecuting organization must correctly believe the claimant held the opposing political beliefs. 
+
+    16. In Ward, Justice LaForest held that "particular social group" is broadly defined, aiming to catch possible gaps in the other enumerated grounds for persecution in the Convention refugee definition.
+	    - [ ] True
+	    - [x] False
+        > See paragraph 59 of *Ward v Canada (Minister of Employment & Immigration)* (QL).
+
+    17.  In *Ward*, the SCC held that the members of the INLA do not constitute a "particular social group" because: 
+        - [x] Using violent methods to achieve independence from the UK is not essential to members' human dignity. 
+        - [ ] The members joined INLA voluntarily, without any coercion. 
+        - [ ] The INLA disbanded and therefore cannot persecute individuals. 
+        - [ ] The INLA did not have a legitimate lawful objective. 
+        > See para 79 of *Ward v Canada (Minister of Employment & Immigration)* (QL). There, Justice LaForest held that, although the fight for independence from the United Kingdom and unification with the Irish Republic may be very serious political ends for INLA members, *requiring them to abandon violence would not amount to an abdication of their human dignity*. 
+
+    18. In *Tobias Gomez v Canada (Citizenship and Immigration)*, why was the objective evidence showing those who resist gangs in El Salvador may be subject to retribution not sufficient to support a finding that there was a nexus to the political opinion? 
+        - [ ] The claimant also needed to show evidence of their own actual resistance to the criminal gangs. 
+        - [ ] Because the Mara-18 is a criminal gang and not the government, and therefore the claimant's resistance would not be "political opinion." 
+        - [x] Documentary evidence did not suggest the Mara-18 saw resistance to them as a **political stand**. 
+        - [ ] Because the claimant did not seek state protection, which would have been an avenue for them to express their political opinion. 
+
+    19. Which of the following groups have been recognized as particular **social groups** by the courts? Click on all that apply. 
+        - [x] Men victimized by the former abusive partner of their spouse
+        - [x] Abandoned children
+        - [x] Trade unions
+        - [ ] Members of a cooperative of taxi drivers
+        - [x] The poor
+        - [ ] Haitian citizens returning home after a stay abroad
+
+    20. Whether or not a nexus has been established must be evaluated from whose perspective? 
+        - [ ] The RPD or RAD.
+        - [ ] The refugee protection claimant. 
+        - [x] The agent of persecution.
+        - [ ] An impartial spectator, as set out in Adam Smith's The Theory of Moral Sentiments. 
+        > See *Ward v Canada (Minister of Employment & Immigration)* (QL) at para 83.
+
+    21. The Convention ground of "nationality" may include which of the following? Click on all that apply. 
+        - [x] Nationality in the sense of "citizenship"
+        - [x] Nationality in the sense of "ethnic group"
+        - [x] Nationality in the sense of "linguistic group"
+        - [x] Race
+        > See UNHCR, Handbook on Procedures and Criteria for Determining Refugee Status and Guidelines for Protection (Geneva: UNHCR, 2019) at para 74. Note that it is written that "[w]hen used as one of the five grounds, 'nationality' does not mean the same thing as 'citizenship'" in chapter 4 of the IRB's Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019) at section 4.3. However, the point being made there is that the meaning of **"nationality" is broader than simply citizenship**. 
+
+    22. Which of the following is **NOT** a category under the test for "particular social group" as adopted by the court in Ward v Canada (Minister of Employment & Immigration)? Click on all that apply.
+        - [ ] Groups defined by an immutable or unchangeable characteristic. 
+        - [ ] Groups of persons associated with one another for reasons fundamental to their human dignity. 
+        - [ ] Groups associated by former voluntary status.
+        - [x] Groups who have been together for a long time, like the Rolling Stones. 
+
+    23. In *Ward*, although it was held that INLA is not a "particular social group", the court agreed that the applicant's fear was based on his membership with the INLA.  
+	    - [ ] True
+	    - [x] False
+        > **The Court did not accept that the applicant's fear was based on his membership**. It found *Ward* was the target of "a highly individualized form of persecution". See para 79 of the decision. 
+
+    24. For an opinion to count as a **"political" opinion**, it must:
+        - [ ] Concern a political party – in or out of power – or any law, policy, or decision supported by that party.
+        - [x] **Concern a matter in which the machinery of state, government, and policy may be engaged**.
+        - [ ] Concern a matter in which the machinery of state, government, and policy or any powerful non-state group in society may be engaged. 
+        - [ ] Concern the interests and power of the members of the political and economic elite.
+
+    25. According to the UNHCR Handbook, as referenced in Ward, the refugee claimant must **raise all potential reasons** for persecution in order for the decision-maker to decide whether the "Convention refugee" definition is met. 
+	    - [ ] True
+	    - [x] False
+        > The court notes that the UNHCR Handbook on Procedures and Criteria for Determining Refugee Status at paragraph 66 states that it is not the duty of a claimant to identify the reasons for the persecution. **It is for the examiner to decide whether the Convention definition is met.** See para 80 of *Ward v Canada (Minister of Employment & Immigration)* (QL). 
+
+    26. The evidence in a claim establishes the following on a balance of probabilities: Hiram belongs to a minority religion whose members face a reasonable chance of persecution. His religion does not require public worship or other public manifestations of belief (including forms of dress). Hiram could therefore continue to practice his religion without publicly revealing it. Which of the following statements best characterizes the nature of her claim? Choose one. 
+        - [ ] Hiram does not face a well-founded fear of persecution since he can practice his religion without revealing it. 
+        - [ ] Hiram faces a well-founded fear of persecution for reasons of his religion even his religion remains unknown. 
+        - [ ] Hiram faces a well-founded fear of persecution for reasons of his religion because there is a reasonable chance it may become known.
+        - [x] We do not have enough facts to answer this question. 
+        > What is needed are facts about **how likely it is that Hiram's religious affiliation might become known even though he need not reveal it.** Otherwise, the facts do not reveal any persecution of Hiram; in particular, because his faith requires no public worship or other manifestations, he is not being asked to conceal it. 
+
+    27. The Court in *Klinko v Canada*, [2000] 3 FC 327 (CA) held that to establish a nexus based on **political opinion**, it is sufficient that **the state or machinery of state "may be engaged"** in the issue that is the subject of the opinion. 
+	    - [x] True
+	    - [ ] False
+
+    28. Patricia comes from the country of Phionia where criminality, including rape, is widespread. The police are largely ineffective. There is no question that Patricia is at risk. However, in deciding her claim, the RPD member writes: "Both men and women from Phionia face a risk of criminality, therefore the claimant has not established a nexus to a Convention ground." ==This was an error.==
+	    - [x] True
+	    - [ ] False
+        > While for a time the case law was inconsistent, in 2010 the Federal Court definitively stated **it is an error to dismiss gender-based violence as a mere incidence of generalized criminality**: *Dezameau v Canada (Citizenship and Immigration)*, 2010 FC 559; *Josile v Canada (Citizenship and Immigration)*, 2011 FC 39. However, a claimant must nonetheless establish that they are **personally at risk**. 
+
+
+
+
+
+
+
+
 
 
 
