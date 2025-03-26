@@ -230,6 +230,186 @@ tags:
 	    - [ ] False
         > While for a time the case law was inconsistent, in 2010 the Federal Court definitively stated **it is an error to dismiss gender-based violence as a mere incidence of generalized criminality**: *Dezameau v Canada (Citizenship and Immigration)*, 2010 FC 559; *Josile v Canada (Citizenship and Immigration)*, 2011 FC 39. However, a claimant must nonetheless establish that they are **personally at risk**. 
 
+??? note "State Protection and Internal Flight Alternative"
+
+    1. Where the state itself is the alleged agent of persecution, a claimant may not need to exhaust all recourses to rebut the presumption of state protection. In fact, the presumption does not apply. 
+	    - [ ] True
+	    - [x] False
+        > See *Hinzman v Canada (Citizenship and Immigration)*, [2007 FCA 171](https://canlii.ca/t/1rb2c){:target="\_blank"} at paragraphs 53-54. "... The presumption of state protection described in Ward, therefore, **applies equally to cases** where an individual claims to fear persecution by non-state entities and to cases where the state is alleged to be a persecutor."
+
+    2. According to *Ward*, a claimant must have approached the state for protection in order to show the state's inability to protect the claimant. 
+	    - [ ] True
+	    - [x] False
+        > See para 49 of *Canada (Attorney General) v. Ward*, [1993] S.C.J. No. 74 (QL): The claimant will not meet the definition of "Convention refugee" where it is objectively unreasonable for the claimant not to have sought the protection of his home authorities; otherwise, **the claimant need not literally approach the state**. 
+
+    3. The RPD issues written reasons rejecting a claim for protection by Jan, a member of Oppressed Group from Country. After setting out various legislative initiatives and government announcements, the RPD concludes that the country has made "serious efforts" to provide adequate protection to members of Oppressed Group, such as Jan. It therefore concludes that Jan has not rebutted the presumption of state protection. Based on these facts, which statement below best characterizes the RPD's decision? 
+        - [ ] The decision is likely correct because the standard of protection is not perfection.
+        - [x] The decision is likely in error because it considered only government's efforts to provide protection **without inquiring into whether its efforts had achieved operational adequacy**. 
+        - [ ] The decision is likely in correct because to go beyond the inquiry into serious efforts would shift the burden onto the RPD to prove adequate state protection. However, the onus is always on the claimant to establish each element of their claim.
+        - [ ] The decision is likely in error because the standard is not whether protection is "adequate" but whether Jan faces a reasonable chance of persecution on a Convention ground. 
+
+    4. Which of the following is true about the principle of "internal flight alternative" as mentioned in *Thirunavukkarasu v Canada (Minister of Employment and Immigration)*? (select all that apply)
+        - [ ] The decision-maker should ask whether, given the persecution in the claimant's part of the country, is it subjectively reasonable to expect them to seek safety in another part of the country before pursuing a refugee claim in Canada. 
+        - [x] An internal flight alternative must be **realistic**, not just speculative or theoretical.
+        - [x] Someone escaping persecution should not be expected to live in an **isolated part** of their country (such as a "cave in the mountains, or in a desert or a jungle") to seek safety.
+        - [ ] A claimant may be expected to relocate to an internal flight alternative even if they would encounter great physical danger in travelling or staying there. 
+
+    5. In *Hinzman v Canada (Citizenship and Immigration)*, 2007 FCA 171 the court held that because the U.S. is a democratic country with balances among its three branches of government, the claimant's evidentiary burden is high to rebut the presumption that the U.S. is capable of protecting its citizen. 
+	    - [x] True
+	    - [ ] False
+
+    6. The requirement to rebut the presumption of state protection is an independent criterion for establishing that a claimant is a refugee. 
+	    - [ ] True
+	    - [x] False
+        > See also IRB, Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019) chapter 6, section 6.1: "… the state's ability to protect the claimant is a crucial element in **determining whether the fear of persecution is well founded**, and as such, is **not an independent element** of the definition."
+
+    7. As mentioned in *Flores Carrillo v Canada (Minister of Citizenship and Immigration)*, 2008 FCA 94, what is the standard of proof assumed by the claimant to show that **state protection is inadequate**? 
+        - [ ] Reasonable grounds to believe.
+        - [ ] Beyond a reasonable doubt.
+        - [x] Balance of probabilities.
+        - [ ] Reasonable possibility. 
+
+    8. According to *Flores Carrillo v Canada (Minister of Citizenship and Immigration)*, 2008 FCA 94 the claimant must convince the trier of fact that the evidence establishes that state protection is inadequate. What is this burden called? 
+        - [ ] Evidentiary burden. 
+        - [x] **Legal burden of persuasion**.
+        - [ ] Balance of probabilities.
+        - [ ] Legal evidentiary burden.
+
+    9. Justice LaForest in *Ward* rejected the idea that there should be a presumption of state protection. He reasoned that such a presumption would render refugee protection a false promise.
+	    - [ ] True
+	    - [x] False
+
+    10. Which of the following factors are to be considered in the contextual approach to state protection? Click on all that apply. 
+        - [x] **The profile of the alleged agent(s) of persecution.**
+        - [ ] The efforts the claimant took to seek protection from community groups. 
+        - [x] **The available documentary evidence.**
+        - [ ] Whether a member of a minority has historic reasons for distrusting the authorities. 
+        > See IRB, *Interpretation of the Convention Refugee Definition in the Case Law* (March 31, 2019)chapter 6, section 6.1, citing *Gonzalez Torres v. Canada (Citizenship and Immigration)*, 2010 FC 234.
+
+    11. Which of the following accurately states the test for finding that a claimant has an internal flight alternative (IFA) and that their claim should therefore be rejected? 
+        - [ ] The RPD/RAD must be satisfied on a balance of probabilities that there is no serious possibility of the claimant being persecuted in the IFA. (2) Conditions in the part of the country considered to be an IFA must be such that it would not be unreasonable for a person of average hardiness to seek refuge there.
+        - [ ] The RPD/RAD must be satisfied on a balance of probabilities that there is an absence of adequate state protection in the IFA. (2) Conditions in the IFA must be such that it would not be unreasonable for an adult of average hardiness to seek refuge there; different standards apply with respect to minor claimants. 
+        - [x] The RPD/RAD must be satisfied on a balance of probabilities that there is **no serious possibility of the claimant being persecuted in the IFA**. (2) Conditions in the IFA must be such that it would **not be unreasonable, in all the circumstances**, including those particular to the claimant, for him to seek refuge there. 
+        - [ ] The RPD/RAD must be satisfied beyond  a serious possibility that the claimant would not be persecuted in the part of the country to which it finds an IFA exists. (2) Conditions in the IFA must be such that it would not be unreasonable, in all the circumstances, including those particular to the claimant, for him to seek refuge there. 
+
+    12.  In *Hinzman v Canada (Citizenship and Immigration)*, 2007 FCA 171 the Federal Court of Appeal stated that to rebut the presumption of state protection, a claimant needs to show they exhausted the **common methods** of challenging the state's decision. 
+	    - [ ] True
+	    - [x] False
+        > The claimant would be required to prove that they **exhausted all the domestic avenues available without success**. See para 46 of the decision. 
+
+    13. In *Thirunavukkarasu v Canada (Minister of Employment and Immigration)*, the court held that if the Minister and/or the IRB plans to raise the issue of "**internal flight alternative**", they **must notify the claimant**.  
+	    - [x] True
+	    - [ ] False
+
+    14. The more democratic a state's institutions, the more the claimant must have done to exhaust the course of action open to them in order to rebut the presumption of state protection. 
+	    - [x] True
+	    - [ ] False
+
+    15. In *Thirunavukkarasu v Canada (Minister of Employment and Immigration)*, the Federal Court of Appeal held that an "internal flight alternative" is a legal defense that prevents a successful refugee claim.  
+	    - [ ] True
+	    - [x] False
+        > See para 2 of the decision: "[T]he notion of an internal flight alternative (IFA) is **not a legal defence**. Neither is it a legal doctrine. It merely is a convenient, short-hand way of describing a fact situation in which a person may be in danger of persecution in one part of a country but not in another." **Rebuttal of objectively based fear**.
+
+    16. In *Ward*, Justice LaForest found that it should be presumed the state can protect the claimant **unless** (click on all that apply):
+        - [ ] The claimant is not a citizen of the state.
+        - [x] State authorities have admitted they cannot protect the claimant.
+        - [x] The state has completely broken down.
+        - [ ] The claimant is a member of the police or another state body. 
+
+    17. What kind of evidence must a claimant provide to rebut the presumption of state protection? 
+        - [ ] Documentary evidence from reputable human rights organizations. 
+        - [ ] The testimony of similarly situated individuals regarding their feared persecution.
+        - [ ] Media reports of a complete breakdown of the state apparatus. 
+        - [x] Clear and convincing confirmation. 
+
+    18. When considering whether laws in a country of origin provide adequate state protection to a person whose refugee protection claim is based on their sexual orientation and their gender identity and/or expression, the RPD or RAD should take the following into account (click on all that apply): 
+        - [ ] The intent of legislators. 
+        - [x] The **durability** of the legislative changes.
+        - [x] The **effectiveness** of the measures taken. 
+        - [ ] Whether the claimant campaigned for the policy changes. 
+
+    19. Which of the following **principles** have been established with respect to possible internal flight alternatives? (Choose all that apply)  
+        - [ ] A region or city on the other side of a vast country (like Russia) can be presumed to be an IFA.
+        - [x] The fact that the alleged **agent of persecution is a national authority does not on its own establish that there is no IFA**.
+        - [x] **Big cities cannot be found to be an IFA solely because of their size**.
+        - [ ] The evaluation of the safety of an IFA can be based on the assumption that a claimant will go by a different name. 
+
+    20. In *Ward*, Justice LaForest found a claim will be defeated if the claimant fails to seek state protection so long as: 
+        - [x] Protection might **reasonably have been forthcoming**.
+        - [ ] There was a chance of receiving protection.
+        - [ ] There was a good chance of receiving protection.
+        - [ ] The claimant is not a member of the police or another state body. 
+
+    21. According to *Flores Carrillo v Canada (Minister of Citizenship and Immigration)*, 2008 FCA 94, it may be difficult for some claimants to rebut the presumption of state protection compared to other claimants.  
+	    - [x] True
+	    - [ ] False
+
+    22. In *Flores Carrillo v Canada (Minister of Citizenship and Immigration)*, 2008 FCA 94, the Federal Court of Appeal agreed with the Refugee Protection Division that the requirement of "**clear and convincing confirmation**" of a state's inability to protect a claimant **imposed a higher standard of proof** than the balance of probabilities. 
+	    - [ ] True
+	    - [x] **False**
+
+    23. Whether a claimant must approach non-state authorities or a police oversight board to rebut the presumption of state protection is a determination to be made on the facts of a particular case. 
+	    - [x] True
+	    - [ ] False
+
+    24. In *Thirunavukkarasu v Canada (Minister of Employment and Immigration)*, the Federal Court of Appeal held that the burden of proof for establishing there is an "internal flight alternative" rests with the Minister, since it is up to the Minister to show the claimant is excluded from refugee protection. 
+	    - [ ] True
+	    - [x] False
+        > See paras 5-9 of the decision: Convention refugee **claimants carry the onus of establishing that they satisfy all of the components** of the definition of a Convention refugee. 
+
+    25. According to *Hinzman v Canada (Citizenship and Immigration)*, 2007 FCA 171 the ability of a state to protect its citizens factors into the claimant's subjective basis for their fear of persecution. 
+	    - [ ] True
+	    - [x] False
+        > The ability of a state to protect factors into the **claimant's objective basis** for their fear of persecution. See para 42 of the decision. See also IRB, Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019) chapter 6, section 6.1. 
+
+    26. According to *Flores Carrillo v Canada (Minister of Citizenship and Immigration)*, 2008 FCA 94, the claimant need only provide reliable evidence to rebut the presumption of state protection. 
+	    - [ ] True
+	    - [x] False
+        > The evidence needs to be **reliable**, but also **sufficiently probative** to meet the standard of proof. See paragraph 30 of the decision. 
+
+    27. The police force is presumed to be the main institution responsible for providing state protection. 
+	    - [x] True
+	    - [ ] False
+
+    28. In *Hinzman v Canada (Citizenship and Immigration)*, 2007 FCA 171 the court held that when sufficient state protection is available, the claimant's fear of persecution cannot be objectively well-founded. 
+	    - [x] True
+	    - [ ] False
+
+    29. When giving notice that it will be considering an internal flight alternative, the **RPD or RAD must name a specific location or region**. 
+	    - [x] True
+	    - [ ] False
+
+    30.  Justice LaForest approves of James Hathaway's characterization of refugee protection as a form of "surrogate or substitute protection" in the sense that it is meant to be **a form of "back-up" to the protection** that should be on offer from the authorities in a claimant's home country. 
+	    - [x] True
+	    - [ ] False
+
+    31. In *Thirunavukkarasu v Canada (Minister of Employment and Immigration)*, the court held that "internal flight alternative" was **implemented outside the definition** of "Convention refugee" in order to better assess legitimate claims.  
+	    - [ ] True
+	    - [x] False
+        > See para 2: The idea of an **internal flight alternative is inherent in the definition** of a Convention refugee. If claimants are able to seek safe refuge within their own country, there is no basis for finding they are unable or unwilling by reason of their well-founded fear of persecution to avail themselves of the protection of that country. 
+
+    32. According to Ward, what is the **lynch-pin of the analysis** of a claim for refugee protection?
+        - [ ] The state's unwillingness to protect a claimant.
+        - [x] **The state's inability to protect a claimant.** 
+        - [ ] Whether a claimant will actually be persecuted if returned to their country of origin. 
+        - [ ] Whether a claimant has an internal flight alternative.
+
+    33. Which of the following are true statements of principle concerning internal flight alternatives, as set out in *Thirunavukkarasu v Canada (Minister of Employment and Immigration)*? Click on all that apply. 
+        - [ ] The internal flight alternative is an additional requirement that has been tacked on to the Convention refugee definition. 
+        - [x] If it is reasonable to do so, a refugee claimant must seek internal flight alternative. 
+        - [x] The test for internal flight alternative is an objective one.
+        - [x] An internal flight alternative may be the basis for rejecting a claim so long as it is not unduly harsh to expect the claimant to relocate. 
+
+    34. Which of the following can be considered as **part of the assessment** of the reasonableness of a proposed IFA? Click on all that apply.
+        - [x] The instability of government in the proposed IFA. 
+        - [x] Psychological evidence regarding the claimant. 
+        - [x] The ability of a person who is homosexual to access employment, housing, or medical treatment.
+        - [x] In the case of a woman claimant, whether their gender would make it unsafe for them to travel to the IFA. 
+
+
+
+
+
 
 
 
