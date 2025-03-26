@@ -55,7 +55,7 @@ tags:
             - Paragraphs 34 to 50
         - Aiken et al., Immigration and Refugee Law: Cases and Materials, 3d ed. (Emond, 2020), pp. 1002-1011, [PDF](https://drive.google.com/file/d/1lYQ1NrLRoZr4hnEz3m71_ZNvF7IWLG3R/view?usp=sharing){:target="\_blank"}
 
-??? note "module content"
+???+ note "module content"
 
     - The fear of persecution must be “for reasons of” one of the five Convention grounds. This is commonly referred to as the **“nexus”** requirement.:
         - Race
@@ -65,7 +65,9 @@ tags:
         - Political opinion
     - Failure to rebut the **presumption of state protection** or to show the absence of **an internal flight alternative** are common grounds for rejecting refugee protection claims.
     - Once more, *Ward* is a crucial case on state protection, as are *Hinzman* and *Flores & Carillo*. Meanwhile, *Thirunavukkarasu* is a leading case setting out the test for determining whether there is an internal flight alternative.
-
+    - Rule 11 of the RPD Rules states: 
+        - The claimant must provide acceptable documents **establishing their identity and other elements of the claim**. A claimant who does not provide acceptable documents must explain why they did not provide the documents and what steps they took to obtain them. 
+    - Proving the Case: Francisco Ramírez López. Please check out this [sample answer](https://drive.google.com/file/d/1HldLcDAzcAiHXlttdhNP9RyYQ7p-1kOI/view?usp=sharing){:target="\_blank"}.
 
 ## Quizzes
 
