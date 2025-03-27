@@ -55,7 +55,7 @@ tags:
             - Paragraphs 34 to 50
         - Aiken et al., Immigration and Refugee Law: Cases and Materials, 3d ed. (Emond, 2020), pp. 1002-1011, [PDF](https://drive.google.com/file/d/1lYQ1NrLRoZr4hnEz3m71_ZNvF7IWLG3R/view?usp=sharing){:target="\_blank"}
 
-???+ note "module content"
+??? note "Module Content"
 
     - The fear of persecution must be “for reasons of” one of the five Convention grounds. This is commonly referred to as the **“nexus”** requirement.:
         - Race
@@ -68,6 +68,46 @@ tags:
     - Rule 11 of the RPD Rules states: 
         - The claimant must provide acceptable documents **establishing their identity and other elements of the claim**. A claimant who does not provide acceptable documents must explain why they did not provide the documents and what steps they took to obtain them. 
     - Proving the Case: Francisco Ramírez López. Please check out this [sample answer](https://drive.google.com/file/d/1HldLcDAzcAiHXlttdhNP9RyYQ7p-1kOI/view?usp=sharing){:target="\_blank"}.
+    - The Narrative of Olga Yarenchenko
+        - Facts Helping to **Rebut** the **Presumption of State Protection** 
+            - Called the **police** when twice attacked, and the police did not take the attacks seriously. (Narrative) 
+            - Current Criminal **Code** does not recognize homophobic/transphobic attacks as hate crimes (p 49).
+            - Guidelines for **investigation** of hate crimes promulgated in 2016 suffer from various inadequacies (p 51). 
+            - Nash Mir did not find evidence of improvement in terms of violence and discrimination toward LGBT people between 2012-2013 and 2014-2016 (p 52). 
+            - There is an “unacceptably high level of homophobia and transphobia expressions among law enforcement officers” (p 54).
+        - Facts Helping to **Support** the **Presumption of State Protection**
+            - The Ukrainian government in 2015 adopted an **Action Plan** provided for amendments to the Criminal Code to punish crimes motivated by, inter alia, intolerance based on sexual orientation and transsexuality (p 50). 
+            - Chief **Investigation** Department of the Ministry of the Interior in 2016 began collecting data on cases of hate crimes based on motives other than those mentioned in Criminal Code (p 50). 
+            - **Guidelines** for investigation of hate crimes promulgated in 2016 (p 50). 
+            - Newly formed **patrol police** has a much better reputation among the Ukrainian LGBT community (p 54). 
+            - The National Police **Leadership** has been willing to work with LGBT and human rights organizations in developing new policies, preventing discrimination, and protecting vulnerable minorities (p 54). 
+            - **Victims** of crimes against life and health based on “non-traditional sexual orientation” are only gay men (p 55). 
+        - **Conclusion:** This case is borderline. On the one hand, you might conclude that the claimant has rebutted the presumption of state protection. The documentary evidence shows that protection is inadequate. While the Ukrainian government has announced an Action Plan and pursued other initiatives to protect LGBT people, the evidence shows that **those actions have yet to translate into operational results** (Zalzali). On the other hand, taking a contextual approach to the issue (Gonzalez Torres), you might conclude that, given that the claimant is a lesbian and not a gay man (who are the only victims of crimes noted in a survey of court cases), the progress made by Ukrainian authorities is adequate in the circumstances. While the protection is imperfect, there are real improvements – including guidelines on investigating hate crimes, a newly-formed patrol police that is earning the trust of the LGBT community in the Ukraine, and a national police leadership willing to work with LGBT groups to make further changes.
+    - Case study on Rebutting the Presumption of State Protection
+        - Q1: The claimant alleges that she is a Convention refugee because her former boyfriend threatened to kill her when she refused to marry him. According to the claimant, she did not go to the police because she believed they were collaborating with her former boyfriend. The claimant asserts that her belief that the police were working with the agent of persecution is a sufficient explanation for her failure to seek police protection. Is the claimant's assertion accurate? Yes or no? Why?
+            - **No.** As noted in chapter 6 of the IRB’s guide to the Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019), “**The issue of state protection goes to the objective portion of the test of fear of persecution and it is not enough to simply assert a subjective belief that protection is not available.**” The IRB cites several cases to this effect. If the RPD makes no adverse credibility finding, the issue is one of the weight of the claimant’s evidence: on its own, her asserted belief is unlikely to qualify as “**clear and convincing evidence**” sufficient to displace the presumption of state protection. If the RPD makes an adverse credibility finding, then the assertion would likely be accorded even **less weight**.
+        - Q2: The claimant, a Sunni Muslim, was beaten in the street by a group of young Shia Muslims just outside the local police station. No one came to the claimant's aid despite his repeated calls for help. The claimant went to the police station and told them everything. The policeman, a Shia Muslim to whom the claimant told the story, said that he saw nothing and heard nothing. The claimant believed that the policeman knew the perpetrators well, sympathized with them, and did not want to help the claimant. The claimant asserts that the failure of the police to provide him with protection is sufficient to demonstrate the state's inability to adequately provide protection. Is the claimant's assertion accurate? Yes or no? Why?
+            - **Likely not.** The claimant bears the **onus** of rebutting the presumption of state protection by showing that **it is more likely than not that he will not receive adequate (not perfect) state protection**. To rebut the presumption, he must **take “all reasonable steps** in the circumstances” (see section 6.1.7.1 of chapter 6 of IRB, Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019)). Here it is unlikely that, without more evidence, the claimant should be found to have taken all reasonable steps. For instance, could the claimant have approached another policeman? Obviously, in such an assessment, the **country condition evidence will be important**. If that evidence, for example, shows that the police are predominantly Shia and that they discriminate against Sunnis, then the claimant’s assertion should be given more weight. However, no such facts are given here.
+    - Case study on IFA
+        - Q1: Mr. Bakkabulindi is a citizen of Uganda. He alleges persecution based on his sexual orientation. When he lived in Kampala, he was discovered by the police in a car with another man in a compromising situation. The police extorted him. Is there a viable IFA in Mbale? 
+            - **Likely not.** The **two-part test** for establishing an IFA requires: **(1) a finding on a balance of probabilities that there is no serious possibility of the claimant being persecuted in the IFA**; **(2) a finding that conditions in the proposed IFA are not such that it would be unreasonable, in all the circumstances, for the claimant to seek refuge there** (*Rasaratnam*; *Thirunavukkarasu*; see also IRB, Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019), chapter 8, section 8.1.)
+        - Q2: Ms. Chernyavskaya is a citizen of Russia. She alleges domestic abuse by her husband. Her husband is a farmer in lrbit, which is about 2000 km from Moscow. Is there a viable IFA in Moscow? 
+            - **Likely yes**, although it depends. The two-part test for establishing an IFA requires: (1) a finding on a balance of probabilities that there is no serious possibility of the claimant being persecuted in the IFA; (2) a finding that conditions in the proposed IFA are not such that it would be unreasonable, in all the circumstances, for the claimant to seek refuge there (*Rasaratnam*; *Thirunavukkarasu*; see also IRB, Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019), chapter 8, section 8.1.) 
+    - Section 96 or 97?
+        - Q1: The claimant is a citizen of Pakistan whose father, a policeman, was involved in the war on terrorism and arrested members of criminal and terrorist groups.  The claimant's father testified at their trial.  The claimant's father was the victim of an attempt on his life and his family members' lives were threatened.  The claimant argues that, as a family member, he fears persecution by reason of his membership in a particular social group. Does this fall under s. 96 or s. 97?  Or do you need more information to make this determination? 
+            - Section 96. “Family” may be considered a particular social group, but “for a derivative claim based on family membership to succeed, the **family member who is the principal target of the persecution must be subject to persecution for a Convention reason.**” (See IRB, Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019) chapter 4, section 4.5, fn. 44.) Here, then, **whether the claimant falls within a particular social group depends on whether his father belongs to a particular social group.** It seems that the father may belong to **a “group associated by a former voluntary status, unalterable due to its historical permanence”** – the third category of particular social groups mentioned in *Ward*. Indeed, the IRB’s handbook on the Convention refugee definition refers to a finding by the Federal Court that **“the children of police officers who are anti-terrorist supporters” can count as a particular social group** (see IRB, Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019) chapter 4, section 4.5, item 12, citing *Badran v Canada (Minister of Citizenship and Immigration)*, [1996] FCJ No 437.)
+        - Q2: The claimant's wife was found to be a Convention refugee on the basis of the domestic violence she experienced at the hands of her ex-boyfriend. The claimant alleged that the ex-boyfriend, a member of a notorious criminal gang, had threatened him because of his relationship with his wife. Does this fall under s. 96 or s. 97?  Or do you need more information to make this determination? 
+            - Section 96. The Federal Court has recognized the particular social group of “**men who become victims of abuse at the hands of former abusive partners of their spouse because of that relationship with their spouse**” (see IRB, Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019) chapter 4, section 4.5, item 7, citing Sebok v. Canada (Citizenship and Immigration), 2012 FC 1107). This is an instance of a case where family membership gives rise to a nexus because of membership in a particular social group. Note that **the claimant’s nexus depends on the fact that the wife has an independent nexus, as a victim of domestic abuse.**
+    - Torture?
+        - Q1: Mr. Singh is a citizen of India. He alleges he was beaten by the Punjab state police detained him for 5 days. They suspended him from the ceiling and hit him with belts. They wanted to know the whereabouts of his father, who is suspected to be a terrorist. Is this torture? Is there a nexus? 
+            - **There is no nexus**. The claimant was targeted because his father was an alleged terrorist. “Alleged terrorist” is not a “particular social group.” Because the father is not being targeted for a Convention ground, the claimant’s family relationship does not fall within the “particular social group” ground either.  That is, “family” may be considered a particular social group, but “for a derivative claim based on family membership to succeed, the family member who is the principal target of the persecution must be subject to persecution for a Convention reason.” (See IRB, Interpretation of the Convention Refugee Definition in the Case Law (March 31, 2019) chapter 4, section 4.5, fn. 44.) However, **this is torture**. There was severe pain or suffering was intentionally inflicted by public officials to obtain information. See the Schedule to the IRPA for the definition of torture. In this case, then, **if the claimant continues to face a danger of torture on a balance of probabilities, his claim under IRPA, s 97 may succeed.**
+        - Q2: Mr. Salei is a citizen of Russia. This year, the police raided his apartment complex and arrested a number of individuals belonging to a drug trafficking organization. The police also arrested Mr. Salei. They imprisoned him for three days and abused him, asking him if he was a drug trafficker. Later, he was released and then picked up again two months later. He was released and told that he would be watched for criminal activity. ls this torture? ls there a nexus? 
+            - There is no nexus. Mr. Salei is being targeted by police because of his apparent connections to a drug trafficking organization. That does not fall under any Convention ground. It is unclear if the case involved torture. Torture requires severe pain or suffering that is mental or physical. We need more facts about the “abuse” to know whether the definition of torture was met.
+                - There is **no nexus**. Mr. Salei is being targeted by police because of his apparent connections to a drug trafficking organization. That does not fall under any Convention ground. It is unclear if the case involved torture. **Torture requires severe pain or suffering that is mental or physical.** We need more facts about the “abuse” to know whether the definition of torture was met.
+    - Generalized Risk. In *Portillo*, Justice Gleason wrote that the analysis to determine if the **generalized risk exception** in IRPA, s 97(1)(b)(ii) applies must follow **two steps**: 
+        - **First, appropriately characterize the risk** faced by the claimant – including whether there is a future risk, what the risk is, whether the risk is one to his life or of cruel and unusual treatment or punishment, and the basis for the risk (see para. 40). 
+        - **Second, compare** the correctly-described **risk faced by the claimant to that faced by a significant group** in the country to determine if the risks are of **the same nature and degree** (see para. 41). 
+        - In this case, Mr. Pappa faces a future risk to his life because he refused to transport drugs across an international border for a criminal organization, the Perrones. The documentary evidence in the NDP speaks of the danger presented by gangs such as the Barrio 18, as well as the crimes committed by the Perrones (see various documents in section 7 of the NDP for El Salvador). However, threats of death due to recruitment into smuggling by the Perrones does not appear to be a widespread phenomenon – and thus not a risk faced by a significant group in the country. It is unmentioned (that we have found) in the documentary evidence in the NDP. Indeed, on the facts, Mr. Pappa appears to have been singled out because of the proximity of his home to the border with Honduras, as well as his dual citizenship.  
 
 ## Quizzes
 
@@ -407,6 +447,65 @@ tags:
         - [x] Psychological evidence regarding the claimant. 
         - [x] The ability of a person who is homosexual to access employment, housing, or medical treatment.
         - [x] In the case of a woman claimant, whether their gender would make it unsafe for them to travel to the IFA. 
+
+??? note "Complementary Protection"
+
+    1. To prove the **danger of torture**, the claimant must show the following except:
+        - [ ] Whether the act resulted in severe physical or psychological pain or suffering.
+        - [ ] Whether the act was intentionally inflicted by a state agent or public official. 
+        - [x] Whether the act was carried out **on a basis of race, gender, sexual orientation, or religion**. 
+        - [ ] Whether the act was carried out to intimidate, deter, coerce, control, revenge, punish, or gather information. 
+
+    2. Looking at the text of the provision, which of the following is/are **NOT** true of section 97 of the IRPA? Click on all that apply. 
+        - [x] Section 97 requires nexus to a Convention ground under paragraph (1)(b). 
+        - [x] Section 97 requires subjective fear under paragraph 1(a). 
+        - [x] Section 97 claims cannot be based on lawful sanctions, unless they result in torture. 
+        - [ ] The concept of internal flight alternative applies under paragraph 1(b). 
+        > See IRPA, s 97. **Section 97 does not require nexus or subjective fear.** While torture resulting from **a "lawful sanction" might lead to protection**, so would other punishments that are "imposed in disregard of accepted international standards." IRPA, s 97(1)(b)(ii) incorporates the requirement that **there be no internal flight alternative**.
+
+    3. Complementary protection is based on general human rights standards, rather than the 1951 Convention relating to the Status of Refugees. 
+	    - [x] True
+	    - [ ] False
+
+    4. Mack the Knife claimed refugee protection because he is facing 10 years of imprisonment for a bank robbery. Pretend that article 1F does not apply to his case, might he receive protection under IRPA, s 97? Click on all that apply. 
+        - [x] No, because the 10-year sentence is neither torture nor cruel and unusual treatment or punishment. 
+        - [ ] No, because of IRPA, s 97(1)(b)(ii). 
+        - [x] No, because of IRPA, s 97(1)(b)(iii).
+        - [ ] No, because of IRPA, s 97(1)(b)(iv). 
+
+    5. Which of the following contributed to the unreasonableness of the RPD decision in rejecting the claimant in *Portillo v Canada (Minister of Citizenship and Immigration)*? 
+        - [x] The RPD conflated the risk faced by the claimant with that faced by all men of the claimant's age in his country of nationality, which led to the erroneous conclusion that the risk faced by the claimant is the same as the risk faced generally by other individuals in the country. 
+        - [ ] The RPD did not believe the claimant's version of events of the criminal gang, Mara Salvatrucha.
+        - [ ] The RPD did not characterize whether the risk of death came from the criminal gang or the state police. 
+        - [ ] None of the above, the court held that the RPD decision was reasonable.
+
+    6. The legal test is for section 97 is the same as for section 96, that is, the claimant must establish they face a "serious possibility" or "reasonable chance" of either torture or of cruel and unusual treatment or punishment.
+	    - [ ] True
+	    - [x] False
+
+    7. A **negative credibility finding is sufficient to dispose a claim** under both sections 96 and 97, **unless** there is independent and credible documentary evidence in the record capable of supporting a positive dis-position of the claim. 
+	    - [x] True
+	    - [ ] False
+        > See *Lopez v Canada (Citizenship and Immigration)*, 2014 FC 102 at para 41. 
+
+    8. According to the court in *Portillo v Canada (Minister of Citizenship and Immigration)*, after the nature of the risk faced by the claimant has been characterized, the decision-maker should then compare the risk faced by the claimant to that faced by a significant group in the country. If the two risks are not the same nature and degree, then the claimant would be entitled to protection under section 97. 
+	    - [x] True
+	    - [ ] False
+        > See paras 40-41 of *Portillo v Canada (Minister of Citizenship and Immigration)*. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
