@@ -45,14 +45,41 @@ tags:
     - Two exclusion clauses have been directly incorporated into the IRPA:
         - **Article 1E** excludes persons from refugee protection if they have rights akin to a **permanent resident in some third country**
         - **Article 1F** excludes persons from refugee protection for various forms of **serious domestic and international criminality**
+    - It is the responsibility of the government to make the case for exclusion, usually through Minister’s counsel.
+
+
+
 
 ## Quizzes
 
-??? note "Nexus, with a Focus on Membership in a Particular Social Group, Political Opinion"
+??? note "Introduction to Exclusion"
 
-    1. A refugee 
+    1. Which of the following must the refugee claimant satisfy to fall under Article 1E?
+        - [x] The claimant has enjoyed residence in a country outside the country of their nationality. 
+        - [x] The claimant has rights and obligations attached to the possession of nationality of that third country. 
+        - [ ] The claimant must not have taken up residence as a refugee in that third country. 
 
+    2. Which of the following might lead to the exclusion of a refugee claimant under Article 1F?
+        - [x] Serious reasons for considering a claimant has committed a war crime. 
+        - [x] Serious reasons for considering a claimant has committed a serious non-political crime outside the country of refuge. 
+        - [ ] Serious reasons for considering the claimant has been convicted in Canada of an offence under an Act of Parliament punishable by way of indictment.
+        - [x] Serious reasons for considering the claimant is guilty of acts contrary to the purposes and principles of the United Nations. 
 
+    3. Article 1E of the Refugee Convention acts as an inclusion clause for refugee protection: i.e., it ensures a claimant has received protection in a third country.
+	    - [ ] True
+	    - [x] False
+
+    4. Article 1F of the Refugee Convention acts as an inadmissibility provision under the IRPA.  
+	    - [ ] True
+	    - [x] False
+
+    5. Under article 1E, a person will not be excluded if they face a well-founded fear of persecution in a country where they enjoy the rights and obligations associated with nationality.  
+	    - [x] True
+	    - [ ] False
+
+    6. When considering whether to exclude a claimant under article 1F(b), the RPD or RAD may consider any **subsequent rehabilitation or future risk** posed by a claimant.  
+	    - [ ] True
+	    - [x] **False**
 
 
 
