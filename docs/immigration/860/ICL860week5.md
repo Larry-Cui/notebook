@@ -51,8 +51,10 @@ tags:
     - the rationale for article 1F – as explained by the United Nations High Commissioner for Refugees, is that:
         - certain acts are so grave as to render their **perpetrators undeserving of international protection** as refugees. Their primary purpose is to deprive those guilty of heinous acts, and serious common crimes, of international refugee protection and to ensure that such persons do not abuse the institution of asylum in order to avoid being held legally accountable for their acts.
     - Persons who are excluded under article 1F, however, only have access to a **pre-removal risk assessment**, or PRRA, on limited grounds, i.e., under section 97 only. Finally, even if it is determined that a PRRA application should be granted, **a person excluded under article 1F does not get access to permanent residence**; they are only granted a revocable stay (see IRPA, ss 114(1)(b) and (2).)
-
-
+    - To be excluded under article 1F(b), there must be:
+        - **Serious reasons for considering**
+        - that **prior to coming to Canada**
+        - a person has committed a crime that is **serious** and **non-political**.
 
 
 
@@ -223,24 +225,133 @@ tags:
         - [x] The 1949 Geneva Conventions for the Protection of Victims of War
         - [ ] The Statutes of the International Criminal Tribunals for the former Yugoslavia and Rhodesia 
 
+??? note "Articles 1F(b)"
 
+    1.  In *Febles v Canada (Citizenship and Immigration)*, the Supreme Court adopted Bastarache J's obiter in *Pushpanathan v Canada* that Article 1F(b) is confined to **extraditable fugitives**.
+    	- [ ] True
+	    - [x] False
 
+    2. According to the court in [*Jayasekara v. Canada (Minister of Citizenship and Immigration)*](https://canlii.ca/t/220hq){:target="\_blank"}, after the seriousness of the crime is evaluated, **factors extraneous** to the facts and circumstances underlying the conviction should be balanced against seriousness to determine if the claimant should be excluded from refugee protection. 
+    	- [ ] True
+	    - [x] False
+        > para 44: I believe there is a consensus among the courts that the interpretation of the exclusion clause in Article 1F(b) of the Convention, as regards the seriousness of a crime, requires an evaluation of the elements of the crime, the mode of prosecution, the penalty prescribed, the facts and the mitigating and aggravating circumstances underlying the conviction. ... **There is no balancing, however, with factors extraneous to the facts and circumstances underlying the conviction** such as, for example, the risk of persecution in the state of origin.
 
+    3. In assessing the **seriousness** of a crime, which of the following is considered as held by the court in [*Febles v. Canada (Citizenship and Immigration)*](https://canlii.ca/t/gf3qk){:target="\_blank"}? (Choose all that apply.) 
+        - [ ] Whether the crime was committed in Canada or elsewhere. 
+        - [ ] Whether the claimant had the requisite mens rea when committing the crime.
+        - [x] Whether the maximum sentence for the crime in Canada is at least 10 years.
+        - [x] Whether the crime is one of the following offences: homicide, rape.
+        > Para 62: ... where a maximum sentence of ten years or more could have been imposed had the crime been committed in Canada, the crime will generally be considered serious.  However, ... a claimant whose crime would fall at the less serious end of the range in Canada should not be presumptively excluded.  ... The UNHCR has suggested that a presumption of serious crime might be raised by evidence of commission of any of the following offences: homicide, rape, child molesting, wounding, arson, drugs trafficking, and armed robbery (Goodwin-Gill, at p. 179).
 
+    4. What are the two requirements of the "**incidence" test** for determining if a crime is "**political**" for the purposes of Article 1F(b)?
+        - [ ] First, the existence of a Communist government. Second, a rational nexus between the crime committed and the potential establishment of a capitalist economic system. 
+        - [ ] First, the presence of a government that would be considered despotic according to Western political ideas. Second, a genuine motivation to overturn the government and install a democracy. 
+        - [x] **First**, the existence of a political **disturbance** related to a struggle to modify or abolish a government or a government policy. **Second**, a rational **nexus** between the crime committed and the potential accomplishment of the political objective sought. 
+        - [ ] First, the existence of widespread, politically motivated riots. Second, the targeting of the claimant as a leader of the protest movement. 
+        > This is the test from *Gil v. Canada (Minister of Employment and Immigration)*, [1995] 1 F.C. 508 (C.A.) at 528-529 and 533. For discussion, see IRB, Interpretation of the convention refugee definition in the case law (March 31, 2019), chapters 11 – sections 11.3.4. 
 
+    5. Nathaniel came to Canada and claimed refugee protection, claiming to have been targeted by the husband of a woman whom he loved. At his hearing, he revealed that he had sent indecent pictures of himself to the woman. Based on this information, the RPD is considering whether Nathaniel should be excluded for repeated commission of the criminal offence of Indecent communications, set out in subsection 372(2) of the Criminal Code. Nathaniel's country of origin does not have an offence of Indecent communications. Does the fact that there is no equivalent offence mean he cannot be excluded? 
+        -  [ ] Yes
+        -  [x] No
+        -  [ ] It depends
+        > In analyzing the question of exclusion under **Article 1F(b)**, **one should not look at equivalency, but rather the role of ==domestic law== in determining what is "serious."** See IRB, Interpretation of the convention refugee definition in the case law (March 31, 2019), chapters 11 – sections 11.3.2
 
+    6. In *Febles v Canada (Citizenship and Immigration)*, the Supreme Court of Canada adopted Professor Hathaway's view that Article 1F(b) is confined to accused persons who are fugitives from prosecution. 
+    	- [ ] True
+	    - [x] False
 
+    7. Jimbo came to Canada and claimed refugee protection. After making his claim, he robbed a bank in downtown Ottawa. Can he be excluded from refugee protection under Article 1F(b)?  
+        - [ ] Yes
+        - [x] No
+        - [ ] It depends
 
+    8. According to the Federal Court of Appeal in *Jayasekara v Canada (Minister of Citizenship and Immigration)*, which of the following should be evaluated in relation to the **seriousness** of a crime:
+        - [ ] Elements of the crime, whether the accused had counsel during criminal trial, the mode of prosecution, the penalty prescribed 
+        - [x] **Elements of the crime, the mode of prosecution, the penalty prescribed, mitigating facts, aggravating circumstances**
+        - [ ] Elements of the crime, whether the accused had counsel during criminal trial, the mode of prosecution, mitigating facts surrounding the crime 
+        - [ ] Elements of the crime, the mode of prosecution, the penalty prescribed, aggravating circumstances 
 
+    9. In *Febles v Canada (Citizenship and Immigration)*, the Supreme Court of Canada held that Article 1F(b) serves **one main purpose** – to exclude from refugee protection persons who have committed a serious crime. 
+    	- [x] True
+	    - [ ] False
 
+    10. Nathaniel came to Canada and claimed refugee protection, claiming to have been targeted by the husband of a woman whom he loved. At his hearing, he revealed that he had sent indecent pictures of himself to the woman "about 10 times". Based on this information, the RPD is considering whether Nathaniel should be excluded for commission of the criminal offence of "Indecent communications", set out in subsection 372(2) of the Criminal Code. The offence carries with it a maximum term of imprisonment of 2 years, however, the RPD member tells Nathaniel's counsel that he believes the repeated nature of Nathaniel's offence renders the crimes serious within the meaning of Article 1F(b). Is the RPD member right that they may consider the repeated nature of the offence as a factor in determining "seriousness"?  
+        - [x] Yes
+        - [ ] No
+        - [ ] It depends
+        > The Federal Court has said that the **repeated nature of an offence can be reasonably considered an aggravating factor.** See IRB, Interpretation of the convention refugee definition in the case law (March 31, 2019), chapters 11 – sections 11.3.3.
 
+    11. In assessing the seriousness of a crime, the Supreme Court of Canada held in *Febles v Canada (Citizenship and Immigration)* that if an offense has a large sentencing range, such that the maximum could be ten years or more and minimum being quite low, **a claimant whose crime would fall at the less serious end of the range should not be presumptively excluded from refugee protection.**
+    	- [x] True
+	    - [ ] False
 
+    12. In *Febles v Canada (Citizenship and Immigration)*, the Supreme Court of Canada held that **expiation and rehabilitation** should be considered as part of the assessment for "seriousness" of the crime. 
+    	- [ ] True
+	    - [x] **False**
 
+??? note "Test your knowledge on exclusion"
 
+    1. Andriy made posts on an internet forum encouraging a shooting at a gay night club. He identified possible targets and made suggestions on how the attack should be carried out. Encouraged by Andriy's post, another member of the forum carried out a terrorist attack at a gay bar. Assuming no other facts, which of the exclusion clauses may apply to Andriy? 
+        - [x] Article 1Fa
+        - [ ] Article 1Fb
+        - [ ] No exclusion clauses apply
+        > Andriy did not personally commit the attack. However, there is an argument that he was complicit in a terrorist attack for encouraging/assisting the attack. Terrorist activity is a crime against humanity. Therefore, Article 1a may apply in this case. 
 
+    2. You are a Refugee Protection Division (RPD) Member. You are deciding the case of Stella who is a refugee claimant from Mexico. She has a conviction in Mexico for fraud where she defrauded her local bank for $100,000. Assuming no other facts, which of the exclusion clauses may apply to Stella? 
+        - [ ] Article 1E
+        - [ ] Article 1Fc
+        - [x] Article 1Fb
+        - [ ] No exclusion clauses apply
 
+    3. Michael was a high-ranking soldier in his national army. During a war with a neighbouring country, his army committed serious war crimes. Eventually, Michael learned of these crimes and deserted from the army. There is no evidence that Michael had personally committed any war crimes. Which factor is NOT relevant in determining whether or not he should be excluded for being complicit in war crimes? 
+        - [x] Whether he cooperated in the investigations into the war crimes committed by the army
+        - [ ] Whether he voluntarily joined the army
+        - [ ] How long he remained in the army after learning of the offences 
+        - [ ] Whether he made a significant contribution to the crimes 
 
+    4. Cory is a citizen of Nigeria. He married his wife who is a citizen of the United States. Through his marriage, he is eligible to apply for permanent residence in the US. However, he has not done so yet. He has never been to the US and he has no desire to live in the US.  True or false:  Cory can be excluded from refugee protection under Article 1E.
+    	- [x] True
+	    - [ ] False
+        > He may be excluded under Article 1E if **he had access** to status in the US similar to US nationals and **failed to acquire it**. *Zeng* 2010 FCA 118.  
 
+    5. John is a refugee claimant. John was drinking at a bar in Toronto, Ontario, Canada when he bumped into another patron. This led to a bar fight where John punched the patron in the face resulting in serious injuries. John was convicted of aggravated assault. He received a custodial sentence of 10 years. Assuming no other facts, which of the exclusion clauses apply to John? 
+        - [ ] Article 1E
+        - [ ] Article 1Fc
+        - [ ] Article 1Fb
+        - [x] No exclusion clauses apply
+        > Article 1E is for status in 3rd country. Article 1Fa is for war crimes, and not applicable here. **Article 1Fb is for crimes committed outside Canada.** 
 
+    6. Prior to coming to Canada, Josie committed a robbery of a convenience store in her home country. She was convicted and served five years in jail for this offence. What factor should **NOT** be considered by the RPD when deciding whether or not she should be excluded under article 1Fb? 
+        - [ ] The maximum possible penalty that she could receive if she committed the same offence in Canada.
+        - [ ] the mitigating factors underlying the conviction 
+        - [ ] the sentence she received for the offence
+        - [x] whether she has not re-offended since the commission of the robbery  
+
+    7. Jason is a refugee claimant from France. He fled France due to discrimination that he suffered in that country. He once had permanent residence in Chile. However, his permanent residence had expired six months ago because Jason did not apply to renew his status. 
+
+        True or false: Jason can be excluded under Article 1E. 
+
+    	- [x] True
+	    - [ ] False
+        > **He may be excluded even though his permanent residence has expired.** As the Court of Appeal stated in *Zeng* 2010 FCA 118, **the RPD must examine the reason for the loss of status (voluntary or involuntary), whether the claimant could return to the third country, the risk the claimant would face in the home country, Canada's international obligations, and any other relevant facts. **
+
+    8. When Damian was in university in his home country, he was convicted for "inciting hatred". Damian explained that he merely participated in a peaceful protest and the government had unjustly arrested him and convicted him. He was sentenced to 30 days in jail. When considering whether he should be excluded for Article 1Fb, which of the following is true? 
+        - [ ] The RPD cannot look behind the conviction. If he has been convicted in his home country, then this is irrefutable evidence that he has committed the crime.
+        - [ ] Since he has completed his sentence, this is evidence that he has rehabilitated and should not be excluded under Article 1Fb.
+        - [x] The fact that he only spent 30 days in jail may assist Damian in arguing that it was a not a serious crime.
+        - [ ] The maximum penalty for a similar offence in Canada is two years. Therefore, this offence is presumed to be serious.  
+
+    9. Jason is a refugee claimant from France. He fled France due to discrimination that he suffered in that country. He also has permanent residence in Chile where he can legally move and live. Assuming no other facts, which of the exclusion clauses may apply to Jason?  
+        - [x] Article 1E
+        - [ ] Article 1Fc
+        - [ ] Article 1Fb
+        - [ ] No exclusion clauses apply
+
+    10. James was a low-ranking soldier in his national army. During a war with a neighbouring country, his sergeant ordered his squad to attack a civilian village resulting in several civilian deaths. James was present at the time of the attack but he did not personally attack any civilians.  
+
+        True or false: Jason can be excluded under Article 1a for a war crime. 
+
+    	- [x] True
+	    - [ ] False
 
 
