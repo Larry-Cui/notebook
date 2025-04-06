@@ -99,8 +99,21 @@ tags:
         - RPD’s Finding: “Notwithstanding the claimant’s vulnerability and evident difficulty providing testimony, I am unable to find his allegations to be credible. Even keeping in mind the psychological report from Dr. Freud and the claimant’s evident difficulty providing testimony, the discrepancies in the claimant’s evidence are significant. I am unable to accept that the claimant would have trouble keeping track of whether three guards or six were present when he was raped. I am equally unable to accept that he would not be able to say whether he was beaten every day or every other day. It seems to me that each day’s respite would be something that would stick in his mind during such a harrowing experience.”
         - Suggested Response: This may be a case where the **RPD has misunderstood or downplayed the psychological report admitted into evidence** (see Evans Cameron, “The Wrong Mistake” at pp 45-46.) **The RPD should have given more weight** to Dr. Freud’s evidence and less weight to its own expectations about what a claimant might be able to recall. It is also arguable that the **RPD failed to apply Guideline 8** properly, in that the RPD failed to “[t]o **recognize that certain individuals face particular difficulties when they appear for their hearings** or other IRB processes because their ability to present their cases is severely impaired.” (Guideline 8, paragraph 3.1) 
 
+???+ note "From Theory to Practice: Trauma-Informed Interviewing"
 
-
+    - The author, Jill Taylor, lists five steps to ending the interview (See page 216). Test yourself. 
+        1. **Check in:** Ask ask your client how they are feeling, and ask them how are they going to take care of themselves if the meeting was emotionally difficult or triggering.
+        2. **Ask for feedback:** Ask your client what helped them during the interview process. Ask the what you could have done better.
+        3. **Provide resources if need be:** Try to normalize the idea that everyone needs support.
+        4. **Provide contact information:** Let them know how to reach you if they have questions, being clear about your availability and setting boundaries.
+        5. **Let them know what's next:** Book the next appointment and let them know what to expect from you. 
+    - An **Example** Interview Closing
+        - Rebecca: Shreya, you have done an incredible job today. I know you spoke about some really traumatic things. I just want to make sure you’re going to be okay. What are your plans after this?
+        - Shreya: I think I need a nap; I feel really exhausted. Afterwards, my boyfriend is coming over and we’re going to watch a movie.
+        - Rebecca: That sounds nice! I’m glad you have someone supportive in your life. We’re going to end here for today. How did you find the interview went? Is there anything you found particularly helpful? Or anything that didn’t work for you? I promise you won’t hurt my feelings, and it helps me to improve my interviewing technique. I want to make this as painless as possible for you.
+        - Shreya: Honestly, a part of me feels relieved. I didn’t realize how much pain I was holding onto by not talking about this. Thanks for listening to me.
+        - Rebecca: Thank you for trusting me. You did great! Does this time work for you? Would you like to meet at same time next week?
+        - Shreya: That works for me.
 
 ## Quizzes
 
@@ -250,10 +263,84 @@ tags:
 	    - [x] False
         > See para 44. **The presumption may also be rebutted on the basis of an implausibility finding.**
 
+??? note "Credibility and Trauma-Informed Service"
 
+    1. According to Dr. Lori Haskell's report, "**inconsistency**" in a sexual assault victim's recount of the story may actually be a typical and normal way of responding to life-threatening events and coping with traumatic experiences. 
+    	- [x] True
+	    - [ ] False
 
+    2. According to Dr. Lori Haskell's report, memories associated with a traumatic experience are encoded in the brain in the same way as normal and more everyday memories. 
+    	- [ ] True
+	    - [x] False
 
+    3. Which of the following is **not a best practice** when interviewing trauma victims, according to the report by Dr. Lori Haskell? 
+        - [ ] Having a brief, respectful, and empathic first meeting at which only a limited amount of information is taken. 
+        - [ ] Treating the interview as an opportunity for the victim to express what their experience was, rather than a chance to get them to relay what they remember or not. 
+        - [ ] Allowing the victim to provide an uninterrupted narrative in their own words. This is referred to as the Forensic Experiential Trauma Interview. 
+        - [x] Ensuring you get **a detailed explanation of the events** leading up to the traumatic event by asking respectful but pointed questions. 
 
+    4. Which of the following are not characteristic of a trauma-informed approach to legal advocacy?
+        - [ ] Recognizing the pervasiveness of trauma. 
+        - [x] Engaging fully with the case law.
+        - [ ] Incorporating an understanding of trauma's impact on individuals and communities.
+        - [ ] Taking a contextualized approach to understanding and responding to trauma. 
 
+    5. Because refugee hearings are usually conducted in the absence of the public, it is generally not recommended that your client bring a support person to their hearing. 
+    	- [ ] True
+	    - [x] False
 
+    6. According to Dr. Lori Haskell's report, standard interrogation practices that are robust and effective within a police department are also suitable for investigating sexual assault narratives.
+    	- [ ] True
+	    - [x] False
 
+    7. Which of the following is **not a useful technique** for grounding an "anxious" client? 
+        - [x] Asking them pointed questions to get through the interview quickly and not prolong their anxiety. 
+        - [ ] Assuring the client they are in a safe space.
+        - [ ] Being aware of your own tone, body language, and speaking speed. Speaking loudly and quickly can exacerbate anxiety.
+        - [ ] Breaking down the process into manageable chunks. 
+
+    8. Which of the following is **not a useful technique** for grounding a client who has "shut down" or is unwilling to discuss necessary details? 
+        - [ ] Separating out the process of getting the client's story from the decision of whether they want to pursue their claim. 
+        - [ ] Asking the client to ask themselves: "What are the reasons I want to do this and what are the reasons I don't want to do this? What are the pros and cons?" 
+        - [x] Emphasizing the importance of getting out their story truthfully, since it is essential to maintain the integrity of the refugee determination system in Canada. 
+        - [ ] Explaining in context why the details you are asking for are necessary. 
+
+    9. Which of the following is **recommended by Chantal Tie** as a way of addressing concerns that an RPD member might have about a traumatized client's credibility? 
+        - [ ] Remind the RPD that the *Singh* decision requires that the case be decided in accordance with the principles of fundamental justice. 
+        - [ ] Argue that the principles set out in the *Magonza* decision are bad law.
+        - [x] File material before the hearing on the impact of trauma on memory. 
+        - [ ] File an application with the RPD to vary the normal order of questioning, in accordance with RPD subrule 10(5). 
+
+    10. According to Dr. Lori Haskell's report, because bursts of adrenaline can enhance memory storage of events closer to the onset of a traumatic event, **victims of sexual assault can have vivid memories about the beginning of a sexual assault**.  
+    	- [x] True
+	    - [ ] False
+ 
+    11. According to Dr. Haskell's report, **stereotypical expectations** of what a real or ideal victim of sexual assault would do are the following:
+        - [x] Physically or verbally resist unwanted sex. 
+        - [x] Stop all contact with the assault perpetrator.
+        - [x] Demonstrate perfect or near perfect recall, including a linear narrative, of what happened.
+
+    12. Which of the following are open-ended questions that are recommended for carrying out a forensic experiential trauma interview (FETI) in the report by Dr. Lori Haskell? (Choose all that apply)  
+        - [x] Where would you like to begin? 
+        - [ ] Why didn't you run away? 
+        - [x] What are you able to remember (with your six senses)? 
+        - [x] What was the most difficult part of the experience for you?
+        - [ ] What time was it when (the event) occurred? 
+        - [ ] Can you please describe to me the pain you felt? 
+        > **Question B** is a question that uses victim-blaming language and assumptions. **Question E** is a closed question that seeks to elicit information that may not be encoded in the victim's memory. **Question F** is a respectfully phrased open question, but it nonetheless directs the victim to recount the experience other than on their own terms. 
+
+    13. According to Dr. Lori Haskell's report, experience of sexual assault trauma has a neurobiological impact – affecting victims' brains and nervous systems. 
+    	- [x] True
+	    - [ ] False
+
+    14. According to Chantal Tie, which of the following is a **challenge** faced by traumatized refugee claimants in establishing their credibility? 
+        - [ ] The burden of proving each element of their claim on a balance of probabilities.
+        - [x] The expectation that claimants will be able to relate their stories by providing autobiographical facts, as opposed to sensory memories. 
+        - [ ] The challenge of obtaining documentary evidence to support their claim.
+        - [ ] The chronological nature of their narratives.
+
+    15. Which of the following is **not a recommended strategy** to help a client who is acting distracted, anxious or agitated, perhaps because their memories of trauma have been triggered?
+        - [ ] Facilitate self-soothing, for instance, by offering water or having small toys available. 
+        - [ ] Offer breaks to your client. 
+        - [x] Tell them they need to focus because their refugee claim is a matter of life or death. 
+        - [ ] Offer your client ways to ground themselves in the present, perhaps by remarking on a piece of clothing (such as shoes) or suggesting that they focus on their breath for a minute or so. 
