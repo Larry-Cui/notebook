@@ -251,3 +251,165 @@ tags:
         - [ ] True
         - [x] False
     > See Nastasi et al., Administrative Law: Principles and Advocacy, chapter 11, "Hearsay." As well, neither the RPD and RAD are bound by "any legal or technical rules of evidence" (IRPA, ss 170(g) and 171(a.2)). Further, they are both allowed to "receive and base a decision on evidence that is adduced in the proceedings and considered credible or trustworthy in the circumstances" (IRPA, ss 170(h) and 171(a.3)).
+
+??? note "Appealing to the Refugee Appeal Division"
+
+    1. According to the court in *Canada (Citizenship and Immigration) v Huruglica*, 2016 FCA 93, when should the RAD intervene? 
+        - [ ] Only when the RPD is wrong in law. 
+        - [ ] Only when the RPD is wrong in fact and law. 
+        - [ ] Only when the RPD is wrong in law or in mixed fact and law. 
+        - [x] When the RPD is wrong in law, in fact, or in mixed fact and law 
+
+    2. When should the RAD show **deference** in the review of an RPD decision? 
+        - [ ] Never.
+        - [x] **When the RPD has an advantage with respect to oral testimony that cannot be captured in the record before the RAD.** 
+        - [ ] When the RAD is not conducting a de novo proceeding of an RPD decision.
+        - [ ] When matters relate to oral testimony. 
+        > See paras 105-106 of *Rozas del Solar v Canada (Citizenship and Immigration)*. 
+
+    3. To appeal an RPD decision to the RAD, what is the **deadline for the notice of appeal and the appeal record**, respectively, from the date of receipt of the RPD decision according to IRPR 159.91? 
+        - [ ] 7 days, 15 days
+        - [x] **15 days, 30 days**
+        - [ ] 30 days, 60 days 
+        - [ ] 15 days, 15 days
+
+    4. Any witness present at a hearing held by the Refugee Appeal Division will first be questioned by the Minister, then by the person who is the subject of the appeal, and then by the RAD member. 
+        - [ ] True
+        - [x] False
+        > See RAD **Subrule 57(2)**. **Witnesses are first questioned by the appellant, then by any other party, then by the appellant in reply, and then by the RAD member.** 
+
+    5.  If the person subject to a summon does not appear as witness, they can be arrested. 
+       	- [x] True
+   	    - [ ] False
+        > See **Rule 64(1)**. Note that **this power is rarely if ever exercised**. 
+
+    6. A summons to order a person to testify at a RAD hearing can be delivered to that person via **registered mail**. 
+        - [ ] True
+        - [x] False
+        > See RAD Subrule 62(3). "If a party wants to use a summons, they must provide the summons to the person **by hand**;"
+
+    7. According to the court in *Cepeda-Gutierrez v Canada (Minister of Citizenship and Immigration)*, there is a presumption that the finding of fact made by administrative agencies were based on all evidence. That presumption is irrebuttable.  
+        - [ ] True
+        - [x] False
+        > See **para 17** of the decision. 
+
+    8. The RAD can limit questioning of the witness by the Minister, but not the claimant as long as the questions posed are relevant to the proceeding.  
+        - [ ] True
+        - [x] False
+    > See Rule 57(3): The Division may limit the questioning of witnesses, including the person who is the subject of the appeal, taking into account the nature and complexity of the is- sues and the relevance of the questions.
+    
+    9. In situations where the RAD must show some deference to the RPD, it need **not** conduct an independent assessment of the evidence.
+        - [ ] True
+        - [x] False
+    > See paragraph 125 of *Rozas del Solar v Canada (Citizenship and Immigration)*. 
+
+    10. When the RAD makes a decision, written notice of the decision and, if applicable, written reasons is only provided to person subject to the appeal and the Minister. 
+        - [ ] True
+        - [x] False
+    > See RAD Subrules 50(1) and (2). The notice of decision and written reasons must also be **provided to the RPD**. 
+
+    11. According to the Federal Court of Appeal in *Canada (Citizenship and Immigration) v Huruglica*, 2016 FCA 93, the requirement in IRPA, s 111(2)(b) that the Refugee Appeal Division to remit a claim to the Refugee Protection Division under certain circumstances, indicates that: 
+        - [ ] There may be cases where the Supreme Court's decision in Singh requires a full hearing, which the RAD is not entitled to provide because of IRPA, s 110(6). 
+        - [x] There may be cases where the **RPD enjoys a meaningful advantage over the RAD in making findings of fact or of mixed fact and law.** 
+        - [ ] There may be cases where the RAD should send a matter back to the RPD to ensure that decisions on refugee claims are fair and efficient, as set out in IRPA, s 3(2)(e). 
+        - [ ] There may be cases that should be sent back to the RPD because they contain errors so egregious that the RPD member should be forced to revisit the matter for training purposes. 
+
+    12. According to the Federal Court of Appeal in *Huruglica*, what is the essential role of the Refugee Appeal Division? 
+        - [ ] To provide guidance on unsettled areas of refugee law.
+        - [x] To serve as a safety net to catch all the RPD's errors.
+        - [ ] To reduce the burden on the courts for review of refugee decisions.
+        - [ ] To ensure that RPD proceedings are procedurally fair. 
+
+    13. If the claimant wishes to **call a witness** to be present at a hearing before the Refugee Appeal Division, how many days in advance should the witness information be given to the other party and the RAD? 
+        - [ ] 7 days 
+        - [ ] 10 days
+        - [ ] 14 days 
+        - [x] 20 days 
+
+    14. According to the Federal Court in *Cepeda-Gutierrez v Canada (Minister of Citizenship and Immigration)*, if there were evidence that contradicted the agency's finding of fact, as long as the agency had a statement that it considered all the evidence, the reasons would be suffice and not overturned by reviewing court.  
+        - [ ] True
+        - [x] False
+
+    15. If a claimant has missed his hearing, the Refugee Appeal Division must allow the claimant to explain why the appeal should not be abandoned.
+       	- [x] True
+   	    - [ ] False
+
+    16. What is the **standard of review for RAD** when reviewing RPD decisions? 
+        - [x] **Correctness, but not a true de novo proceeding**. 
+        - [ ] Correctness in the sense of a true de novo proceeding.
+        - [ ] Reasonableness, but not a true de novo proceeding. 
+        - [ ] Reasonableness as described by the Supreme Court in *Canada (Minister of Citizenship and Immigration) v. Vavilov*, 2019 SCC 65. 
+
+    17. After giving the parties notice and the opportunity to object, which of the following may the Refugee Appeal Division **not do**:
+        - [ ] Act on its own **initiative**, without a party having to make an application or request to the Division; 
+        - [ ] **Change** a requirement of a rule; 
+        - [ ] **Excuse** a person from a requirement of a rule; and 
+        - [ ] **Extend** a time limit, before or after the time limit has expired, or **shorten** it if the time limit has not expired. 
+        - [x] None of the above.
+
+    18. In addition to the statutory criteria for the admission of new evidence, which of the following further requirements apply to new evidence submitted to the RAD? (Choose all that apply.) 
+        - [ ] The new evidence must be timely. 
+        - [x] The new evidence must be material, in the sense that it is determinative of the outcome of the claim. 
+        - [ ] The new evidence must raise a serious issue of credibility that is central to the decision. 
+        - [x] The new evidence must be material, in the sense that it may have an impact on the RAD's assessment. 
+    > See paragraph 47 of ***Canada (Citizenship and Immigration) v Singh***, 2016 FCA 96. "The RAD, on the other hand, has a much broader mandate and may intervene to correct any error of fact, of law, or of mixed fact and law. As a result, it may be that **although the new evidence is not determinative in and of itself, it may have an impact on the RAD’s overall assessment of the RPD’s decision.**"
+
+    19. Which of the following is an accurate statement of principle from ***Cepeda-Gutierrez v Canada (Minister of Citizenship and Immigration)***?
+        - [ ] An administrative agency's must set out in its reasons an analysis of all the evidence submitted.
+        - [ ] An administrative agency need not look at all the evidence in the record, so long as it demonstrates a grasp of the most important issues in its written reasons.
+        - [ ] Failure to consider a piece of evidence, unless is relevant to a serious issue of credibility that is central to the decision, will not by itself render a decision unreasonable.
+        - [x] An administrative agency's burden of explanation increases with the relevance of the evidence in question to the disputed facts.  
+
+    20. New evidence is only allowed at the RAD if the evidence is related to an event that occurred after the RPD proceeding.
+        - [ ] True
+        - [x] False
+
+    21. According to the court in ***Rozas del Solar v Canada (Citizenship and Immigration)***, 2018 FC 1145, deference can coexist with the correctness standard of review.  
+        - [ ] True
+        - [x] False
+    > See para 55 of the decision, where Justice Diner writes that "**correctness as a standard of review is defined by the absence of deference.**" 
+
+    22. According to the court in ***Rozas del Solar v Canada (Citizenship and Immigration)***, 2018 FC 1145, application of a reasonableness standard by the RAD would be an effective way to review flawed credibility findings by the RPD.  
+        - [ ] True
+        - [x] False
+
+    23. To rely on errors made during a Refugee Protection Division hearing, or mistaken references by the RPD to testimony in its reasons, the appellant must: 
+        - [ ] Submit a transcript of the hearing. 
+        - [ ] Submit the CD of the hearing to the RAD.
+        - [x] **Listen to the CD of the hearing and note the minute or second where the mistake occurred**. 
+        - [ ] Describe the error in the appeal record. 
+
+    24. **Hearings before the RAD only occur** if there has been **new evidence admitted** on appeal under IRPA, s 110(6).  
+       	- [x] True
+   	    - [ ] False
+
+    25. If the claimant wishes to change the location of a hearing, how many days in advance should the application be made? 
+        - [ ] 7 days 
+        - [ ] 10 days
+        - [ ] 14 days 
+        - [x] 20 days 
+
+    26. If the Refugee Appeal Division finds an error of law, fact, or mixed fact and law in a decision of the Refugee Protection Division, which of the following remedies is not available?
+        - [ ] The RAD may confirm the decision of the RPD on another basis. 
+        - [ ] The RAD may set the RPD decision aside, substituting its own determination of the claim 
+        - [ ] The RAD may send the matter back to the RPD, but only if it cannot substitute its own determination without hearing the evidence presented to the RPD.
+        - [x] The RAD may issue a jurisprudential guide to provide guidance for future RPD panels. 
+    > Of course, the Chairperson may issue **jurisprudential guides** in accordance with IRPA, s 159(1)(h) after consulting with the Deputy Chairperson of the RAD. However, that is **not a remedy available to a one-member** (or even a three-member) RAD panel. 
+
+    27. The RAD has **no discretion to admit new evidence** from the person who is the subject of the appeal if the requirements of IRPA, s 110(4) are not met. 
+       	- [x] True
+   	    - [ ] False
+
+    28. In the absence of an applicable rule, the Refugee Appeal Division: 
+        - [ ] May not do anything.
+        - [ ] Must refer a matter for decision by the Deputy Chairperson.
+        - [x] May do whatever is necessary to deal with a matter.
+        - [ ] Must send a matter back to the Refugee Protection Division. 
+
+    29. According to the court in ***Rozas del Solar v Canada (Citizenship and Immigration)***, 2018 FC 1145, the RAD stands in the same posture relative to the RPD as the Federal Court stands relative to the RAD. 
+        - [ ] True
+        - [x] False
+
+
+
+
