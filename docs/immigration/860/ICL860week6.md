@@ -24,6 +24,7 @@ tags:
     - [RPD Rules](https://laws.justice.gc.ca/eng/regulations/SOR-2012-256/index.html){:target="\_blank"} (SOR/2012-256), 13-16, 20
     - [RAD Rules](https://laws.justice.gc.ca/eng/regulations/SOR-2012-257/index.html){:target="\_blank"} (SOR/2012-257), Rules 16-20, 23
     - Immigration and Refugee Board, [“Designated Representative’s Guide”](https://irb.gc.ca/en/designated-representant/Pages/designated-representative-guide.aspx){:target="\_blank"} (July 3, 2017)
+    - IRB, [Guideline 9: Proceedings Before the IRB Involving Sexual Orientation, Gender Identity and Expression, and Sex Characteristics](https://www.irb-cisr.gc.ca/en/legal-policy/policies/Pages/GuideDir09.aspx){:target="\_blank"}, Effective date: May 1, 2017
     - [Canada (Minister of Citizenship and Immigration) v. Patel](https://canlii.ca/t/1xv43){:target="\_blank"} , 2008 FC 747 (CanLII), [2009] 2 FCR 196
     - [Al-Sarhan v Canada (Citizenship and Immigration)](https://canlii.ca/t/j3g00){:target="\_blank"} , 2019 FC 1438 (CanLII), Paragraphs 1-16, 25-34, 45
     - Hilary Evans Cameron, “The Wrong Mistake: Sending a Refugee Home” from Evans Cameron, Refugee Law’s Fact-Finding Crisis: Truth, Risk, and the Wrong Mistake (Cambridge UP, 2018) pp 42-78. [PDF](https://onq.queensu.ca/content/enforced/1015749-ICL860W25/Module%206/Evans%20Cameron%20-%20The%20Wrong%20Mistake.pdf?ou=1015749){:target="\_blank"}
