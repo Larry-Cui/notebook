@@ -15,13 +15,16 @@ tags:
 [^1]:
     *Dupé Oluyomi*, *Laoura Christodoulides*, *Joshua Blum* and *Jared Will* developed the instructional content for this course. Queen's University holds a license for the use of the Course Authors' intellectual property for the use of ICL 870.
 
+## Course Description
+
+This course examines Canada’s immigration enforcement regime. Delivered in two parts: Inadmissibility and, Detention and Removal.
+
 ## Required Textbooks
 
 - Chantal Desloges & Cathryn Sawicki, _Canadian Immigration and Refugee Law, A Practitioner’s Handbook_, 4th ed (Emond, 2023).
 - Liz Nastasi, Deborah Pressman & John Swaigen, _Administrative Law: Principles and Advocacy_, 4th ed, chapters 8-11 (Emond, 2019)
-- Arlene Blatt & JoAnn Kurtz, _Legal Research: Step by Step_, 5th ed (Emond, 2020)
-- Douglas Cochran, _Interviewing Skills for Legal Professionals_, 3rd ed (Emond, 2022).
-- JoAnn Kurtz, Ashlyn O'Mara & Arlene Blatt, _Advocacy for Paralegals_, 2nd Edition, Chapters 7, 11 and 14 (Emond, 2016)
+- Raj Sharma & Aris Daghighian, *Inadmissibility and Remedies* (Toronto: Emond, 2021)
+
 
 ## Assessment Weighting
 
@@ -35,43 +38,47 @@ tags:
     </thead>
     <tbody>
     <tr>
-        <td style= "text-align: left">Assignment 1: Mapping out a Basis of Claim narrative</td>
-        <td>10%</td>
-        <td>2025-03-23</td>
+        <td style= "text-align: left">Assignment 1: Advice on Admissibility</td>
+        <td>15%</td>
+        <td>2025-05-25</td>
     </tr>
     <tr>
-        <td style= "text-align: left">Assignment 2: Oral advocacy assignment – RPD Hearing submissions</td>
+        <td style= "text-align: left">Assignment 2: IAD Submissions</td>
         <td>20%</td>
-        <td>2025-04-15</td>
+        <td>2025-06-08</td>
     </tr>
     <tr>
-        <td style= "text-align: left">Assignment 3: Legal research & writing assignment – RAD Appeal</td>
-        <td>30%</td>
-        <td>2024-04-24</td>
+        <td style= "text-align: left">Assignment 3: Oral Submissions for Detention Review Hearing</td>
+        <td>20%</td>
+        <td>2024-06-22</td>
     </tr>
     <tr>
         <td style= "text-align: left">Engagement</td>
         <td>Pass/Fail</td>
-        <td>2024-04-22</td>
+        <td>2024-07-01</td>
     </tr>
         <tr>
         <td style= "text-align: left">Skills Reflection</td>
         <td>5%</td>
-        <td>2024-04-22</td>
+        <td>2024-07-01</td>
     </tr>
     <tr>
         <td style= "text-align: left">Final Quiz</td>
-        <td>35%</td>
-        <td>2024-04-25</td>
+        <td>40%</td>
+        <td>2024-07-04</td>
     </tr>
 <!-- <td colspan="3">请致电本所咨询</td> -->
     </tbody>
 </table>
 
+## Missed Plenary sessions or tutorials
+
+Students who miss plenary sessions or tutorials are required to view the video recording of the session and submit a **one-page (250-word) brief** that includes both a summary of the session and a critical reflection on its content **within seven days** after the missed session or such other date as approved by the instructor.
+
 ## Instructor Information
 
-**Cheryl Robinson** [cr136@queensu.ca](mailto:cr136@queensu.ca){:target="\_blank"}
+**Dupe Oluyomi-Obasi** [doo@queensu.ca](mailto:doo@queensu.ca){:target="\_blank"}
 
 <div style="display:flex; justify-content:flex-start; align-items:center ">
-<img src="../../../assets/img/zoomLogo.png" alt="Zoom Logo" width="100"> <span>Sunday @ 11:00 am (ET) <a href="https://queensu.zoom.us/j/97027370231?pwd=SXTLnbbGrqT173U1PVj6HoKiwMBCIN.1" target="_blank">Tutorial Zoom Link</a></span>
+<img src="../../../assets/img/zoomLogo.png" alt="Zoom Logo" width="100"> <span>Wednesday @ 6:00 pm (ET) <a href="https://queensu.zoom.us/j/93759120297?pwd=1xrYClcCPFktHlqrWbipXnSaaalCK4.1" target="_blank">Tutorial Zoom Link</a></span>
 </div>
