@@ -57,7 +57,7 @@ tags:
               1. Immigration Appeal Divison
               2. Appeal at Federal Court
 
-???+ note "Procedural Fairness Letters"
+??? note "Procedural Fairness Letters"
 
     - One aspect of procedural fairness is that an applicant must be made aware of the case they have to meet: see ***Akhtar v Canada (Citizenship and Immigration)***, [2019 FC 123](http://canlii.ca/t/hxn8z){:target="\_blank"} at para 19; ***Canadian Pacific Railway Company v Canada (Attorney General)***, [2018 FCA 69](http://canlii.ca/t/hrgf2){:target="\_blank"} at para 56. This is also reflected in IRCC’s [operational instructions on procedural fairness](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/procedural-fairness.html){:target="\_blank"}.
     - To ensure that the applicant has a meaningful opportunity to participate, decision-makers must give **sufficient notice** about any process or interview that could result in a decision on their application and must give the applicant a reasonable **opportunity to bring evidence or make arguments** supporting their application. Decision-makers should tell applicants **which documents may be required in order to address concerns**. Sufficient information should be included on interview invitation letters to allow applicants to prepare. If any additional concerns arise from an interview, decision-makers should provide the applicant with **an opportunity to address those concerns** either at the interview or subsequent to the interview, through a procedural fairness letter.
@@ -68,4 +68,94 @@ tags:
      
 
 ## Quizzes
+
+??? note "Chapter 1 of Sharma & Daghighian"
+
+    1. Kayo is learning about the various stakeholders involved in Canada's immigration system. Kayo knows which of the following is correct: 
+        - [x] The ID of the IRB is the proper forum for admissibility hearings and detention reviews 
+        - [ ] When the Federal Court is reviewing an IRB decision, it can substitute a different decision if the original decision is incorrect 
+        - [ ] The CBSA would not work with the IRB to execute a removal order 
+        - [ ] CBSA officers follow manuals and guidelines strictly with no discretion allowed in their decision-making process 
+
+    2. Amita is an immigrant consultant with a file that requires examining guidelines. Amita knows which of the following is **false** about immigration guidelines: 
+        - [ ] Guidelines are not legally binding
+        - [ ] Guidelines cannot supersede the IRPA and IRPR 
+        - [x] Amita can rely on guidelines as a substitute for developing a firm understanding of the IRPA and IRPR 
+        - [ ] Amita and her client can have a legitimate expectation about what procedures will be followed according to the guidelines  
+
+    3. Which of the following is **not** an objective of the IRPA with respect to immigration? 
+        - [ ] To facilitate the entry of students for educational purposes 
+        - [ ] To protect the health and safety of Canadian society 
+        - [ ] To support the development of minority official languages communities in Canada 
+        - [x] To maximize the number of immigrants entering Canada 
+
+    4. Each of the following is a potential remedy to challenge an inadmissibility finding except: 
+        - [ ] Judicial Review
+        - [ ] Authorization to Return to Canada
+        - [ ] Temporary Resident Permits 
+        - [x] Notice of Action against the IRCC 
+
+    5. Leary, an immigration consultant, is approached by his long-term client, Antonio, to explain how the inadmissibility provisions works in Canadian immigration law. Leary informs Antonio about the specifics of criminal inadmissibility. Which of the following is an **incorrect** statement about criminal inadmissibility? 
+        - [ ] Time spent on parole does not count towards the calculation of residency obligation 
+        - [x] If a permanent resident commits a domestic abuse offense, they would be precluded from a family class sponsorship for three years 
+        - [ ] A protected person can be removed from Canada on grounds of criminal inadmissibility
+        - [ ] Criminality is one of the most commonly invoked ground for inadmissibility  
+    > See Chapter 1, "II. The IRPA – G. Forms of Inadmissibility". A Permanent Resident convicted of an offence involving violence against a family member could **preclude a family class sponsorship** for **five years**.
+
+    6. Each of the following is a point of interdiction for potential finding of inadmissibility, except: 
+        - [x] Job application at the federal government 
+        - [ ] Port of Entry 
+        - [ ] Citizenship application 
+        - [ ] Permanent residence application 
+
+    7. Which of the following is **not** a primary form of immigration status in Canada? 
+        - [ ] Temporary residence with study permit
+        - [x] Permanent citizen 
+        - [ ] Convention refugee 
+        - [ ] Permanent resident 
+
+    8. Each of the following actors can make a decision about inadmissibility of an individual except: 
+        - [ ] A Minister's Delegate 
+        - [x] A police officer 
+        - [ ] An IRCC Officer 
+        - [ ] A Member of the ID 
+
+??? note "Chapter 2 of Sharma & Daghighian"
+
+    1. Janet is an immigration consultant at an established firm. She has been contacted by Goriki, a client who frantically informed Janet that he has been found inadmissible for trafficking heroin. Goriki insists that he was merely a drug mule forced to participate in the trafficking. Goriki tells Janet that he must stay in Canada to be with his young children. Which of the following is **NOT** true about the potential remedies Janet can seek for Goriki? 
+        - [x] Goriki can apply for a humanitarian and compassionate exemption from his criminal inadmissibility, which would stay the enforcement proceedings against him 
+        - [ ] Goriki can apply for a humanitarian and compassionate exemption from his criminal inadmissibility, which would consider the best interests of his children as part of the assessment 
+        - [ ] Prior to removal, Goriki can apply for pre-removal risk assessment if his removal would subject him to a personalized risk to life or of cruel and unusual punishment  
+        - [ ] Goriki can apply for a temporary resident permit, which is a highly discretionary tool for individuals found criminally inadmissible but has compelling reasons to stay in Canada 
+    > The H & C application, on its own, does not stay, stop or suspend enforcement proceedings in Canada.
+
+    2. Dobu is an experienced immigration consultant. One of Dobu's clients, Yano, has been charged with an indictable offense. Which of the following is **not a possible consequence** for Yano? 
+        - [ ] If Yano is sponsoring his eight-year-old daughter, he may become an ineligible sponsor 
+        - [ ] If Yano is a protected person, he is at risk of being back to his country of nationality 
+        - [x] If Yano is a permanent resident, he would be safeguarded against removal from Canada, but he will serve his sentence at a federal penitentiary 
+        - [ ] If Yano is being sponsored by his wife, his application will be jeopardized
+
+    3. Raze went on a trip to Columbia and was charged with public disturbance during her trip (equivalent to a summary conviction in Canada). Which of the following is **incorrect** regarding her return to Canada? 
+        - [ ] At the Point of Entry, Raze will be given an opportunity to respond to the CBSA officer's concerns about her criminal charge
+        - [x] The CBSA officer must be satisfied on a balance of probabilities that Raze committed the offense charged in order to issue a negative decision 
+        - [ ] If Raze is a Permanent Resident, she will be allowed entry into Canada, and an enforcement proceeding will be initiated via a Section 44 Report 
+        - [ ] If Raze is a Foreign National, she may not be allowed entry by the CBSA officer 
+    > The standard of proof for **inadmissibility** is set out in s 33 of the IRPA, which is the "**reasonable grounds**" threshold. This standard is lower than the civil standard of balance of probabilities. 
+
+    4. If Mr. Chowdhury is found inadmissible on security grounds, each of the following is a possible outcome **except**: 
+        - [ ] Mr. Chowdhury will be **unable to advance a refugee claim** 
+        - [ ] Mr. Chowdhury **cannot seek relief** under humanitarian and compassionate considerations under s 25(1) of the IRPA 
+        - [x] Mr. Chowdhury must exhaust all avenues of appeal and judicial review before he can apply for ministerial relief 
+        - [ ] A **deportation** order will be issued for Mr. Chowdhury
+
+    5. To assess whether the political party can fall under the scope of s 34(1)(c), each of the following is an appropriate consideration **except**: 
+        - [ ] If the deaths and injuries from the political protests were unforeseeable and a by-product, it would not be sufficient 
+        - [ ] It must be shown that the political party intended the death or serious injury to be caused to civilians during the protests 
+        - [x] If an organization is not on the list of terrorist organizations, the decision-maker can conclude that it would not fall within the scope of s 34(1)(c) 
+        - [ ] Wilful blindness to the potential violence that could result from protests is not sufficient to find intention to cause deaths or serious injuries 
+
+
+
+
+
 
