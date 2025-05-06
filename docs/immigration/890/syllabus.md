@@ -100,7 +100,7 @@ Your target word count for this assignment is **400 (+/- 50 words)**.
 Plenaries are scheduled on **Tuesday** each week of the course at **8:00 PM (ET)**.
 
 <div style="display:flex; justify-content:flex-start; align-items:center ">
-<img src="../../../assets/img/zoomLogo.png" alt="Zoom Logo" width="100"> <span>Tuesday @ 8:00 pm (ET) <a href="https://queensu.zoom.us/j/98178521450?pwd=B13pKbxwPhaM06I1uA9JieIKY3lwap.1" target="_blank">Tutorial Zoom Link</a></span>
+<img src="../../../assets/img/zoomLogo.png" alt="Zoom Logo" width="100"> <span>Tuesday @ 8:00 pm (ET) <a href="https://queensu.zoom.us/j/98178521450?pwd=B13pKbxwPhaM06I1uA9JieIKY3lwap.1" target="_blank">Plenary Zoom Link</a></span>
 </div>
 
 ## Instructor Information
