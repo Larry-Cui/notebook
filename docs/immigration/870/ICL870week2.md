@@ -150,7 +150,10 @@ tags:
         - authorize PC to enter Canada for further examination
         - make removal order
     - Counsel may make a **oral request for written reasons** at the end of the hearing or later, **in writing**, provided that the request is made **within 10 days** of the date of the decision. (Rule 7(4))
-    - The PC has **no right to appeal** to IAD if the inadmissibility is based on "**security, human rights violation, serious criminality or organized criminality.**"
+    - The PC has **no right to appeal** to IAD if the inadmissibility is based on "**security, human rights violation, serious criminality or organized criminality.**" (s 64 IRPA)
+    - DFN has no right of appeal to the RAD.
+    - The detention review is initiated when the ID receives a **request** for a detention review from the **minister**. The issue of detention may also arise at the end of the inadmissibility hearing, after the member has issued a removal order, if the minister argues that there is a reason to place the PC in detention.
+    - There is **no limit** to the amount of time that a person may be in **immigration detention** as long as there is a periodic review.
 
 ## Quizzes
 
