@@ -22,26 +22,26 @@ tags:
 ??? note "Readings and Resources"
 
     - Chantal Desloges & Cathryn Sawicki, *Canadian Immigration and Refugee Law: A Practitioner’s Handbook*, 3rd ed (Toronto: Emond, 2023)
-        - Part VI Enforcement; Chapter 14 Immigration Hearings and Detentions;  Section I. to Section VII. 
+        - Part VI Enforcement; Chapter 14 Immigration Hearings and Detentions;  Section I. to Section VII.
     - IRPA: 18, 20, 29, 33-42, 44-46, 50, 52, 55-56, 63
     - IRPR: 224-226, 228-229, 230-233
     - [Immigration Division Rules (SOR/2002-229)](https://www.laws-lois.justice.gc.ca/eng/regulations/SOR-2002-229/index.html){:target="\_blank"}: 1-7, 12-51
     - Immigration and Refugee Board of Canada, "Preparing for Admissibility Hearings > Admissibility Hearings", [online](https://irb-cisr.gc.ca/en/detention-hearings/Pages/hearings.aspx){:target="\_blank"}.
     - ***Cha v. Canada (Minister of Citizenship and Immigration)***, [2006 FCA 126](https://canlii.ca/t/1mz15){:target="\_blank"}
     - ***Sharma v. Canada (Public Safety and Emergency Preparedness)***, [2016 FCA 319](https://canlii.ca/t/gwlfw){:target="\_blank"}
-    - ***Clare v Canada (Immigration and Refugee Board)***, [2015 CanLII 98733 (CA IRB)](https://www.canlii.org/en/ca/irb/doc/2015/2015canlii98733/2015canlii98733.html?autocompleteStr=2015%20canlii%2098733&autocompletePos=1){:target="\_blank"} 
+    - ***Clare v Canada (Immigration and Refugee Board)***, [2015 CanLII 98733 (CA IRB)](https://www.canlii.org/en/ca/irb/doc/2015/2015canlii98733/2015canlii98733.html?autocompleteStr=2015%20canlii%2098733&autocompletePos=1){:target="\_blank"}
 
 ??? note "Five Tips on how to Conduct an Admissibility Hearing"
 
     - Prepare, prepare, prepare!
-        - Preparing your client 
+        - Preparing your client
             - Tell your client what the hearing will be like
             - Set your client at ease by explaining the process
             - Prepare your client on how to answer (hard) questions (e.g., no guessing and ask for clarifications)
         - Preparing the documentation
-            - Your documentation must support your case and respond to the Minster’s case  
-            - Your documentation must be **relevant**, **timely** and from **reliable** sources  
-            - If your documentation does not meet the standards of relevance, timeliness or reliability, you need to explain why 
+            - Your documentation must support your case and respond to the Minster’s case
+            - Your documentation must be **relevant**, **timely** and from **reliable** sources
+            - If your documentation does not meet the standards of relevance, timeliness or reliability, you need to explain why
     - Know the ID rules and follow them
         - What’s covered by the rules:
             - **Disclosure deadlines**
@@ -61,19 +61,17 @@ tags:
         - Remain engaged throughout the hearing
         - Object if questioning becomes abusive
         - Clarify if something has been misstated
-        - Listen to the Minister and address what they say in your submissions 
+        - Listen to the Minister and address what they say in your submissions
     - Listen to the Member and answer their questions directly
         - **Focus** on what the Member is interested in
         - Get the Member on your side by being **amenable** to their requests
 
-???+ note "Inadmissibility Reports"
+??? note "Inadmissibility Reports"
 
     - A person who is already in Canada is inadmissible, the officer writes an **inadmissibility report ("Section 44(1) report")**.
     - The officer then forwards the report to the minister's delegate, who either **issue a removal order** directly, or **refer it to the ID**.
-    
-    !!! note ""
-        
-        **228(1) of IRPR** (infractions for which a removal order can be made by a minster's delegate)
+
+    ??? note "**228(1) of IRPR** (infractions for which a removal order can be made by a minster's delegate)"
 
         For the purposes of subsection 44(2) of the Act, and subject to subsections (3) and (4), if a report in respect of a foreign national does not include any grounds of inadmissibility other than those set out in the following circumstances, the report shall not be referred to the Immigration Division and any **removal order made** shall be
 
@@ -121,20 +119,41 @@ tags:
         - (b) the foreign national is inadmissible under paragraph 41(a) of the Act for failing to establish that they will leave Canada by the end of the period authorized for their stay.
 
     - IRCC officer generally writes a 44(1) report. But when it's about security, human rights issue, organized criminality, CBSA will manage the case.
-    - The federal court in ***Hernandez v Canada (Minister of Citizenship and Immigration)***, [2005 FC 429](https://canlii.ca/t/1k2fj){:target="\_blank"} concluded that the scope of discretion under ss 44(1) and (2) is broad to **allow consideration of H&C**. 
-    - **Onus of Proof:** at an admissibility hearing the onus of proof **depends on whether the person concerned (PC) has legal status in Canada.** 
+    - The federal court in ***Hernandez v Canada (Minister of Citizenship and Immigration)***, [2005 FC 429](https://canlii.ca/t/1k2fj){:target="\_blank"} concluded that the scope of discretion under ss 44(1) and (2) is broad to **allow consideration of H&C**.
+    - **Onus of Proof:** at an admissibility hearing the onus of proof **depends on whether the person concerned (PC) has legal status in Canada.**
         - if the PC was denied the right to enter Canada, and therefore has no legal status, the onus is on the PC to prove they are not inadmissible
-        - if the PC was allowed to enter Canada and is alleged at a later time to have become inadmissible, then the onus is on the hearings officer to prove those allegations. 
+        - if the PC was allowed to enter Canada and is alleged at a later time to have become inadmissible, then the onus is on the hearings officer to prove those allegations.
+    - **Standard of Proof:** In most cases the standard is "**reasonable grounds to believe**". For section 36(1) of the IRPA, where the permanent residents or foreign nationals are alleged to have "committed an act" outside Canada, the standard is "**on a balance of probabilities**".
 
+??? note "Arrest and Detention"
+
+    - **At the POE**, an officer may arrest and detain a PR or FN to ensure that the person will be available for examination (IRPA s 55(3)(a)), or the officer has reasonable grounds to believe that the person is inadmissible on any of the most serious grounds of inadmissibility. The officer must notify the ID so that **a detention review can be held within 48 hours** (IRPA s 57(1)).
+    - **Wihtin Canada**, generally an office is required to issue **an immigration warrant** for arrest and detention. Within 48 hours of a detention, an officer may review the reasons for the detention and may exercise their authority under s 56(1) of IRPA to release the person. Otherwise, the officer must notify the ID so a review hearing could be held. (IRPA s 55(4)).
+    - **A person appearing at an admissibility hearing** may be detained at the end of the hearing.
+    - Unless a FN can prove they have the appropriate visa, a FN who is part of a group that is designated irregular arrival will be designated and known as a **DFN** under s 20.1(2) of the IRPA and subject to **automatic detention** if they are 16 years of age or older. (s 56(2))
+
+???+ note "The Immigration Division"
+
+    - **Admissibility hearings.** The ID has the authority under s 45 of the IRPA to hear and decide whether PR and FN alleged to have contravened the IRPA should be allowed to **enter or remain in Canada or should be ordered removed**.
+    - **Detention reviews.** The ID has the authority under s 54 of the IRPA to **review the reasons for the immigration detention** of PR, FN, and DFN to decide whether to release them or whether there are sufficient reasons to continue the detention.
+    - Hearings before an ID member are quasi-judicial proceedings and are **adversarial**.
+    - **Family members** who are included in the inadmissibility report may be **subject to the same removal order**.
+    - the PC (person concerned) must be **personally in attendance** at the hearing.
+    - Generally, the hearing officer (CBSA) first calls the PC. **There is no right against self-incrimination at an admissibility hearing**.
+    - s 229(3) of the IRPR directs the ID to make a deportation order instead of the prescribed removal order against a person if the PC meets any of the following criteria:
+        - previous subject to a removal order
+        - failed to comply with any conditions or obligations imposed under IRPA or legislation
+        - convicted in Canada
+    - the ID member may make any of the following decisions (s 45 IRPA):
+        - allow PC to enter Canada
+        - grant status to PC
+        - authorize PC to enter Canada for further examination
+        - make removal order
+    - Counsel may make a **oral request for written reasons** at the end of the hearing or later, **in writing**, provided that the request is made **within 10 days** of the date of the decision. (Rule 7(4))
+    - The PC has **no right to appeal** to IAD if the inadmissibility is based on "**security, human rights violation, serious criminality or organized criminality.**"
 
 ## Quizzes
 
 ??? note "Chapter 1 of Sharma & Daghighian"
 
-    1. Kayo 
-
-
-
-
-
-
+    1. Kayo
