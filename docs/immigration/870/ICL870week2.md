@@ -132,7 +132,7 @@ tags:
     - **A person appearing at an admissibility hearing** may be detained at the end of the hearing.
     - Unless a FN can prove they have the appropriate visa, a FN who is part of a group that is designated irregular arrival will be designated and known as a **DFN** under s 20.1(2) of the IRPA and subject to **automatic detention** if they are 16 years of age or older. (s 56(2))
 
-???+ note "The Immigration Division"
+??? note "The Immigration Division"
 
     - **Admissibility hearings.** The ID has the authority under s 45 of the IRPA to hear and decide whether PR and FN alleged to have contravened the IRPA should be allowed to **enter or remain in Canada or should be ordered removed**.
     - **Detention reviews.** The ID has the authority under s 54 of the IRPA to **review the reasons for the immigration detention** of PR, FN, and DFN to decide whether to release them or whether there are sufficient reasons to continue the detention.
@@ -154,6 +154,38 @@ tags:
     - DFN has no right of appeal to the RAD.
     - The detention review is initiated when the ID receives a **request** for a detention review from the **minister**. The issue of detention may also arise at the end of the inadmissibility hearing, after the member has issued a removal order, if the minister argues that there is a reason to place the PC in detention.
     - There is **no limit** to the amount of time that a person may be in **immigration detention** as long as there is a periodic review.
+    - The Ontario Court of Appeal (***Wang v Canada***, [2018 ONCA 798](https://canlii.ca/t/hvd7t){:target="\_blank"} at 23, 33) has ruled that immigration detainees can apply for ***hebeas corpus*** to challenge their incarceration in situations that amount to "indefinite detention" under the Charter.
+    - The time for ID to review the reasons for a continued detention (A 57(1) & (2)):
+        - the initial review: 48 hours of detention
+        - the second review: 7 days of first detention
+        - subsequent review: 30 days following each of the previous review
+    - A **DFN under 16 years** of age is excluded from the detention.
+    - Detention reviews for **PR** who are being held under a **security certificate** are conducted by the **federal court**, not the ID (A82). **48 hours** for the initial review and **6 months** following the previous review.
+    - Detention reviews before the ID are adversarial hearings.
+    - Factors to be considered if a PC should be detained (R 244):
+        - flight risk
+        - danger to the public
+        - identity not established, and
+        - other factors (R248, 249)
+
+???+ note "Removal"
+
+    - **Canadian citizen are not subject to removal.** The only situation in which a citizen may be removed from Canada is if their citizenship is first **revoked**. This may happen if the citizenship was granted on the basis of a **misrepresentation**.
+    - Family members of a foreign national who is the subject of a removal order may also be included within the order.
+    - The type of removal order made against a PC depends on which ground of inadmissibility are found to have been violated. 
+        - **departure orders (R224):** no authorization is necessary to return. 30 days to becomes enforceable. require a certificate of departure when leaving.
+        - **exclusion orders (R225):** a written authorization is necessary to return during ONE year. Misrepresentation is FIVE years. family member is exempt from period restriction.
+        - **deportation orders (R226):** always need an authorization to return. family member is exempt from period restriction. A80 certificate of security is deemed as a removal order and always need an authorization to return.
+    - R224(2). If a person **fails to leave** Canada within the 30-day time period, or leaves and **fails to obtain a certificate of departure**, the **departure order is automatically deemed to be a deportation order**. 
+    - R229. An exclusion order must be issued by the ID when a person is found to be inadmissible to Canada. The person must apply for an authorization to return within barred period. [How to apply?](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility/reasons/authorization-return-canada/apply.html){:target="\_blank"} and [ARC op1: procedure](https://www.canada.ca/content/dam/ircc/migration/ircc/english/resources/manuals/op/op01-eng.pdf){:target="\_blank"}
+    - **Five ways** a removal may be **stayed**:
+        - by the minister
+        - by application for leave for a judicial review
+        - by application for PRRA
+        - by approval on H&C grounds
+        - by appeal to IAD
+    - Furthermore, if a statutory stay is unavailable, a person can apply to the federal court for a stay of removal pending further judicial review litigation.
+    - R230. the minister may not issue a stay of removal order if the person is inadmissible on security, violation of human rights, serious criminality and organized crimes, or a person that **consented in writing** to their removal. 
 
 ## Quizzes
 
