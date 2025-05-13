@@ -168,7 +168,7 @@ tags:
         - identity not established, and
         - other factors (R248, 249)
 
-???+ note "Removal"
+??? note "Removal"
 
     - **Canadian citizen are not subject to removal.** The only situation in which a citizen may be removed from Canada is if their citizenship is first **revoked**. This may happen if the citizenship was granted on the basis of a **misrepresentation**.
     - Family members of a foreign national who is the subject of a removal order may also be included within the order.
@@ -186,6 +186,17 @@ tags:
         - by appeal to IAD
     - Furthermore, if a statutory stay is unavailable, a person can apply to the federal court for a stay of removal pending further judicial review litigation.
     - R230. the minister may not issue a stay of removal order if the person is inadmissible on security, violation of human rights, serious criminality and organized crimes, or a person that **consented in writing** to their removal. 
+
+???+ note "Procedural Fairness and ID Rules"
+
+    - ***Cha v. Canada (Minister of Citizenship and Immigration)***, [2006 FCA 126](https://canlii.ca/t/1mz15){:target="\_blank"}
+        - The trial Judge quashed this order, finding that the Minister’s delegate had an obligation to consider the particular circumstances of the applicant and his conviction to determine if there were any **mitigating circumstances which would make it unreasonable to deport** him.
+        - the appeal should be allowed. Because subsection 44(2) applies to all grounds of inadmissibility, **the scope of discretion may vary** depending on the **grounds** alleged, on whether the **person** concerned is a permanent resident or a foreign national and on whether the report is **referred** or not to the Immigration Division.
+        - Parliament has made it clear that criminality of non‑citizens is a major concern. It is their [officer] respective responsibility, when they find a person to be inadmissible on grounds of serious criminality or criminality, to prepare a report and to act on it.
+        - A review of the five duty of fairness factors set out in Baker v. Canada (Minister of Citizenship and Immigration) led to the conclusion that the respondent was entitled to a relatively low degree of participatory rights.
+        - [42] five factors set out by the Supreme Court of Canada in ***Baker v. Canada (Minister of Citizenship and Immigration)***, [1999 CanLII 699](https://www.canlii.org/en/ca/scc/doc/1999/1999canlii699/1999canlii699.html){:target="\_blank"}. 
+        - [47] the fact is that he came to Canada under a student permit renewable, we were told, every six months, that he was permitted as a matter of privilege to stay in Canada for a certain duration and subject to certain conditions, never had and could never have had any expectation that he would be allowed to remain in Canada and has breached a major condition of his right of entry. This factor points to a lower duty of fairness.
+        - [48] Furthermore, even though the issue of inadmissibility has been determined, a foreign national can still seek a stay of the removal order on H&C considerations (section 233 of the Regulations) or in the course of a pre‑removal risk assessment (section 232 of the Regulations). He is therefore not out of the country yet, and not out of remedies. This factor also points to a lower degree of fairness.
 
 ## Quizzes
 
