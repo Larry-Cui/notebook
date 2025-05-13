@@ -187,7 +187,7 @@ tags:
     - Furthermore, if a statutory stay is unavailable, a person can apply to the federal court for a stay of removal pending further judicial review litigation.
     - R230. the minister may not issue a stay of removal order if the person is inadmissible on security, violation of human rights, serious criminality and organized crimes, or a person that **consented in writing** to their removal. 
 
-???+ note "Procedural Fairness and ID Rules"
+??? note "Procedural Fairness and ID Rules"
 
     - ***Cha v. Canada (Minister of Citizenship and Immigration)***, [2006 FCA 126](https://canlii.ca/t/1mz15){:target="\_blank"}
         - The trial Judge quashed this order, finding that the Minister’s delegate had an obligation to consider the particular circumstances of the applicant and his conviction to determine if there were any **mitigating circumstances which would make it unreasonable to deport** him.
@@ -200,6 +200,147 @@ tags:
 
 ## Quizzes
 
-??? note "Chapter 1 of Sharma & Daghighian"
+??? note "Module 2: Chapter 3, Parts I, II, and III of Sharma & Daghighian"
 
-    1. Kayo
+    1. Which of the following best describes admissibility proceedings before the Immigration Division? 
+        - [ ] Admissibility proceedings are criminal in nature 
+        - [x] Admissibility proceedings determine the individual's immigration status in Canada
+        - [ ] Admissibility proceedings rule on a verdict of the offense and sentence the individual according to the circumstances of the offense 
+        - [ ] The purpose of admissibility proceeding is to determine whether the individual is guilty or innocent of the offense  
+
+    2. The best way to describe a hearing before the Immigration Division is: 
+        - [ ] Formal and inquisitorial 
+        - [x] Quasi-judicial and adversarial 
+        - [ ] Adversarial akin to criminal proceedings 
+        - [ ] Judicial and adversarial 
+
+    3. Juliet is an IRCC officer preparing a Section 44 report for an inadmissible individual. Under what circumstances would Juliet's report be reviewed by the Minister's Delegate? 
+        - [ ] When the report is for inadmissibility under security grounds or criminal grounds 
+        - [x] **All reports written by Juliet will be reviewed by the MD** 
+        - [ ] When the report is for inadmissibility under security grounds
+        - [ ] When the report is for inadmissibility under ss 34, 35, or 37 of the IRPA 
+
+    4. Saya wants to challenge a removal order issued by a Minister's Delegate. Yuwen tells Saya that she can challenge this order by: 
+        - [ ] A request for an oral hearing before the MD who made the order
+        - [ ] An application for leave and judicial review at the provincial superior court
+        - [ ] An appeal of the decision within the IRB 
+        - [x] An application for leave and judicial review at the Federal Court of Canada 
+
+
+    5. If Saya applies for judicial review of the Minister's Delegate's decision, what would happen to the removal order issued? 
+        - [x] If Saya is serving a sentence in Canada, the removal order may be **statutorily stymied** 
+        - [ ] The removal order will be automatically stayed
+        - [ ] The removal order will be replaced by the sentence Saya will serve 
+        - [ ] The removal order will be void 
+
+    6. If Yuwen applies for a humanitarian & compassionate application on behalf of Saya, which of the following is **incorrect** about such an application? 
+        - [ ] The H&C application will allow Saya to remain in Canada if successful
+        - [ ] The H&C application can allow for a stay of removal
+        - [x] Saya is required to carry out her sentence before applying for H&C
+        - [ ] Saya may be able to receive a permanent residence status from a successful H&C application 
+
+    7. Alfie, a Minister's Delegate, is reviewing Saya's file for inadmissibility on grounds of **serious criminality**. Which of the following removal order can Alfie issue? 
+        - [x] **Deportation** order
+        - [ ] Exclusion order
+        - [ ] Departure order 
+        - [ ] Extradition order 
+
+    8. Bruno is now subject to an inadmissibility proceeding on grounds of criminality. Roberto knows each of the following may be **beneficial** to Bruno's case, **except**: 
+        - [ ] Psychological assessment that mentions Bruno's remorse and rehabilitation 
+        - [ ] Pre-sentence report of Bruno's detention prior to trial 
+        - [ ] Bruno's sentencing transcript 
+        - [x] The prosecutor's indictment notes 
+
+    9. The officer reviewing Bruno's case is considering whether to write a Section 44 Report. The officer knows each of the following is true **except**: 
+        - [ ] The extent of the duty of fairness the officer must give to Bruno is dependent on whether Bruno is a foreign national or permanent resident 
+        - [ ] The extent of the duty of fairness the officer must give to Bruno is dependent on the ground of inadmissibility 
+        - [ ] **The officer has discretion whether to write this report or not** 
+        - [x] If the officer wishes to request Bruno for an examination, Roberto must also be allowed to attend 
+    > There are limited rights for counsel to attend at an examination for inadmissibility, whether at the POE or in-land (**unless the person concerned is detained**).
+
+    10. In reviewing Bruno's case for inadmissibility, the officer will consider the following, **except**:
+        - [ ] How established Bruno is within his community
+        - [ ] How long Bruno has been in Canada
+        - [ ] Whether Bruno has a family who depends on him for support
+        - [x] The length of the Bruno's sentence 
+
+    11. Aileen in a foreign national who received her **permanent resident** status after marrying a Canadian citizen soon after she arrived in Canada on a visitor visa. Aileen has come to you for assistance as her immigration consultant. You may tell her each of the following **except**:
+        - [ ] The officer assessing Aileen's alleged marriage fraud may request an interview to question both Aileen and her spouse 
+        - [x] If Aileen has received a procedural fairness letter, she has the right to an oral hearing before the officer before a Section 44 report is issued 
+        - [ ] If a Section 44 report is issued, it can be challenged by Aileen at the Immigration Division 
+        - [ ] If Aileen has received a procedural fairness letter from an officer, a response letter can be submitted to the officer explaining her version of events 
+    > There is no automatic right to an oral hearing.
+
+    12. Each of the following may be a ground of non-compliance, and hence inadmissibility, **except**: 
+        - [ ] Giacomo, who has a six-month visitor permit and started enrolling in a post-secondary program at Humber College
+        - [x] Rosa, who is a permanent resident, but within the last five years was only physically present in Canada for 25 months 
+        - [ ] Juan, who has a closed work permit at an automobile manufacturer but works part-time as a bartender on the weekends 
+        - [ ] Yin, who has a six-month visitor permit but did not left Canada when the permit expired 
+
+    13. Roberta was removed from Canada on a Deportation Order. To return to Canada, when can she do so without an authorization to return? 
+        - [ ] Anytime after her removal 
+        - [ ] 12 months after Roberta's removal 
+        - [ ] 3 years after Roberta's removal
+        - [x] Roberta **cannot return without an authorization** to return 
+
+    14. Jett is coming to Canada for a business trip to negotiate a bulk purchase agreement for the supply of fork lifts. Her work permit is for a duration of 5 months. Would Jett require a medical examination before her arrival? 
+        - [x] No, because Jett is staying in Canada for less than 6 months
+        - [ ] Yes, if Jett has a pre-existing medical condition 
+        - [ ] No, because Jett is coming to Canada for business purposes 
+        - [ ] Yes, because every applicant who is entering Canada requires a medical examination 
+
+    15. A Departure Order can turn into a Deportation Order if the individual subject to the order does not leave Canada within how many days? 
+        - [ ] 7 days
+        - [ ] 14 days
+        - [x] 30 days
+        - [ ] 60 days
+
+    16. An individual subject to **an admissibility hearing** is **not entitled to** which of the following rights? 
+        - [ ] The right to disclosure of all relevant evidence 
+        - [ ] The right to adequate advance notice of the hearing
+        - [x] The right to fully **cross-examine witnesses**
+        - [ ] The right to legal counsel 
+
+    17. Which of the following is **not** a type of removal order? 
+        - [ ] Departure Order 
+        - [ ] Exclusion Order 
+        - [ ] Expulsion Order 
+        - [ ] Deportation Order 
+
+    18. Samer is before the Immigration Division for his admissibility hearing. If the ID finds him inadmissible **on health grounds**, which of the following removal order will be issued? 
+        - [x] Exclusion order 
+        - [ ] Deportation order
+        - [ ] Departure order
+        - [ ] Removal and treatment order 
+    > The Immigration Division holds Admissibility Hearings for everyone that falls outside of the Minister's Delegate's jurisdiction. **An exclusion order will be issued for individuals found inadmissible on health grounds under s 38(1) of the IRPA**.
+
+    19. You are assisting a client, Chadwin, in appealing a removal order at the IAD. Chadwin asks you about the potential outcomes at the IAD, you can tell him each of the following **except**: 
+        - [ ] The IAD can set aside the removal order
+        - [x] The IAD can **invalidate** the removal order
+        - [ ] The IAD can confirm the removal order
+        - [ ] The IAD can impose a stay of the removal order with conditions 
+
+    20. Your client, Juanita, has received a procedural fairness letter informing her that she may be found inadmissible for misrepresentation in her refugee claim. In a responding submission to this procedural fairness letter, you may consider each of the following except: 
+        - [ ] A detailed statement from Juanita regarding her circumstances and remorse surrounding the misrepresentation 
+        - [ ] Seek supporting letters from Juanita's friends and family
+        - [ ] Attempt to minimize the scope or effects of Juanita's misrepresentation 
+        - [ ] Request an in-person or phone interview for Juanita with the officer 
+    > See Chapter 3 of Daghighian & Sharma , "II. Section 44 Reports – Best Practices for Counsel". **Do not attempt to minimize the client's criminality or underlying inadmissibility**.
+
+    21. Roberto has been convicted of an indictable offense at the Ontario Superior Court. He is also subject to an admissibility hearing before the Immigration Division for this offense. Roberto's criminal defense counsel has initiated an appeal of the conviction to the Ontario Court of Appeal. Can Robert's **admissibility hearing be adjourned pending the criminal appeal**? 
+        - [ ] No, because the criminal proceeding is not relevant to the admissibility hearing 
+        - [x] No, because it is not generally a sufficient reason
+        - [ ] Yes, because the criminal appeal takes precedence over immigration admissibility proceedings
+        - [ ] Yes, because the conviction is pending appeal, there may not be a basis for Roberto's admissibility hearing if Roberto's criminal appeal is allowed 
+    > See Chapter 3, III. The Immigration Division: Admissibility Hearings and Detention Reviews, "Admissibility Hearings – Postponements and Adjournments". According to the Chairperson's guidelines, **the fact that there is a pending appeal of a conviction on criminal charges related to the subject of the proceedings or a pending application for Ministerial relief from inadmissibility is not generally a sufficient reason for the ID to grant an application to change the date or time of an admissibility hearing.** 
+
+    22. Yifan is a foreign national seeking to enter Canada. However, she is not legally authorized to do so. Who bears the onus of proof to prove that Yifan is admissible or inadmissible? 
+        - [ ] There is a presumption that Yifan is admissible and the Minister must rebut this presumption
+        - [ ] There is a presumption that Yifan is inadmissible and she must rebut this presumption
+        - [x] Yifan must prove that she is not inadmissible 
+        - [ ] The Minister must prove that Yifan is inadmissible  
+    > See Chapter 3, III. The Immigration Division: Admissibility Hearings and Detention Reviews, "Admissibility Hearings – Burden of Proof". Where the person is a foreign national who is seeking entry to Canada or has not been legally authorized to enter Canada, the onus is on that person to prove that they are not inadmissible.
+
+
+
+aaa
