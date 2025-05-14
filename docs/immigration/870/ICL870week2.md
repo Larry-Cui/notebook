@@ -198,6 +198,13 @@ tags:
         - [47] the fact is that he came to Canada under a student permit renewable, we were told, every six months, that he was permitted as a matter of privilege to stay in Canada for a certain duration and subject to certain conditions, never had and could never have had any expectation that he would be allowed to remain in Canada and has breached a major condition of his right of entry. This factor points to a lower duty of fairness.
         - [48] Furthermore, even though the issue of inadmissibility has been determined, a foreign national can still seek a stay of the removal order on H&C considerations (section 233 of the Regulations) or in the course of a pre‑removal risk assessment (section 232 of the Regulations). He is therefore not out of the country yet, and not out of remedies. This factor also points to a lower degree of fairness.
 
+??? note "Case Study "Bora Park""
+
+    - The wording of the offence at article 44 of the *Korean Road Traffic Act* does not require any particular blood alcohol level to be established for a conviction. Similarly, in Canada, **the offence of “impaired driving” at Criminal Code paragraph 320.14(1) does not require any particular blood alcohol reading.** As long as the evidence establishes a degree of impairment, ranging from slight to great, the offence is made out: ***R v Stellato***, [1993 CanLII 3375 (ON CA)](https://canlii.ca/t/1npns){:target="\_blank"}, affirmed by the Supreme Court of Canada. 
+    - In order for a foreign conviction to result in inadmissibility, **it must first be found to be the equivalent of an offence in Canada.** 
+    Once the Canadian equivalent of the foreign offence has been identified, the Canadian equivalent must fall within the parameters of IRPA 36(2) to result in inadmissibility. 
+    - For a PR, the punishable conviction must be 10-year maximum. **For a FN, any minor conviction could lead to inadmissibility**.
+    
 ## Quizzes
 
 ??? note "Module 2: Chapter 3, Parts I, II, and III of Sharma & Daghighian"
@@ -341,6 +348,57 @@ tags:
         - [ ] The Minister must prove that Yifan is inadmissible  
     > See Chapter 3, III. The Immigration Division: Admissibility Hearings and Detention Reviews, "Admissibility Hearings – Burden of Proof". Where the person is a foreign national who is seeking entry to Canada or has not been legally authorized to enter Canada, the onus is on that person to prove that they are not inadmissible.
 
+???+ note "Module 2: Salhany, Canadian Criminal Procedure"
+
+    1. Loki was convicted of theft under $5000 and the Crown proceeded by way of indictment. Loki's trial was in the **Ontario Court of Justice**. Where will the **appeal** be heard? 
+        - [ ] The Superior Court of Justice 
+        - [x] The Court of Appeal 
+        - [ ] The Divisional Court 
+        - [ ] The Ontario Court of Justice Appeal Division 
+
+    2. Alex represents Ben in an indictable proceeding for which Ben has elected to have a trial by provincial court judge alone. With the written consent of the Crown, Ben may **re-elect** to have his trial by judge and jury in the Superior Court of Justice: 
+        - [ ] Any time before committal to stand trial
+        - [x] A**ny time before commencement of the trial** 
+        - [ ] No later than 14 days before the commencement of the trial
+        - [ ] Any time before a verdict is reached 
+
+    3. Sonia has been charged with falsifying employment record, which is a summary offense under s 398 of the Criminal Code. She would be tried before: 
+        - [x] Judge only 
+        - [ ] Sonia can elect between trial with or without a jury before a judge 
+        - [ ] Jury only 
+        - [ ] A jury and a judge 
+    > See Roger E Salhany, Canadian Criminal Procedure, 6th ed at 1.10. **"Petty offenses" are tried summarily by justices sitting without a jury**.
+
+    4. Ada has been charged with identity theft, a hybrid offense. Which of the following is **incorrect** about how Ada's trial will proceed? 
+        - [ ] If Ada's offense proceeds summarily, it will be presided by a provincial court judge alone 
+        - [ ] Ada's offense will proceed by summary conviction if the Crown does not make an election 
+        - [x] Ada's offense will be deemed to proceed summarily unless the Crown elects for indictment 
+        - [ ] Ada's offense will be deemed indictable unless the Crown elects to proceed summarily 
+
+    5. Yuri is convicted of **a summary offense**. What would his maximum sentence be? 
+        - [ ] Two years less a day imprisonment or a fine more than $5000 
+        - [x] **Two years less a day imprisonment and/or a fine not more than $5000 **
+        - [ ] Five years less a day imprisonment and/or a fine not more than $20000 
+        - [ ] One year less a day imprisonment and/or a fine not more than $2000 
+
+    6. Riley has been charged with **treason**, a s 469 offense under the Criminal Code. Which court would Riley be tried in? 
+        - [] Federal Court of Canada 
+        - [ ] Ontario Court of Justice 
+        - [x] **Ontario Superior Court **
+        - [ ] Criminal Court 
+
+    7. Taylor was charged with first degree murder, which is an indictable offense. Taylor would be tried before: 
+        - [x] A jury and a judge 
+        - [ ] A panel of three judges 
+        - [ ] Jury only
+        - [ ] Judge only 
+    > Indictable offenses are triable by judge and jury.
+
+    8. Jim is charged with **attempted murder**, which is an indictable offense that is not listed under s 469 of the Criminal Code. Jim must be tried by: 
+        - [ ] Jury only
+        - [ ] Judge only
+        - [ ] Judge and jury 
+        - [x] Jim can elect between trial before judge only or judge and jury 
+    > See Roger E Salhany, Canadian Criminal Procedure, 6th ed at 1.230. **If an indictable offense does not fall within the absolute jurisdiction of a provincial court or the superior court, the accused must be put to his election.**
 
 
-aaa
