@@ -348,7 +348,7 @@ tags:
         - [ ] The Minister must prove that Yifan is inadmissible  
     > See Chapter 3, III. The Immigration Division: Admissibility Hearings and Detention Reviews, "Admissibility Hearings – Burden of Proof". Where the person is a foreign national who is seeking entry to Canada or has not been legally authorized to enter Canada, the onus is on that person to prove that they are not inadmissible.
 
-???+ note "Module 2: Salhany, Canadian Criminal Procedure"
+??? note "Module 2: Salhany, Canadian Criminal Procedure"
 
     1. Loki was convicted of theft under $5000 and the Crown proceeded by way of indictment. Loki's trial was in the **Ontario Court of Justice**. Where will the **appeal** be heard? 
         - [ ] The Superior Court of Justice 
