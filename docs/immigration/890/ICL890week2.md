@@ -54,15 +54,9 @@ tags:
         - In this case, there are three children directly affected by Amina's application: her 12-year-old Canadian-born daughter Zara, and her late sister's children (aged 14 and 16). All three children are Canadian Citizens by birth. None have ever been to Pakistan. Zara speaks only English. Uprooting her from her school life and community would disrupt the education and social connections that are key to her continued healthy development. For Amina's niece and nephew, who have already lost their mother, Amina's potential removal would mean losing their primary caregiver, potentially causing further emotional trauma. All three children have established lives in Canada, including educational and extracurricular activities and friendships that contribute to their well-being. Separating these children from Amina or forcing them to leave Canada would likely cause significant hardship and negatively impact their emotional, social, and educational development.
         - Given the significant negative impact that denying Amina's H&C application would have on the well-being and development of the three minor children affected by this application, the best interests of these children strongly favour granting Amina permanent resident status in Canada.
 
-???+ note "Unit 2"
+??? note "Unit 2"
 
     - **Technical correctness** - including grammar, punctuation, spelling, and usage. This may also involve editing for conciseness.  
     - **Formal and structural completeness** - in other words ensuring that your writing is focused, engaging and has a clear purpose; ensuring that all required elements are present; using CREAC to structure an argument; using substantive headings in the right places, etc.; and 
     - **Substantive grounding** - in other words, ensuring that your writing is anchored in the correct facts, supported by evidence, and refers to the relevant law and policy using strong legal reasoning and analysis. 
 
-
-## Quizzes
-
-??? note "Knowledge Check 1.1: Legal Research Concepts Review"
-
-    1. LEGISinfo 
