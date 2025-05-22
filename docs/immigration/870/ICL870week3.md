@@ -74,7 +74,7 @@ tags:
         - Address factors for consideration
         - Address personal circumstances
 
-???+ note "Reliable and Probative Evidence Before the IAD"
+??? note "Reliable and Probative Evidence Before the IAD"
 
     - **Credibility** relates to a witness's sincerity, whether she is speaking the truth as she believes it to. It includes both veracity (i.e. a witness’s honesty) and reliability (i.e. assuming the witness is being honest, whether the evidence provides an accurate account of the material facts).
     - **Reliability** relates to the accuracy of the evidence in question. 
@@ -90,10 +90,132 @@ tags:
     - Expression of Remorse in an IAD appeal
         - [***Liu v Canada (Public Safety and Emergency Preparedness)***](https://canlii.ca/t/hqshw){:target="\_blank"}, 2017 CanLII 98345 (CA IRB) at paras 18-22, 25
 
+??? note "Case Study "Nguyen": extension and reopening of an IAD appeal"
 
+    - Your client is a 35-year-old citizen of Vietnam, Nguyen, who became a **permanent resident** of Canada on November 14, 2007. On June 6, 2017 he was convicted of Theft of Gas/Electricity contrary to section 326(1)(a) of the Criminal Code, and Production of substance contrary to section 7(1) of the Controlled Drugs and Substances Act. He received a **12-month conditional sentence consisting of house arrest**.  On **March 31, 2018** the Immigration Division determined that your client is inadmissible to Canada as he is a person described in IRPA paragraph **36(1)(a)** and issued a **Deportation** Order against the appellant.  On **February 18, 2019** your client retained you to pursue an appeal for him before the IAD. 
+    - Can you file a Notice of Appeal for Mr. Nguyen?
+        - No, the timelines prescribed by the IAD Rules for filing a Notice of Appeal have expired.    
+    - Can you file an application for an Extension of Time to File the Notice of Appeal? 
+        - That's not immediately clear. Follow Steps 3 to 7 to see if an application for Extension of Time to File the Notice of Appeal is possible. 
+    - What's the correct jurisdiction for relevant jurisprudence?  What's the relevant IAD Rule?  
+        - The authority of the IAD to consider an application to extend time derives from the jurisprudence of the Federal Court and from IAD Rule 4(d):  Rule 4. Powers of the Division — The Division may ... (d) extend or shorten a time limit, before or after the time limit has passed.  
+    - What are the relevant factors to review when considering an application for an extension of time? Where in case law are those relevant factors set out?
+        - The decision to extend time for filing an appeal is discretionary. The case of ***Canada (Attorney General) v Hennelly***, [1999 CanLII 8190](https://canlii.ca/t/4lrd){:target="\_blank"}. set out the factors to review when considering an application for an extension of time:
+            - i)  A continuing intention to pursue his or her application;
+            - ii) That the application has some merit
+            - iii) That no prejudice to the respondent arises from the delay and
+            - iv) That a reasonable explanation for the delay exists.  
+    - Is there any other relevant case law? If so, what is the underlying consideration of said case law? 
+        - **The IAD has a broad discretion to grant an extension of time** according to the case of ***Grewal, Tarsem Singh v Canada (Minister of Employment and Immigration)***, [2 FC 263](https://canlii.ca/t/jqtfv){:target="\_blank"}. 
+        - The underlying consideration is that justice be done between the parties. Furthermore, an extension of time may still be granted if one of the criteria is not satisfied.   
+    - What's your final advice to Mr. Nyugen? Why?
+        - An application for an extension of time to file the Notice of Appeal will likely be denied by the IAD as it would not meet the test set out in *Grewal*.     
 
 ## Quizzes
 
-??? note "Module 2: Chapter 3, Parts I, II, and III of Sharma & Daghighian"
+??? note "Module 3: Chapter 3, Part IV of Sharma & Daghighian (Knowledge Check)"
 
-    1. Which 
+    1. In an appeal before the IAD for medical inadmissibility, which factors will the IAD attempt to balance? 
+        - [ ] The cost of medical care and protecting the health and safety of Canadians 
+        - [x] The objective of family reunification and protecting the health and safety of Canadians 
+        - [ ] The objective of family reunification and the cost of medical care 
+        - [ ] The potential of treatment success in Canada and cost of medical care 
+    > See Chapter 3, IV. The Immigration Appeal Division, "Medical Inadmissibility". In medical inadmissibility appeals, the IAD is called upon to **balance the objective of family reunification and the competing consideration of protecting the health and safety of Canadians and to maintain the security of Canadian society**.
+
+    2. In an appeal before the IAD, when assessing the potential for rehabilitation and hardship in the event of removal, the presiding Member failed to consider the degree of hardship that would be caused to the individual facing removal to their country of nationality. What error was committed by the Member? 
+        - [ ] An error of fact
+        - [x] An error of law
+        - [ ] An error of fact and law
+        - [ ] An unreasonable error 
+    > See Chapter 3, IV. The Immigration Appeal Division, "Family/Dislocation to Family in the Event of Removal". As cited from *Ivanov v Canada (Minister of Citizenship and Immigration)*, 2007 FCA 315, the **failure to consider the *Ribic factor* of foreign hardship is an error of law.**
+
+    3. Which of the following individuals cannot appeal a removal order to the IAD? 
+        - [ ] Jin who is sponsoring his dependent daughter to Canada
+        - [ ] Nancy who is a permanent resident of Canada 
+        - [ ] Juan who has been found inadmissible for medical reasons 
+        - [x] Sova who has been found inadmissible for organized criminality  
+    > See Chapter 3, IV. The Immigration Appeal Division, "Introduction". There is no appeal for inadmissibility arising from **security, violating human or international rights, serious criminality** that has resulted in a jail sentence of 6 months or more, or organized criminality.
+
+    4. When assessing inadmissibility based on misrepresentation, the IAD will consider the following factors **except**: 
+        - [ ] Whether the appellant was the mastermind or a passive participant
+        - [ ] Whether the misrepresentation was inadvertent or deliberate 
+        - [x] Whether the appellant had the assistance of Canadian citizens or permanent residents to execute the misrepresentation 
+        - [ ] How the misrepresentation came to the attention of the immigration authorities  
+    > See Chapter 3, IV. The Immigration Appeal Division, "Misrepresentation". In the context of appeals on the grounds of misrepresentation, the IAD will also look to:
+
+        -  the **nature** of the misrepresentation (inadvertence or carelessness versus deliberate and calculated);
+        - whether it was a **single** isolated act or part of a **scheme** to deceive immigration authorities;
+        - the involvement of the appellant – whether the appellant was the **principal** actor or played merely a **passive** role; 
+        - how immigration authorities became **aware** of the misrepresentation.
+
+    5. Yuan is anxious about the proceeding and asks Carl how an appeal before the IAD would proceed. Specifically, Yuan is concerned that the IAD would have to defer to the decision made by the ID. Carl tells Yuan: 
+        - [ ] The IAD would defer to the ID decision as they have expertise as a first-instance tribunal 
+        - [ ] The IAD would conduct a reasonableness analysis of the ID decision 
+        - [x] The IAD would conduct a de novo hearing and would not be bound by the determination made by the ID 
+        - [ ] The IAD would defer to the ID decision as they had the benefit of hearing evidence first-hand 
+    > See Chapter 3, IV. The Immigration Appeal Division, "Introduction". **The hearing before the IAD is de novo, the IAD is not bound by the determination by the Immigration Division or the Visa or POE Officer.**
+
+    6. Which of the following would be considered by the IAD when hearing Yuan's appeal? 
+        - [ ] Yuan's establishment
+        - [ ] The seriousness of the offense
+        - [ ] Whether Yuan has shown remorse or rehabilitation potential
+        - [x] All of the above
+    > See Chapter 3, IV. The Immigration Appeal Division, "Introduction". The IAD has to conduct a balancing exercise and assess whether "all the circumstances" allow for the grant of relief. As part of this balancing exercise, the IAD considers the mitigating factors - ***Ribic and Chieu factors***.
+
+    7. Yuan has been an active volunteer within the community. She often helps out her senior neighbors with grocery shopping, especially during the pandemic. Yuan's neighbors wonder if there is any way they can help her at the IAD hearing: 
+        - [ ] No, because the offense committed by Yuan did not involve the community members 
+        - [ ] No, because the proceeding does not concern them 
+        - [ ] Yes, community members can visit Yuan at the prison 
+        - [x] Yes, community members can write letters of support for Yuan 
+
+    8. Yuan wonders how much weight the IAD will give to each mitigating factor, and whether these factors are all that they will consider. Carl tells Yuan: 
+        - [ ] The factors are non-exhaustive and the weight given to each factor is pre-determined 
+        - [ ] The factors are exhaustive and the weight given to each factor will vary from case to case 
+        - [ ] The factors are exhaustive and the weight given to each factor is pre-determined 
+        - [x] The factors are non-exhaustive and the weight given to each factor will vary from case to case 
+
+    9. Yuan has heard that hearing before the IAD is a little more formal than other IRB Divisions. Carl tells Yuan that the IAD has all the powers, rights, and privileges vested in a: 
+        - [ ] A provincial court of record 
+        - [x] A superior court of record 
+        - [ ] A federal court of record 
+        - [ ] An appellate court of record 
+    > See Chapter 3, IV. The Immigration Appeal Division, "Appeal and Hearing Procedure". Proceedings are a little more formal than the other Divisions, and Counsel should dress and comport themselves with decorum. **Section 174 of the IRPR** states that the IAD is a court of record and has "**all the powers, rights and privileges vested in a superior court of record**".
+
+    10. Carl is helping Yuan gather supporting evidence from her neighbors. Carl knows that a copy of these documents need to be provided to the opposing party and the IAD ___ days before the hearing: 
+        - [x] 60 days 
+        - [ ] 30 days 
+        - [ ] 20 days 
+        - [ ] 10 days 
+    > s. 24 (1) and s.26 of the IAD Rules - (Immigration Appeal Division Rules, 2022 (SOR/2022-277) ) provide that  If a party wants to use a document in a proceeding, the party must provide the document to the other party and the Division **no later than 60 days after the day on which the party receives the appeal record**.
+
+    11. When the IAD is assessing an appeal of removal order based on inadmissibility on grounds of misrepresentation, the IAD can consider: 
+        - [x] Ribic factors 
+        - [ ] Balancing factors 
+        - [ ] Chau factors 
+        - [ ] Rubic factors 
+
+    12. Kyomi was successful at the admissibility hearing before the ID. On an appeal initiated the by Minister, **who bears the onus of proof to show that the ID decision should not stand?** 
+        - [ ] The Minister has the first burden to show that the ID decision was incorrect, then Kyomi has the second burden to show that the ID decision was correct 
+        - [ ] Kyomi has the first burden to show that the ID decision was correct, then the Minister has the second burden to show that the ID decision was incorrect 
+        - [ ] The Minister 
+        - [ ] Kyomi 
+
+    13. Sonia represented Lucio at an admissibility hearing before the Immigration Division. The ID decided not to issue a removal order against Lucio, who is beyond happy about this good news. However, Sonia tells Lucio: 
+        - [x] The Minister has a right to appeal a decision by the ID not to issue a Removal Order, so Lucio should temper his expectations until the appeal period has expired
+        - [ ] The Minister must appeal the ID's decision given their mandate to obtain as many inadmissible rulings as possible 
+        - [ ] Lucio should start preparing for his citizenship application 
+        - [ ] He should tell his family and celebrate the news 
+
+    14. A CBSA officer has made a negative residency determination at the Port of Entry against a Canadian permanent resident. What must the officer do? 
+        - [ ] Refuse entry to the permanent resident
+        - [ ] Detain the permanent resident 
+        - [x] Allow the permanent resident to enter Canada 
+        - [ ] Search the permanent resident 
+    > See Chapter 3, IV. The Immigration Appeal Division, "Appeals Against a Negative Residency Determination". **If the negative residency determination is made at the POE, the Officer must still allow the PR entry.**
+
+    15. The IAD is hearing an appeal of Jon, who has been found inadmissible on criminality grounds. The Minister's counsel is tendering a police report as evidence before the IAD. This police report was not admissible in Jon's criminal trial. How would the IAD approach the admissibility of this police report? 
+        - [ ] Since the police report was not admissible in the criminal trial, the IAD cannot admit it as evidence
+        - [ ] Since the IAD is bound by rules of evidence, it must rely on precedence set by the preceding criminal trial
+        - [x] Since the IAD is not bound by rules of evidence, it can rely on sources of information that might not be admissible evidence in a court proceeding 
+        - [ ] Since the IAD is bound by the preceding criminal trial, the police report cannot be admitted as evidence 
+
