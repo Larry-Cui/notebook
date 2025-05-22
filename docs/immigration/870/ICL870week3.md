@@ -18,6 +18,7 @@ tags:
 ??? note "Tutorial notes"
 
     - Wednesday 4:00pm.
+    - A25 is about Minister, and A67 is about IAD.
 
 ??? note "Readings and Resources"
 
