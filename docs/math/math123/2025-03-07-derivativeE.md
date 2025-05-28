@@ -16,10 +16,42 @@ Function $f(x) = e^x$ has a unique feature in that its derivative is just as its
 
 To derive this feature, we need to review the definition of natural number $e$ first. 
 
+## Definition of $e$
+
 !!! note "Natural number $e$ is defined as:"
     \[
     \lim_{x \rightarrow \infty} \left(1 + \frac{1}{x} \right)^x = e
     \]
+
+## $e$ is converged
+
+Before we find the derivative of $e^x$, let's first prove $e$ converges so it could be defined as a constant.
+
+First, we can expand the binomial form like this:
+
+\[
+\left(1 + \frac{1}{n} \right)^n = \sum_{k=0}^n \binom{n}{k} \left( \frac{1}{n} \right)^k
+\]
+
+Going on with the expansion form, we have,
+
+\begin{align*}
+&= \sum_{k=0}^n \frac{n(n-1) \cdots (n-k+1) }{k!} \left( \frac{1}{n} \right)^k \\
+&= \sum_{k=0}^n \frac{1}{k!} \left(1 - \frac{1}{n} \right) \left(1 - \frac{2}{n} \right) \cdots \left(1 - \frac{k-1}{n} \right) \\
+&< \sum_{k=0}^n \frac{1}{k!}
+\end{align*}
+
+At this point, we can expand the sum and compare it with a geometrical series,
+
+\begin{align*}
+&= 1 + \frac{1}{1} + \frac{1}{2} + \frac{1}{3 \cdot 2} + \frac{1}{4 \cdot 3 \cdot 2} + \cdots + \frac{1}{n \cdot (n-1) \cdots 2}   \\
+&< 1 + \frac{1}{2^0} + \frac{1}{2^1} + \frac{1}{2^2} + \frac{1}{2^3} + \cdots + \frac{1}{2^{n-1}} \\
+&= 3 - \left( \frac{1}{2^{n-1}} \right)
+\end{align*}
+
+So we know that $e$ is bound above by less then 3. 
+
+## Find derivative of $e^x$
 
 For $f(x) = e^x$, the derivative is calculated in the following way,
 
