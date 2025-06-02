@@ -28,7 +28,7 @@ tags:
     - ***Sahin v. Canada (Minister of Citizenship and Immigration) (T.D.)***, [1994 CanLII 3521 (FC)](https://canlii.ca/t/4gkx){:target="\_blank"}
     - ***Brown v Canada (Citizenship and Immigration)***, [2020 FCA 130 (CanLII)](https://canlii.ca/t/j93cf){:target="\_blank"}
 
-???+ note "Introduction"
+??? note "Introduction"
 
     - Immigration detention is an administrative (not criminal) process. It involves the state holding non-citizens (foreign nationals and permanent residents) in custody. Detainees can be held in custody in jails (even where they have never committed a crime) and immigration holding centres.
     - The Immigration Division holds hearings, called “detention reviews”, at regularly prescribed intervals where the Minister must show that detention continues to be required.
