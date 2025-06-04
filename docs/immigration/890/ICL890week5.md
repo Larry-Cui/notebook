@@ -139,7 +139,7 @@ tags:
         - [ ] Speak to a financial advisor
         - [x] Conduct a competitor analysis
 
-???+ note "Pre-tutorial Knowledge Check: Client File Management"
+??? note "Pre-tutorial Knowledge Check: Client File Management"
 
     1. RCIC Rashan's immigration practice has been suffering financially from a large number of unpaid invoices, and fines levied on him by the regulator. His own personal finances are also suffering as a result. He has, therefore, made the difficult decision to file for bankruptcy. Rashan duly notified the regulator that he has become bankrupt. However, Rashan hopes to continue practising as an RCIC and does not wish to close his practice. Can Rashan continue to practice independently?
         - [ ] No, because he can no longer hold a client account.
