@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Module 5: Legal Framework for Immigration Detention"
-date: 2025-06-01
+date: 2025-06-10
 draft: false
 categories:
   - Immigration
