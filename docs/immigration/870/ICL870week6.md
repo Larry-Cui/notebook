@@ -18,6 +18,7 @@ tags:
 ??? note "Tutorial notes"
 
     - Wednesday 4:00pm.
+    - likelihood of long detention: if it's about removal, minister is to work on the process; if it's about legalization of the PC, the PC is to provide steps or efforts he's taking toward the result.
 
 ??? note "Where to Start"
 
