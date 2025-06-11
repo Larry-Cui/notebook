@@ -125,8 +125,104 @@ tags:
         - [x] Identity
         - [ ] Danger to the public
 
-    3. 
+??? note "Module 5: Legal Framework for Immigration Detention"
 
+    1. When addressing the s. 248 factors, which of the following is true: 
+        - [x] Each of the s. 248 factors should be addressed at a hearing, even if they do not weigh in favour of release. 
+        - [ ] Typically, the s. 248 factors are only addressed if there is an alternative to detention to put forward or detention is lengthy. 
+        - [x] The s. 248 factors do not have to be addressed at all if the Minister does not establish a ground for detention. 
 
+    2. Within how many hours would a detention review be held by the Immigration Division after an individual has been taken into detention?  
+        - [ ] 24 hours
+        - [x] 48 hours
+        - [ ] 72 hours
+        - [ ] 7 days
 
-aaa
+    3. On what grounds can a protected person be arrested without a warrant?
+        - [x] Ministerial inquiry
+        - [ ] Identity
+        - [ ] Flight risk
+        - [ ] Danger to the public
+    > Section 55(3), however, allows for the detention of any foreign national (which would include a protected person who is not yet a permanent resident) for examination or where there are grounds to suspect an inadmissibility. It makes no mention of a warrant.
+
+    4. An arrest warrant under the IRPA is issued by:
+        - [x] An Officer
+        - [ ] A judge
+        - [ ] A member of the Immigration Division
+        - [ ] The Minister of Public Safety
+
+    5. Which class(es) of persons can be arrested without a warrant on danger or flight risk grounds?
+        - [ ] All
+        - [ ] None
+        - [x] **Foreign nationals**
+        - [ ] Permanent residents
+    > Only **s. 55(2) of the IRPA speaks to arrest without a warrant, and it applies only to foreign nationals**.
+
+    6. If a detainee is brought before the Division and the CBSA alleges that identity is not but may be established and argues for continued detention on the ground that the detainee is not cooperating in establishing their identity, invoking ss. 247(1)(a), the Division must …
+        - [x] Consider this factor in determining whether the Minister is making reasonable efforts to establish identity
+        - [ ] Order continued detention
+        - [ ] Order the detainee to cooperate with the CBSA
+        - [ ] Order release
+
+    7. The factors listed under s. 248 of the IRPA are:
+        - [ ] Mandatory and exhaustive
+        - [x] Mandatory but not exhaustive
+        - [ ] Optional
+        - [ ] None of the above
+
+    8. What is the effect of a conviction for sexual assault on the Division’s determination of whether the person concerned (PC) is a danger to the public?
+        - [x] It is a factor that must be considered
+        - [ ] It justifies continued detention
+        - [ ] It shifts the burden to the detainee to show they have been rehabilitated
+        - [ ] It need not be considered if it occurred more than ten years ago
+
+    9. What does Guideline 2 apply to? 
+        - [ ] The conduct of CBSA when they decide to issue a warrant to detain somebody
+        - [x] How the Immigration Division conducts a detention review
+        - [x] How the Immigration Division should apply the various legislative factors when deciding to detain or release. 
+
+    10. On what grounds can a permanent resident be detained without a warrant?
+        - [x] Ministerial inquiry
+        - [ ] Identity
+        - [ ] Flight risk
+        - [ ] Danger to the public
+    > Section **55(2)** of the IRPA ("Arrest and detention without warrant") applies only the **foreign nationals**. Section **55(3)**, however, allows for the detention of permanent residents for examination or where there are grounds to suspect an inadmissibility. It makes no mention of a warrant.
+
+    11. If Minister is of the opinion that a foreign national’s identity is not but can be established and the Division is satisfied that the Minister is making reasonable efforts to establish identity, the detention must be maintained?
+        - [ ] True
+        - [x] False
+    > False: members must always consider whether release is warranted and must **always consider all of the s. 248 factors** to that end, regardless of the ground of detention.
+
+    12. If a detainee is brought before the Division and the CBSA alleges they are a danger to the public, invoking s. 246(d)(ii) IRPR and the detainee’s past conviction for armed robbery, the Division must …
+        - [x] Consider this factor in determining whether the person concerned poses a danger to the public
+        - [ ] Order continued detention
+        - [ ] Obtain the courts records to verify the conviction
+        - [ ] Question the detainee about the circumstances of the offence
+
+    13. True or false: The Division is required to consider the best interests of an affected child only when either the child or the child’s parent are detained?
+        - [ ] True
+        - [x] False
+
+    14. The CBSA retains the authority to release a detainee until:
+        - [x] The 48-hour detention review
+        - [ ] They are satisfied that the person will appear at their next hearing
+        - [ ] Until the Ministerial Inquiry is complete
+        - [ ] A sufficient bond is paid
+
+    15. Which ground of detention applied by the Immigration Division is inapplicable to PRs?
+        - [x] Identity
+        - [ ] Flight risk
+        - [ ] Ministerial inquiry
+        - [ ] Danger to the public
+
+    16. Josephine is counsel for Mori, who has an upcoming detention review hearing. In preparing for the hearing, Josephine knows the onus of proof rests on:  
+        - [ ] Mori 
+        - [x] The Minister
+        - [ ] The Minister bears the burden of proof to demonstrate there is a ground of detention but then the burden shifts to Mori. 
+        - [ ] Mori bears the burden of proof to demonstrate that there is no ground for detention, but the Minister bears the burden to demonstrate that detention is still justified. 
+
+    17. Where a ground for detention is found to be present, the Division has jurisdiction to order release on conditions….
+        - [x] In all cases
+        - [ ] Where the detainee presents a viable release plan
+        - [ ] When the detention has become unduly lengthy
+        - [ ] When the CBSA consents to release
