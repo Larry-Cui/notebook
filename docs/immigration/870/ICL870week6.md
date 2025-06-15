@@ -152,6 +152,73 @@ tags:
 
 ## Quizzes
 
-??? note "Module 5: Grounds and Factors for Detention"
+??? note "Module 6: Preparation for the Detention Review"
 
-    1. Will
+    1. Yuri is preparing a witness, Sui, to testify at the ID hearing for his client, Giovanni. At the hearing, Yuri knows he **cannot** ask Sui which of the following questions:
+        - [ ] How do you know Giovanni?
+        - [x] You met Giovanni in middle school, correct?
+        - [ ] What is your relationship with Giovanni?
+        - [ ] What is your relationship with Giovanni's family?
+
+    2. Yuri is counsel for Giovanni at a hearing before the ID. The Minister's counsel has called a witness to testify on Yuri's substance abuse. Yuri knows he cannot ask the witness which of the following questions:
+        - [ ] How do you know Giovanni?
+        - [ ] Why do you think Giovanni had substance abuse issues?
+        - [ ] You knew Giovanni has been experiencing financial issues, right?
+        - [x] Yuri can ask all of the above questions.
+    > **When counsel is questioning witness called by the opposing party, the counsel can ask leading questions.**
+
+    3. When seeking the release of a detained client, what is the **best** proposal for counsel to make to the CBSA to address flight risk?
+        - [ ] A detailed record of the client's address and contact information to ensure the CBSA can reach the client
+        - [x] A bondsperson taking responsibility to ensure the client complies with the release plan
+        - [ ] An affidavit signed by the client to promise attendance at hearings
+        - [ ] An undertaking to have the client show up for hearings
+
+    4. At Levi's detention review hearing, the ID decides to release Levi with conditions. Which of the following would not be a condition the ID would impose?
+        - [ ] Not to commit criminal offences
+        - [x] Not to be associated with a certain religion
+        - [ ] To show up at a time and place required by the Immigration Division
+        - [ ] Not to possess a firearm
+
+    5. True or false: Olena is before the Immigration Division for her detention review hearing. When considering whether Olena will be a danger to the public, the ID will consider if Olena may pose **a risk of self harm** to herself.
+        - [ ] True
+        - [x] False
+    > See Guideline 2, 2.2 Danger to the public (Section 58(1)(a)). While **danger to a single individual may be enough** to justify danger to the public, it is not appropriate for a member to consider under this ground the self-harm that may occur as a result of the actions of the person concerned.
+
+    6. Rida is before the Immigration Division for her third detention review hearing. As Rida's counsel, Leo knows that the decision-maker for the upcoming hearing is:
+        - [ ] Bound by the previous decision-maker's reasons/decision
+        - [ ] Not required to articulate their reasons if they differ from the previous decision-maker
+        - [ ] Required to continue with the assessment of the previous decision-maker
+        - [x] Required to undertake their own independent assessment of the case for and against detention
+
+    7. As part of the Minister's disclosure obligation, what information must be disclosed to the detainee/detainee's counsel?
+        - [ ] Only the information the detainee's counsel asks for
+        - [ ] Only the information that is beneficial to the detainee
+        - [ ] Only the information that the Minister intends to rely on in their argument for detention
+        - [x] All relevant information
+
+    8. Each of the following are potential scenarios where a counsel may request an early detention review for their client **except**:
+        - [ ] If the client's aunt has mailed new identification documents for the client
+        - [ ] If a bail program has accepted the client's application
+        - [x] If the client and the counsel feels ready for an early review
+        - [ ] If the client's H&C application has been successful
+
+    9. In order to be a bondsperson for a detained individual, each of the following is required **except**:
+        - [x] The bondsperson must not have a criminal record or pending charges
+        - [ ] The bondsperson must be a Canadian citizen or permanent resident
+        - [ ] The bondsperson must be able to show that they can pay the bond in the event of a breach
+        - [ ] The bondsperson must be a resident in Canada
+    > Although it is helpful a clean criminal record is not mandatory. If the bondsperson has a past criminal conviction or pending charges, they should be prepared to explain why it should not preclude them from this role.
+
+    10. Giacomo is representing his client at a detention review hearing. When preparing for submissions, Giacomo should first address:
+        - [ ] The length of time his client has been in detention
+        - [x] Whether there is grounds to detain his client under section 58 of the IRPA
+        - [ ] Whether his client has an appropriate bondsperson
+        - [ ] The conditions of his client's detention
+    > See OnQ module "Submission". Your submissions should address **first the grounds for detention in section 58 **– arguing there are no grounds, and then in the alternative, **the factors in section 248** that favour release.
+
+    11. Yuri is preparing a witness, Sui, to testify at the ID hearing for his client, Giovanni. At the hearing, Yuri knows he **cannot** ask Sui which of the following questions:
+        - [ ] What is your relationship with Giovanni's family?
+        - [x] You met Giovanni in middle school, correct?
+        - [ ] What is your relationship with Giovanni?
+        - [ ] How do you know Giovanni?
+    > See OnQ module "Preparing Witnesses for the Hearing". **Counsel must ask their *own witness* open-ended rather than "leading questions".**
