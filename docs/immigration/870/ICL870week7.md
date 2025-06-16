@@ -129,6 +129,77 @@ tags:
 
 ## Quizzes
 
-??? note "Module 6: Preparation for the Detention Review"
+??? note "Module 7: Conducting a DR"
 
-    1. Yuri
+    1. According to Guideline 2, a bondsperson is required for release:
+        - [ ] In all cases
+        - [ ] Only in exceptional cases
+        - [x] Where it is deemed necessary to motivate compliance with conditions of release
+        - [ ] Wherever flight risk is retained as a ground for detention
+
+    2. According to Guideline 2, what are the circumstances where it may be appropriate for the Minister to present information when the primary source of the information has not been made available to the parties:
+        - [ ] When it is in the interests of an efficient hearing
+        - [ ] Where there is no objection from the detainee
+        - [x] Where the primary source of the information is **not compellable**
+        - [ ] Where the information has been presented in prior detention review
+
+    3. According to Guideline 2, when is a Member bound, in the absence of new evidence, by previous decisions to detain?
+        - [ ] Never
+        - [ ] Always
+        - [ ] Where less than 30 days have passed
+        - [ ] Where there are no identifiable factual errors in the prior decision
+
+    4. According to Guideline 2, Members must be satisfied that:
+        - [ ] The bondsperson is well known to the detainee
+        - [ ] The bondsperson is aware of the detainee’s immigration and/or criminal history
+        - [ ] The bondsperson does not have a criminal record
+        - [x] The bondsperson is able to exercise enough influence to motivate compliance with conditions of release
+
+    5. How far in advance of the 48-hour review must the Minister's disclosure be provided:
+        - [x] As far in advance as possible
+        - [ ] One hour before the hearing
+        - [ ] 24 hours prior to the hearing
+        - [ ] At the outset of the hearing
+
+    6. Which of the following alternatives to detention would require the CBSA’s assistance?  
+        - [x] Enrollment in the Toronto Bail Program 
+        - [ ] Enrollment in an individual therapy program
+        - [ ] Enrollment in a residential drug treatment program
+        - [ ] None of the above
+
+    7. Tetra was just retained by Ekko, a foreign national who has been in detention for more than a year on the basis that she is a flight risk. At previous detention reviews it appears that the Minister hasn’t provided much more than oral statements that they are waiting on a travel document for Ekko from her country of origin and expect it to come soon. In taking over Ekko’s file, what should Tetra **not** do? 
+        - [ ] Ask the Minister to provide evidence of all of their efforts to remove Ekko at the next detention review. 
+        - [x] File an application for ***Habeas Corpus*** 
+        - [ ] Seek out the assistance of a lawyer to explore potential remedies 
+        - [ ] Argue at the next detention review that the Minister has not provided evidence of a nexus to removal and her client should be released
+    > See Module 7 onQ page "The Charter and When to Seek Help" for an explanation of the types of circumstances that may require a *habeas corpus* application. Seeking out the assistance of a lawyer will allow Tetra to determine whether such a remedy may be relevant to Ekko's case. 
+
+    8. The three most common grounds of detention are: 
+        - [ ] Flight risk, fraud, lack of financial support 
+        - [ ] Flight risk, lack of bondsperson, danger to the public 
+        - [x] Flight risk, danger to the public, identity 
+        - [ ] Danger to the public, lack of bondsperson, identity 
+
+    9. In what circumstances is the Minister required to provide **advance disclosure of relevant information and evidence**:
+        - [x] In all cases, wherever reasonably possible
+        - [ ] Where the Minister intends to rely on that evidence in support of continued detention
+        - [ ] Where the information is favourable to the detainee
+        - [ ] Where the information and evidence is not reasonably available to the detainee through other means
+
+    10. According to Guideline 2, under what circumstances should a Member summon an Enforcement Officer on their own initiative?
+        - [x] Where necessary to **address gaps in the evidentiary record**
+        - [ ] Whenever their credibility is impugned
+        - [ ] In cases where the Officer has not provided a sworn statement
+        - [ ] Whenever the detainee requests that it be done
+
+    11. If a bondsperson has been rejected in the past, the same bondsperson can be **reconsidered**:
+        - [ ] Where detention has been continued for another 90 days
+        - [x] At any subsequent detention review
+        - [ ] Where there has been a material change in circumstances
+        - [ ] Where the bondsperson's financial capacity has changed significantly
+
+    12. Under what circumstances does the detainee have the right to present evidence to support their release or contest the Minister’s case:
+        - [ ] Beginning at the 7-day review
+        - [ ] Where the Minister has led evidence
+        - [x] In all cases
+        - [ ] Where the Member grants permission to do so
