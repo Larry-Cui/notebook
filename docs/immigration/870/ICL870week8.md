@@ -85,7 +85,7 @@ tags:
             - Along with **reopening** the application for sponsorship, Prasanna would do well to get a**n H&C application** in as soon as possible. The baby's maternal grandparents are willing to care for their granddaughter so that she can remain in Canada. However, the baby will lose both her parents in close succession if her father is deported. You should advise him to get a **psychological assessment** done and obtain letters that show **his establishment** in Canada, his closeness to his late wife’s family and letters from them about how they cannot bear to lose their son-in-law after suffering such a loss.
             - When a removal date is finally set, Prasanna will have to apply for a **deferral** of removal pending the H&C. He would base this on psychological harm of leaving Canada after so long, of the impact on his right to parent his daughter, and on the impact of his Canadian daughter of not being with her father.
 
-???+ note "PPSA"
+??? note "PRRA"
 
     - A PRRA is most commonly brought by refused refugee claimants based on new events or evidence that was not reasonably available at the time of their refugee claim.
     - The Federal Court in *Figurado v Minister (Citizenship and Immigration)*, [2005 FC 347](https://canlii.ca/t/1k2fm){:target="\_blank"}, described the purpose of the PRRA as follows:
@@ -102,8 +102,35 @@ tags:
         - an applicant whose claim to refugee protection has been rejected may present only **new evidence** that arose after the rejection or was not reasonably available, or that the applicant could not reasonably have been expected in the circumstances to have presented, at the time of the rejection;
     - In addition, subsection 161(2) of the IRPR provides:
         - A person who makes written submissions must identify the evidence presented that meets the requirements of paragraph 113(a) of the Act and indicate how that evidence relates to them.
-    - *Raza v Canada (Citizenship and Immigration)*, [2007 FCA 385](https://canlii.ca/t/1v1pq){:target="\_blank"}. In setting out the test at paragraph 13, the Court of Appeal clarified that the test is just “new evidence”. **It can be about the same risk but must meet the following criteria**. 
+    - *Raza v Canada (Citizenship and Immigration)*, [2007 FCA 385](https://canlii.ca/t/1v1pq){:target="\_blank"}. In setting out the test at paragraph 13, the Court of Appeal clarified that the test is just “new evidence”. **It can be about the same risk but must meet the following criteria** (***Raza* Test**). 
+        - Credibility
+        - Relevance
+        - Newness
+        - Materiality
+        - Express statutory condidtions
+    - It is possible to ask for **an extension beyond the 30 day deadline**, but you must be clear about the reason it is needed and when you expect to provide you evidence and submissions. If your extension request has not been answered, and you are within the deadline for documents you set in your request, it will be a breach of procedural fairness for the PRRA Officer to decide against you: see for example, *Kim v Canada (Citizenship and Immigration)*, [2020 FC 581](https://canlii.ca/t/j8860){:target="\_blank"}
+    - The documents you are looking for to support a PRRA are substantially the same as you would in preparing for a **refugee hearing at the IRB**. The criteria are the same: whether your client faces a serious possibility of persecution for a Convention reason under section **96**, and whether they face a likelihood of torture, cruel and inhuman treatment or death, under section **97** of the IRPA.
+    - **PRRAs are decided on paper**, so your written submissions are very important.
+    - The criteria for an oral hearing to be called in accordance with IRPA subsection 113(b) is set out in IRPR s. 167:
+        - For the purpose of determining whether **a hearing is required** under paragraph 113(b) of the Act, the factors are the following:
+            - (a) whether there is evidence that raises a serious issue of the applicant’s **credibility** and is related to the factors set out in sections 96 and 97 of the Act;
+            - (b) whether the evidence is **central** to the decision with respect to the application for protection; and
+            - (c) whether the evidence, if accepted, would **justify** allowing the application for protection.
+    - There is case law that the failure to explain why an oral hearing is not being held when it is requested can lead to a PRRA decision being set aside (for example, *Plata Vasquez v. Canada (Minister of Citizenship and Immigration)*, [2019 FC 279](https://canlii.ca/t/hxzsr){:target="\_blank"})
+    - remember that inadmissible persons even if successful in the s.97 PRRA do not get protected person status and the ability to apply for permanent residence. The only way out of this predicament is ministerial relief.
 
+??? note "H&C"
+
+    - The **affidavit** sets out your client's story and highlights the circumstances relevant to the H&C request. It aims to paint a picture of the person or family’s life in Canada and how difficult it would be to leave Canada and return to their country of origin. Here you will recall that it is important to be mindful of IRCC's operational guidelines such as  "[Humanitarian and compassionate considerations](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/humanitarian-compassionate-consideration/processing.html){:target="\_blank"}."
+    - **Supporting personal documents** provide the evidence in support of anything asserted to be true in the affidavit.
+    - **Supporting country documents**, including but not limited to IRCC's [National Documentation Packages](https://www.irb-cisr.gc.ca/en/country-information/ndp/Pages/index.aspx){:target="\_blank"}, support the assertion that your client will face hardship in their country.
+    - The **written submission** summarizes the case for the Officer; highlights the relevant facts, law and evidence; and applies the law to facts to show how the desired outcome can be reached.
+    - Once the H&C application is fully in and ready to be decided, the next steps depend on CBSA. **Many times your client will be subject to a removal order but not necessarily be given a removal date.**
+
+??? note "TRP"
+
+    - A TRP application carries the risk of reminding CBSA about your enforceable removal order and initiating removal action, when it is in your client’s best interest to lay low and collect time in Canada for the H&C to be decided.
+    - Those being found inadmissible for **organized criminality** under IRPA s.37. are **ineligible for an H&C** due to an inadmissibility. They can **apply for a TRP**.
 
 ## Quizzes
 
