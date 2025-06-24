@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Module 8: Removal"
-date: 2025-06-15
+date: 2025-06-21
 draft: false
 categories:
   - Immigration
@@ -131,6 +131,27 @@ tags:
 
     - A TRP application carries the risk of reminding CBSA about your enforceable removal order and initiating removal action, when it is in your client’s best interest to lay low and collect time in Canada for the H&C to be decided.
     - Those being found inadmissible for **organized criminality** under IRPA s.37. are **ineligible for an H&C** due to an inadmissibility. They can **apply for a TRP**.
+
+???+ note "Deferral Requests"
+
+    - If a deportation date has been set, the only way to stop a removal is with a deferral request made to the CBSA asking the Removal Officer to exercise their discretion under IRPA s. 48 to postpone the removal.
+    - Kalaba v Canada (Public Safety and Emergency Preparedness), [2020 FC 959](https://canlii.ca/t/jb940){:target="\_blank"}, at para 1:
+        - Officers with the Canada Border Services Agency (CBSA) charged with enforcing a removal order against someone not entitled to remain in Canada have **a very limited discretion to defer removal**. Removal may be deferred where the person being removed will be exposed to a risk of death, extreme sanction, or inhumane treatment; or based on short-term considerations, such as illness or other impediments to removal, the short-term best interests of a child, or **the existence of pending immigration applications that were filed in a timely way**.
+    - Deferrals are frequently refused, but when they are, the person concerned can bring **a stay of removal** in Federal Court based on a judicial review of the Officer’s decision to refuse the request.
+    - As Justice Russel W. Zinn stated in a presentation to the County of Carleton Law Association (November 1, 2012), "In order for the Court to stay removal, an applicant must satisfy the tripartite test for interlocutory injunctions set out in *RJR MacDonald Inc v Canada*, [[1994] 1 SCR 311](https://canlii.ca/t/1frtw){:target="\_blank"}. In the immigration context, this is typically referred to as the **Toth test**, referring to *Toth v Canada (Minister of Employment & Immigration)* (1988), [6 Imm LR (2d) 123, 86 NR 302 (FCA)](https://canlii.ca/t/1v5fc){:target="\_blank"}." The three parts of the **Toth test** are:
+        - **a serious issue** with the reasonableness or fairness of the decision not to defer removal
+        - **irreparable harm** that will result if the person is deported
+        - that **the balance of convenience** favours the person applying for the stay. What this test generally amounts to is again convincing someone – this time the judge – that there is evidence that serious harm will follow from deportation.
+    - The deferral request ultimately amounts to **a letter of a few pages to the CBSA officer** setting out
+        - a **point** the deportation should be postponed for (be it a PRRA; a decision on a spousal sponsorship; the birth of a child; the date of eligibility for a pardon from a criminal conviction)
+        - the **harm** that will be caused by the deportation, followed by the evidence you have of that harm.
+    - Deferral Requests for PRRA-Barred Refugees
+        - the Minister has issued guidelines that were relied upon by the Federal Court of Appeal in *Atawnah v Canada (Public Safety and Emergency Preparedness)*, [2016 FCA 144](https://canlii.ca/t/gr7lw){:target="\_blank"} to give broader discretion to defer so that **a PRRA-barred person could access a PRRA**:
+            - [15] ...after this Court’s decision in *Shpati*, the Canada Border Services Agency issued Operational Bulletin: PRG-2014-22 entitled "Procedures relating to an officer’s consideration of new allegations of risk at the deferral of removal stage." This bulletin gives enforcement officer’s [sic] broader discretion to defer removal than the discretion described in *Shpati*. 
+            - [16] Enforcement officers are instructed to “consider/assess the evidence submitted, when there are allegations of risk to the applicant upon execution of their removal order”. When an officer concludes that deferral of removal is warranted, the allegations of risk are to be forwarded to Citizenship and Immigration Canada, now Immigration, Refugees and Citizenship Canada, for consideration under section 25.1 of the Act. Among other things, section 25.1 allows the Minister, on his own initiative, to exempt a foreign national from the application of the PRRA bar contained in paragraph 112(2)(b.1) of the Act.
+        - What this means in a deferral request for a PRRA-barred claimant is that you are essentially doing a **mini-version of a PRRA** to show an Officer that a full PRRA is needed. Like in a PRRA, you are not re-arguing the previous decisions but distinguishing them as now overtaken by new evidence.
+        - The submissions themselves take the form of a letter and should be brief, clear and to the point. Unless it is an extremely complicated case, a deferral request letter should not be more than 5 pages. Get the officer’s attention with evidence that terrible suffering will happen if you carry out this removal.
+    - Deferral Requests for other Reasons
 
 ## Quizzes
 
