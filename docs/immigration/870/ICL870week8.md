@@ -155,6 +155,17 @@ tags:
         - A pending H&C application or a pending spousal sponsorship are not in themselves enough of a reason to grant a deferral. However, the **harms** identified in an H&C can constitute serious personal harm if there is evidence of their severity.
         - The most compelling evidence you can get is **medical** – on any problems with the flight or care that cannot be accessed in the home country – and psychological on the immense trauma and even suicidal thoughts your client may face if removed.
 
+???+ note "Three Basic Human Rights Protections"
+
+    - The international human rights treaties that Canada has signed - *the UN Universal Declaration of Human Rights*; *the International Covenant on Civil and Political Rights (ICCPR)*; and *the International Covenant on Economic, Social and Cultural Rights (ICESCR)* - impose limits on Canada’s ability to expel. There are three main protections that we will discuss here.
+    - Non-Refoulement:
+        - You have already come across non-refoulement – the “cornerstone” of Canada’s refugee protection regime: *Németh v Canada (Justice)*, [2010 SCC 56](https://canlii.ca/t/2djll){:target="\_blank"} at para. 1.
+        - By becoming a signatory to *the Convention Relating to the Status of Refugees* (“Refugee Convention”), Canada agreed that except in certain proscribed circumstances (such as where someone has committed war crimes or is a serious danger to the public) they are forbidden from deporting if the person may face persecution on return.
+        - *Singh*; *Suresh*; and *Farhadi v Canada (Minister of Citizenship and Immigration)*, [2000 CanLII 15491 (FCA)](https://canlii.ca/t/4l05){:target="\_blank"}
+        - In *Singh*, it was held that section 7 of the Charter applies to the refugee determination process as it would be “unthinkable” that these protections would not be present given the risk of persecution that is at stake.
+        - a PRRA before removal (see *B010 v Canada (Citizenship and Immigration)*, [2015 SCC 58](https://canlii.ca/t/gm8wn){:target="\_blank"} at para 75)
+        - section 7 of the Charter is engaged at the PRRA and deferral stages, citing *B010 and Kreishan v Canada (Minister of Citizenship and Immigration)*, [2019 FCA 223](https://canlii.ca/t/j225k){:target="\_blank"}
+
 ## Quizzes
 
 ??? note "Module 8: Removal Orders"
@@ -214,7 +225,7 @@ tags:
         - [x] Immigration Division
     > See 229(1)(h) of IRPR unless circumstances in 229(3) are present.
 
-???+ note "Module 8: Chapter 3, Part 1 (G,H,I) of Sharma & Daghighian"
+??? note "Module 8: Chapter 3, Part 1 (G,H,I) of Sharma & Daghighian"
 
     1. Imeka, a citizen of Ghana, has been found inadmissible on grounds of security. The Minister is planning to enforce a removal order against Imeka. Prior to making a refugee claim in Canada, Imeka stayed at a refugee camp in Nigeria for 6 months. Before that, Imeka took 3 months to travel across Togo.  Which of the following country would Imeka be removed to? 
         - [ ] Nigeria
