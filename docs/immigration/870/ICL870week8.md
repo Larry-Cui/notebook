@@ -132,7 +132,7 @@ tags:
     - A TRP application carries the risk of reminding CBSA about your enforceable removal order and initiating removal action, when it is in your client’s best interest to lay low and collect time in Canada for the H&C to be decided.
     - Those being found inadmissible for **organized criminality** under IRPA s.37. are **ineligible for an H&C** due to an inadmissibility. They can **apply for a TRP**.
 
-???+ note "Deferral Requests"
+??? note "Deferral Requests"
 
     - If a deportation date has been set, the only way to stop a removal is with a deferral request made to the CBSA asking the Removal Officer to exercise their discretion under IRPA s. 48 to postpone the removal.
     - Kalaba v Canada (Public Safety and Emergency Preparedness), [2020 FC 959](https://canlii.ca/t/jb940){:target="\_blank"}, at para 1:
@@ -152,6 +152,8 @@ tags:
         - What this means in a deferral request for a PRRA-barred claimant is that you are essentially doing a **mini-version of a PRRA** to show an Officer that a full PRRA is needed. Like in a PRRA, you are not re-arguing the previous decisions but distinguishing them as now overtaken by new evidence.
         - The submissions themselves take the form of a letter and should be brief, clear and to the point. Unless it is an extremely complicated case, a deferral request letter should not be more than 5 pages. Get the officer’s attention with evidence that terrible suffering will happen if you carry out this removal.
     - Deferral Requests for other Reasons
+        - A pending H&C application or a pending spousal sponsorship are not in themselves enough of a reason to grant a deferral. However, the **harms** identified in an H&C can constitute serious personal harm if there is evidence of their severity.
+        - The most compelling evidence you can get is **medical** – on any problems with the flight or care that cannot be accessed in the home country – and psychological on the immense trauma and even suicidal thoughts your client may face if removed.
 
 ## Quizzes
 
@@ -212,8 +214,38 @@ tags:
         - [x] Immigration Division
     > See 229(1)(h) of IRPR unless circumstances in 229(3) are present.
 
+???+ note "Module 8: Chapter 3, Part 1 (G,H,I) of Sharma & Daghighian"
 
+    1. Imeka, a citizen of Ghana, has been found inadmissible on grounds of security. The Minister is planning to enforce a removal order against Imeka. Prior to making a refugee claim in Canada, Imeka stayed at a refugee camp in Nigeria for 6 months. Before that, Imeka took 3 months to travel across Togo.  Which of the following country would Imeka be removed to? 
+        - [ ] Nigeria
+        - [ ] Togo 
+        - [x] Ghana
+        - [ ] Imeka has a choice between Nigeria or Togo 
+    > See Chapter 3, "Removal, Departure and Return". Neither Nigeria and Togo was a country that Imeka last permanently resided in. Therefore, he would be removed to his country of nationality, Ghana.
 
+    2. Ian represents Mohammed for his admissibility hearing. The ID found Mohammed to be inadmissible and issued a removal order. Ian advises Mohammed to apply for a judicial stay before the Federal Court of Canada. Ian knows that to succeed in this application, the Court must be satisfied that all branches of the **tripartite test for a stay** have been met on a standard of: 
+        - [ ] Reasonable grounds to believe 
+        - [x] Balance of probabilities 
+        - [ ] The balance of convenience 
+        - [ ] Beyond a reasonable doubt 
+    > See Chapter 3, "Judicial Stay of Removal: The Federal Court Stay Application". **The applicant must satisfy (on a balance of probabilities) all three branches of the test before the court will grant a stay of proceedings.**
 
+    3. Chen's refugee claim was filed in November 2011 but was not heard by the RPD until March 2021. This is known as a legacy claim, which has no right of appeal to the RAD. Chen wants to apply for leave and judicial review of his negative refugee claim. Which of the following is true about whether Chen would qualify for a stay of removal? 
+        - [ ] Chen would not qualify for a stay of removal because his refugee claim was rejected
+        - [x] Chen would not qualify for a stay of removal because his claim is ineligible for the RAD 
+        - [ ] Chen would qualify for a stay of removal if his application for leave and judicial review was filed within the stipulated deadlines
+        - [ ] Chen would qualify for a stay of removal if he can show that he would be subject to a risk to his life or risk of torture 
+    > See Chapter 3, "Refugee Claimants".  **A refugee claimant further benefits from a stay of removal where they file an application for leave and judicial review within the stipulated deadlines with the Federal Court with respect to a refusal to grant protection by the ==RAD==.** Thus, there is no stay of removal if the refugee claimant is ineligible for the RAD.
 
-    aaa
+    4. True or false: A removals officer can only arrest and detain with a valid warrant. 
+        - [ ] True
+        - [x] False
+    > See Chapter 3, "Removal, Departure and Return". **Section 55(2) of the IRPA allows the Officer to arrest and detain without warrant.**
+
+    5. Maltreed's refugee claim was rejected by the RPD as a manifestly unfounded claim. Maltreed wants to apply for leave and judicial review of this decision. Which of the following is true about whether Maltreed would qualify for a stay of removal? 
+        - [ ] Maltreed would qualify for a stay of removal if his application for leave and judicial review was filed within the stipulated deadlines
+        - [ ] Maltreed would not qualify for a stay of removal because his refugee claim was rejected 
+        - [ ] Maltreed would qualify for a stay of removal if he can show that he would be subject to a risk to his life or risk of torture
+        - [x] Maltreed would not qualify for a stay of removal because his claim was a manifestly unfounded claim 
+    > See Chapter 3, "Refugee Claimants". A claimant found to have a manifestly unfounded claim[45] or a claim with no "credible basis" under s.107(2) of the IRPA, does not benefit from a stay as there is **no appeal to the RAD**.
+
