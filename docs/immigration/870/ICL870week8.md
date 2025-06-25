@@ -50,7 +50,7 @@ tags:
 
 ??? note "Choosing the Right Application"
 
-    - PRRA Application. 
+    - PRRA Application.
         - A person is “**PRRA-barred**” or cannot bring a PRRA until **a year after the last decision in their refugee claim**. If a year has passed there is no problem, but if it has not, the client will need to combine their PRRA with a Deferral Request to postpone removal until the person is eligible for a PRRA.
         - For persons inadmissible for security, international crimes, serious criminality and organized criminality (ss. 34-37), the Officer can **only look at section 97** risks (torture) and cannot get permanent protection from the PRRA but only a stay of removal based on a subsequent balancing of risk with the person’s danger to Canada: See section **113 of the IRPA**.
     - H&C Application.
@@ -60,7 +60,7 @@ tags:
         - A TRP is like an H&C but it is for a given length of time. It is an option for people who have a specific reason to remain for a given period and then leave, or those who have inadmissibilities that prevent them from bringing an H&C.
         - Usually, unless your client is barred from an H&C by a section 34-36 inadmissibility, you will want to bring an H&C instead.
         - IRPA sections **24(3.1)-24(4)**: it **cannot be requested** if your client has been found ineligible to have their claim referred to the **RPD** and a **PRRA** application is **pending**, and it cannot be requested **within a year of the final refusal of a refugee** claim by either the IRB or (if judicial review has been sought) the Federal Court.
-    - Deferral Request. 
+    - Deferral Request.
         - Finally there is the deferral request made directly to an officer pursuant to IRPA section 48. It asks a deferral officer to exercise their discretion to postpone the removal based on a compelling circumstance.
         - The deferral request is a last resort and it cannot be submitted until a deportation date is set.
 
@@ -68,8 +68,8 @@ tags:
 
     - The Waschlo Family. The Waschlo family are citizens of Poland. They are Joseph, his wife, Olga and their two children aged six and nine. Joseph used to work for the military and received threats after he reported corruption in his unit. His refugee claim was refused on credibility and state protection and the judicial review of his RAD appeal was denied three weeks ago. Joseph says that he learned during the judicial review application that his brother has recently disappeared and the family does not know why but suspects it may relate to the risk from the security and intelligence forces. The family have been in Canada for three years, Joseph works full-time in construction and Olga works part-time as a nurse. Olga’s sister lives in Canada and is a Canadian citizen. Her children are close to Joseph and Olga’s children.
         - What factors speak for and against a PRRA?
-            - The disappearance of Joseph’s brother is a new fact that may prove that the family is at risk despite the RPD and RAD decisions. This speaks to the need for a PRRA; however, the family are PRRA-barred by IRPA section 112(2)(b.1). 
-            - You will want to have them prepare this possible evidence just in case as well as start arranging for psychiatric reports to speak to the harm of removal. They will get a letter from the CBSA when enforcement action will be taken. You need to make sure that they can get mail from the CBSA either through their former counsel or their address. Strategically, quickly updating the address will bring the CBSA’s attention to your clients so you don’t want to if you can help it; but, if there is no other way to get mail you will have no other choice. Your hope is that the CBSA sits on the file a long time to get you as close as possible to the end of the PRRA-bar, and an even longer time for a decision on the H&C. 
+            - The disappearance of Joseph’s brother is a new fact that may prove that the family is at risk despite the RPD and RAD decisions. This speaks to the need for a PRRA; however, the family are PRRA-barred by IRPA section 112(2)(b.1).
+            - You will want to have them prepare this possible evidence just in case as well as start arranging for psychiatric reports to speak to the harm of removal. They will get a letter from the CBSA when enforcement action will be taken. You need to make sure that they can get mail from the CBSA either through their former counsel or their address. Strategically, quickly updating the address will bring the CBSA’s attention to your clients so you don’t want to if you can help it; but, if there is no other way to get mail you will have no other choice. Your hope is that the CBSA sits on the file a long time to get you as close as possible to the end of the PRRA-bar, and an even longer time for a decision on the H&C.
         - What factors speak for and against an H&C?
             - **Your clients are H&C barred as well, but as their application will be based on the best interests of the child, they meet an exception to the bar.** The family’s work history, their children’s formative years as young children (for a six-year-old, three years in Canada is half their life), their children’s proficiency in English over Polish, their family connections and community connections, and their work history in Canada all make it advisable to try an H&C.
         - How should you advise your client?
@@ -102,7 +102,7 @@ tags:
         - an applicant whose claim to refugee protection has been rejected may present only **new evidence** that arose after the rejection or was not reasonably available, or that the applicant could not reasonably have been expected in the circumstances to have presented, at the time of the rejection;
     - In addition, subsection 161(2) of the IRPR provides:
         - A person who makes written submissions must identify the evidence presented that meets the requirements of paragraph 113(a) of the Act and indicate how that evidence relates to them.
-    - *Raza v Canada (Citizenship and Immigration)*, [2007 FCA 385](https://canlii.ca/t/1v1pq){:target="\_blank"}. In setting out the test at paragraph 13, the Court of Appeal clarified that the test is just “new evidence”. **It can be about the same risk but must meet the following criteria** (***Raza* Test**). 
+    - *Raza v Canada (Citizenship and Immigration)*, [2007 FCA 385](https://canlii.ca/t/1v1pq){:target="\_blank"}. In setting out the test at paragraph 13, the Court of Appeal clarified that the test is just “new evidence”. **It can be about the same risk but must meet the following criteria** (***Raza* Test**).
         - Credibility
         - Relevance
         - Newness
@@ -147,7 +147,7 @@ tags:
         - the **harm** that will be caused by the deportation, followed by the evidence you have of that harm.
     - Deferral Requests for PRRA-Barred Refugees
         - the Minister has issued guidelines that were relied upon by the Federal Court of Appeal in *Atawnah v Canada (Public Safety and Emergency Preparedness)*, [2016 FCA 144](https://canlii.ca/t/gr7lw){:target="\_blank"} to give broader discretion to defer so that **a PRRA-barred person could access a PRRA**:
-            - [15] ...after this Court’s decision in *Shpati*, the Canada Border Services Agency issued Operational Bulletin: PRG-2014-22 entitled "Procedures relating to an officer’s consideration of new allegations of risk at the deferral of removal stage." This bulletin gives enforcement officer’s [sic] broader discretion to defer removal than the discretion described in *Shpati*. 
+            - [15] ...after this Court’s decision in *Shpati*, the Canada Border Services Agency issued Operational Bulletin: PRG-2014-22 entitled "Procedures relating to an officer’s consideration of new allegations of risk at the deferral of removal stage." This bulletin gives enforcement officer’s [sic] broader discretion to defer removal than the discretion described in *Shpati*.
             - [16] Enforcement officers are instructed to “consider/assess the evidence submitted, when there are allegations of risk to the applicant upon execution of their removal order”. When an officer concludes that deferral of removal is warranted, the allegations of risk are to be forwarded to Citizenship and Immigration Canada, now Immigration, Refugees and Citizenship Canada, for consideration under section 25.1 of the Act. Among other things, section 25.1 allows the Minister, on his own initiative, to exempt a foreign national from the application of the PRRA bar contained in paragraph 112(2)(b.1) of the Act.
         - What this means in a deferral request for a PRRA-barred claimant is that you are essentially doing a **mini-version of a PRRA** to show an Officer that a full PRRA is needed. Like in a PRRA, you are not re-arguing the previous decisions but distinguishing them as now overtaken by new evidence.
         - The submissions themselves take the form of a letter and should be brief, clear and to the point. Unless it is an extremely complicated case, a deferral request letter should not be more than 5 pages. Get the officer’s attention with evidence that terrible suffering will happen if you carry out this removal.
@@ -158,23 +158,32 @@ tags:
 ???+ note "Three Basic Human Rights Protections"
 
     - The international human rights treaties that Canada has signed - *the UN Universal Declaration of Human Rights*; *the International Covenant on Civil and Political Rights (ICCPR)*; and *the International Covenant on Economic, Social and Cultural Rights (ICESCR)* - impose limits on Canada’s ability to expel. There are three main protections that we will discuss here.
-    - Non-Refoulement:
+    - **Non-Refoulement:**
         - You have already come across non-refoulement – the “cornerstone” of Canada’s refugee protection regime: *Németh v Canada (Justice)*, [2010 SCC 56](https://canlii.ca/t/2djll){:target="\_blank"} at para. 1.
         - By becoming a signatory to *the Convention Relating to the Status of Refugees* (“Refugee Convention”), Canada agreed that except in certain proscribed circumstances (such as where someone has committed war crimes or is a serious danger to the public) they are forbidden from deporting if the person may face persecution on return.
         - *Singh*; *Suresh*; and *Farhadi v Canada (Minister of Citizenship and Immigration)*, [2000 CanLII 15491 (FCA)](https://canlii.ca/t/4l05){:target="\_blank"}
         - In *Singh*, it was held that section 7 of the Charter applies to the refugee determination process as it would be “unthinkable” that these protections would not be present given the risk of persecution that is at stake.
         - a PRRA before removal (see *B010 v Canada (Citizenship and Immigration)*, [2015 SCC 58](https://canlii.ca/t/gm8wn){:target="\_blank"} at para 75)
         - section 7 of the Charter is engaged at the PRRA and deferral stages, citing *B010 and Kreishan v Canada (Minister of Citizenship and Immigration)*, [2019 FCA 223](https://canlii.ca/t/j225k){:target="\_blank"}
+        - Courts have consistently held that deportation for a non-refugee **does not engage section 7** of the Charter: see *Medovarski v Canada (Minister of Citizenship and Immigration)*; and *Esteban v Canada (Minister of Citizenship and Immigration)*, [2005 SCC 51](https://canlii.ca/t/1lpk5){:target="\_blank"} at para. 46. **This is controversial** ... This point was recently re-litigated in *Revell v Canada (Citizenship and Immigration)*, [2019 FCA 262](https://canlii.ca/t/j2xtn){:target="\_blank"} and the legal principle was upheld.
+        - In the **extradition** context, it has been held that a removal for a trial elsewhere will breach section 7 where it would shock the conscience, such as for example deportation to the US where the penalty for a crime could be the death penalty: *United States v Burns*, [2001 SCC 7](https://canlii.ca/t/523r){:target="\_blank"}.
+    - **Right to remain in one's own country:**
+        - Under Article 12(4) of *the International Covenant on Civil and Political Rights (ICCPR)*, Canada has committed itself to the principle that “no one shall be arbitrarily deprived of the right to enter their own country.” The UN Human Rights Committee in its General Comment 27 has explained that one’s “own country” is broader than just citizenship.
+        - You may argue that as the harm of removal is so **disproportionate** to the need for Canada to rid itself of your client that doing so would violate ICCPR Article 12, and that discretion of the officer must be exercised to ensure this does not happen.
+    - **Right to Family Life:**
+        - The ICCPR under Article 17 also protects against arbitrary deprivations of family life.
+        - Once again what makes the deprivation or interference “arbitrary” will be the deprivation of family life is fundamental, such as a parent or child, spouses, or any other relationship if you put in evidence about why the family relationship is fundamental to well-being.
+    - Again be very precise in your submissions about how the international obligations come into play in the analysis. They matter because Parliament was clear in **IRPA paragraph 3(3)(f) that they are prioritizing international human rights law in the interpretation of the IRPA.**
 
 ## Quizzes
 
 ??? note "Module 8: Removal Orders"
 
     1. Who would issue the removal order if your client has been found inadmissible for **failing to leave** Canada before the end of the period authorized for their stay?
-        - [ ] Deportation order 
+        - [ ] Deportation order
         - [x] **Exclusion** order
         - [ ] Departure order
-    > See 228(1)(c)(iv) of IRPR. 
+    > See 228(1)(c)(iv) of IRPR.
 
     2. What kind of removal order would be issued if your client has been found inadmissible under s. 41(b) of IRPA for **failing to meet the conditions of their permanent residency**?
         - [ ] Deportation order
@@ -183,7 +192,7 @@ tags:
     > See 229(1)(k) of IRPR.
 
     3. What kind of removal order would be issued if your client has been found inadmissible for **serious criminality**?
-        - [x] **Deportation** order 
+        - [x] **Deportation** order
         - [ ] Exclusion order
         - [ ] Departure order
     > See 229(1)(c) of IRPR.
@@ -217,7 +226,7 @@ tags:
 
     9. Who would issue the removal order if your client has been found inadmissible under s. 41(b) of IRPA for failing to meet the conditions of their **permanent residency**?
         - [ ] CBSA Officer
-        - [x] **Immigration Division** 
+        - [x] **Immigration Division**
     > See s. 229(1)(k) of IRPR.
 
     10. Who would issue the removal order if your client has been found inadmissible for **misrepresentation under 40(1)(b)** of IRPA?
@@ -227,36 +236,35 @@ tags:
 
 ??? note "Module 8: Chapter 3, Part 1 (G,H,I) of Sharma & Daghighian"
 
-    1. Imeka, a citizen of Ghana, has been found inadmissible on grounds of security. The Minister is planning to enforce a removal order against Imeka. Prior to making a refugee claim in Canada, Imeka stayed at a refugee camp in Nigeria for 6 months. Before that, Imeka took 3 months to travel across Togo.  Which of the following country would Imeka be removed to? 
+    1. Imeka, a citizen of Ghana, has been found inadmissible on grounds of security. The Minister is planning to enforce a removal order against Imeka. Prior to making a refugee claim in Canada, Imeka stayed at a refugee camp in Nigeria for 6 months. Before that, Imeka took 3 months to travel across Togo.  Which of the following country would Imeka be removed to?
         - [ ] Nigeria
-        - [ ] Togo 
+        - [ ] Togo
         - [x] Ghana
-        - [ ] Imeka has a choice between Nigeria or Togo 
+        - [ ] Imeka has a choice between Nigeria or Togo
     > See Chapter 3, "Removal, Departure and Return". Neither Nigeria and Togo was a country that Imeka last permanently resided in. Therefore, he would be removed to his country of nationality, Ghana.
 
-    2. Ian represents Mohammed for his admissibility hearing. The ID found Mohammed to be inadmissible and issued a removal order. Ian advises Mohammed to apply for a judicial stay before the Federal Court of Canada. Ian knows that to succeed in this application, the Court must be satisfied that all branches of the **tripartite test for a stay** have been met on a standard of: 
-        - [ ] Reasonable grounds to believe 
-        - [x] Balance of probabilities 
-        - [ ] The balance of convenience 
-        - [ ] Beyond a reasonable doubt 
+    2. Ian represents Mohammed for his admissibility hearing. The ID found Mohammed to be inadmissible and issued a removal order. Ian advises Mohammed to apply for a judicial stay before the Federal Court of Canada. Ian knows that to succeed in this application, the Court must be satisfied that all branches of the **tripartite test for a stay** have been met on a standard of:
+        - [ ] Reasonable grounds to believe
+        - [x] Balance of probabilities
+        - [ ] The balance of convenience
+        - [ ] Beyond a reasonable doubt
     > See Chapter 3, "Judicial Stay of Removal: The Federal Court Stay Application". **The applicant must satisfy (on a balance of probabilities) all three branches of the test before the court will grant a stay of proceedings.**
 
-    3. Chen's refugee claim was filed in November 2011 but was not heard by the RPD until March 2021. This is known as a legacy claim, which has no right of appeal to the RAD. Chen wants to apply for leave and judicial review of his negative refugee claim. Which of the following is true about whether Chen would qualify for a stay of removal? 
+    3. Chen's refugee claim was filed in November 2011 but was not heard by the RPD until March 2021. This is known as a legacy claim, which has no right of appeal to the RAD. Chen wants to apply for leave and judicial review of his negative refugee claim. Which of the following is true about whether Chen would qualify for a stay of removal?
         - [ ] Chen would not qualify for a stay of removal because his refugee claim was rejected
-        - [x] Chen would not qualify for a stay of removal because his claim is ineligible for the RAD 
+        - [x] Chen would not qualify for a stay of removal because his claim is ineligible for the RAD
         - [ ] Chen would qualify for a stay of removal if his application for leave and judicial review was filed within the stipulated deadlines
-        - [ ] Chen would qualify for a stay of removal if he can show that he would be subject to a risk to his life or risk of torture 
+        - [ ] Chen would qualify for a stay of removal if he can show that he would be subject to a risk to his life or risk of torture
     > See Chapter 3, "Refugee Claimants".  **A refugee claimant further benefits from a stay of removal where they file an application for leave and judicial review within the stipulated deadlines with the Federal Court with respect to a refusal to grant protection by the ==RAD==.** Thus, there is no stay of removal if the refugee claimant is ineligible for the RAD.
 
-    4. True or false: A removals officer can only arrest and detain with a valid warrant. 
+    4. True or false: A removals officer can only arrest and detain with a valid warrant.
         - [ ] True
         - [x] False
     > See Chapter 3, "Removal, Departure and Return". **Section 55(2) of the IRPA allows the Officer to arrest and detain without warrant.**
 
-    5. Maltreed's refugee claim was rejected by the RPD as a manifestly unfounded claim. Maltreed wants to apply for leave and judicial review of this decision. Which of the following is true about whether Maltreed would qualify for a stay of removal? 
+    5. Maltreed's refugee claim was rejected by the RPD as a manifestly unfounded claim. Maltreed wants to apply for leave and judicial review of this decision. Which of the following is true about whether Maltreed would qualify for a stay of removal?
         - [ ] Maltreed would qualify for a stay of removal if his application for leave and judicial review was filed within the stipulated deadlines
-        - [ ] Maltreed would not qualify for a stay of removal because his refugee claim was rejected 
+        - [ ] Maltreed would not qualify for a stay of removal because his refugee claim was rejected
         - [ ] Maltreed would qualify for a stay of removal if he can show that he would be subject to a risk to his life or risk of torture
-        - [x] Maltreed would not qualify for a stay of removal because his claim was a manifestly unfounded claim 
+        - [x] Maltreed would not qualify for a stay of removal because his claim was a manifestly unfounded claim
     > See Chapter 3, "Refugee Claimants". A claimant found to have a manifestly unfounded claim[45] or a claim with no "credible basis" under s.107(2) of the IRPA, does not benefit from a stay as there is **no appeal to the RAD**.
-
