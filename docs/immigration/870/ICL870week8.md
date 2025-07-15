@@ -155,7 +155,7 @@ tags:
         - A pending H&C application or a pending spousal sponsorship are not in themselves enough of a reason to grant a deferral. However, the **harms** identified in an H&C can constitute serious personal harm if there is evidence of their severity.
         - The most compelling evidence you can get is **medical** – on any problems with the flight or care that cannot be accessed in the home country – and psychological on the immense trauma and even suicidal thoughts your client may face if removed.
 
-???+ note "Three Basic Human Rights Protections"
+??? note "Three Basic Human Rights Protections"
 
     - The international human rights treaties that Canada has signed - *the UN Universal Declaration of Human Rights*; *the International Covenant on Civil and Political Rights (ICCPR)*; and *the International Covenant on Economic, Social and Cultural Rights (ICESCR)* - impose limits on Canada’s ability to expel. There are three main protections that we will discuss here.
     - **Non-Refoulement:**

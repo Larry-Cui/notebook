@@ -169,4 +169,115 @@ tags:
 
 ??? note "Module 2 Knowledge Check"
 
-    1. Rhodri
+    1. Which of the following requirements **cannot** be waived by the Minister on compassionate grounds? 
+        - [ ] Whether an adult has adequate knowledge of one of the official languages of Canada 
+        - [ ] Whether an adult demonstrates in one of the official languages of Canada that he or she has an adequate knowledge of Canada and of the responsibilities and privileges of citizenship
+        - [x] Whether an adult meets the requirement respecting length of physical presence in Canada 
+        - [ ] Whether a minor meets the requirement respecting length of physical presence in Canada 
+
+    2. Rajiv is a PR of Canada who recently renounced his citizenship in the U.S. He relinquished his original Indian citizenship when he became a U.S. citizen. Can he apply for citizenship as a stateless individual? 
+        - [ ] Yes, because he is not currently the citizen of any country. 
+        - [ ] No, because he is a PR of Canada. 
+        - [ ] No, because he voluntarily chose to renounce his U.S. citizenship. 
+        - [x] It depends on whether he is entitled to regain his Indian citizenship. 
+    > Further to the FCA, **a person is stateless only where, as a legal or practical matter, the person cannot get citizenship or national status elsewhere**. *Budlakoti v. Canada (Citizenship and Immigration)*, 2015 FCA 139 at para. 23 
+
+    3. Can an individual who was born outside of Canada and living outside Canada who is registered under the Indian Act apply for Canadian citizenship?  
+        - [ ] No, they must first apply for permanent residence and then reside in Canada for at least 1,095 days as a PR. 
+        - [x] No, they must first reside in Canada for at least 1,095 days. 
+        - [ ] Yes, they are entitled to apply for Canadian citizenship and then come reside in Canada.  
+        - [ ] No, they are entitled to reside in Canada, but must apply for permanent residence and meet the same requirements in order to apply for citizenship.  
+    
+        > For the purposes of assessing whether a registered Indian who is applying for a grant of citizenship meets the requirement to be a permanent resident as provided in paragraph 5(1)(c), 5(2) or 11(1)(d) of the Citizenship Act,
+
+        >  - the date the applicant was admitted to Canada as a registered Indian should be used as the equivalent of the date the person became a permanent resident (landing date); 
+        >  - (if the applicant was registered as an Indian after their entry into Canada) the date of registration should be used as the equivalent of the date the person became a permanent resident. 
+
+        > **There is no requirement to apply for permanent residency.** This process  is deemed to be authorized under paragraph 2(2)(b) of the Citizenship Act, which states that "a person who is lawfully present and entitled to permanently reside in Canada is deemed to have been lawfully admitted to Canada for permanent residence." 
+
+    4. Afsaneh is scheduled to take the oath of citizenship as the final step to her grant of citizenship. On the day of the oath, she would like to continue to wear her niqab and swear the oath of Canadian citizenship on the Quran. Will she be permitted to do so?  
+        - [ ] No, IRCC officials must verify the individual has publicly recited the oath, which will be impeded by her veil.
+        - [x] Yes, she will be allowed to do so if she requests an accommodation and follows the required procedure.
+        - [ ] No, she must either swear the oath on the bible or affirm the oath in a neutral manner. 
+        - [ ] A and C 
+    > Further to the case of *Ishaq*, the Courts have ruled taking the oath should allow the greatest possible freedom in religious solemnization.
+
+    5. Hassan is a member of the Canadian Armed Forces (CAF). For the past four (4) years, Hassan and his wife, Goli, have been living abroad where Hassan has been stationed for his employment. They have both been permanent residents for over 5 years. Could they be eligible to apply for citizenship?  
+        - [ ] Only Hassan may be eligible as he has fulfilled the condition of serving with the CAF for at least three (3) years.
+        - [ ] Hassan may be eligible, but Goli is not as Hassan is not a  Canadian citizen who is employed by the CAF. 
+        - [x] **Both Hassan and Goli may be eligible.** 
+        - [ ] Neither Hassan or Goli are eligible until they return to Canada.  
+
+        > Hassan may be eligible under both **s. 5(1.01) and (1.2)** of the Citizenship Act. Goli may be eligible under **s. 5(1.03)**. In full, the relevant provisions provide as follows: 
+
+        > Period of physical presence — permanent residents 
+
+        > (1.02) Any day during which an applicant for citizenship was a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act and was employed outside Canada in or with the **Canadian Armed Forces, the federal public administration or the public service of a province**, otherwise than as a locally engaged person, shall be treated as equivalent to one day of physical presence in Canada for the purposes of paragraphs (1)(c) and 11(1)(d). 
+
+        > Period of physical presence — residing with permanent residents 
+
+        > (1.03) Any day during which an applicant for citizenship was the **spouse or common-law partner, or child, of a permanent resident referred to in subsection (1.02)** and resided with that permanent resident shall be treated as equivalent to one day of physical presence in Canada for the purposes of paragraphs (1)(c) and 11(1)(d). 
+
+        > Canadian Armed Forces — permanent resident 
+
+        > (1.2) Paragraph (1)(c) does not apply to a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act who has, subject to the regulations, no unfulfilled conditions under that Act relating to his or her status as a permanent resident and who 
+
+        > - (a) during the six years immediately before the date of his or her application, completed **three years** of service in the Canadian Armed Forces; and 
+
+        > - (b) has met any applicable requirement under the Income Tax Act to file a return of income in respect of three taxation years that are fully or partially within the six years immediately before the date of his or her application. 
+
+    6. Anna is a citizen of Canada residing in Mexico City. For the past 10 years, she has been looking after her nephew, Miguel, since his parents passed away when he was 12 years old. Most recently, Anna has decided to return Canada and has adopted Miguel under the laws of Mexico. Is it possible for Miguel to be granted citizenship? 
+        - [ ] No, because Miguel is 20 years old and is too old to be granted citizenship based on adoption.
+        - [ ] No, because the adoption was not done in accordance with Canadian laws. 
+        - [x] Yes, because Anna was residing in Mexico at the time of the adoption. 
+        - [ ] No, because Miguel was not a minor at the time of the adoption.  
+    
+        > Pursuant to **s. 5.1(2)** of the Citizenship Act **adult adoptions** may qualify for citizenship if 
+        
+        > - (a) there was a genuine relationship of parent and child between the person and the adoptive parent before the person attained the age of 18 years and at the time of the adoption; and 
+
+        > - (b) the adoption meets the requirements set out in paragraphs **5.1(1)(c) to (d)**. This includes the fact the adoption must have been in accordance with the laws of the country where it took place and where the citizen was residing. 
+        
+        > In the immediate scenario, the adoption took place in Mexico where Anna was residing and it appears there is has been a genuine relationship of parent/child for many years. Notably, the question asks if it is possible for Miguel to be granted citizenship, as these as well as other sometimes subjective factors would have to be assessed by IRCC.  
+
+    7. Which of the following individuals may be considered for **a special grant** of citizenship? 
+        - [ ] An athlete who as a PR has excelled at domestic competition and may represent Canada at the Olympics.
+        - [ ] A U.N. official who works in conflict zones abroad for most of the year, but whose primary home and family are all in Canada.
+        - [ ] An individual who has lived in Canada for many years but is stateless.
+        - [x] All of the above.  
+    
+        > Section **5(4)** of the Citizenship Act provides the Minister broad discretion as follows:  
+
+        > (4) Despite any other provision of this Act, the Minister may, in his or her discretion, **grant citizenship to any person to alleviate cases of statelessness or of special and unusual hardship or to reward services of an exceptional value to Canada.**  
+
+        > While the cases above may not be granted, they can be considered by the Minister per the wording of s. 5(4).  
+
+    8. Mark has lived in Canada for the past 20 years, where owns a house and small business. His wife and children are all Canadian citizens. In the last few years, he has had to travel back and forth to the U.K. to attend to his mother who is ill. Recently, he applied for citizenship but it turns out he miscalculated and is 2 days short of the 1,095 days of residence required (i.e. 1,093). If the file is referred to a Citizenship Judge, can the Judge grant Mark's application in her discretion?  
+        - [ ] Yes, if she determines Mark's place of continual habitual residence is in Canada.
+        - [ ] Yes, because it is a *de minimis* shortfall.
+        - [ ] Yes, if the Judge believes there are sufficient humanitarian and compassionate grounds. 
+        - [x] No, a Citizenship Judge does not have the discretion to grant the application.  
+    > While this type of discretion existed for many years, **it was removed following the passage of Bill C-24 in 2015**.  
+    
+    9. Naruhito is a 16 year old permanent resident of Canada. He has lived in Canada for the last 8 years. He became a PR as part of the application of his parents who are also permanent residents who spend a majority their time working abroad. During the school year, Naruhito resides primarily at his school dormitories at a private boarding school. Is Naruhito entitled to apply for citizenship? 
+        - [x] Yes, under s. 5(1) of the Act if he has met his residence and other requirements. 
+        - [ ] Yes, under s. 5(2) of the Act if he has met his residence and other requirements.
+        - [ ] No, because neither of his parents are Canadian citizens.
+        - [ ] No, because neither of his parents meet the residence requirements and cannot include him as part of their application.  
+
+            > Following Bill C-16 in 2017, **minors can now apply for citizenship without a Canadian parent, as the age requirement for citizenship has been removed under subsection 5(1)**. A person having custody of the minor or empowered to act on their behalf by court order, written agreement or operation of law, can now apply for citizenship on behalf of the minor.  
+
+            > This may be beneficial in myriad circumstances such as if the minor has more residence in the Canada than the parents; for example, if they have spent time living with relatives in Canada or in boarding school while parents are abroad. Counsel may also consider this option if there are hurdles to obtaining the parents' citizenship, such as a prohibition stemming from a prior criminal conviction or an active investigation. In certain circumstances, if minors have applied with parents and that application is suspended under s. 13.1 of the Act, counsel may consider filing a separate application for the minors. 
+
+            > B is not the correct answer. Under **s. 5(2)** of the Citizenship Act, a legal guardian who is not a Canadian citizen may apply for citizenship on behalf of the minor child but Canadian citizenship can only be **granted if one of the parents (natural or adoptive) is already a Canadian citizen**. 
+    
+    10. Which of the following are among the **legal requirements for an adopted child** of a citizen to be granted citizenship under the Act? 
+        - [ ] the adoption was in the best interests of the child
+        - [ ] the adoption  created a genuine relationship of parent and child
+        - [ ] the adoption  was in accordance with the laws of the place where the adoption took place and the laws of the country of residence of the adopting citizen
+        - [ ] the adoption  did not occur in a manner that circumvented the legal requirements for international adoptions
+        - [ ] the adoption  was not entered into primarily for the purpose of acquiring a status or privilege in relation to immigration or citizenship
+        - [x] all of the above
+    > These are all requirements under **s. 5.1(1) of the Act**.  
+
+
