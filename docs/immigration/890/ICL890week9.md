@@ -58,6 +58,9 @@ tags:
         - (e) if there is an accompanying spouse or common-law partner, identify who is the principal applicant and who is the accompanying spouse or common-law partner. 
     - Section 12 of IRPR further prescribes that “if the requirements of sections 10 and 11 are not met, the application and all documents submitted in support of it, shall be **returned** to the applicant.” This means that the application may be declined for processing or may be refused (as incomplete).   
     - Even applications submitted through the portals can encounter difficulties with lost documents. In those cases, it is likely that you will receive the application back as incomplete. If so, remedy the situation by re-uploading the "missing" document and re-submit. 
+    - Federal Court Decisions on incomplete applications
+        - *Campana Campana v Canada (Citizenship and Immigration)*, [2014 FC 49](https://canlii.ca/t/g2q6l){:target="\_blank"}
+        - *Ma v Canada (Citizenship and Immigration)*, [2015 FC 159](https://canlii.ca/t/gg850){:target="\_blank"}
 
 ??? note "PFL"
 
