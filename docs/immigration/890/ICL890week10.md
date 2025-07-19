@@ -104,7 +104,7 @@ tags:
 
 ## Quizzes
 
-???+ note "Knowledge Check 10.1: Managing Client Files - Online Portals"
+??? note "Knowledge Check 10.1: Managing Client Files - Online Portals"
 
     1. When is it necessary for a Canadian employer to submit an offer of employment through the Employer Portal? 
         - [ ] When their positive LMIA has been issued by ESDC, prior to the foreign worker's application for a work permit under the International Mobility Program. 
