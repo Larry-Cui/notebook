@@ -25,9 +25,9 @@ tags:
     - Raj Sharma & Aris Daghighian, *Inadmissibility and Remedies* (Toronto: Emond, 2021): Appendix - Citizenship (Revocations)
     - IRCC: [Revocation of citizenship](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/canadian-citizenship/acquisition-loss/revocation.html){:target="\_blank"}
     - There are two types of renunciation of Canadian citizenship:
-        -  [Renunciation of citizenship under subsection 9(1) of the Citizenship Act](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/canadian-citizenship/acquisition-loss/renunciation-under-subsection-9-1-act.html){:target="\_blank"} for Canadian citizens and
+        -  [Renunciation of citizenship under subsection 9(1) of the Citizenship Act](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/canadian-citizenship/acquisition-loss/renunciation-under-subsection-9-1-act.html){:target="\_blank"} for Canadian citizens; and
         -  [Renunciation of citizenship under section 7.1 of the Citizenship Regulations](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/canadian-citizenship/acquisition-loss/renunciation-under-section-7-1-regulations.html){:target="\_blank"} for certain persons who became Canadian citizens as a result of the legislative amendments in 2009 and 2015
-    - [Resumption of Canadian citizenship [subsection 11(1)]](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/canadian-citizenship/acquisition-loss/resumption-canadian-subsection-11-1.html){:target="\_blank"} is about resumption of Canadian citizenship by a former citizen.
+    - [Resumption of Canadian citizenship (subsection 11(1))](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/canadian-citizenship/acquisition-loss/resumption-canadian-subsection-11-1.html){:target="\_blank"} is about resumption of Canadian citizenship by a former citizen.
     - **Natural justice and basic rights** during revocation proceedings
         - *Hassouna v. Canada (Citizenship and Immigration)*, [2017 FC 473](https://canlii.ca/t/h4052){:target="\_blank"}
     - ***Mens rea***
@@ -39,7 +39,7 @@ tags:
         - *Canada (Minister of Citizenship and Immigration) v. Schneeberger*, [2003 FC 970](https://canlii.ca/t/1fx21){:target="\_blank"} (under the old system, but good example of the scope of  ‘knowing concealment of a material circumstance’ for the purposes of citizenship revocation)
     - Scope of **personal circumstances** considered by Minister under s. 10 of the current Act
         - *Xu v. Canada (Citizenship and Immigration)*, [2021 FC 1102](https://canlii.ca/t/jjs9c){:target="\_blank"}
-        - *Wei v. Canada (Citizenship and Immigration)*, [2023 FC 826](https://canlii.ca/t/jxp1z) {:target="\_blank"}
+        - *Wei v. Canada (Citizenship and Immigration)*, [2023 FC 826](https://canlii.ca/t/jxp1z){:target="\_blank"}
     - **Mistake in issuance** of citizenship certificate versus revocation
         - *Ortiz v. Canada (Citizenship and Immigration)*, [2020 FC 188](https://canlii.ca/t/j51jp){:target="\_blank"}
     - **Mental disability** prevented fully **comprehending the significance** of renouncing his Canadian citizenship, which is **prerequisite** to renunciation
@@ -52,15 +52,15 @@ tags:
         - False representation
         - Knowingly concealing material circumstances
     - The **grounds** for revocation could have occurred at the time of applying for and obtaining citizenship or at the time of applying for permanent residence.
-    - Previous grounds of revocation for national security offences committed after obtaining citizenship were **repealed** by Bill C-6 in 2017, but the IRCC website has not been updated.
+    - Previous grounds of revocation for **national security offences** committed after obtaining citizenship were **repealed** by Bill C-6 in 2017, but the IRCC website has not been updated.
     - **Burden of Proof**
         - It is the **Minister’s burden** to establish the required elements on a **balance of probabilities** (*Canada (MCI) v Halindintwali*, [2015 FC 390](https://canlii.ca/t/gkqq6){:target="\_blank"} at para. 32).
-        - The balance of probabilities standard is satisfied if the evidence establishes that it is more probable than not that something occurred. That is, the Court must be satisfied that an event or fact in dispute is not only possible, but probable (*Rogan v Canada (MCI)*, [2011 FC 1007](https://canlii.ca/t/fmnhj){:target="\_blank"} [Rogan] at paras. 27-29.).
+        - The balance of probabilities standard is satisfied if the evidence establishes that it is more probable than not that something occurred. That is, the Court must be satisfied that an event or fact in dispute is not only possible, but probable (*Rogan v Canada (MCI)*, [2011 FC 1007](https://canlii.ca/t/fmnhj){:target="\_blank"} [*Rogan*] at paras. 27-29.).
     - **Materiality**
         - A misrepresentation of a material fact includes an untruth, the withholding of truthful information, or a misleading answer which has the effect of foreclosing or averting further inquiries (*Canada v Brooks*, [1973 CanLII 5 (SCC)](https://canlii.ca/t/1nfn6){:target="\_blank"} at 873).
         - The **material character of the concealed facts** depends on “the significance for purposes of the decision in question of the information not disclosed” (*Odynsky*, [2001 FCT 138](https://canlii.ca/t/ppv){:target="\_blank"} at para. 156)
         - The Minister is **not required to prove** the false representation, fraud, or knowing concealment of material circumstances **would necessarily have led to the rejection of the application** for citizenship or permanent residence, but merely that it had the effect of foreclosing or averting further inquiries, even if those inquiries would not have necessarily led to a refusal (*Canada (Citizenship and Immigration) v. Rogan*, [2011 FC 1007](https://canlii.ca/t/fmnhj){:target="\_blank"} at para. 31).
-        - **Innocent misrepresentations are not to result in the revocation** of citizenship.” (*Canada v. Schneeberger*, [2003 FC 970](https://canlii.ca/t/1fx21){:target="\_blank"} at paras. 25-26; Rogan, [2011 FC 1007](https://canlii.ca/t/fmnhj){:target="\_blank"} at paras 32-35).
+        - **Innocent misrepresentations are not to result in the revocation** of citizenship.” (*Canada v. Schneeberger*, [2003 FC 970](https://canlii.ca/t/1fx21){:target="\_blank"} at paras. 25-26; *Rogan*, [2011 FC 1007](https://canlii.ca/t/fmnhj){:target="\_blank"} at paras 32-35).
         - Likewise, the element of “materiality” does **not include inadvertent omissions** of immaterial information and mere technical transgressions. (*Canada (MCI) v Kljajic*, [2020 FC 570](https://canlii.ca/t/j6wf4){:target="\_blank"} at para. 95)
     - ***Mens Rea***
         - The Minister must have established the individual acted **intentionally** by deliberately concealing material circumstances or making false representations with the intent to mislead the decision-maker (*Canada (MCI) v Savic*, [2014 FC 523](https://canlii.ca/t/g7cd1){:target="\_blank"} at paras. 66-76). This ***mens rea*** applies equally to the current formulation of s. 10.1(1) (Canada (*Citizenship and Immigration) v Rubuga*, [2015 FC 1073](https://canlii.ca/t/gmlc8){:target="\_blank"} at para. 76)
@@ -137,6 +137,77 @@ tags:
 
 ## Quizzes
 
-???+ note "Module 4 Knowledge Check"
+??? note "Module 4 Knowledge Check"
 
-    1. Available on July 21, 2025
+    1. Which of the following is **not** a ground that can lead to revocation of citizenship?  
+        - [ ] False representation
+        - [x] Directly or indirectly misrepresenting or withholding material circumstances
+        - [ ] Fraud
+        - [ ] Knowingly concealing material circumstances
+    > **Direct or indirect misrepresentation is the test used under s. 22(e.1) of the Act with respect to prohibitions for misrepresentation.** This mirrors s. 40 of the IRPA. However, **this is not the test or the grounds upon citizenship may be revoked under s. 10 of the Citizenship Act**, which includes false representation, fraud, and knowingly concealing material circumstances.  
+
+    2. Svend has received a notice of revocation pursuant to s. 10 of the Citizenship Act. In what circumstance is he entitled to a Federal Court hearing? 
+        - [ ] If the Minister, on the basis of prescribed factors, is of the opinion that a hearing is required
+        - [ ] If Svend requests a hearing in Federal Court within 60 days
+        - [x] Unless Svend requests the Minister decide the case
+        - [ ] Only if the Minister seeks a declaration that Svend retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances, with respect to a fact described in section 34, 35 or 37 of the IRPA 
+    > Pursuant to **s. 10(4.1)** of the Citizenship Act the **Minister shall (i.e. must) refer the case to the Court** under subsection 10.1(1) **unless Svend requests** that the case be decided by the Minister under s. 10(3.1)(b). This is a right that counsel fought for and was granted under the Bill of Rights in the precedential *Houssana* decision, and was incorporated into the Act following subsequent amendments under Bill C-6.  
+
+    3. Which of the following the **not** among the requirements for a renunciation of citizenship? 
+        - [ ] Is a citizen of a country other than Canada or, if his application is accepted, will become a citizen of a country other than Canada
+        - [ ] Is not the subject of a declaration by the Governor in Council made pursuant to section 20
+        - [ ] Is not a minor
+        - [ ] Is not prevented from understanding the significance of renouncing citizenship by reason of the person having a mental disability
+        - [x] Does not have any outstanding tax obligations under the Income Tax Act
+        - [ ] Does not reside in Canada
+
+    4. What is the standard of proof required for revocation of citizenship? 
+        - [ ] Reasonable grounds to believe 
+        - [ ] Beyond a reasonable doubt 
+        - [x] Balance of probabilities  
+        - [ ] More than a mere suspicion  
+
+    5. Sal is scheduled to begin a hearing in Federal Court on the allegation that he obtained citizenship through false representations under s. 10 of the Citizenship Act. Which of the following are among the elements the Minister must demonstrate?  
+        - [x] Sal made the false representations intentionally
+        - [ ] Sal would not have obtained citizenship but for the false representations 
+        - [x] The representations were false
+        - [x] The false representations were material
+        - [ ] All of the above 
+    > Further to the Federal Court decision in *Savic* listed in this week's readings, the *mens rea* of an intent to mislead is required for a revocation decision under s. 10 of the Citizenship Act. This is a significant way in which this provision differs from misrepresentation under s. 22(e.1) of the Act or s. 40 of IRPA. Furthermore, the Minister must demonstrate that the representations were in fact false (which may be contestable in some cases) and that they were material inasmuch as they could have affected the process or averted avenues of inquiry. However, the **Minister does not have to demonstrate that they would have necessarily resulted in the refusal of the citizenship** application or that Sal wouldn't have been granted citizenship but for the false representations.  
+
+    6. Mark recently had his citizenship revoked for having knowingly concealed material circumstances under s. 10(1) of the Act. For how long is Mark prohibited from applying for citizenship? 
+        - [x] Ten (10) years
+        - [ ] Four (4) years 
+        - [ ] Five (5) years
+        - [ ] Forever, unless a discretionary waiver is granted by the Minister.  
+    > Pursuant to **s. 22(f)**, he is prohibited from re-applying for citizenship for ten years. Note, this is twice the length of the five-year period for which he would have been barred under s. 22(e.2) if his misrepresentation had been discovered before he was granted citizenship. 
+    > Furthermore, **he is barred forever from applying for resumption under s. 11** but not for a regular grant s. 5(1).  
+    > s. 11(1)(b): **is not the subject of an order made under section 10**, as it read immediately before the coming into force of section 8 of the Strengthening Canadian Citizen- ship Act, a decision made under section 10, a declara- tion made under section 10.1 or an order made under section 18 of the former Act;
+
+    7. Which of the following requirements for the renunciation of citizenship can the Minister **waive on compassionate grounds** in his or her discretion? (select all that apply) 
+        - [ ] Is a citizen of a country other than Canada or, if his application is accepted, will become a citizen of a country other than Canada
+        - [ ] Is not the subject of a declaration by the Governor in Council made pursuant to section 20
+        - [ ] Is not a minor
+        - [x] Is not prevented from understanding the significance of renouncing citizenship by reason of the person having a mental disability
+        - [x] Does not reside in Canada
+
+    8. Miranda is a Canadian born citizen who moved to the United States after marrying a dual Canadian-U.S. citizen over 30 years ago. Approximately 20 years ago, Miranda renounced her Canadian citizenship after obtaining U.S. citizenship since she lived primarily in the U.S. and wanted to limit her tax liability. Five years ago, as Miranda has been nearing the end of her career, she bought a second house in Canada and obtained PR status (after being sponsored by her husband) with the goal of eventually returning to Canada for retirement. During this time, she has maintained her PR residency requirement by living with her husband in the U.S. who has always maintained his Canadian citizenship. Last year, Miranda filed her taxes in Canada and has spent the last two summers living in her home in Canada. Is Miranda eligible to apply for a resumption of citizenship? 
+        - [ ] Yes, because she obtained PR status and has no outstanding obligations under that status
+        - [x] No, because she has not resided in Canada for at least 365 days out of the last two-year period
+        - [ ] No, because she has not resided in Canada for at least 1,095 days in the last five-year period
+        - [ ] No, because she only filed her income taxes last year and not for the last two (2) year period  
+
+    9. Babak is a dual citizen of Canada and Iran. He first immigrated to Canada as a Permanent Resident when he was a minor in 2001. In 2005, the family all became citizens. In 2010 as part of actions he took with a group of friends, he was convicted of a terrorism offence as defined in section 2 of the Criminal Code. Which of the following is true with respect Babak's Canadian citizenship? 
+        - [ ] His citizenship can be revoked because he is a dual citizen and was convicted of a terrorism offence under s. 2 of the Criminal Code of Canada 
+        - [ ] His citizenship can be revoked because he was convicted of a terrorism offence regardless of whether he is a dual citizen 
+        - [ ] His citizenship can be revoked only after the Minister considers any personal circumstances and a final decision is rendered by the Federal Court
+        - [x] His citizenship cannot be revoked
+    > Previously, the SCCA (Bill C-24) introduced controversial revocation provisions for those convicted of certain terrorism and national security related offenses committed while they are citizens. These only applied to dual citizens (even those born in Canada) who would not be rendered stateless. These provisions were repealed in 2017 with Bill C-6 on the grounds that **revocation (the equivalent of exile or banishment) should not be used as a penalty for offences committed as citizen, regardless of how severe.** See this week's discussion and suggested readings for more information.  
+
+    10. In relation to the question above, what would be the consequence with respect to Babak's citizenship if he was convicted of the same offence before he became a citizen? 
+        - [ ] He would be barred from applying for citizenship for four (4) years following the date of conviction.
+        - [ ] He would be barred from applying for citizenship for four (4) years following the completion of his sentence.
+        - [ ] He would be barred from applying for citizenship for ten (10) years.
+        - [ ] He would be barred from applying for citizenship forever.  
+    > **Pursuant to s. 22(4) of the Act, there is a ==permanent prohibition== to citizenship for individuals convicted of such offences.** However, there is an exceptional waiver available in the Minister's discretion under s. 22(5).  
+
