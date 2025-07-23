@@ -29,7 +29,7 @@ tags:
         -  [Renunciation of citizenship under section 7.1 of the Citizenship Regulations](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/canadian-citizenship/acquisition-loss/renunciation-under-section-7-1-regulations.html){:target="\_blank"} for certain persons who became Canadian citizens as a result of the legislative amendments in 2009 and 2015
     - [Resumption of Canadian citizenship (subsection 11(1))](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/canadian-citizenship/acquisition-loss/resumption-canadian-subsection-11-1.html){:target="\_blank"} is about resumption of Canadian citizenship by a former citizen.
     - **Natural justice and basic rights** during revocation proceedings
-        - *Hassouna v. Canada (Citizenship and Immigration)*, [2017 FC 473](https://canlii.ca/t/h4052){:target="\_blank"}
+        - *Hassouna v. Canada (Citizenship and Immigration)*, [2017 FC 473](https://canlii.ca/t/h4052){:target="\_blank"}, at paras 92, 96, 99, 111
     - ***Mens rea***
         - *Canada (Citizenship and Immigration) v. Savic*, [2014 FC 523](https://canlii.ca/t/g7cd1){:target="\_blank"} (**intention to mislead is required for revocation under Citizenship Act**, as distinguished from misrepresentation under s. 40 of IRPA)
         - *Canada (Citizenship and Immigration) v. Zakaria*, [2014 FC 864](https://canlii.ca/t/gdrm4){:target="\_blank"} (**intention of parent can be imputed to children** who obtained citizenship as part of parent’s application)
