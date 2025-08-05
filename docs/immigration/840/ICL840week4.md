@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-???+ note "Tutorial notes"
+??? note "Tutorial notes"
 
     - Saturday 9:00am.
     - CEC -> FSW -> FSTP

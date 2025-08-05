@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 
-???+ note "Tutorial notes"
+??? note "Tutorial notes"
 
     - s 22(1)(e): must hire interpreters and translators when necessary
     - s 22(4): instruct accuracy

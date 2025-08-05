@@ -128,7 +128,7 @@ tags:
     - (a) their objectivity or the relationship of trust with any of their clients; or
     - (b) their duty of confidentiality towards any of their clients or former clients.
 
-???+ note "Module 1 Knowledge Check: Temporary Resident Visas"
+??? note "Module 1 Knowledge Check: Temporary Resident Visas"
 
     1. Rita came to Canada and she was in possession of a multiple entry visa issued for 5 years. When she arrived in Canada she went through the kiosk, there was no stamp or any indication of how long she would be allowed to stay in Canada. Since she had a five-year visa, she assumed she could stay for as long as she wanted, but could not stay beyond the five years.  Was Rita correct in her assumption?
         - [x] No, the visa allows her to get to the port of entry, but she can only stay 6 months

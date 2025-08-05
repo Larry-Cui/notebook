@@ -86,7 +86,7 @@ tags:
 
 ## Quizzes
 
-???+ note "Module 2 Knowledge Check: Study Permits"
+??? note "Module 2 Knowledge Check: Study Permits"
 
     1. Karin is planning to **change programs and apply to a new DLI**. Her study permit is valid for three years and she just completed one-year full time in course she hates. What is Karin required to do?
         - [ ] Karin must apply for a new study permit because her current one has already been approved based on her original application

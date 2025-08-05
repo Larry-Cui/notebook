@@ -61,7 +61,7 @@ tags:
         - Rules based reasoning: applying the legislation to your client's facts. You may also rely on rules extracted and synthesized from case law.
         - Policy-based reasoning: there may be serious policy issues that are raised by your client's file. This is especially true in an area of law like immigration and citizenship law, in which case you might argue that public policy objectives should be taken into account in any determination of your client's case.
 
-???+ note "2.3 Legal Research"
+??? note "2.3 Legal Research"
 
     - Legal information is divided into two types: **primary sources**, which "give" the law; and **secondary sources**, which provide commentary on the law and point you to relevant primary sources.
     - There are two Canadian legal encyclopedias, and they are only accessible through the subscription services. On Westlaw, the encyclopedia is called the **Canadian Encyclopedic Digest (the CED)**. On Lexis, the encyclopedia is called **Halsbury's laws of Canada (Halsbury's)**. CanLII does not currently have a legal encyclopedia.
