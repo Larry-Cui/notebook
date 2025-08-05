@@ -36,7 +36,7 @@ tags:
 
 ## Quizzes
 
-???+ note "Knowledge Check 12.1: Advanced Analytics & Special Topics"
+??? note "Knowledge Check 12.1: Advanced Analytics & Special Topics"
 
     1. The federal government has defended the use of Artificial Intelligence as a way to promote "efficient, accurate, consistent and interpretable" decisions under Acts of Parliament.  This means that at its core, **artificial intelligence is to be used alongside human decision-making processes**. 
         - [x] True

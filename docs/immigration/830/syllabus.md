@@ -10,7 +10,7 @@ tags:
   - Syllabus
 ---
 
-# ICL 830 – FOUNDATIONS OF CANADIAN IMMIGRATION LAW [^1]
+# ICL 830 – Temporary Entry [^1]
 
 [^1]: **Rafeena Rashid** and **Jelena Urosevic** developed the original instructional content for this course. Queen's University holds a license for the use of the Course Author's intellectual property for the use of ICL 830. Course revisions completed by **Kim K.C. Ly** for January 2022 and **Grace Daccache** for Fall 2022.
 
