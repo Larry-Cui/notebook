@@ -62,6 +62,8 @@ nav:
           - Family Property: family/property.md
           - Gift or Loan: family/giftorloan.md
   - Immigration:
+      - EPE:
+          - Sample: immigration/epe/sample.md
       - ICL:
           - 810:
               - Syllabus: immigration/810/syllabus.md
