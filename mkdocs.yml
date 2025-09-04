@@ -46,8 +46,12 @@ nav:
           - Docker and Jekyll: Computer/Others/2023-6-14-get-jekyll-running-locally.md
   - Laws:
       - Path Toward Practice in Canada: articles/2024-08-18-NCA.md
-      - UBC online Courses: articles/2024-12-21-ubcOnline.md
-      - UBC Orientation: UBC-laws/orientation.md
+      - UBC online Courses:
+          - LAW_V 505 99A:
+              - Intro: UBC-laws/L505/505Intro.md
+      - UBC Application:
+          - How to Apply: articles/2024-12-21-ubcOnline.md
+          - Courses Introduction: UBC-laws/orientation.md
       - Real Estate:
           - Documents for Residential Transactions: realestate/docu-list.md
           - Air Conditioning Unit On RPR: realestate/acrpr.md
