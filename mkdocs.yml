@@ -49,6 +49,7 @@ nav:
       - UBC online Courses:
           - LAW_V 505 99A:
               - Intro: UBC-laws/L505/505Intro.md
+              - Unit 1: UBC-laws/L505/505Unit1.md
       - UBC Application:
           - How to Apply: articles/2024-12-21-ubcOnline.md
           - Courses Introduction: UBC-laws/orientation.md
