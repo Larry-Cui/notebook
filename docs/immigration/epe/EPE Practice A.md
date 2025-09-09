@@ -17,7 +17,7 @@ tags:
 
 <i class="fa-solid fa-1 number"></i>
 
-Harvey wants to make a complaint against Sarah, an RCIC that he had previously retained to assist him in applying for a permanent resident visa under the Federal Skilled Trades class. Harvey believes that Sarah was incompetent in her service because she was frequently non-communicative with him, failed to keep scheduled appointments, and appeared intoxicated at some of the meetings that she did attend. Upon receiving Harvey's complaint and assigning a member to conduct an investigation, the Complaints Committee may do each of the following, **except**:
+**Harvey** wants to make a complaint against **Sarah**, an RCIC that he had previously retained to assist him in applying for a permanent resident visa under the Federal Skilled Trades class. Harvey believes that Sarah was incompetent in her service because she was frequently non-communicative with him, failed to keep scheduled appointments, and appeared intoxicated at some of the meetings that she did attend. Upon receiving Harvey's complaint and assigning a member to conduct an investigation, the Complaints Committee may do each of the following, **except**:
 
 - [ ] Refer the complaint for further investigation.
 - [ ] Make an urgent motion to the Discipline and Fitness to Practice Committee.
