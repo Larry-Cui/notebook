@@ -39,7 +39,7 @@ tags:
 
 !!! note "Case"
 
-    Salma, a pharmacist and single parent from Egypt, was landed as a permanent resident nine years ago in the Federal Skilled Worker Class. Her 17-year-old daughter Mariam accompanied her. After living in Canada for four years, Salma did not enjoy Canada, and decided to return to Cairo and her former employment there. She has not returned to Canada since. Meanwhile, Mariam stayed on, graduated from university, became a Canadian citizen, married, and now has a daughter of her own. Nine years have passed since Salma was landed and she desperately wants to come to Canada to visit her granddaughter. 
+    **Salma**, a pharmacist and single parent from Egypt, was landed as a permanent resident nine years ago in the Federal Skilled Worker Class. Her 17-year-old daughter **Mariam** accompanied her. After living in Canada for four years, Salma did not enjoy Canada, and decided to return to Cairo and her former employment there. She has not returned to Canada since. Meanwhile, Mariam stayed on, graduated from university, became a Canadian citizen, married, and now has a daughter of her own. Nine years have passed since Salma was landed and she desperately wants to come to Canada to visit her granddaughter. 
 
 
 <i class="fa-solid fa-3 number"></i>
