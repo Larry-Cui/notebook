@@ -47,9 +47,9 @@
 
 .highlight.blue {
 	width: 100%;
-	background-color: rgba(20, 60, 222, 0.1);
+	background-color: rgba(151, 212, 233, 0.1);
 	/* border-radius: 5px; */
-	border-left: 0.3em solid rgb(34, 34, 178);
+	border-left: 0.3em solid #97d4e9;
 	padding: 0.5em;
 	padding-left: 1em;
 	margin: 0.5em auto;
