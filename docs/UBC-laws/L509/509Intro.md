@@ -22,193 +22,22 @@ Administrative issues, such as exam deferrals or enrollment questions, should be
 
 ## Course Schedule
 
-### WEEK 1  September 2+
+| Week                           | Content                                                                                                                                                                                                                                                                                       | Discussion                                                                                                                                              |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| WEEK 1  <br>September 2+       | *Module 1: Introduction to Administrative Law*1.0  Overview<br>1.1  Administrative Law: What is it and Why Does it Matter?<br>1.2  Executive Branch of Government in Canada<br>1.3  The Canadian Administrative State<br>1.4 Summary                                                          | Discussion Activity: Hutchinson Article                                                                                                                 |
+| WEEK 2  <br>September 8+       | *Module 2: Administering the Rule of Law*<br>2.0  Overview<br>2.1  The Rule of Law: Arbitrariness & Legality <br>      2.2  Politics and Law<br>2.3  Privative Clauses & Expertise<br>2.4  A Legal Constraint: Unwritten Principle   <br>    2.5  Deference as Respect   <br>    2.6  Summary | Discussion Activity: PHS Community Services<br>Discussion Activity: Roncarelli, Trump and the Rule of Law<br>Discussion Activity: National Corn Growers |
+| WEEK 3 <br> September 15+      | *Module 3: Delegating Administrative Power & Administrative Law*<br>3.0  Overview<br>3.1  Delegating Administrative Power through Regulations and Rule-Making<br>3.2  Orders-in-Council<br>3.4  Enforcement & Appeal of Tribunal Remedies                                                     | Discussion Activity: Thorne’s Hardware<br>Discussion Activity: McKinnon v. Ontario                                                                      |
+| WEEK 4  <br>September 22+      | 3.5  Introduction to Judicial Remedies<br>3.6  Judicial Review: Availability & Alternatives<br>3.7 Judicial Review: Private Law Remedies<br>3.8 Summary                                                                                                                                       | Discussion Activity: Domtar<br>Discussion Activity: Paradis                                                                                             |
+| WEEK 5  <br>September 29+      | *Module 4: Procedural Fairness*<br>4.0 Overview<br>4.1 Sources & Development of Procedural Fairness<br>4.2 Threshold Test & Trigger<br>4.3 Modern Test - Content                                                                                                                              | Practice Problem: Participatory Rights<br>Discussion Activity: Baker                                                                                    |
+| WEEK 6  <br>October 6+         | 4.4 Limitations<br>4.5 Purpose of Procedural Fairness & Legitimate Expectations<br>4.6 Judicial Review and Breach of Duty Fairness<br>4.7 Summary                                                                                                                                             | Discussion Activity: Mavi<br>Discussion Activity: Cardinal and Khela                                                                                    |
+| WEEK 7  <br>October 13+        | *Module 5: Accessing Administrative Justice*<br>5.0 Overview<br>5.1 Principle of access to justice/access to remedy<br>5.2 Access to Justice - Case Study: BC Civil Resolution Tribunal<br>5.3 Summary                                                                                        | Discussion Activity: Finlay                                                                                                                             |
+| MIDTERM (week of October 20th) | The Midterm Examination (1.5 hours) will be held online on the course website, using Proctorio, starting at 9 AM (PST) on Friday, October 24th.  It will cover any/all content up to the end of Module 5.  There are no new reading assignments this week.  See Syllabus for details.         |                                                                                                                                                         |
+| WEEK 8  <br>October 27+        | *Module 6: Bias & Independence*<br>6.0 Overview<br>6.1 Sources and Definitions<br>6.2 Judicial v Administrative Independence<br>6.3 Rule Against Bias<br>6.4 Reasonable Apprehension of Bias Tests - Individual & Institutional<br>6.5 Summary                                                | Discussion Activity: Tribunal Appointments<br>Discussion Activity: Reasonable Apprehension of Bias                                                      |
+| WEEK 9  <br>November 3+        | *Module 7: Standard of Review*<br>7.0 Overview<br>7.1 A Short History of Standard of Review<br>7.2 Concept of Curial Deference<br>7.3 Pragmatic and Functional Analysis                                                                                                                       | Discussion Activity: Historical Standard of Review 1                                                                                                    |
+| WEEK 10  <br>November 10+      | 7.4 Dunsmuir: New Approach and 2 Standards<br>7.5 The 2019 Trilogy & New Standard of Review Rules<br>7.6 Selection of the Standard of Review                                                                                                                                                  | Discussion Activity: Historical Standard of Review 2<br>Discussion Activity: Vavilov                                                                    |
+| WEEK 11  <br>November 17+      | 7.7 Vavilov and the Application of the Reasonableness Standard<br>7.8 Remedial Discretion and Vavilov Framework                                                                                                                                                                               | Discussion Activity: Disguised Correctness<br>Discussion Activity: Remedial Discretion                                                                  |
+| WEEK 12 <br> November 24+      | 7.9 Reasons in Substantive Review<br>7.10 Jurisprudential Questions <br>7.11 Summary                                                                                                                                                                                                          | Discussion Activity: Administrative Decisions and their Reasons<br>Discussion Activity: Lingering questions post-Vavilov                                |
 
-*Module 1: Introduction to Administrative Law*
-
-1.0  Overview
-
-1.1  Administrative Law: What is it and Why Does it Matter?
-
-1.2  Executive Branch of Government in Canada
-
-1.3  The Canadian Administrative State
-
-Discussion Activity: Hutchinson Article
-
-1.4  Summary
-
-### WEEK 2  September 8+
-
-*Module 2: Administering the Rule of Law*
-
-2.0  Overview
-
-2.1  The Rule of Law: Arbitrariness & Legality
-
-Discussion Activity: PHS Community Services
-
-2.2  Politics and Law
-
-2.3  Privative Clauses & Expertise
-
-2.4  A Legal Constraint: Unwritten Principle
-
-Discussion Activity: Roncarelli, Trump and the Rule of Law
-
-2.5  Deference as Respect
-
-Discussion Activity: National Corn Growers
-
-2.6  Summary
-
-### WEEK 3  September 15+
-
-*Module 3: Delegating Administrative Power & Administrative Law*
-
-3.0  Overview
-
-3.1  Delegating Administrative Power through Regulations and Rule-Making
-
-3.2  Orders-in-Council
-
-Discussion Activity: Thorne’s Hardware
-
-3.3  Introduction to Tribunal Remedies
-
-Discussion Activity: McKinnon v. Ontario
-
-3.4  Enforcement & Appeal of Tribunal Remedies
-
-### WEEK 4  September 22+
-
-3.5  Introduction to Judicial Remedies
-
-3.6  Judicial Review: Availability & Alternatives
-
-Discussion Activity: Domtar
-
-3.7 Judicial Review: Private Law Remedies
-
-Discussion Activity: Paradis
-
-3.8 Summary
-
-### WEEK 5  September 29+
-
-*Module 4: Procedural Fairness*
-
-4.0 Overview
-
-4.1 Sources & Development of Procedural Fairness
-
-Practice Problem: Participatory Rights
-
-4.2 Threshold Test & Trigger
-
-4.3 Modern Test - Content
-
-Discussion Activity: Baker
-
-### WEEK 6  October 6+
-
-4.4 Limitations
-
-4.5 Purpose of Procedural Fairness & Legitimate Expectations
-
-Discussion Activity: Mavi
-
-4.6 Judicial Review and Breach of Duty Fairness
-
-Discussion Activity: Cardinal and Khela
-
-4.7 Summary
-
-### WEEK 7  October 13+
-
-*Module 5: Accessing Administrative Justice*
-
-5.0 Overview
-
-5.1 Principle of access to justice/access to remedy
-
-Discussion Activity: Finlay
-
-5.2 Access to Justice - Case Study: BC Civil Resolution Tribunal
-
-5.3 Summary
-
-### MIDTERM (week of October 20th)
-
-The Midterm Examination (1.5 hours) will be held online on the course website, using Proctorio, starting at 9 AM (PST) on Friday, October 24th.  It will cover any/all content up to the end of Module 5.  There are no new reading assignments this week.  See Syllabus for details.
-
-### WEEK 8  October 27+
-
-*Module 6: Bias & Independence*
-
-6.0 Overview
-
-6.1 Sources and Definitions
-
-6.2 Judicial v Administrative Independence
-
-Discussion Activity: Tribunal Appointments
-
-6.3 Rule Against Bias
-
-6.4 Reasonable Apprehension of Bias Tests - Individual & Institutional
-
-Discussion Activity: Reasonable Apprehension of Bias
-
-6.5 Summary
-
-### WEEK 9  November 3+
-
-*Module 7: Standard of Review*
-
-7.0 Overview
-
-7.1 A Short History of Standard of Review
-
-7.2 Concept of Curial Deference
-
-7.3 Pragmatic and Functional Analysis
-
-Discussion Activity: Historical Standard of Review 1
-
-### WEEK 10  November 10+
-
-7.4 Dunsmuir: New Approach and 2 Standards
-
-Discussion Activity: Historical Standard of Review 2
-
-7.5 The 2019 Trilogy & New Standard of Review Rules
-
-Discussion Activity: Vavilov
-
-7.6 Selection of the Standard of Review
-
-### WEEK 11  November 17+
-
-7.7 Vavilov and the Application of the Reasonableness Standard
-
-Discussion Activity: Disguised Correctness
-
-7.8 Remedial Discretion and Vavilov Framework
-
-Discussion Activity: Remedial Discretion
-
-### WEEK 12  November 24+
-
-7.9 Reasons in Substantive Review
-
-Discussion Activity: Administrative Decisions and their Reasons
-
-7.10 Jurisprudential Questions
-
-Discussion Activity: Lingering questions post-Vavilov
-
-7.11 Summary
 
 ### FINAL EXAMINATION  
 
