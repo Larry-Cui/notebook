@@ -734,7 +734,7 @@ If a person makes a complaint against an RCIC to the CICC, then which of the fol
 - [ ] Payment in the amount of $2,960 for the processing fee and right of permanent residence fee for himself and his family.
 - [ ] Proof that Ismael, Eloisa, and Melissa have undergone an upfront immigration medical examination.
 - [ ] An official letter from Ismael's financial institution showing that he has at least $13,757 available for settlement in Canada.
-- [ ] Police certificates for Ismael.
+- [x] Police certificates for Ismael.
   > As of October 1, 2023 Ismael is no longer required to submit proof that he, Eloisa, and Melissa have undergone an upfront immigration medical examination before submission of the application to IRCC. Foreign nationals who are applying for a permanent resident visa, as well as their family members, whether accompanying or not, must undergo an immigration medical examination pursuant to IRPR r 30(1)(a). [Reference](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams/requirements-permanent-residents.html#){:target=" \_blank"}
   >
   > The total payment to IRCC would be $1,525, which consists of: $950 (processing fee) and $575 (right of permanent residence fee), not $2,875. since Eloisa and Melissa will not be accompanying Ismael. Reference: IRCC.
@@ -745,7 +745,7 @@ If a person makes a complaint against an RCIC to the CICC, then which of the fol
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-9 number"></i>
 
-Diego is a Mexican citizen who has arrived at Calgary International Airport to apply for a work permit. On arrival, he tells the CBSA officer that he has been transferred to the Canadian subsidiary of a Mexican soft drink company, where he has worked as a senior marketing manager since March 2013. Can Diego be granted a work permit?
+**Diego** is a Mexican citizen who has arrived at Calgary International Airport to apply for a work permit. On arrival, he tells the CBSA officer that he has been transferred to the Canadian subsidiary of a Mexican soft drink company, where he has worked as a senior marketing manager since March 2013. Can Diego be granted a work permit?
 
 - [ ] No, he is required to obtain his work permit prior to seeking entry into Canada.
 - [x] Yes, because he is an intra-company transferee under CUSMA.
@@ -767,7 +767,7 @@ In order to obtain a permanent resident visa, the principal applicant in a spons
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-1 number"></i>
 
-Emnet is an accountant from Ethiopia who is seeking permanent residence in Canada under the **Ontario Immigrant Nominee Program's Human Capital Priorities Stream**. Berhanu, an RCIC in Addis Ababa, assists her in creating an online Express Entry profile, and informs her that she is eligible to be moved into the pool of candidates. In order to be selected from the pool of candidates by the OINP, Emnet must be assessed a CRS score of at least:
+**Emnet** is an accountant from Ethiopia who is seeking permanent residence in Canada under the **Ontario Immigrant Nominee Program's Human Capital Priorities Stream**. **Berhanu**, an RCIC in Addis Ababa, assists her in creating an online Express Entry profile, and informs her that she is eligible to be moved into the pool of candidates. In order to be selected from the pool of candidates by the OINP, Emnet must be assessed a CRS score of at least:
 
 - [ ] 600 points.
 - [ ] 400 points.
@@ -803,7 +803,7 @@ An RCIC may disclose confidential information about a client in each of the foll
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-4 number"></i>
 
-Jerry is an RCIC who is the subject of a disciplinary hearing that is being heard as a written adjudication process. All documents have now been submitted to the panel. However, one of the tribunal members' period of appointment ended yesterday. What can Jerry expect to happen?
+**Jerry** is an RCIC who is the subject of a disciplinary hearing that is being heard as a written adjudication process. All documents have now been submitted to the panel. However, one of the tribunal members' period of appointment ended yesterday. What can Jerry expect to happen?
 
 - [ ] The decision will be prepared by the remaining members of the panel, and the outgoing member will be unable to participate.
 - [ ] The hearing will be declared a nullity, and a second hearing will be convened.
@@ -830,7 +830,7 @@ Jerry is an RCIC who is the subject of a disciplinary hearing that is being hear
 **Harun** is a Canadian permanent resident who applied to sponsor his mother, **Samira**, for permanent residence under the family class. His application was recently rejected by a visa officer, and Harun retained **Nawaz**, an RCIC, to assist him in serving a notice of appeal to the Immigration Appeal Division. Which of the following statements is true?
 
 - [ ] Harun must prepare the appeal record and serve it on the IAD and the minister within 30 days after the notice of appeal was served.
-- [x] The minister must prepare the appeal record and serve it on Harun and the IAD within 60 days after receiving a written request from the Division.
+- [x] The minister must prepare the appeal record and serve it on Harun and the IAD within **60 days** after receiving a written request from the Division.
 - [ ] The minister must prepare the appeal record and serve it on Harun and the IAD within 30 days after the notice of appeal was served.
 - [ ] Harun must prepare the appeal record and serve it on the IAD and the minister within 30 days after receiving the officer's decision.
   > Under rule 22(1) of the IAD Rules, the **minister** must provide the appeal record to the appellant and the IAD **within 60 days** after the minister received notice of the appeal.
@@ -851,7 +851,7 @@ Should ESDC find Angelo non-compliant as a result of the inspection, which of th
   >
   > The administrative monetary penalties range from $500 to $100,000 per violation, up to a maximum of $1 million over one year.
   >
-  > His name and address as well as the details of the violation would be published on the IRCC's public website, and not on the CBSA's public website.
+  > His name and address as well as the details of the violation would be published on the **IRCC's public website**, and not on the CBSA's public website.
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-8 number"></i>
 
