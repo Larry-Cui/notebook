@@ -15,7 +15,7 @@ tags:
 
 <!-- more -->
 
-### <i class="fa-solid fa-1 number"></i>
+<i class="fa-solid fa-1 number"></i>
 
 **Harvey** wants to make a complaint against **Sarah**, an RCIC that he had previously retained to assist him in applying for a permanent resident visa under the Federal Skilled Trades class. Harvey believes that Sarah was incompetent in her service because she was frequently non-communicative with him, failed to keep scheduled appointments, and appeared intoxicated at some of the meetings that she did attend. Upon receiving Harvey's complaint and assigning a member to conduct an investigation, the Complaints Committee may do each of the following, **except**:
 
@@ -27,7 +27,7 @@ tags:
   >
   > The Complaints Committee may caution the licensee or recommend that the licensee take remedial training courses, but **the Complaints Committee is not authorized to suspend the membership of a CICC member; that is within the purview of the Discipline Committee or the Fitness to Practice Committee.** Reference: CICC: Complaints Process.
 
-### <i class="fa-solid fa-2 number"></i>
+<i class="fa-solid fa-2 number"></i>
 
 <u>Marta</u> made a refugee claim at an IRCC inland office, which was referred to the RPD. Before the hearing of her claim, <u>Marta</u> speaks with Hiro, an RCIC, and decides that she wants to make an H&C application because she thinks that it offers her a better chance of staying in Canada. In these circumstances, Hiro should advise <u>Marta</u> that:
 
