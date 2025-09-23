@@ -1015,9 +1015,17 @@ According to the legislation, is Mikke performing "work"?
 - [x] He can sponsor Shahiza because the divorce will be valid in Canada.
 - [ ] His divorce is not valid in Canada because Timon was not in Albania when it was filed.
 - [ ] Timon must first obtain a divorce order in Canada.
-  > A divorce granted in a foreign jurisdiction will be valid in Canada if either spouse was (i) ordinarily resident in the foreign jurisdiction for 1 year before the application for divorce, or (ii) if either can prove that they have a "real and substantial connection" to the jurisdiction at the time of the divorce. Factors that indicate a "real and substantial connection" include if the spouse was born in the foreign jurisdiction and has family there. In this case, the divorce application will be valid because Brisida has a "real and substantial connection" to Albania. Reference: IRCC.
+> A divorce granted in a foreign jurisdiction will be valid in Canada if either spouse was 
+> 
+> (i) ordinarily resident in the foreign jurisdiction for 1 year before the application for divorce, or 
+> 
+> (ii) if either can prove that they have a "real and substantial connection" to the jurisdiction at the time of the divorce. Factors that indicate a "real and substantial connection" include if the spouse was born in the foreign jurisdiction and has family there. 
+> 
+> In this case, the divorce application will be valid because Brisida has a "real and substantial connection" to Albania. Reference: IRCC.
 
 <i class="fa-solid fa-7 number"></i><i class="fa-solid fa-7 number"></i>
+
+♥️
 
 **Pemba** is a naturalized Canadian citizen who wants to sponsor his father for permanent residence. After Pemba's sponsorship application was rejected, he retained **Elsa**, an RCIC in Toronto, to represent him in his appeal of the decision. The appeal was rejected by the Immigration Appeal Division on **October 2, 2024**, but Pemba is still not satisfied with the outcome and wants to further argue the decision. Elsa may advise Sean that:
 
@@ -1025,7 +1033,9 @@ According to the legislation, is Mikke performing "work"?
 - [ ] He can appeal the decision to the Immigration Appeal Division by November 1, 2024.
 - [ ] He can apply for judicial review to the Immigration Appeal Division by October 17, 2024.
 - [ ] He can appeal the decision to the Federal Court by November 1, 2024.
-  > An application for judicial review can only be made if any right of appeal under IRPA is exhausted. In this case, Pemba already appealed his initial sponsorship rejection to the IAD, so his only option is to apply for leave for a judicial review of the decision. Notice of application for judicial review must be made to the Federal Court within **15 days** of when the applicant was notified of the decision in Canada (IRPA, s 72(2)(b)).
+  > An application for judicial review can only be made if any right of appeal under IRPA is exhausted. In this case, Pemba already appealed his initial sponsorship rejection to the IAD, so his only option is to apply for leave for a judicial review of the decision.
+  > 
+  > Notice of application for judicial review must be made to the Federal Court within **15 days** of when the applicant was notified of the decision in Canada (IRPA, s 72(2)(b)).
 
 <i class="fa-solid fa-7 number"></i><i class="fa-solid fa-8 number"></i>
 
@@ -1088,11 +1098,15 @@ If Ahmed applies through Express Entry and is willing to do another IELTS test t
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-2 number"></i>
 
-**Bernard** is a Jamaican citizen whose wife passed away several years ago. He has one grown son, **Jerome**. Jerome and his family live in Markham, Ontario. Bernard recently married **Anabel**, who has an 11-year-old son, **Henry**, from her previous relationship, and they live together in Kingston, Jamaica. Last year, Jerome had a son, and Bernard became interested in visiting Canada to see his grandson under the grandparent super visa. Which of the following is not true with respect to Bernard's application for a super visa in these circumstances?
+♥️
+
+**Bernard** is a Jamaican citizen whose wife passed away several years ago. He has one grown son, **Jerome**. Jerome and his family live in Markham, Ontario. Bernard recently married **Anabel**, who has an 11-year-old son, **Henry**, from her previous relationship, and they live together in Kingston, Jamaica. Last year, Jerome had a son, and Bernard became interested in visiting Canada to see his grandson under the grandparent super visa. 
+
+Which of the following is **not** true with respect to Bernard's application for a super visa in these circumstances?
 
 - [ ] Jerome must provide a letter of invitation for Bernard with a commitment of financial support.
-- [x] If granted, the super visa will allow Bernard to stay in Canada for up to five years without the need to exit.
-- [ ] Bernard may include Anabel and Henry on his application.
+- [ ] If granted, the super visa will allow Bernard to stay in Canada for up to five years without the need to exit.
+- [x] Bernard may include Anabel and Henry on his application.
 - [ ] Bernard must provide proof that he has purchased medical insurance that provides at least $100,000 of emergency coverage.
   > Applicants for a super visa are permitted to include their spouse or common law partner on their application, but not dependants. Bernard thus may not include Henry on his application. Reference: IRCC.
 
@@ -1240,6 +1254,8 @@ A refugee claimant seeking resettlement in Canada differs from a permanent resid
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-2 number"></i>
 
+♥️
+
 **Noah** is a Canadian citizen who married **Marie**, a Swedish citizen, while living in Stockholm. Noah sponsored Marie as his spouse, and she arrived in Ottawa, Ontario, as a permanent resident on **March 13, 2022**. Shortly after coming to Canada, Marie discovered that Noah was having an affair with **Ursula**, an international student at Carleton University. The couple immediately made plans to divorce. Marie moved out of their condo on October 2, 2022, and their divorce was finalized a little over a year later. Noah and Ursula got engaged on December 31, 2023, and Noah retained **Gerald**, an RCIC in Ottawa, to ask about sponsoring Ursula as his new spouse when they marry. Gerald must advise Noah that:
 
 - [ ] He cannot sponsor Ursula until after April 12, 2027.
@@ -1269,14 +1285,14 @@ A refugee claimant seeking resettlement in Canada differs from a permanent resid
 When Kuri applies to the Express Entry system for Federal Skilled Workers, what will her CRS score be?
 
 - [ ] 1022 CRS points.
-- [ ] 1001 CRS points.
+- [x] 1001 CRS points.
 - [ ] 1002 CRS points.
 - [ ] 601 CRS points.
   > Under CRS, Kuri will score (273 + 28 + 100 + 600) 1,001 points. Core Human Capital factors = 273 points Age (44) = 5 points Education (PhD) = 140 points Language (CLB 10) = 4 x 32 = 128 points Canadian work experience = 0 points Accompanying spouse factors (Shou) = 28 points Education (bachelor's degree) = 8 points Language (CLB 10) = 4 x 5 = 20 points Skill transferability = 100 points CLB 10 and educational credentials = 50 points CLB 10 and foreign work experience = 50 points Additional factors = 600 points Provincial nomination = 600 points.
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-5 number"></i>
 
-**Cynthia** sponsored **Parhim** as her spouse under the family class, and he became a permanent resident of Canada on **February 28, 2021**. The couple separated the next year, and their divorce was finalized on October 8, 2023. Parhim returned to his hometown of Tehran to marry **Shahiza** on September 12, 2024. He retains Marjbanne, an RCIC in Tehran, to ask whether he can sponsor Shahiza for permanent residence as his spouse. Marjanne should tell Parhim that:
+**Cynthia** sponsored **Parhim** as her spouse under the family class, and he became a permanent resident of Canada on **February 28, 2021**. The couple separated the next year, and their divorce was finalized on October 8, 2023. Parhim returned to his hometown of Tehran to marry **Shahiza** on September 12, 2024. He retains **Marjbanne**, an RCIC in Tehran, to ask whether he can sponsor Shahiza for permanent residence as his spouse. Marjanne should tell Parhim that:
 
 - [x] He cannot sponsor Shahiza until February 28, 2026, and he must submit his application while residing in Canada.
 - [ ] He cannot sponsor Shahiza until January 28, 2026, and he may submit his application in Tehran.
@@ -1303,7 +1319,7 @@ Each of the following persons **would not** need to obtain a work permit to work
 What section of the Constitution Act, 1867 established that the powers relating to immigration are to be shared between the federal and provincial governments?
 
 - [ ] Section 7.
-- [ ] Section 95.
+- [x] Section 95.
 - [ ] Section 91.
 - [ ] Section 92.
   > **Section 95 of the Constitution Act, 1867** makes a special provision for the division and sharing of powers between the federal and provincial levels of government with respect to immigration.
@@ -1383,6 +1399,8 @@ In these circumstances, which of the following is true?
     **Carolina** is a citizen of Mexico and of no other country. At the age of 19, Carolina moved from Mexico to Belgium to pursue her post-secondary studies. After graduating, she was able to start working and access social services including healthcare. She remained in Belgium for three years before moving back to Mexico to be closer to her family. After returning to Mexico, Carolina developed an intimate relationship with **Ernesto**, a young lawyer, whom she met online. Ernesto was kind and romantic at first, but he quickly became controlling and abusive. He withheld money from her, and so she had to resort to shoplifting to feed herself. After just six months together, Carolina had endured frequent beatings and ended up hospitalized twice as a result of Ernesto's physical abuse. Ernesto also threatened Carolina, telling her that if she tried to leave he would have her killed. In July 2023, Carolina decided to report him to the police. When they took no action, she became afraid of him finding out that she went to the police, and fearing for her life, she decided to flee. She could return to Belgium and restore her status in that country, but she decided she would go to Canada instead since she has family in Vancouver. Unfortunately, she didn't have enough money or a valid passport for the flight, so she ended up having to wait before leaving Mexico. She finally arrived in Canada and made a refugee claim at a port of entry on **June 9, 2024**. A week after arriving, she learned that Ernesto had been killed in a car accident.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-4 number"></i>
+
+♥️
 
 If on **June 15, 2024**, Carolina's claim is found to be eligible and is referred to the RPD, her hearing must take place by:
 
@@ -1476,11 +1494,13 @@ Can Leni apply for restoration of status within Canada at this time?
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i>
 
+♥️
+
 Each of the following is true of a **temporary resident permit (TRP)**, **except**:
 
 - [ ] It is valid for a maximum period of three years.
 - [ ] It may be cancelled at any time by the minister.
-- [ ] A designated foreign national cannot apply for a TRP until five years after having been designated or after the final determination of the foreign national's refugee claim by the RPD.
+- [ ] A designated foreign national cannot apply for a TRP until **five years after** having been designated or after the final determination of the foreign national's refugee claim by the RPD.
 - [x] A foreign national cannot apply for a TRP until five years after the foreign national's RPD claim was determined to be withdrawn or abandoned.
   > It is true that a TRP is valid for a maximum period of three years (IRPR, s 63(d)), that it may be cancelled at any time by the minister (IRPA, s 24(3)), and that a designated foreign national cannot apply for a TRP until five years after the foreign national has been designated or after the final determination of the foreign national's refugee claim by the RPD (IRPA, s 24(5)).
   >
@@ -1574,7 +1594,11 @@ Based on the information provided does Alvita meet the criteria under the PNP No
 - [x] She does not meet the eligibility criteria, because she has applied for refugee status and has been refused.
 - [ ] She does not meet the eligibility criteria, because her profession is regulated in Nova Scotia.
 - [ ] She does not meet the eligibility criteria, because her age is not within the allowed age range.
-  > Alvita does not meet the eligibility criteria under the PNP Nova Scotia—Skilled Worker Stream, because she has applied for refugee status and has been refused. **A refugee claimant or an unsuccesful refugee claimant is not eligible to apply under the Nova Scotia Nominee Program—Skilled Worker Stream.** The reason why she does not meet the eligibility criteria under the PNP Nova Scotia—Skilled Worker Stream is not because of her profession or her age; it is because she is a failed refugee claimant. Reference: Nova Scotia Nominee Program Skilled Worker Application Guide.
+  > Alvita does not meet the eligibility criteria under the PNP Nova Scotia—Skilled Worker Stream, because she has applied for refugee status and has been refused. 
+  
+  **A refugee claimant or an unsuccesful refugee claimant is not eligible to apply under the Nova Scotia Nominee Program—Skilled Worker Stream.** 
+  
+  The reason why she does not meet the eligibility criteria under the PNP Nova Scotia—Skilled Worker Stream is not because of her profession or her age; it is because she is a failed refugee claimant. Reference: Nova Scotia Nominee Program Skilled Worker Application Guide.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-0 number"></i>
 
@@ -1618,6 +1642,8 @@ In these circumstances, which of the following is true?
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-3 number"></i>
 
+♥️
+
 **Noi** is a 32-year-old man who was smuggled into Canada with seven other people aboard a cargo ship. After being discovered at a port in Victoria, British Columbia, the group were designated as "irregular arrivals" under the IRPA. Through an interpreter, Noi indicates that he wants to make a refugee claim. In these circumstances, which of the following is **not true**?
 
 - [ ] Noi will be subject to automatic detention.
@@ -1633,14 +1659,14 @@ In these circumstances, which of the following is true?
 **Lulu**, a 45-year-old German citizen, has been the owner of a microbrewery in her home country for the past three years. Prior to initiating this venture, she worked at Bayer AG, a German multinational pharmaceutical company, as a chemist (NOC 21101). Her net assets are CDN$150,000 and she has a basic level of French proficiency. Would Lulu qualify for the Quebec self-employed program?
 
 - [ ] No, because she does not meet the work experience required to qualify.
-- [ ] No, because she does not meet the minimum language proficiency to qualify.
+- [x] No, because she does not meet the minimum language proficiency to qualify.
 - [ ] No, because she does not possess the minimum required net assets to qualify.
 - [ ] Yes. She satisfies the requirements of this program.
   > Lulu does not meet the language requirements of the Quebec self-employed program. She must demonstrate a **spoken language proficiency of at least level 7** by completing one of the ministry's approved tests, which she has not yet done.
   >
   > Lulu meets the work experience criteria of the Quebec self-employed program, as she possesses more than the minimum required **two years** of self-employed work experience.
   >
-  > Applicants in the Quebec self-employed program must have at least **CDN$100,000** in net assets to qualify, and Lulu has CDN$150,000. References: Québec Immigration Regulation, Québec: Conditions for immigrating to Québec as a self-employed worker.
+  > Applicants in the Quebec self-employed program must have at least **$100,000** in net assets to qualify, and Lulu has $150,000. References: Québec Immigration Regulation, Québec: Conditions for immigrating to Québec as a self-employed worker.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-5 number"></i>
 
@@ -1698,7 +1724,7 @@ In these circumstances, which of the following is true?
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i><i class="fa-solid fa-0 number"></i>
 
-After working in an immigration consulting firm with several other RCICs for five years, János decides to open his own practice in Hamilton, Ontario. While preparing to open his office, he is reviewing the CICC client file management and account regulations to ensure that his policies are in accordance with the professional standards. János can accept all of the following types of payment from a client on a retainer agreement **except**:
+After working in an immigration consulting firm with several other RCICs for five years, **János** decides to open his own practice in Hamilton, Ontario. While preparing to open his office, he is reviewing the CICC client file management and account regulations to ensure that his policies are in accordance with the professional standards. János can accept all of the following types of payment from a client on a retainer agreement **except**:
 
 - [ ] Hourly fees.
 - [ ] A flat fee.
@@ -1735,7 +1761,11 @@ After working in an immigration consulting firm with several other RCICs for fiv
 - [x] Carmen is eligible for an LMIA exempt work permit under CUSMA.
 - [ ] Carmen is eligible for an LMIA exempt work permit under GATS.
 - [ ] Carmen should apply for permanent residence through Express Entry.
-  > Carmen's employer must obtain an offer of employment number from IRCC, and subsequently, Carmen should apply for an LMIA-exempt work permit under CUSMA to IRCC. Due to Carmen's Mexican citizenship, education, and professional background as a medical doctor/physician, she meets the criteria for an LMIA-exempt work permit under CUSMA. Despite being exempt from the LMIA provision, Carmen's employer is still required to apply for and obtain an offer of employment number from IRCC (this requirement allows IRCC to monitor employer compliance). Upon receipt of this number, Carmen should apply for her CUSMA work permit to IRCC. Carmen does not meet the criteria of the GATS, because, among other factors, her profession as a medical doctor is not included in the GATS list of professional occupations. Carmen has not indicated that her intention is to permanently settle in Canada, so it is not appropriate to recommend that she apply for permanent residence. References: IRCC International Mobility Program: CUSMA, IRCC International Mobility Program: GATS, Employer Portal user guide.
+  > Carmen's employer must obtain an offer of employment number from IRCC, and subsequently, Carmen should apply for an LMIA-exempt work permit under CUSMA to IRCC. 
+  
+  Due to Carmen's Mexican citizenship, education, and professional background as a medical doctor/physician, she meets the criteria for an LMIA-exempt work permit under CUSMA. Despite being exempt from the LMIA provision, Carmen's employer is still required to apply for and obtain an offer of employment number from IRCC (this requirement allows IRCC to monitor employer compliance). Upon receipt of this number, Carmen should apply for her CUSMA work permit to IRCC. 
+  
+  Carmen does not meet the criteria of the GATS, because, among other factors, her profession as a medical doctor is not included in the GATS list of professional occupations. Carmen has not indicated that her intention is to permanently settle in Canada, so it is not appropriate to recommend that she apply for permanent residence. References: IRCC International Mobility Program: CUSMA, IRCC International Mobility Program: GATS, Employer Portal user guide.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i><i class="fa-solid fa-4 number"></i>
 
