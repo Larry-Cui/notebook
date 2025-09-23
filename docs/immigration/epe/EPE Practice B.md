@@ -17,6 +17,8 @@ tags:
 
 <i class="fa-solid fa-1 number"></i>
 
+♥️
+
 **Bernadette** was designated as an irregular arrival when she arrived in Canada on February 14, 2024. She made a claim for protection, but the RPD rejected her claim on April 11, 2024. In these circumstances, Bernadette would not be able to make an H&C application until:
 
 - [x] April 11, 2029
@@ -39,6 +41,8 @@ tags:
 > The fact that Doug and Felicia are still married does not bar him from sponsoring Yau **since they have lived separate and apart for more than one year** (reference: IRCC Assessing a common law relationship).
 
 <i class="fa-solid fa-3 number"></i>
+
+♥️
 
 **Albert** has been an immigration consultant since the 1990s. He utilizes a paper filing system as he is not fully comfortable using the computer. He shares his office with a friend **Larry**, who is a real estate agent, to save on rent and other overhead expenditures. They also share an open reception area to greet their clients. Which of the following is the most correct method for Albert to keep his clients' files organized and safe?
 
@@ -77,6 +81,8 @@ tags:
 > According to s 7.2 of the Client File Management Regulation, "a Client File shall be retained in a secure and accessible location for a minimum of **six (6) years** after the File has been closed." As a result, Albert may destroy it after at least six years have passed from October 16, 2019.
 
 <i class="fa-solid fa-6 number"></i>
+
+♥️
 
 **Dwayne** is a Canadian citizen who wants to sponsor his wife, **Matilda**, an Australian citizen whom he met on a backpacking trip in Tasmania. The two travelled together for nine months, and upon their return to her home city of Adelaide in 2015, married and bought a house together. This is both Dwayne and Matilda's first marriage. Dwayne retains the services of **Ronald**, an RCIC based in Canberra, to assist him in the sponsorship application. Ronald tells Dwayne that he and Matilda must satisfy officers that their marriage is genuine, and that he must provide information to establish the bona fides of their relationship in their application. 
 
@@ -126,6 +132,8 @@ Barbara may advise Charlie of all of the following with regard to his applicatio
 > Since the length of Charlie's study program was more than eight months and less than two years, his PGWP may only be valid for up to the length of his study program (18 months). A PGWP may be valid for three years only when the applicant's study program lasts for two years or more, or in certain cases when the study program is a master's or doctoral program. Reference: IRCC.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i>
+
+♥️
 
 **Ester** is a Brazilian citizen who came to Canada on a study permit that expires on **December 30, 2024**. She graduated with an MBA from Wilfrid Laurier University on **July 14, 2024**, and wants to go on an extended ski trip afterwards, since she was unable to take any time off to be a tourist during her studies. In these circumstances:
 
@@ -292,6 +300,8 @@ If **Jay** loses at the IAD and wishes to apply to the Federal Court for judicia
 
 <i class="fa-solid fa-2 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
 Most refugee claimants are eligible to have their claim referred to the Refugee Protection Division (RPD) for a determination of their claim on its merits. However, in some very specific situations, which are set out in the Immigration and Refugee Protection Act, a claim will not be referred to the RPD. Which one of the following claims is **not eligible to be referred** to the RPD?
 
 - [ ] Flora made a previous refugee claim in France, but the claim was rejected.
@@ -418,6 +428,8 @@ In order to come to Canada as an intra-company transferee, an applicant must sub
 
 <i class="fa-solid fa-3 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
 **Richmond** is a 36-year-old American citizen who has received a **nomination** under the Alberta Immigrant Nominee Program. Richmond has worked as a financial systems analyst for the past five years, has a four-year bachelor's degree in computer science from the University of Austin, Texas, and received a CLB 10 on the IELTS. Richmond's wife, Jessica, is 32 years old, has a 4-year bachelor's degree in communications from Texas A&M, and scored a CLB 10 on the IELTS. The couple have no children. How many points will Richmond score under CRS?
 
 - [ ] 926 CRS points.
@@ -441,6 +453,8 @@ In order to come to Canada as an intra-company transferee, an applicant must sub
 > Provincial nominee = 600 Reference: IRCC.
 
 <i class="fa-solid fa-3 number"></i><i class="fa-solid fa-5 number"></i>
+
+♥️
 
 **Alan** is a Canadian citizen who moved to Leeds, United Kingdom, after graduating from York University. He has lived and worked in Leeds for over 13 years and renounced his Canadian citizenship when he became a UK citizen. Alan and his wife recently divorced, and he has also lost his job as the director of an investment bank in Leeds. Feeling far from family, Alan began exploring options to return to Canada. In order to **resume his Canadian citizenship**, Alan must:
 
@@ -478,6 +492,8 @@ It is mandatory for an RCIC to withdraw from representing a client in each of th
 
 <i class="fa-solid fa-3 number"></i><i class="fa-solid fa-8 number"></i>
 
+♥️
+
 **Miya** and **Reika** met as fellow Japanese international students while pursuing bachelor's degrees at Queen's University in Kingston, Ontario. Upon graduating in **June 2024**, Miya moved to Vancouver, British Columbia to do a one-year master's degree in chemistry at UBC, and Reika stayed in Kingston to work as a mechanical engineer. Miya is currently applying for jobs at labs in Victoria. Reika wants to join her because she is very lonely in Kingston, and believes that she will easily be able to find work in her field in British Columbia. Assuming that they plan to apply after Miya graduates in June 2025, which of the following is true?
 
 - [ ] Miya and Reika both qualify under the BC PNP International Graduate stream.
@@ -511,6 +527,8 @@ Which of the following can Anahita **not** do in preparing Mandeep to testify at
 
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-0 number"></i>
+
+♥️
 
 If the RPD renders a decision to allow Mandeep's claim for refugee protection, which of the following is true?
 
@@ -566,6 +584,8 @@ In these circumstances, Mwanje could apply to sponsor Kato as a:
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
 **Ophelia** came to Canada as a permanent resident in **March 2019** and settled in Calgary, Alberta. She has visited her hometown frequently since then in order to help care for her elderly parents. In 2019, she spent 237 days visiting her family; in 2020, 98 days; in 2021, 184 days; in 2022, 205 days; and in 2023, 112 days. She would like to spend as much time as possible in 2024 caring for her parents, and she wants to know how this will affect her citizenship application. If she applies in **January 2024**, how many days must she spend in Canada in 2024 in order to be eligible?
 
 - [ ] Ophelia must be in Canada for at least 105 days in 2024.
@@ -586,6 +606,8 @@ Which one of the following is considered a source of **domestic law** governing 
 > Only the Canadian Bill of Rights is considered a source of domestic law governing Canadian immigration law. The 1967 Protocol Relating to the Status of Refugees is a source of international law. IRCC Operational Manuals are considered policy, and as a result, they are not considered a source of Canadian immigration law. Parliamentary debates are not considered a source of immigration law. References: Cathryn Sawicki & Chantal Desloges, Canadian Immigration and Refugee Law: A Practitioner's Handbook, 4th ed (Toronto: Emond, 2023).
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-6 number"></i>
+
+♥️
 
 **Medha** is a citizen of Sri Lanka who was admitted to Canada on a one-year temporary resident visa. She is currently staying in Toronto and would like to immerse herself in the city's fashion scene. To take advantage of this, she would like to enroll in some continuing studies courses in fashion: a **three-month** course in textile design at George Brown College and a **four-month** course in pattern cutting at OCAD. 
 
@@ -613,6 +635,8 @@ Would Medha need a student visa to enroll in these courses?
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-8 number"></i>
 
+♥️
+
 **Arturo** is a citizen of Mexico who obtained an eTA and flew to Canada as a visa-exempt visitor. Upon arrival, he made a claim for refugee protection at the Calgary airport. He fears the drug cartels in Mexico and provided horrifying details of torture suffered by his family members at the hands of drug lords. After several weeks, his claim was referred to the RPD to be determined on its merits. 
 
 The time frame for Juan to file his basis of claim (BOC) form at the RPD is:
@@ -627,6 +651,8 @@ The time frame for Juan to file his basis of claim (BOC) form at the RPD is:
 
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-9 number"></i>
+
+♥️
 
 **Guillaume**, a 45-year-old citizen of France, has submitted an application to the government of Quebec under their regular skilled worker program. He completed a four-year university degree in political science and has worked for the past two years on a full-time basis as a political analyst for a newspaper. Prior to that position, he worked for three years as a cashier on a part-time basis. Although French is his native language, he completed the TEF test showing an advanced level of proficiency. He is married to **Lea**, and together, they have **three children** aged 15, 18, and 22. He has an aunt who lives in PEI. He and his family visited her last in 2023, and during that trip, they visited Montreal for five days and decided that they wanted to live there. 
 
@@ -674,6 +700,8 @@ An applicant may apply for permanent residence under the Caregiver program in wh
 > However, the **Home Care Worker Immigration Pilots** is a replacement program that will open in **March 2025**. As such, there is currently no program in place, so the answer is none of the above. 
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-2 number"></i>
+
+♥️
 
 **Huang** is a Canadian **permanent resident** who works for a Canadian company in Beijing, China, where he is on a two-year work transfer. Eight months after his arrival in Beijing, Huang married **Shu Pei**, and the couple live together in Beijing. Shu Pei is eager to go to Canada because she wants to start graduate studies at a Canadian university, but Huang is unable to return until he completes his work placement. In these circumstances:
 
@@ -802,6 +830,8 @@ If Yuling and Mei proceed with a joint refugee claim, which of the following is 
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-1 number"></i>
 
+♥️
+
 An RCIC may receive CPD credit for each of the following activities, **except**:
 
 - [ ] Attending an online educational seminar on immigration law.
@@ -816,6 +846,8 @@ An RCIC may receive CPD credit for each of the following activities, **except**:
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-2 number"></i>
 
+♥️
+
 **Iakob** is a 32-year-old Greek citizen who received his bachelor of computer science from the University of Waterloo in Ontario in 2014. He worked for 12 months as an IT project manager in Waterloo on an open work permit before returning to Greece to further his studies. Iakob graduated with an MBA in September 2021, and has been working full time as the chief information officer for a Greek company ever since. However, he has decided that he would like to return to Canada because he thinks it would be a good place to start and raise a family. He meets with **Lorna**, an RCIC in Athens, to ask about applying for a permanent resident visa as a **Federal Skilled Worker**. He tells her that he has $18,000 in settlement funds that he saved while working in Greece, and recently received a score of CLB 8 on the IELTS exams. 
 
 What will Lorna advise him with respect to the Express Entry Comprehensive Ranking System (CRS) for Federal Skilled Workers?
@@ -827,6 +859,8 @@ What will Lorna advise him with respect to the Express Entry Comprehensive Ranki
 > Iakob will meet the minimum requirements of the Federal Skilled Workers (FSW) program; he will score (23 + 12 + 20 + 11 + 10) 76 points, which is above the 67-point minimum for the FSW program: Education (MBA) = 23 points Age (32) = 12 points Language (CLB 8) = 20 points Experience (3 years of NOC 0 work experience) = 11 points Arranged employment = 0 points Adaptability (1 year of full-time work experience in Canada) = 10 points Under CRS, Iakob will score (361 + 100 + 30) 491 points. Core Human Capital factors = 361 points Age (32) = 94 points Education (master's degree) = 135 points Language (CLB 8) = 4 x 23 = 92 points Canadian work experience (1 year) = 40 points Spouse or CL factors (0 points) Skill transferability = 100 points CLB 8 and two post-secondary degrees = 25 points Canadian work experience and post-secondary degree = 25 points CLB 8 and foreign work experience (more than 3 years) = 25 points Canadian work experience and foreign work experience (more than 3 years) = 25 points Additional points = 30 points Post-secondary education in Canada (credential three years or longer) = 30 points
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-3 number"></i>
+
+♥️
 
 **Katrin** arrived in Vancouver, British Columbia, on a study permit, and enrolled in a two-year ESL program at the International Language Learning Centre (ILLC). Nine months into her program, the ILLC had its designated learning institution status revoked following an investigation and agreement between the minister and the BC provincial government. In these circumstances:
 
@@ -864,6 +898,8 @@ Which of the following is **not** true about a temporary resident permit?
 
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-6 number"></i>
+
+♥️
 
 According to your assessment, she qualifies for which of the following immigration program(s)?
 
@@ -932,6 +968,8 @@ Can Miguel's PR status be removed, with a resulting deportation?
 > Sabina meets the minimum requirements of the Home Child Care Provider Pilot. Reference: IRCC Home Child Care Provider Pilot.
 
 <i class="fa-solid fa-7 number"></i><i class="fa-solid fa-1 number"></i>
+
+♥️
 
 **Kunal** is a 43-year-old naturalized Canadian citizen who lives in Brampton, Ontario. Both of his parents have passed away, and his sister, **Nandini**, still lives in their hometown of New Delhi, India. Kunal decides to sponsor Nandini for permanent residence, and Nandini includes her husband, **Suresh**, and their daughter, **Preeti**, on her application. Assuming that Nandini and her family are eligible to be sponsored, Kunal must show proof of an income of at least:
 
@@ -1051,6 +1089,8 @@ Each of the following people would be exempt from the requirement to apply for a
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-0 number"></i>
 
+♥️
+
 **Friso** was convicted in Australia of assault with the use of a weapon in 1995, when he was 20 years old. He served two years in jail. He has only one other offence on his record, for impaired driving 14 years ago. He is now married to **Edvard**, a Canadian citizen, who wishes to sponsor him for permanent residence. Section 267(a) of the Criminal Code states that everyone who uses a weapon in committing an assault is "guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years or is guilty of an offence punishable on summary convictions." Friso's conviction for assault with a weapon means that he will be inadmissible:
 
 - [x] For serious criminality under IRPA s 36(1)(b), because the maximum Canadian punishment is 10 years.
@@ -1111,6 +1151,8 @@ What impact will Friso's criminal record have on the sponsorship application?
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-5 number"></i>
 
+♥️
+
 **Javier** made a claim for protection in Canada but was found inadmissible because he had previously been convicted of drug trafficking (the equivalent of an indictable offence in Canada, punishable by imprisonment for up to ten years) in his native country of Colombia. After a removal order was issued against him, Javier retained **Steven**, an RCIC, to advise him on whether he can apply for PRRA. Javier tells Steven that he was coerced into the drug trade by criminal gangs who threatened his family, and that he never wanted to be part of it. He fled to Canada to escape because police in his country have not been able to protect the community, and he fears that the gang will kill him if he is returned to Colombia. 
 
 In these circumstances, which of the following is true?
@@ -1125,6 +1167,8 @@ In these circumstances, which of the following is true?
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-6 number"></i>
 
+♥️
+
 **Monica** is an RCIC with four years' experience. Recently, a client made a complaint against her, alleging that she failed to submit documentation to the IRCC on time, leading to the client's application being refused. The complaint has been referred to the **Discipline Committee**, and Monica has now received a notice of referral informing her that she is required to attend a pre-hearing conference on **January 10, 2025**. On December 8, 2024, Monica meets with **Robin**, a lawyer specializing in professional regulation matters, and retains him to represent her at the pre-hearing conference. What notice must Monica give the Discipline Committee with respect to her retaining a representative in this matter?
 
 - [ ] Monica must give the Discipline Committee written notice by December 15, 2024.
@@ -1138,6 +1182,8 @@ In these circumstances, which of the following is true?
 > In this case, seven days after December 8 would fall on Sunday, December 15. Since the next business day is Monday, December 16, Monica must deliver written notice about her retaining Robin by that date.
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-7 number"></i>
+
+♥️
 
 **Eunice** is the owner of a veterinary clinic in Kelowna, British Columbia. She is interested in applying for a Labour Market Impact Assessment (LMIA) to support the application for permanent residence of a foreign national, **Emma**. Emma's proposed employment in Canada is for a veterinary technologist (NOC 32104). Which of the following is true in this situation?
 
@@ -1186,6 +1232,8 @@ In which of the following immigration categories could a person apply for perman
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-1 number"></i>
 
+♥️
+
 **Olivero** fled Mexico after his and his family's lives were threatened by drug cartels in their hometown. Olivero illegally crossed the US border into California, and arrived by bus at a US-Canada land border crossing in British Columbia five days later, where he immediately made a refugee claim. Upon being detained and interviewed, he tells CBSA officers that his brother, **Roberto**, fled Mexico before him, and is currently in Vancouver, British Columbia. The CBSA confirms that Roberto made a refugee claim upon his arrival at Vancouver International Airport two weeks ago, which was referred to the RPD and is awaiting a hearing. 
 
 In these circumstances, can the officers refer Olivero's claim to the RPD?
@@ -1227,6 +1275,8 @@ If a permanent resident is named in a security certificate that is referred to t
 > The judge must appoint **a special advocate** to represent the interests of the person named in the certificate: this is true (IRPA, s 83(1)(b)).
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-4 number"></i>
+
+♥️
 
 **Bradley** is a 25-year-old Australian citizen who came to Canada on a two-year open work permit. After backpacking around British Columbia for six months, Bradley settled in Prince George and took a bartender position at a microbrewery. He has worked there for the past ten months. Through his co-workers at the brewery, he became friends with **Suzanne**, who manages a hotel in the city that is popular with backpackers. When Bradley tells Suzanne that he is interested in staying in Prince George permanently because the city suits his outdoor interests and lifestyle, she offers him a permanent job as a recreational guide at the hotel. Bradley meets with **Alistair**, an RCIC, to ask him about the possibility of becoming a permanent resident under BC's Provincial Nominee Program. He tells Alistair that he studied for one year at the University of Melbourne, but that he dropped out after a year without finishing a degree. 
 
@@ -1281,6 +1331,8 @@ Which of the following is responsible for determining eligibility for internatio
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-8 number"></i>
 
+♥️
+
 **Irene** and her two children, **Pavel** and **Lukas**, came to Canada as permanent residents after being sponsored by her husband, **Bob**, a Canadian citizen. The family have lived together in Regina, Saskatchewan for six years, and Irene and the children have just completed their applications for Canadian citizenship. Pavel is now 14 years old, and Lukas will turn 18 in one week. 
 
 Who will be required to take the citizenship knowledge test as part of their application?
@@ -1293,6 +1345,8 @@ Who will be required to take the citizenship knowledge test as part of their app
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-9 number"></i>
 
+♥️
+
 **Ammar** is a 56-year-old foreign national from Syria who immediately made a refugee claim upon arriving at in Newfoundland. His claim was referred to the Refugee Division, and he was granted temporary entry into Canada while his claim was pending. While doing volunteer work with a local refugee organization at the YMCA, Ammar meets **Fathi**, a Syrian-Canadian, who is very moved by his story and impressed by his experience as a civil engineer. Fathi offers Ammar a permanent job at his architecture firm and suggests that Ammar seek the advice of an RCIC, since he worries that further delay in the refugee proceedings will cause Ammar undue stress. Can Ammar apply for permanent residency through the NLPNP?
 
 - [ ] Yes, because dual intent is permitted in these circumstances.
@@ -1302,6 +1356,8 @@ Who will be required to take the citizenship knowledge test as part of their app
 > **Refugee claimants in Canada may not apply to the NLPNP.** He must leave Canada prior to applying for the NLPNP. His age is not a factor, however, as applicants to the program must be between 21 and 59 years old. Reference: Newfoundland and Labrador Department of Immigration, Skills and Labour.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-0 number"></i>
+
+♥️
 
 **Juan** is a Venezuelan citizen who works as a journalist for one of the country's most widely read newspapers. After uncovering and reporting on government corruption, Juan is arrested by authorities, and imprisoned for ten months on false charges. After being released and placed under house arrest, Juan secretly flees his home one night, and boards a flight to San Francisco. Juan stays in San Francisco for three months, keeping a low profile, and eventually makes his way to Canada, arriving at the land border between Montana and Alberta, where he makes a refugee claim. However, Juan's claim is determined to be ineligible to be referred to the RPD because he arrived directly from the United States. In these circumstances, can Juan apply for PRRA?
 
@@ -1313,136 +1369,477 @@ Who will be required to take the citizenship knowledge test as part of their app
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-1 number"></i>
 
+**Hong** is a naturalized Canadian citizen who emigrated from Vietnam 14 years ago. Hong married **Kim**, a Canadian citizen, and the couple lives in Richmond, British Columbia with their twin boys, **Simon** and **Laurence**. Hong and Kim would like to co-sponsor Hong's parents for permanent residence, because they are getting older and haven't met their grandsons yet. How long would Hong and Kim's undertaking to support his parents be?
+
+- [ ] It depends on the results of their medical examination.
+- [ ] 10 years from the day his parents become permanent residents.
+- [x] 20 years from the day his parents become permanent residents.
+- [ ] 3 years from the day his parents become permanent residents.
+> IRPR r 132(1)(b)(iv)(A) says that the sponsor's undertaking to a foreign national who is the sponsor's mother or father is **20 years** from the day the foreign national becomes a permanent resident.
 
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-2 number"></i>
 
+♥️
 
+A person **seeking protection** in Canada must demonstrate each of the following, **except**:
+
+- [ ] Removal to their country of origin or habitual residence would subject them personally to danger of torture or risk of cruel or unusual punishment.
+- [ ] There are no internal flight alternatives in their country of origin or habitual residence.
+- [ ] The claimant is unwilling or unable to seek the protection of their country of origin or habitual residence.
+- [x] The asylum-seeker has a well-founded fear of persecution on the grounds of race, religion, nationality, membership in a social group, or political opinion in their country of origin or habitual residence.
+> See IRPA s 97: "Person in need of protection." A well-founded fear of persecution on the grounds of race, religion, nationality, membership in a social group, or political opinion in their country of origin or habitual residence is a part of the definition of "Convention Refugee" (IRPA, s 96).
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-3 number"></i>
 
+**Farrah** initially came to Canada as a permanent resident under the Federal Skilled Worker Program, but she was found inadmissible two years after arriving when it was discovered that she knowingly misrepresented her criminal background on her visa application. Consequently, a removal order was issued against her. She has retained **Tara**, an RCIC, to discuss what her potential options are for staying in Canada. If Farrah wants to make an application for permanent residence on humanitarian and compassionate grounds (H&C application), then Tara should advise Farrah that:
 
+- [ ] Her removal order will be automatically stayed pending the decision of her H&C application.
+- [x] Her H&C application will not delay her removal from Canada unless the minister intervenes.
+- [ ] She cannot make an H&C application because she is subject to a removal order.
+- [ ] If her H&C application is refused, she can appeal the decision to the IAD.
+> **Making an H&C application does not delay a person's removal** from Canada if there is an enforceable removal order against them. The person must leave Canada on or before the date stated on the removal order. The person's application will be processed even if they leave Canada, and they will be notified in writing of the decision. Reference: IRCC. 
+> 
+> A removal order made against a foreign national may be stayed under IRPR r 233 if, in the opinion of the minister, the stay is justified by humanitarian and compassionate considerations. There is no right to appeal for a refused H&C application.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-4 number"></i>
+
+♥️
+
+**Ning** came to Canada twelve years ago and became a citizen on September 18, 2017. He currently lives in Surrey, British Columbia. He is 36 years old, single, and works as a software developer. He makes $90,000 a year. Ning recently bought a large house, and he wants to sponsor his twin sister, **Lan**, to come to Canada to live with him. After their parents passed away, Lan, who is a single mother with sole custody of her two dependent children, has had to work long hours away from home to support her family. In these circumstances:
+
+- [x] Ning can sponsor Lan and her children under the family class.
+- [ ] Lan is not eligible to be sponsored under the family class.
+- [ ] Ning does not meet the income requirements to sponsor Lan and her children.
+- [ ] Ning can sponsor Lan because she is considered an orphaned family member.
+> Ning can sponsor Lan as a member of the family class under IRPR r 117(1)(h). Since Ning is single, has no children, and his parents have passed away, he is considered a **"lonely" family member in Canada**, and his sister and her dependent children are eligible to be sponsored under the family class. 
+> 
+> Lan is **not an orphaned** family member because she is **over 18 years old**.
 
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-5 number"></i>
 
+**Aaron** is a 56-year-old single foreign national who is interested in immigrating to New Brunswick. He completed a four-year bachelor degree in anthropology at the University of New Brunswick. He has worked as an anthropologist (NOC **41409**) for 15 years, of which the last two years were accumulated on a continuous and full-time basis in New Brunswick, where he currently lives and works on a work permit. In the IELTS test, Aaron scored 9 in each of the four language abilities—namely: speaking, listening, reading, and writing. Aaron has $15,000 available for his settlement in New Brunswick, and he has 58-year-old sister who is a Canadian citizen residing in New Brunswick. Aaron has already submitted an Express Entry profile, and he has obtained a valid federal Express Entry profile number and job seeker validation code. Since a nomination would increase his Express Entry score considerably, he is seeking your advice on whether he meets the criteria of the New Brunswick PNP Express Entry—New Brunswick Employment Connection. 
+
+The following is the correct advice:
+
+- [x] Aaron does not meet the criteria of the New Brunswick Express Entry Stream because of his age.
+- [ ] Aaron does not meet the criteria of the New Brunswick Express Entry Stream because he does not possess sufficient settlement funds.
+- [ ] Aaron does not meet the criteria of the New Brunswick Express Entry Stream because of his work experience.
+- [ ] Aaron meets the criteria of the New Brunswick Express Entry Stream.
+> Aaron does not meet the criteria of the New Brunswick Express Entry Stream because of his age. To qualify under the New Brunswick PNP Express Entry Stream, applicants must be between **22 and 55 years old**. Aaron is 56 years old; as a result, he does not qualify for this program. Aaron exceeds the minimum required amount of settlement funds, as he possesses $15,000. Aaron meets the work experience criteria of the New Brunswick PNP Express Entry Stream, as he possesses 15 years of work experience as an anthropologist (TEER 1 occupation). References: NB Express Entry guide, Proof of funds (federal guide).
+
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-6 number"></i>
 
+**Hannah** is an RCIC who was retained by **Dion** to assist him on a sponsorship application for Dion's common law partner. When Dion received a procedural fairness letter questioning the genuineness of his relationship, he decides that he would rather retain an immigration lawyer to draft a response, and Dion discharges Hannah. In these circumstances, Hannah must do all of the following, **except**:
 
+- [ ] Deliver all documents and applicable information in connection with the matter to Dion.
+- [x] Assist Dion in retaining an appropriate immigration lawyer.
+- [ ] Account for all funds held or previously dealt with on behalf of Dion.
+- [ ] Inform the IRCC in writing that she has withdrawn from representing Dion.
+> Code of Professional Conduct section 36 outlines what action is required of a licensee on discharge:
+> 
+> deliver all documents relating to Dion's file to the successor representative not later than **10 business days** after the day on which the transfer request is made: this is required by s 36(3). 
+> 
+> provide an **accounting** of all funds received from Dion: this is required by s 36(1)(b). 
+> 
+> provide **notice** to the IRCC in writing that Hannah is no longer representing Dion: this is required by s 36(2)(c).
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-7 number"></i>
 
+♥️
 
+Which of the following would not be a bar to sponsorship of a foreign national under the family class?
+
+- [ ] The sponsor was convicted of assaulting her ex-husband in Canada three years ago.
+- [x] The sponsor was subject to a bankruptcy order that has been discharged.
+- [ ] The sponsor is receiving financial assistance from Ontario Works
+- [ ] The sponsor is subject to a removal order.
+> See IRPR r 133(1) for the requirements of a sponsor. A bankruptcy order is a bar to sponsorship **only if it has not been discharged when the sponsor makes the application**. All other options would be a bar to sponsorship. The list below gives reference to provisions of the IRPR that bar sponsorship for each option: • The sponsor was convicted of assaulting her ex-husband in Canada three years ago: IRPR r 133(1)(e)(ii)(a). • The sponsor is receiving social assistance other than for a disability: IRPR r 133(1)(k). • The sponsor is subject to a removal order: IRPR r 133(1)(c).
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-8 number"></i>
 
+♥️
 
+**Tereza** came to Charlottetown, Prince Edward Island, to complete a two-year diploma program at the Culinary Institute of Canada, and returned to her hometown of Prague, Czech Republic, soon after she graduated. She is currently 27 years old, and has been working for 16 months as a pastry chef in a fine dining restaurant in a hotel in Prague. Tereza really misses her life in the Maritimes and begins to actively look into immigrating to Canada permanently. She has received a qualifying job offer to be a sous chef for a boutique hotel in Halifax, Nova Scotia, and scored a CLB 8 on her IELTS exams. 
+
+In these circumstances, which of the following is true?
+
+- [ ] Tereza meets the requirements of both the FSWP and the FST program.
+- [ ] Tereza meets the requirements of the FSWP.
+- [ ] Tereza meets the requirements of the FST program.
+- [ ] Tereza does not meet the requirements of any immigration program at this time.
+> Under the FSWP, Tereza will score (19 + 12 + 20 + 9 + 10 + 10) 80 points, which exceeds the minimum score of 67 points. • Education (college diploma, two years) = 19 points • Age (27) = 12 points • Language (CLB 8) = 20 points (5 points for each of the four competencies) • Experience (one year of TEER 2 work experience) = 9 points • Arranged employment = 10 points • Adaptability (education in Canada, arranged employment) = 10 points 
+> 
+> Tereza would not be eligible under the **FST** program because she does not meet the minimum work experience requirement (i.e., she does not have **two years** or the equivalent of work experience in the skilled trade in the five years before applying). Reference: ICCRC Six selection factors - Federal Skilled Worker Program and Eligibility to apply for the Federal Skilled Trades Program.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-9 number"></i>
 
+♥️
 
+After receiving and investigating a complaint made against him, the ICCRC Complaints Committee orders **Marcello**, an RCIC in Dundas, Ontario, to attend a disciplinary hearing. At the conclusion of the disciplinary hearing, the Committee may order any of the following, **except**:
+
+- [ ] Require Marcello to take a specified **rehabilitative** measure such as counselling.
+- [ ] Require Marcello to complete specified education or professional development **courses**.
+- [ ] Impose **restrictions** on Marcello's immigration consulting practice.
+- [x] Award damages to the complainant for losses incurred as a result of the complaint.
+> The Discipline Committee can order any of the above except the award of damages to the complainant for their losses. Reference: ICCRC By-Law 2021-2, s 28.9.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i>
 
+♥️
 
+**Thomas**, a Canadian citizen, and **Claire**, a Canadian permanent resident, are married and living with their two children in Ottawa, Ontario. Claire wants to sponsor her 17-year-old brother, **Jerry**, who lives in Claire's hometown of Bristol, UK. The siblings' mother, who raised them as a single parent, recently passed away, and Jerry is now considered an **orphaned relative**. What are the total fees that Claire must pay to apply to sponsor Jerry for permanent residence?
+
+- [x] $170.00
+- [ ] $565.00
+- [ ] $1,080.00
+- [ ] $665.00
+> Claire: sponsor: Sponsorship fee = $85 Jerry: principal applicant (under 22 years old): principal applicant processing fee = $85; right of permanent residence fee = $0 (the RPRF does not apply to Jerry, since he is an orphaned brother). TOTAL FEES = $170. Reference: IRCC Guide 5196, Fee List.
+
+
+!!! note "Case"
+
+    **Ezra**, a 25-year-old naturalized Canadian citizen, is seeking to sponsor **Juliana** for permanent residence in Canada. You agreed to conduct a videoconference with them for the purpose of assessing their eligibility. During the videoconference, you learn that Ezra met Juliana while he was vacationing in Brazil. They immediately started dating and **they have now been living together for the past year in Canada continuously**. Ezra is currently unemployed. Neither Ezra nor Juliana have ever been married before, they do not have any children, and they do not have a criminal record. They are planning to marry in a couple of years. Juliana comes from a well-respected family of medical professionals in Brazil. They all support their relationship and are willing to provide letters acknowledging their relationship. 
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i>
 
 
+What questions would you ask Ezra and Juliana to assess their eligibility?
+
+- [ ] What is Juliana's net worth?
+- [ ] Since Ezra is unemployed, is he receiving employment insurance, as this would bar him as a sponsor?
+- [ ] What is Juliana's educational/professional background?
+- [x] What is Juliana's age?
+> The correct question is, "What is Juliana's age?" Juliana must be at least 18 years old to qualify for sponsorship pursuant to IRPR r 5 (a). 
+> 
+> It is not necessary to ask about Juliana's net worth. Members of the Family Class or Spouse or Common-Law Partner in Canada Class are not assessed based on their net worth. References: IRPR rr 117 and 124. 
+> 
+> It is not necessary to ask whether Ezra is receiving employment insurance. It would not bar Ezra as a sponsor, as it is not considered social assistance. 
+> 
+> It is not necessary to ask about Juliana's educational/professional background. Sponsored immigrants are not assessed based on their educational/professional background, but rather on the genuineness of their relationship with their sponsor. References: IRPR rr 117 and 124.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i>
 
+What category would they qualify for?
 
+- [ ] Spouse.
+- [ ] Conjugal partner.
+- [ ] Fiancé.
+- [x] Common law partners.
+> They appear to qualify as common law partners, because they have been cohabitating continuously in a conjugal relationship for at least one year as per IRPR r 1(1). They do not qualify as spouses, because they are not married. They do not qualify as conjugal partners, because this category is considered an exemption granted to those who do not qualify as spouses or common law partners. "Fiancé" as a category does not exist in the IRPA/IRPR. References: IRPR rr 117 and 124.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i>
 
+Where would you file their application for the immigration program for which they qualify?
 
+- [x] Online through the Permanent Residence Online Application Portal.
+- [ ] Online through Express Entry.
+- [ ] On paper, to the centralized intake office in Sydney.
+- [ ] On paper, to the case processing centre in Mississauga.
+> As of September 2022, applications to sponsor a common-law partner must be submitted online through the Permanent Residence online application portal. Prior to that point, applications for common law partners outside Canada were sent to CPC Sydney and applications for common law partners inside Canada were sent to CPC Mississauga. Reference: IRCC.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-4 number"></i>
 
+Which of the following immigration programs would preserve Ezra's right to appeal in the event that the case is denied?
 
+- [x] Family Class.
+- [ ] Spouse or Common-Law Partner in Canada Class.
+- [ ] Conjugal Partner in Canada Class.
+- [ ] Humanitarian and Compassionate Class.
+> Ezra would have the right to appeal should his application for sponsorship be denied under the Family Class program pursuant to IRPA r 63(1). There is no right to appeal under the Spouse or Common-Law Partner in Canada Class program. References: IRPA r 63 and IRCC. The "Conjugal Partner in Canada Class" program does not exist, as a conjugal partner is by IRCC definition a person living outside Canada. There is no right to appeal under the Humanitarian and Compassionate Class. References: IRPA r 63 and IRCC.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-5 number"></i>
 
+♥️
+
+If a person is determined to be a person described by Article 1E of the Refugee Convention, then which of the following is true?
+
+- [ ] The person will be granted refugee status in Canada under the IRPA.
+- [ ] The person has taken residence in a country other than Canada, and has the protection of that country.
+- [ ] There are serious grounds to believe that the person has committed crimes against humanity.
+- [ ] There are serious grounds to believe that the person has committed a serious non-political crime.
+> Under Refugee Convention Article **1E**, the Convention does not apply to persons who are "**recognized by the competent authorities** of the country in which they have taken residence as having the rights and obligations which are attached to the possession of the nationality of that country." 
+> 
+> IRPA s 98 provides that a person referred to in Article 1E or F of the Convention is not a Convention refugee or person in need of protection. 
+> 
+> Situations in which there are serious grounds to believe that a person has committed **crimes** against humanity or serious non-political crimes are referred to in Article **1F** of the Convention.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-6 number"></i>
 
+**Caleb** is an RCIC in Winnipeg, Manitoba who has been retained by **Karim** to assist in a family sponsorship application for his wife, **Amandeep**. After Karim received a letter rejecting his application on the basis that Amandeep was inadmissible, Caleb represented him in an appeal before the Immigration Appeal Division. Unfortunately, on **September 12, 2024**, the IAD upheld the IRCC officer's decision to reject the application. Karim tells Caleb that he wants to further appeal the decision because he feels that the IRCC officer did not adequately take into account his ability to pay for treatment for his wife's ongoing medical condition. Karim tells Caleb that he wants to apply for judicial review of the officer's decision. 
+
+In these circumstances, Caleb must advise Karim that:
+
+- [ ] Karim must apply for judicial review with the Federal Court by July 12, 2024.
+- [x] Caleb cannot represent Karim as counsel on the hearing of the judicial review application.
+- [ ] Karim does not have standing to seek judicial review of the IAD's decision.
+- [ ] Karim cannot apply for judicial review because he has not exhausted his appeal rights under the IRPA.
+> A person can apply for judicial review for any determination made under the IRPA provided that any right of appeal under the IRPA is exhausted. This is the case here, because Karim has already exhausted his appeal right to the IAD. However, non-lawyers (i.e., RCICs) are not authorized to represent clients in the Federal Courts (Federal Courts Act, s 11; Federal Courts Rules, r 119).
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-7 number"></i>
 
+♥️
 
+**Richard** and **Daniela** are a married Canadian couple in their early 40s who have decided to adopt **Rupa** and **Sabla**, 18-month-old twin girls from India. They have travelled to India and intend to complete the adoption process there. In order to return with their daughters to their home in Dundas, Ontario, Richard and Daniela must provide which of the following documents?
+
+- [ ] A letter of no-involvement from the Adoption Council of Ontario.
+- [ ] A letter of introduction from IRCC.
+- [ ] A letter of no-objection from the Adoption Council of Ontario.
+- [x] A letter of **agreement** indicating that the province and the adoptive parents agree to the adoption.
+> Richard and Daniela must obtain a letter of agreement (also called a notice of agreement), which indicates that the province and the parents agree to the adoption, and which establishes that the adoption conforms to the Hague Convention on Protection of Children and Cooperation in respect of Inter-Country Adoption, to which India is a signatory (IRPR, rr 117(1)(g)(ii), 117(3)(f)). 
+> 
+> A letter of no-involvement is only provided for an adopted child in cases where the province or territory has no jurisdiction. 
+> 
+> A letter of no-objection is only provided in situations where the Hague Convention does not apply. 
+> 
+> A letter of introduction is only provided for recipients of study permits, work permits, or super visas, not for family sponsorships. References: IRCC OP 3 and IRCC help centre: POE letters.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-8 number"></i>
 
+♥️
 
+**Ramon**, a citizen of Mexico, is seeking admission into Canada for the purpose of working as a medical laboratory technologist. He completed a bachelor degree in clinical laboratory science in Mexico. Furthermore, he has a job offer in Canada to work in his profession and his employer has obtained the corresponding/required employment number from IRCC (IRCC). Which of the following documents would Ramon be required to submit to IRCC when he applies for a CUSMA work permit?
+
+- [ ] Proof of his Mexican citizenship and at least five years of work experience as a medical laboratory technologist.
+- [ ] Proof of his Mexican citizenship, bachelor degree, and at least five years of work experience as a medical laboratory technologist.
+- [x] Proof of his Mexican citizenship, bachelor degree, and at least three years of work experience as a medical laboratory technologist.
+- [ ] Proof of his Mexican citizenship and bachelor degree.
+> To qualify for a CUSMA work permit as a medical laboratory technologist, Ramon must submit the following documents: 
+> 
+> proof of his Mexican **citizenship**, bachelor **degree**, and at least three years of **work experience** as a medical laboratory technologist. He must also submit confirmation of his **pre-arranged employment** and documentation related to the position. Reference: IRCC International Mobility Program: Canada-United States-Mexico Agreement.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-9 number"></i>
 
+**Julie** is a Canadian citizen who is working in a hospital in Ireland. She began dating **Pamela**, another nurse at the hospital, and the couple got married in Dublin. Julie wants to sponsor Pamela and return with her to Canada to start a family. Pamela has early stage multiple sclerosis, and although her mobility is not significantly impaired now, her condition may worsen over time and require ongoing medical treatment and care. Will Pamela's medical condition affect Julie's sponsorship application?
+
+- [ ] Yes, Pamela is inadmissible on health grounds because she may cause excessive demand on health or social services.
+- [x] No, because an exemption to inadmissibility on health grounds applies in these circumstances.
+- [ ] Yes, Pamela is inadmissible on health grounds because she is likely to be a danger to public health.
+- [ ] No, because Pamela is currently in good condition.
+> An exemption to the possibility of causing "excessive demand on health or social services" applies to foreign nationals who are sponsored as a spouse in the family class (IRPA s 38(2)(a)).
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-0 number"></i>
 
+**Fatima** made a refugee claim after arriving at Ottawa's international airport. While being questioned about her identity documents, Fatima admits to officers that she travelled to Canada using a fake passport that she purchased from a human smuggler. However, she explains that she was forced to flee her home covertly in the middle of the night, and that she was unable to obtain the necessary documentation for fear of being discovered, arrested, and potentially subjected to torture by her country's government. In these circumstances, which of the following is **not** true?
 
+- [ ] The onus is on Fatima to support her claim.
+- [x] Fatima's claim is ineligible to be referred to the RPD because she is inadmissible for misrepresentation.
+- [ ] If Fatima's claim is referred to the RPD, they will take into account her explanation as to why she submitted false documents.
+- [ ] If Fatima's claim is accepted by the RPD, the minister may appeal the decision to the RAD.
+> The onus is on Fatima to support her claim: this is true (IRPA, s 100(1.1)). If Fatima's claim is referred to the RPD, they will take into account her explanation as to why she submitted false documents: this is true (IRPA, s 106). If Fatima's claim is accepted by the RPD, the minister may appeal the decision to the RAD: this is true (IRPA, s 110(1)).
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-1 number"></i>
 
+♥️
+
+**Truong** is a Canadian permanent resident who was convicted of cultivating more cannabis plants than permitted and sentenced to three months in prison. After completing his sentence, Truong was ordered to appear for an admissibility hearing before the ID, where he was found inadmissible, and a removal order was issued against him. Truong retains **Tim**, an RCIC, and asks what his options are for appealing the decision. Tim should advise Truong that:
+
+- [ ] He must file a notice of appeal with the IAD within 60 days of receiving the removal order.
+- [ ] He cannot appeal the decision, and can only apply for judicial review to the Federal Court.
+- [x] He must file a notice of appeal with the IAD within 30 days of receiving the removal order.
+- [ ] He cannot appeal the decision, and must leave Canada.
+> Truong may **appeal** the removal order because his sentence was for **less than six months' imprisonment**. Rule 16(b) of the IAD Rules provides that a permanent resident who wants to appeal a removal order made at an admissibility hearing must provide a notice of appeal together with the removal order to the Immigration Appeal Division within 30 days. Reference: IRB Information Sheet: Immigration Appeals.
 
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-2 number"></i>
 
+**Oleg** is a 28-year-old man from St. Petersburg, Russia. He was a member of the Russian men's national gymnastics team for eight years (2012-2020), and won a bronze medal in the 2016 Olympics in Rio. After the 2016 games, Oleg also worked for one year as a coach for young gymnasts in Madrid, Spain, and thoroughly enjoyed the experience. He would like to come to Canada to coach similar training camps in gyms across Western Canada and wants to eventually settle down in Vancouver. He graduated from the St. Petersburg Sports Academy Institute, which was assessed to be the equivalent of a Canadian high school diploma, and scored a CLB 7 on the IELTS in English. 
 
+Is Oleg eligible to become a permanent resident under the **self-employed** stream?
+
+- [ ] No, because he will have less than 35 points in the self-employed stream.
+- [x] Yes, because he will have more than 35 points in the self-employed stream.
+- [ ] No, because he only has one year of experience as a coach.
+- [ ] Yes, because he is well-known and highly regarded by the Canadian gymnastics community.
+> Under the self-employed stream, Oleg will score (10 + 5 + 8 + 25) = 48 points • Age: 28 (IRPR, r 102.1) = 10 points • Education: high school (IRPR, r 102.2) = 5 points • Language: CLB 7 (IRPR, r 102.3) = 8 points • Experience: 3 years (IRPR, rr 88 and 103(3)) = 25 points Reference: IRCC Self-employed person: Selection criteria and Self-employed persons class: Assessing the application against selection criteria.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-3 number"></i>
 
+♥️
+
+**Mary**, an American citizen, is interested in applying for permanent residence under the **Canadian Experience Class**. Mary believes that she meets the eligibility criteria of this program, as she is a native English speaker who completed a bachelor's degree in chemistry from Manchester University in Indiana, US. Additionally, she has been working in Canada as a chemist (NOC 21101) for the past two years, while on a work permit. She understands that there are several mandatory documents that she must have available to prove her eligibility under this program and also to complete her Express Entry profile on the IRCC website. 
+
+Which of the following would be considered one of these mandatory documents?
+
+- [ ] Proof that English is her native language.
+- [ ] Police certificate(s).
+- [ ] Educational Credential Assessment report.
+- [x] CELPIP-General test.
+> Per IRPR r 87.1(2)(d), she must have a valid language test showing that she meets the minimum language thresholds to meet the program's eligibility criteria and also to complete her Express Entry profile. The CELPIP-General test is considered a valid language test. Proof that English is her first language is not sufficient. 
+> 
+> **Police certificates evaluate an applicant's admissibility, not eligibility.** Furthermore, police certificates are not required to complete an Express Entry profile. Providing a police certificate is only a requirement after an invitation to apply has been issued. 
+> 
+> Having an **Educational Credential Assessment report is not a mandatory requirement under the CEC** (IRPR s 87.1) and as a result she is not required to have this report available to complete her Express Entry profile. Reference: IRCC 1, 2.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-4 number"></i>
 
+**Oliver** is a Portuguese citizen who is seeking a fresh start in Canada. He meets with **Alberte**, an RCIC based in Lisbon, and tells him that he is open to living and working anywhere in Canada and wants to review the nominee programs of several different provinces. Which of the following is **not** true of the provincial nominee programs?
 
+- [ ] PNP applicants may not be subject to the same selection criteria as the Federal Skilled Worker streams.
+- [x] PNP applicants may not be subject to the same admissibility standards as immigrants under other streams.
+- [ ] PNPs allow provinces to tailor their recruitment of immigrants based on province-specific labour shortages and economic needs.
+- [ ] PNP may allow for the nomination of people in NOC C/D occupations.
+> While provinces have the authority to establish their own criteria for nomination (provided they are not incompatible with the IRPA), the federal government maintains its responsibility for applying the IRPA's admissibility criteria and assessing the applicant. Reference: IRCC.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-5 number"></i>
 
+**Liu** came to Canada as a permanent resident under the Federal Skilled Worker Program. After working in Edmonton, Alberta, as a civil engineer for two years, he saved enough money to sponsor his wife and son for permanent residence. Liu's son, Rebn, is 14 years old and is planning on starting high school once he arrives in Edmonton. Liu's undertaking to support Ren will last until he is:
 
+- [ ] 19 years old.
+- [x] 24 years old.
+- [ ] 22 years old.
+- [ ] 25 years old.
+> Under IRPR r 132(1)(b)(ii)(A), the sponsor's undertaking to a foreign national who is a dependent child of the sponsor lasts until the earlier of:
+> 
+> ten years following the day the dependant becomes a permanent resident; or
+> 
+> the day that the dependant turns 25 years old. 
+> 
+> In this case, since Ren is 14 years old, the undertaking will last until he turns 24.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-6 number"></i>
 
+♥️
 
+Canada has maintained a Safe Third County Agreement with the USA since 2004. The effect of this agreement is to limit those who are eligible to make a refugee claim at a Canadian port of entry. Therefore, a potential refugee claimant already on American soil must make their claim in the US rather than in Canada. 
+
+Which level of authority in Canada has determined that the US would be declared a Safe Third County?
+
+- [ ] Minister responsible for Immigration, Refugees and Citizenship Canada.
+- [ ] Parliament of Canada.
+- [ ] Minister responsible for the Canada Border Services Agency.
+- [x] Governor in council (Cabinet).
+> IRPR r 159.3 designates the US as a Safe Third Country. Regulations are passed by the governor in council, effectively the Cabinet. Parliament has set out the authority to make regulations concerning the designation of those countries considered safe for refugee claimants in IRPA s 102(1)(a), as well as the factors to consider in making such a designation in IRPA s 102(2), but the Act does not designate any specific countries. The CBSA minister is responsible for implementing the STCA at ports of entry, but neither the minister of CSBA or IRCC can override matters specifically provided for in the Regulations. Note that the Safe Third Country Agreement is currently being challenged in court. As of this update in December 2024, the Safe Third Country Agreement remains in effect.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-7 number"></i>
 
+♥️
 
+**Paula** is a Canadian citizen who was convicted of assaulting her ex-boyfriend in 2012. She was sentenced to two years in prison, and she completed her sentence on April 21, 2014. She has since turned her life around, and now runs her own successful online business and volunteers working with disadvantaged youth in her community. Paula has been dating **Leonard**, a UK citizen who is in Canada on a two-year work permit. They married in Waterloo, Ontario, on September 6, 2022. 
+
+Is Paula eligible to sponsor Leonard for permanent residence?
+
+- [ ] Yes, because she is a Canadian citizen.
+- [ ] No, she cannot be a sponsor until September 2027.
+- [x] Yes, because five years have elapsed since she completed her sentence for committing a specified criminal offence in Canada.
+- [ ] No, because she was convicted of an offence against her ex-boyfriend that resulted in bodily harm.
+> Under IRPR r 133(2)(b), a **sponsorship** application will not be refused if **a period of five years or more has elapsed** since the completion of a sentence imposed for a specified offence in Canada.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-8 number"></i>
 
+♥️
 
+**Yuuta** is an international student who is in the second year of a full-time, four-year bachelor's degree program at the University of Victoria. Yuuta currently works on weekends at the cafeteria of one of the university's on-campus residence halls, and he was just offered a position to be a research assistant for one of his anthropology professors. Yuuta works at the cafeteria job for 15 hours per week, while his job as a research assistant will require him to work another 15 hours per week. Which of the following statements is true?
+
+- [ ] Yuuta may work as a research assistant without a work permit, but must obtain a work permit to work in the cafeteria.
+- [ ] Yuuta must apply for a work permit because he is working more than 20 hours per week.
+- [x] Yuuta can work in both jobs without applying for a work permit.
+- [ ] Yuuta may work unrestricted during his period of study.
+> Yuuta does not need to apply for a work permit in these circumstances because both of his **jobs are on campus at the institution** where he is studying. He will, however, need to obtain a Social Insurance Number, and if his study permit does not have a condition printed on it that allows him to work on campus, he must request an amendment to his study permit to have that added. Reference: IRCC.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-9 number"></i>
 
+**Rosario**, a Colombian national, obtained a job offer to work as a kindergarten teacher in Ontario for a period of five months. She is wondering what the requirements are, if any, regarding undergoing an immigration medical examination. What would your advice be?
+
+- [ ] She is not required to undergo a medical examination because she intends to stay in Canada for less than six months.
+- [ ] She is required to undergo a medical examination with a licensed physician because of her occupation.
+- [x] She is required to undergo a medical examination with a panel physician because of her occupation.
+- [ ] She is required to undergo a medical examination because she lived in Colombia for more than six months before coming to Canada.
+> A medical examination will be required irrespective of Rosario's length of stay in Canada because, due to her occupation, she will be in contact with children. 
+> 
+> Foreign nationals that intend to work in a job in which public health must be protected require a medical exam (e.g., teachers of small children), irrespective of their length of stay in Canada. Furthermore, immigration medical examinations must be conducted by panel physicians who are approved by IRCC. The reason why she must undergo an immigration medical examination is because of her intended occupation in Canada. Colombia is not in the list of countries for which citizens would require a medical examination. References: IRPR r 30(1)(a)(ii), IRCC.
+
+
+!!! note "Case"
+
+    **Trish** is a citizen of Bangladesh and of no other country. In her home country, Trish experienced harassment, threats, and physical violence because she is a transgender woman. She was kicked out of her home and was sexually assaulted by police when she attempted to seek protection. Trish suffers from post-traumatic stress disorder as a result of the violence she experienced and has difficulty remembering certain events and dates. Trish consults **Rafi**, an RCIC, who assists her in filing a refugee claim. They decide that no witnesses will be called to testify. Trish's application is processed, and her claim is deemed eligible to be referred to the RPD for a hearing. Trish is understandably nervous about the RPD hearing and asks Rafi what the process entails. 
 
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i><i class="fa-solid fa-0 number"></i>
 
+♥️
 
+In explaining the steps of the RPD hearing to Trish, what is accurate for Rafi to say?
+
+- [ ] Trish will take a solemn affirmation (promise to tell the truth), she will testify (answer questions), Rafi will make comments about her case (explain why the evidence shows she is a Convention refugee), and the RPD member will render an oral decision at the hearing.
+- [x] Trish will take a solemn affirmation (promise to tell the truth), she will testify (answer questions), Rafi will make comments about her case (explain why the evidence shows she is a Convention refugee), and the RPD member will render an oral decision at the hearing or send a written decision by mail.
+- [ ] Rafi will make comments about her case (explain why the evidence shows she is a Convention refugee), Trish will take a solemn affirmation (promise to tell the truth), she will testify (answer questions), and the RPD member will render an oral decision at the hearing or send a written decision by mail.
+- [ ] Rafi will make comments about her case (explain why the evidence shows she is a Convention refugee), Trish will take a solemn affirmation (promise to tell the truth), she will testify (answer questions), and the RPD member will send a written decision by mail.
+> The correct order is as follows: 
+> 
+> Trish will take a solemn **affirmation**, Trish will **testify**, Rafi will make **comments** about her case, and the RPD member will render an oral **decision** at the hearing or send a written decision by mail. See IRCC Claimant's Guide. 
+> 
+> The RPD renders an oral decision at the conclusion of the hearing, unless it is not possible to do so. If that's the case, the decision and reasons will be sent by mail.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i><i class="fa-solid fa-1 number"></i>
 
+♥️
 
+When preparing Trish to testify, Rafi can explain all of the following **except**:
+
+- [ ] There is a presumption that the facts Trish provides in her sworn testimony are true, unless there is a valid reason to doubt their truthfulness.
+- [ ] Omissions and/or inconsistencies in Trish's testimony have to be serious and relevant to the claim for them to negatively impact Trish's credibility.
+- [x] In assessing Trish's credibility, the RPD can evaluate her general demeanour, with an emphasis on her physical appearance.
+- [ ] In assessing Trish's demeanour, the RPD should take into account Trish's psychological condition and vulnerable circumstances.
+> The RPD can evaluate the claimant's demeanour in assessing the credibility of the evidence. **The RPD ought not to form impressions based on physical appearance but rather on objective considerations.** 
+> 
+> The Court of Appeal, in ***Maldonado***, and on several other occasions, set out the important principle that when a claimant swears that certain facts are true, this creates a presumption that they are true, unless there is valid reason to doubt their truthfulness. See IRB, Assessment of Credibility in Claims for Refugee Protection, s 2.3.2. 
+> 
+> The existence of contradictions or inconsistencies in the evidence of a claimant is a well-accepted basis for a finding of lack of credibility. However, the discrepancies must be sufficiently serious and must concern matters that are relevant to the issues being adjudicated to warrant the adverse finding. See IRB, Assessment of Credibility in Claims for Refugee Protection, s 2.2.3 and IRB, Assessment of Credibility in Claims for Refugee Protection, s 2.3.4. 
+> 
+> The claimant's psychological condition arising out of traumatic past experiences may have an impact on her ability to testify. The RPD should take into account the claimant's psychological condition and vulnerable circumstances. See IRB, Assessment of Credibility in Claims for Refugee Protection, s 2.5.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i><i class="fa-solid fa-2 number"></i>
+
+**Kiki** is a 22-year-old citizen of Belgium. Her native language is French, and although she has not taken a language test, she is fluent in English. After graduating from secondary school, she moved to Paris and completed a three-year bachelor's degree in baking and pastry arts at a well-regarded culinary school. During her program, she accumulated eight months' experience as an apprentice at a boulangerie, where she prepared breads and viennoiseries, and she continued to work at the boulangerie full-time for another twelve months after graduating. Kiki enjoyed the experience of moving to a new country for her studies, and she has been thinking of looking for a permanent job elsewhere in Europe or in North America in order to settle somewhere new. She has saved €10,500 (approximately CDN$15,500) in preparation for her move. Kiki's cousin, Geoff, is a Canadian citizen who lives in Regina, Saskatchewan, and he has offered to let her stay with him and his family if she would be interested in moving to Canada. 
+
+Does Kiki have enough points to qualify for the Saskatchewan Immigrant Nominee Program International Skilled Worker: Occupation in Demand category?
+
+- [x] No, but she will have enough points if she takes an approved **language test**.
+- [ ] No, because she does not have enough settlement funds saved.
+- [ ] Regardless of her points score, Kiki's occupation is not eligible for the SINP International Worker: Occupation in Demand category.
+- [ ] Yes.
+> Kiki currently scores 54 points out of 100 on the Saskatchewan International Skilled Worker Points Assessment Grid (20 + 2 + 12 + 20 = 54), and she is required to score 60 points out of 100. Reference: SINP ( Saskatchewan Immigrant Nominee Program (SINP)) Education (bachelor's degree): 20 Skilled work experience (one year in the five-year period prior to her application submission date): 2 Language ability (English or French speaker without language test results): 0 Age (22-34 years): 12 Close family relative in Saskatchewan (first cousin): 20 Because Kiki is fluent in English and French, she can obtain another 20 points by taking an approved language test for a total of 74 points, exceeding the required 60. Kiki's savings exceed the program's requirements. Reference: SINP ( SINP, IRCC). The occupation-in-demand category requires applicants to have education and work experience in a TEER 0, 1, 2, or 3 occupation. Kiki's occupation (baker) is a TEER 3 occupation (requiring college education or apprenticeship training of less than two years). Additionally, her occupation is not on the list of excluded occupations. (References: SINP 1, SINP 2).
 
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i><i class="fa-solid fa-3 number"></i>
 
+♥️
 
+If a client's complaint against an RCIC is referred to the Discipline Committee for a hearing, then each of the following is true, **except**:
+
+- [ ] The parties must disclose the evidence they will rely on to the other party prior to the hearing.
+- [ ] The CICC may publish a reprimand given by the Discipline Committee on the CICC website.
+- [ ] The Discipline Committee may order the subject of a proceeding to pay costs.
+- [x] The Discipline Committee may award monetary damages to an RCIC or a client for losses suffered.
+> The parties must disclose the evidence they will rely on to the other party prior to the hearing: this is true (Tribunal Committee Rules of Procedure, s 25.1). The Discipline Committee may publish a reprimand on the CICC's website: this is true (By-law 2021-2, s 28.3(f)). The Discipline Committee may order the subject of a proceeding to pay the costs of the proceeding if the decision is not in their favour: this is true (By-law 2021-2, s 28.11).
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
+**Yang** wants to immigrate to Canada under the **BC Provincial Nominee Program**, and seeks the assistance of **Mei-Ling**, an RCIC with an office in Shanghai, to learn about the different options under this stream. At this stage of preparing his application, Mei-Ling should advise Yang to prepare documentation of all of the following, **except**:
+
+- [ ] English or French translations of any documents not in English or French, along with a translator's affidavit and certified copy of the original document.
+- [ ] Proof of his intent and ability to become established in British Columbia.
+- [ ] Valid results from the IELTS, TEF, or CELPIP language exams.
+- [x] A valid job offer from a BC employer in a TEER 0/1/2/3 occupation.
+> Under the PNP, provinces have the authority to establish their own selection criteria for nomination, which may differ from the criteria for federal programs (provided they are not incompatible with the IRPA). This includes the ability to recruit immigrants in low- and semi-skilled occupations in accordance with province-specific labour shortages or economic needs. Reference: IRCC IMM P700, Document Checklist - Permanent Residence - Provincial Nominee Class and Quebec Skilled Workers.
 
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i><i class="fa-solid fa-5 number"></i>
 
+**Charlotte** is in the process of applying for permanent residence under the **Federal Skilled Worker** Program. She logs on to the National Occupational Classification (NOC) website, and determines that NOC code **10022** corresponds to the job title that she held at her previous employer, where she worked for three years. 
 
+Which of the following is **not** true?
+
+- [ ] The first digit of the NOC code (i.e., 1) refers to the position's broad occupational category.
+- [ ] Charlotte has a university degree or college diploma.
+- [x] Charlotte's work experience is in the natural and applied sciences industry.
+- [ ] Charlotte has managerial work experience.
+> In the NOC 2021, code 10022 corresponds to management positions in the advertising, marketing, and public relations industry (see: ESDC). Occupations in the natural and applied sciences and related occupations are contained in the broad occupational category 2 in the NOC. Reference: ESDC.
 
 <!--
 <i class="fa-solid fa-0 number"></i>
