@@ -679,7 +679,9 @@ Assuming that they applied in 2023, what income must the Jacksons demonstrate in
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-2 number"></i>
 
-**Larry** is a Canadian citizen seeking to sponsor the following relatives under the Family Class program: **his spouse, Ileana, and their four dependent children, ages 3, 6, 18, and 20.** Larry works as a used car salesperson in Windsor. His income is commission-based, and unfortunately, due to market fluctuations, his sales have been very low. Due to Larry's low income, his father, who is a successful businessman, is willing to financially assist Larry with his sponsorship application, if needed. Larry has retained the legal services of **Ramira**, a regulated Canadian immigration consultant, to prepare his case and represent him in this matter.
+♥️
+
+**Larry** is a Canadian citizen seeking to sponsor the following relatives under the Family Class program: his spouse, **Ileana**, and their four dependent children, **ages 3, 6, 18, and 20**. Larry works as a used car salesperson in Windsor. His income is commission-based, and unfortunately, due to market fluctuations, his sales have been very low. Due to Larry's low income, his father, who is a successful businessman, is willing to financially assist Larry with his sponsorship application, if needed. Larry has retained the legal services of **Ramira**, a regulated Canadian immigration consultant, to prepare his case and represent him in this matter.
 
 Which government forms must Ramira provide and submit in this case?
 
@@ -721,7 +723,7 @@ Assuming that Thui and Walter applied to sponsor her parents in 2023, what must 
 - [x] $100,906
 - [ ] $82,259
 - [ ] They are exempt from the income requirements in these circumstances.
-  > The MNI (**minimum necessary income**) for parent and grandparent sponsorship is roughly based on ==**LICO + 30%**==, although this was been reduced during the height of the COVID-19 pandemic to be the minimum necessary income only for the 2020 and 2021 tax years. The MNI for a family of eight in 2022 was $100,906 ($91,582 for a family of seven + $9,324 for one additional person).
+  > The MNI (**minimum necessary income**) for parent and grandparent sponsorship is roughly based on ==**LICO + 30%**==, although this was been reduced during the height of the COVID-19 pandemic to be the minimum necessary income only for the 2020 and 2021 tax years. The MNI for a family of eight in 2022 was \$100,906 (\$91,582 for a family of seven + $9,324 for one additional person).
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-5 number"></i>
 
@@ -769,7 +771,9 @@ If a person makes a complaint against an RCIC to the CICC, then which of the fol
 
 ♥️
 
-**Ismael** is a foreign national who is married to **Eloisa**, and they have a 17-year-old daughter named **Melissa**. Ismael does not have a job offer in Canada and his wife and daughter will not be accompanying him to Canada due to Eloisa's work commitments in their home country. He received an invitation to apply for permanent residence under the Federal Skilled Worker Class via Express Entry. As a result, he was given 60 days to submit an electronic application for permanent residency with supporting documentation and payment to the IRCC through his online account. Which of the following statements accurately describe what Ismael is **required to submit** within 60 days to IRCC?
+**Ismael** is a foreign national who is married to **Eloisa**, and they have a 17-year-old daughter named **Melissa**. Ismael does not have a job offer in Canada and his wife and daughter will not be accompanying him to Canada due to Eloisa's work commitments in their home country. He received an invitation to apply for permanent residence under the Federal Skilled Worker Class via Express Entry. As a result, he was given 60 days to submit an electronic application for permanent residency with supporting documentation and payment to the IRCC through his online account. 
+
+Which of the following statements accurately describe what Ismael is **required to submit** within 60 days to IRCC?
 
 - [ ] Payment in the amount of $2,960 for the processing fee and right of permanent residence fee for himself and his family.
 - [ ] Proof that Ismael, Eloisa, and Melissa have undergone an upfront immigration medical examination.
@@ -779,7 +783,7 @@ If a person makes a complaint against an RCIC to the CICC, then which of the fol
   >
   > The total payment to IRCC would be $1,525, which consists of: $950 (processing fee) and $575 (right of permanent residence fee), not $2,875. since Eloisa and Melissa will not be accompanying Ismael. Reference: IRCC.
   >
-  > Federal Skilled Worker Class applicants must include all their family members in the LICO calculation (whether they are accompanying them to Canada or not). As a result, Ismael must provide a letter from his bank showing that he has at least $22,483 for a family unit of three. Reference: IRPR r 76(1)(b)(i) and IRCC.
+  > Federal Skilled Worker Class applicants must include **all their family members in the LICO calculation (whether they are accompanying them to Canada or not)**. As a result, Ismael must provide a letter from his bank showing that he has at least $22,483 for a family unit of three. Reference: IRPR r 76(1)(b)(i) and IRCC.
   >
   > Ismael is required to provide a policy certificate when uploading the documents for his Express Entry profile.
 
