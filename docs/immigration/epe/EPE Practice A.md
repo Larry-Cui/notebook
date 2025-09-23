@@ -29,6 +29,8 @@ tags:
 
 <i class="fa-solid fa-2 number"></i>
 
+♥️
+
 <u>Marta</u> made a refugee claim at an IRCC inland office, which was referred to the RPD. Before the hearing of her claim, <u>Marta</u> speaks with Hiro, an RCIC, and decides that she wants to make an H&C application because she thinks that it offers her a better chance of staying in Canada. In these circumstances, Hiro should advise <u>Marta</u> that:
 
 - [x] She must withdraw her refugee claim before an H&C application can be considered.
@@ -52,6 +54,8 @@ What is Salma's current immigration status in Canada?
   > Salma is still a PR because none of the ways to legally end her PR status has yet occurred. IRPA s 46. Living outside Canada or failing to renew the PR card do not affect that; **loss of PR status is never automatic.** PR status is only lost if **one of the events in IRPA s 46 occurs**, and must be formally removed by a decision of an officer, and recorded in GCMS. Citizenship would have been possible had she remained in Canada and applied then (she exceeded 1095 days after landing), but citizenship is not automatically granted to PRs, and she no longer meets the residency test to qualify.
 
 <i class="fa-solid fa-4 number"></i>
+
+♥️
 
 What is the first thing Salma should do if she hopes to visit her family in Canada?
 
@@ -78,6 +82,8 @@ What is the first thing Salma should do if she hopes to visit her family in Cana
   > The RCIC must **withdraw** from representing the person **only if, despite their advice, the person still intends to pursue the prohibited course of conduct** (Code of Professional Conduct, sections 35(1)(b) and 35(2)).
 
 <i class="fa-solid fa-6 number"></i>
+
+♥️
 
 **Renzo** is an international student who graduated with a three-year diploma in graphic design from George Brown College in Toronto. He received a three-year open postgraduate work permit, and has been working as a contract graphic designer (a TEER 2 position) in the GTA. He first worked on a six-month contract with a Canadian bank, and immediately afterwards began working on a nine-month contract with a marketing firm in Mississauga. Prior to coming to Canada, he did not have any work experience as a graphic designer. Renzo's nine-month contract will be coming to an end next month, but Renzo would like to continue to work and live in Canada. Renzo retains **Brittney**, an RCIC in Mississauga, and asks her what his options are for immigrating to Canada permanently at this time. He is 26 years old, single, and a Peruvian citizen. Renzo scored a CLB 8 on the IELTS. In these circumstances, Brittney may advise Renzo that:
 
@@ -114,6 +120,8 @@ Which of the following factors would be mandatory for the officer to consider?
   > Although many factors are considered and assessed on an H&C application, the only one **legally mandated** as a requirement for the officer to consider under IRPA s 25(1) is the **best interests of any child directly affected**.
 
 <i class="fa-solid fa-9 number"></i>
+
+♥️
 
 **Viktor** is a 42-year-old Canadian permanent resident who emigrated from the Czech Republic. On a trip to Prague to visit his family, his cousin introduced him to **Vera**, a single mother with a 6-year-old son, **Alex**. Viktor and Vera spent most of his trip together, and the two married eight days before Viktor had to fly back to Oshawa, Ontario. Upon returning to Canada, Viktor immediately began the process of applying to sponsor Vera and her son for permanent residence under the family class. If their application is accepted, how long would Viktor's undertaking to support Alex be?
 
@@ -167,6 +175,8 @@ The most relevant factor in the equivalency analysis would be:
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i>
 
+♥️
+
 If Joanne were to be found inadmissible for a single offence of criminality under IRPA s **36(2)(b)**, she would be deemed to be rehabilitated:
 
 - [ ] Five years after the date of the conviction.
@@ -192,6 +202,8 @@ If Joanne were to be found inadmissible for a single offence of criminality unde
   > Immigration-linked investment schemes are excluded pursuant to IRPR r 87(9). Answer "d" is correct. References: IRPR r 87(5), 87(6)(c), IRCC.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-5 number"></i>
+
+♥️
 
 **Ariana** separated from her husband, **Paul**, after coming out as a transgender woman on her 35th birthday. Although they have now been living separately and apart for eight years, the couple did not divorce, and they have maintained an amicable relationship as co-parents to their 13-year-old daughter, **Heather**. **Ariana** immigrated to Canada three years ago to take a job working as the creative director for a large advertising agency and has been living in Toronto with her partner, **Kim**, for the past two years. After seeing how much Ariana misses having her daughter close by, Kim suggests that they sponsor Paul and Heather for permanent residence, since Ariana and Paul are still legally married. In these circumstances, which of the following is true?
 
@@ -242,6 +254,8 @@ The officer may not fetter their discretion. A fettering of discretion in this c
   > In doing so, **they cannot limit their consideration, thus fetter their discretion, by focusing on a single factor as paramount, and refuse to look at other factors which the applicant raised.** As all factors may be put forth by the applicant, the officer must consider and weigh them but cannot just ignore them, as that defeats the purpose of IRPA s 24. The other answers demonstrate different types of legal errors for which the decision could also be overturned on judicial review.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-9 number"></i>
+
+♥️
 
 **Hugo** is an RCIC in Moncton, New Brunswick, with over eight years of experience. To the shock of many in the community, he was arrested at his home on April 3, 2024, and charged with possession and trafficking of cocaine. Hugo's criminal trial is scheduled to commence in December 2024, and he has vowed through his lawyer to fight the charges and assert his innocence. However, as a result of the allegations, counsel for the ICCRC makes an urgent motion for a Discipline Committee hearing, and delivers notice to Hugo on **Novemver 14, 2024**. In these circumstances, which of the following is true?
 
@@ -297,6 +311,8 @@ Should Vivian contact the client to arrange a meeting?
 
 <i class="fa-solid fa-2 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
 **Eun Ha** is an RCIC who represented **Lief**, a permanent resident, at an admissibility hearing. Lief was found inadmissible on the ground of serious criminality, and a removal order was issued against him. Eun Ha filed notice to the Immigration Appeal Division to appeal the removal order, and a hearing was scheduled. However, Eun Ha has not been paid outstanding fees for her previous services, and Lief has not been responsive to her calls and invoices. It is now the day before the hearing, and Eun Ha still has not received payment.
 
 In these circumstances, Eun Ha:
@@ -326,6 +342,8 @@ In these circumstances, Eun Ha:
   > It is not correct that Phouvong must apply for a postgraduate work permit before she graduates. An applicant for a postgraduate work permit must apply **within 180 days** after their school has issued their final marks. However, she must either **apply for a PGWP before her study permit expires**, apply for a visitor record and subsequently apply for a PGWP from within Canada, or leave Canada and apply for a PGWP from abroad. Reference: IRCC: Work in Canada after you graduate: About the post-graduation work permit and Work in Canada after you graduate: Who can apply.
 
 <i class="fa-solid fa-2 number"></i><i class="fa-solid fa-6 number"></i>
+
+♥️
 
 **Annie** has been a permanent resident of Canada for five years, and is in the process of applying for Canadian citizenship. Unfortunately, Annie failed her first attempt at the citizenship test, and just found out this week that she has failed her second attempt. In these circumstances, Annie:
 
@@ -382,6 +400,8 @@ If Santiago is deemed a vulnerable claimant and the Minister is not a party to t
   > **reverting to permanent resident status applies only to an individual whose citizenship was revoked due to fraud during the citizenship process.** A person who has had their citizenship revoked can never apply for resumption of citizenship, but Nikola may reapply for citizenship after ten years from the date of revocation. Reference: IRCC.
 
 <i class="fa-solid fa-3 number"></i><i class="fa-solid fa-0 number"></i>
+
+♥️
 
 **Antonio** is a 26-year-old man from Venezuela. He has a bachelor's degree in mathematics, and has worked as a software developer in Caracas for the past four years. His wife, **Paola**, is 28 years old, has a 2-year college diploma in business administration, and has worked as an office manager in the same company as her husband for the past two years. Antonio and Paola have been interested in leaving Venezuela for some time due to the increasingly unstable economic conditions. Antonio retains **Raoul**, an RCIC in Caracas, to assist him in applying for permanent residence under the Express Entry system for the Federal Skilled Worker Program. Antonio scored a CLB 7 on his IELTS exam and Paola scored a CLB 6. After creating his online profile and moving into the pool of candidates, Antonio receives a job offer with a positive LMIA to be a systems integration manager in Mississauga, Ontario. How many points will Antonio score under the CRS?
 
@@ -473,6 +493,8 @@ When must Eduardo's next detention review be conducted by?
 
 <i class="fa-solid fa-3 number"></i><i class="fa-solid fa-7 number"></i>
 
+♥️
+
 **Karolina** is seeking to sponsor her spouse, but the application has been moving slowly. She is becoming frustrated with her RCIC, **Timothy**, who she believes is not providing effective representation. She has signed a retainer agreement with another RCIC who she believes will be able to move her application forward. She approaches Timothy on **January 6, 2025**, and requests that he transfer her file to the new RCIC immediately. However, she has an outstanding balance on her account to Timothy. What should Timothy do?
 
 - [ ] Deliver all documents relating to Karolina's file to Karolina by February 5, 2025.
@@ -514,6 +536,8 @@ When must Eduardo's next detention review be conducted by?
   > Under IRPR r 130(3), a sponsor who became a permanent resident after being sponsored as a spouse cannot apply to sponsor another foreign national as a spouse unless **five years** have elapsed from the date they became a permanent resident.
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-1 number"></i>
+
+♥️
 
 A visa officer may impose any of the following conditions on a study permit applicant, **except**:
 
@@ -567,6 +591,8 @@ In order to account for any potential disputes that may arise between an RCIC an
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-6 number"></i>
 
+♥️
+
 **GridWorks** Innovations is an American company that designs and manufactures residential and commercial power grids, backup generators, solar panels, and electric car chargers. **Casper** is an American citizen who is employed with NPS as a senior electrical engineer. GridWorks Innovations has recently sold a custom-designed rooftop solar panel system with a battery backup and integrated car charger to a residential customer in southern Ontario. The sale was finalized at Northfield's storefront in Buffalo, New York; the batteries, car charger components, and other electrical components were manufactured in Michigan; and the solar panels were manufactured in Stuttgart, Germany. Due to the complexity of the system, they intend to send Casper to install and test the software that governs the system, while the actual installation will be performed by a local Canadian team.
 
 Can Casper enter Canada to perform this work under CUSMA's after-sales service provision?
@@ -580,6 +606,8 @@ Can Casper enter Canada to perform this work under CUSMA's after-sales service p
   > **CUSMA only requires that the equipment, machinery, or software was manufactured and purchased outside of Canada, not that it be manufactured in the US or Mexico.** Reference: IRCC: CUSMA: section 2.6.2.
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-7 number"></i>
+
+♥️
 
 **GridWorks** Innovations is an American company that designs and manufactures residential and commercial power grids, backup generators, solar panels, and electric car chargers. **Casper** is an American citizen who is employed with NPS as a senior electrical engineer. One of GridWorks Innovations' existing customers, **Erie** Environmental Services, is an American hydrogeological services company based in Toledo, Ohio. Erie Enviromental Services is currently in Canada performing a hydrogeological assessment near Windsor, Ontario. They purchased a portable solar power system from **Northfield** just under three years ago. While in the field recently, one of the photovoltaic panels stopped delivering power to the backup battery. The panel was manufactured in Stuttgart, Germany; the batteries and other electrical components were manufactured in Michigan; and the software was developed in Michigan. All parts were sold with a 15-year warranty. Remote testing has not been successful at solving the problem, and Northfield would like to send Casper to Ontario identify the issue and perform the necessary repairs as stipulated in the original warranty.
 
@@ -615,6 +643,8 @@ Can specialists from Mackinac Technical enter Canada under CUSMA's after-sales s
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-9 number"></i>
 
+♥️
+
 After meeting with several different RCICs, **Rokas** decides to retain **Terry** to assist him in an application for permanent residence under the start-up visa program. He signs a retainer agreement with Terry, and on **January 11**, gives him a cheque for $5,000 as an initial deposit for future services. Terry must **deposit Rokas's cheque** into his client account by:
 
 - [ ] January 18.
@@ -636,6 +666,8 @@ Assuming that they applied in 2023, what income must the Jacksons demonstrate in
   > See the LICO for a family of seven applying for a super visa: IRCC.
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-1 number"></i>
+
+♥️
 
 **Stu** is a computer systems analyst from New Zealand who has always dreamed of coming to Canada. After reviewing his immigration options with **Jackie**, an RCIC based in Wellington, he decides that his best course of action is to apply for **Express Entry** under the Ontario Immigrant Nominee Program's **(OINP) Human Capital Priorities stream**. Before beginning to assist Stu, Jackie should advise him of all of the following, **except**:
 
@@ -679,6 +711,8 @@ If a person is resettled to Canada as a **Blended Visa-Office Referred** (BVOR) 
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
 **Thui** is a Canadian permanent resident, and her husband **Walter** is a Canadian citizen. They have four children, whose ages range from one to six. Thui and Walter run their own Vietnamese-French fusion restaurant, which recently expanded to a second location in Calgary, Alberta. As their business continues to grow, the family decide to co-sponsor Thui's parents to come and live with them, knowing that they will be a great help in both taking care of the children and with work at the restaurant.
 
 Assuming that Thui and Walter applied to sponsor her parents in 2023, what must they prove their income was in 2022 in order to meet the income requirements?
@@ -691,6 +725,8 @@ Assuming that Thui and Walter applied to sponsor her parents in 2023, what must 
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-5 number"></i>
 
+♥️
+
 **Leila** arrived in Winnipeg from the Philippines to work as a live-in caregiver in the **Smith** family's home. Two years after she arrives, Mr. Smith's job is transferred to his company's office in Calgary, and the whole family plan to move there within the next month. Mrs. Smith is very sad to be parting with Leila, but tells her not to worry, because she has spoken with the **Rawles**, another family in the neighbourhood, and they are willing to hire her.
 
 Can Leila accept the job offer from the Rawle family?
@@ -702,6 +738,8 @@ Can Leila accept the job offer from the Rawle family?
   > **A person on a Live-In Caregiver work permit may change jobs, but they must apply for a new work permit and receive a new LMIA for their new employer.** The program is now closed, but since Leila is already in Canada, she may apply to change the conditions of her work permit before it expires.
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-6 number"></i>
+
+♥️
 
 If a person makes a complaint against an RCIC to the CICC, then which of the following statements is **true**?
 
@@ -728,6 +766,8 @@ If a person makes a complaint against an RCIC to the CICC, then which of the fol
   > Under IRPA s 101(1)(e), a claim is ineligible to be referred to the RPD if the claimant came directly or indirectly to Canada from a designated country (e.g., **the United States, which is a designated safe third country** under IRPR r 159.3). Note that the Safe Third Country Agreement is currently being challenged in court. As of this update in December 2024, the Safe Third Country Agreement remains in effect.
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-8 number"></i>
+
+♥️
 
 **Ismael** is a foreign national who is married to **Eloisa**, and they have a 17-year-old daughter named **Melissa**. Ismael does not have a job offer in Canada and his wife and daughter will not be accompanying him to Canada due to Eloisa's work commitments in their home country. He received an invitation to apply for permanent residence under the Federal Skilled Worker Class via Express Entry. As a result, he was given 60 days to submit an electronic application for permanent residency with supporting documentation and payment to the IRCC through his online account. Which of the following statements accurately describe what Ismael is **required to submit** within 60 days to IRCC?
 
@@ -767,6 +807,8 @@ In order to obtain a permanent resident visa, the principal applicant in a spons
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-1 number"></i>
 
+♥️
+
 **Emnet** is an accountant from Ethiopia who is seeking permanent residence in Canada under the **Ontario Immigrant Nominee Program's Human Capital Priorities Stream**. **Berhanu**, an RCIC in Addis Ababa, assists her in creating an online Express Entry profile, and informs her that she is eligible to be moved into the pool of candidates. In order to be selected from the pool of candidates by the OINP, Emnet must be assessed a CRS score of at least:
 
 - [ ] 600 points.
@@ -789,6 +831,8 @@ In order to obtain a permanent resident visa, the principal applicant in a spons
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-3 number"></i>
 
+♥️
+
 An RCIC may disclose confidential information about a client in each of the following circumstances, **except**:
 
 - [ ] To defend against allegations that the RCIC's assistant has committed an offence involving the client's affairs.
@@ -802,6 +846,8 @@ An RCIC may disclose confidential information about a client in each of the foll
   > No exception exists to allow an RCIC to disclose confidential information about a client to support a request to adjourn a disciplinary hearing.
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-4 number"></i>
+
+♥️
 
 **Jerry** is an RCIC who is the subject of a disciplinary hearing that is being heard as a written adjudication process. All documents have now been submitted to the panel. However, one of the tribunal members' period of appointment ended yesterday. What can Jerry expect to happen?
 
@@ -827,6 +873,8 @@ An RCIC may disclose confidential information about a client in each of the foll
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-6 number"></i>
 
+♥️
+
 **Harun** is a Canadian permanent resident who applied to sponsor his mother, **Samira**, for permanent residence under the family class. His application was recently rejected by a visa officer, and Harun retained **Nawaz**, an RCIC, to assist him in serving a notice of appeal to the Immigration Appeal Division. Which of the following statements is true?
 
 - [ ] Harun must prepare the appeal record and serve it on the IAD and the minister within 30 days after the notice of appeal was served.
@@ -836,6 +884,8 @@ An RCIC may disclose confidential information about a client in each of the foll
   > Under rule 22(1) of the IAD Rules, the **minister** must provide the appeal record to the appellant and the IAD **within 60 days** after the minister received notice of the appeal.
 
 <i class="fa-solid fa-6 number"></i><i class="fa-solid fa-7 number"></i>
+
+♥️
 
 **Angelo** owns a construction company in Manitoba. He currently has five foreign nationals working for him in various positions. One of his workers, **Jorge**, has reported Angelo to Employment and Social Development Canada (ESDC), alleging that his salary is less than what was stated in his contract. As a result of this allegation, ESDC will be conducting an inspection. Angelo feels that such inspection is unwarranted as he has been more than generous to Jorge.
 
@@ -905,6 +955,8 @@ A permanent resident in Canada **could** lose their PR status upon the occurrenc
 
 <i class="fa-solid fa-7 number"></i><i class="fa-solid fa-2 number"></i>
 
+♥️
+
 For US and Mexican citizens coming to Canada as professionals under CUSMA, each of the following is true, **except**:
 
 - [ ] They can apply for a work permit at a port of entry.
@@ -941,6 +993,8 @@ According to the legislation, is Mikke performing "work"?
 
 <i class="fa-solid fa-7 number"></i><i class="fa-solid fa-5 number"></i>
 
+♥️
+
 **Rahim** is a Canadian citizen who has been working with the international branch of his employer in Karachi, Pakistan, for four years. While there, he met and married his wife, **Maryam**. Shortly after their wedding in late 2023, Rahim and Maryam attempted to visit Rahim's family in his hometown, Halifax, but Maryam was found to be inadmissible to Canada based on serious criminality. Rahim would now like to move back to Canada and has applied to sponsor his wife for permanent residence. However, because Maryam was found to be inadmissible to Canada, Rahim's application was refused on **September 16, 2024**. Rahim meets with Khadija, an RCIC, to discuss his options for appealing the rejection. What will Khadija advise in these circumstances?
 
 - [ ] Rahim cannot appeal the visa officer's decision because there are no rights of appeal for permanent residence applicants to the Immigration Appeal Division.
@@ -952,6 +1006,8 @@ According to the legislation, is Mikke performing "work"?
   > He may file an application for judicial review of the visa officer's decision to the Federal Court. An application for judicial review must be made within **60 days** after the day on which the applicant is notified or otherwise becomes aware of the matter for matters arising outside of Canada (IRPA, s 72(2)(b)).
 
 <i class="fa-solid fa-7 number"></i><i class="fa-solid fa-6 number"></i>
+
+♥️
 
 **Timon** and **Brisida** got married in their native Albania and are now Canadian permanent residents. After living together in Peterborough, Ontario, for three years, the couple's relationship began to break down, and they have been living separately and apart for 18 months. Brisida returns to Albania to seek advice about her marriage troubles from her family and childhood friends. After staying for four months, Brisida decides to move back to her parent's home permanently, and files an application for divorce in Albania. After receiving the application for divorce in Peterborough, Timon retains **Nala**, an RCIC, and tells her that he has been dating **Shahiza**, a Turkish citizen in Canada on a two-year open work permit, for the past eight months. Timon tells Nala that he and Shahiza are engaged, and asks whether he can sponsor Shahiza as his new wife after they get married. In these circumstances, Nala should advise Timon that:
 
@@ -988,6 +1044,8 @@ According to the legislation, is Mikke performing "work"?
 
 <i class="fa-solid fa-7 number"></i><i class="fa-solid fa-9 number"></i>
 
+♥️
+
 How many English points will Ahmed have towards the **67 points** he needs to qualify as a Federal Skilled Worker, where the minimum threshold fixed by the minister for each language skill is CLB 7?
 
 - [ ] 30 points.
@@ -997,6 +1055,8 @@ How many English points will Ahmed have towards the **67 points** he needs to qu
   > He has CLBs of 9, 9, 7, and 10 respectively. For the FSW language points, this meets the minimum threshold of 7 CLB in each skill, and translates into: 4 points for writing (the minimum), 6 points each for listening, reading, and speaking, since they each exceed the minimum by two benchmarks, for a total of 22 points. IRPR r 79(3)(a). Reference: IRCC Federal skilled workers selection factors and Language test equivalency charts.
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-0 number"></i>
+
+♥️
 
 If Ahmed applies through Express Entry and is willing to do another IELTS test to try to score higher, what is the maximum number of CRS points he could obtain if he had higher English scores?
 
@@ -1015,6 +1075,8 @@ If Ahmed applies through Express Entry and is willing to do another IELTS test t
   > Ahmed could gain another 50 transferability points by improving his English proficiency and obtaining three years of work experience, but since he is newly qualified, he cannot yet access those points.
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-1 number"></i>
+
+♥️
 
 **Yulduz** is a naturalized Canadian citizen who is eligible to sponsor her niece, **Umida**, as a "lonely" family member. Umida is 21 years old and is interested in doing an MBA at a Canadian university. If the sponsorship application is accepted, Yulduz's undertaking to support Umida will last:
 
@@ -1134,6 +1196,8 @@ Assuming that Alexandria receives an invitation to apply for permanent residence
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-9 number"></i>
 
+♥️
+
 **Liu Wei** is a permanent resident who has just received a job offer from a multinational bank in Singapore. Liu Wei is very excited about the opportunity, but wants to ensure that he retains his permanent resident status, since his wife and son will continue to live in Mississauga, Ontario. He retains **Larry**, an RCIC, to review the job offer that he has received. The contract that the employer proposed requires a 2-year commitment, with 90 vacation days offered in the first two years, and an option to renew the contract (i) for 2 years with 120 vacation days during each of those 2 years, or (ii) for 4 years with 140 vacation days during each of those 4 years.
 
 - [ ] Liu Wei can only commit to the 2-year contract.
@@ -1148,6 +1212,8 @@ Assuming that Alexandria receives an invitation to apply for permanent residence
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-0 number"></i>
 
+♥️
+
 A refugee claimant seeking resettlement in Canada differs from a permanent residence applicant in each of the following ways, **except**:
 
 - [ ] A PR applicant chooses to resettle in Canada while a refugee claimant is forced to flee.
@@ -1157,6 +1223,8 @@ A refugee claimant seeking resettlement in Canada differs from a permanent resid
   > Refugee claimants are **also subject to** the requirement of undergoing a medical examination (IRPR, s 30(1)(a)(v)), but may be exempt from medical inadmissibility on the grounds of excessive demand (IRPR, r 139(4)).
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-1 number"></i>
+
+♥️
 
 **Laurent** has just learned that his refugee claim was rejected by the RPD, and a removal order has been issued against him. This was the first time that Laurent had applied for refugee protection and there was no finding of inadmissibility made against him. Laurent seeks the help of **Uma**, an RCIC in Calgary, to assist him in filing an application for **pre-removal risk assessment (PRRA)**, since he believes that he will be in danger of arbitrary detention and possibly torture if he is returned to his home country. Uma should advise Laurent that:
 
@@ -1194,6 +1262,8 @@ A refugee claimant seeking resettlement in Canada differs from a permanent resid
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
 **Kuri** is a 44-year-old Japanese citizen who lives in Sapporo, Japan. She has worked as a petroleum geologist for the prefectural energy regulator for the past six years. After receiving her PhD in geology from Hokkaido University three months ago, she began looking for other opportunities in her field and received a job offer to work with an Edmonton corporation on a large-scale mining project. As a result of this job offer, she has been nominated by the Alberta Advantage Immigration Program's Express Entry stream. Kuri's husband, **Shou**, is very excited about the prospect of moving to Canada with his wife. Shou is 37 years old, has a bachelor's degree in marketing, and currently works as an artistic director for a small advertising agency. Both Kuri and Shou received a CLB 10 on their IELTS exams.
 
 When Kuri applies to the Express Entry system for Federal Skilled Workers, what will her CRS score be?
@@ -1228,6 +1298,8 @@ Each of the following persons **would not** need to obtain a work permit to work
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-7 number"></i>
 
+♥️
+
 What section of the Constitution Act, 1867 established that the powers relating to immigration are to be shared between the federal and provincial governments?
 
 - [ ] Section 7.
@@ -1260,6 +1332,8 @@ Does Dr. Jones need a work permit to enter Canada?
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-0 number"></i>
 
+♥️
+
 **Julian** and **Malachi** are a married couple living in North Sydney, Nova Scotia. On a trip to Nicaragua, the couple met **Philando** at an orphanage run by a child-welfare NGO. Over the three-week course of their trip, Julian and Malachi fell in love with Philando's energy and curious spirit, and decided to adopt him so that they would be able to live together as a family in Canada. Following a medical examination, the couple was informed that Philando suffers from an eye disease called retinitis pigmentosa, and it is likely that his vision will deteriorate over the years and possibly leave him legally blind. In these circumstances:
 
 - [ ] The couple cannot adopt Philando because he is inadmissible on health grounds.
@@ -1290,6 +1364,8 @@ After becoming a Canadian permanent resident, **Karl** sponsored his parents, **
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-3 number"></i>
 
+♥️
+
 Although he never graduated from high school, **Min-kyu**'s business savvy enabled him to open a chain of roller-skating nightclubs in his hometown of Seoul, South Korea. After visiting his friend in Vancouver, British Columbia, he thinks that similar nightclubs would be very popular among the Korean community in the city, since they offer an experience that doesn't currently exist there. Upon returning to Seoul, Min-kyu retains **Ji-min**, an RCIC, to assist in his application to move to Surrey under the BC PNP Entrepreneur program. Min-kyu tells her that he has been in the business for six years, and has $900,000 in net worth. Since Min-kyu must continue to manage the cash flow and operations of his existing bars, he plans to make an initial investment of $100,000 in his proposed new bars at the end of his first year in Canada, with a follow-up investment of $200,000 at the end of his second and third years.
 
 In these circumstances, which of the following is true?
@@ -1319,6 +1395,8 @@ If on **June 15, 2024**, Carolina's claim is found to be eligible and is referre
   > It is not correct that Carolina is not eligible to make a claim because she lived in Belgium, a safe third country, for 3 years. ==**Only the US is currently designated as a safe third country under the Safe Third Country Agreement (STCA).**== If she arrived directly from a safe third country (the US), her claim might be ineligible to be referred to the RPD. The existence of an Article 1E country (Belgium), however, does not render the claim ineligible to be referred to the RPD. She could be excluded under Article 1E if the RPD determines that she can return to Belgium to live safely and has the same basic rights and obligations as the nationals of that country. Note that the Safe Third Country Agreement is currently being challenged in court. As of this update in December 2024, the Safe Third Country Agreement remains in effect.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i><i class="fa-solid fa-5 number"></i>
+
+♥️
 
 All of the following are issues that might be raised by the RPD **except**:
 
@@ -1384,6 +1462,8 @@ With respect to non-accompanying family members of a principal applicant in a pe
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-0 number"></i>
 
+♥️
+
 **Leni** is a German citizen who initially came to Canada on an open work permit. Although her work permit expired three weeks ago, she has continued to work as a retail associate at the same clothing store that she has worked at since shortly after her arrival. After receiving notice from the IRCC that she is in violation of the IRPA, she retains **Ernie**, an RCIC, to discuss what her best course of action would be. She tells Ernie that she forgot the date of her work permit's expiry and that she did not intend to violate the conditions; she thought that she would be receiving a reminder from the IRCC regarding the renewal.
 
 Can Leni apply for restoration of status within Canada at this time?
@@ -1408,6 +1488,8 @@ Each of the following is true of a **temporary resident permit (TRP)**, **except
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i>
 
+♥️
+
 **Vandana** and her three children were resettled in Winnipeg as refugees eight months ago, and they are now permanent residents. At the time of her application, her husband, **Siva**, had been missing for over a year, but she included him as a non-accompanying family member on her IMM 0008 application form. Vandana comes to your office, very upset, and tells you that Siva has finally been located and wants to join them in Canada. She is worried that because she declared him as a non-accompanying family member, he will be unable to join them in Canada. What should you tell her?
 
 - [x] Vandana may submit a **One-Year Window of Opportunity** request.
@@ -1428,6 +1510,8 @@ Each of the following is true of a **temporary resident permit (TRP)**, **except
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
 **Roman** is a **30-year-old** graphic designer from Moldova. He has worked for the **past four years** in Chișinău, but he wants to move to Toronto because he has heard through his colleagues that there are many exciting freelance projects and opportunities in his field there. He meets with **Mihai**, an RCIC, to discuss coming to Canada with his wife, **Galina**, as permanent residents under the self-employed stream. Roman tells Mihai that he completed a **two-year diploma** in graphic design from an art institute in Chișinău and that he scored a **CLB 6** on his IELTS exam last year. He further mentions that Galina has a two-year diploma in business administration and that he has an uncle who lives in Cambridge, Ontario. How many points will Roman be assessed under the **self-employed stream**?
 
 - [ ] 68 points.
@@ -1447,6 +1531,8 @@ Each of the following is true of a **temporary resident permit (TRP)**, **except
   > Sergio could be inadmissible on the basis of serious criminality because he committed an offence that is the equivalent of an indictable or hybrid offence in Canada. However, he can apply to the minister for **individual rehabilitation after five years** have elapsed from the completion of his sentence, which is the case here (IRPA, s 36(3)(c); IRPR, r 17).
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-6 number"></i>
+
+♥️
 
 **Shauna** met with **Michaela**, an RCIC, for an initial free, 30-minute consultation. This week, Shauna returns to Michaela's office to sign a retainer agreement and gives Michaela a cheque for $1,000 for future services to be performed. After receiving the cheque, Michaela must do all of the following, **except**:
 
@@ -1478,6 +1564,8 @@ Each of the following is true of a **temporary resident permit (TRP)**, **except
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-9 number"></i>
 
+♥️
+
 **Alvita** is a 53-year-old citizen of Jamaica who is interested in immigrating to Nova Scotia under their Skilled Worker stream. She completed a bachelor degree in computer science and she has worked as a computer network technician (NOC 22220) for the past five years in her home country. She is highly proficient in English and obtained a CLB level of 9 in the four language abilities in the IELTS. Through a family connection, Alvita was able to obtain a permanent full-time job offer with a competitive salary in her profession in Nova Scotia. Many years ago, Alvita made a refugee claim to the Immigration and Refugee Board of Canada, which was refused. However, she complied with the removal order and left Canada on the required date.
 
 Based on the information provided does Alvita meet the criteria under the PNP Nova Scotia—Skilled Worker Stream?
@@ -1500,6 +1588,8 @@ An officer at a port of entry could deny entry to a foreign national with a temp
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-1 number"></i>
 
+♥️
+
 **Randy** was adopted from South Korea in 1980, when he was two years old, and he became a Canadian citizen by grant through his adoptive parents. The family stayed in South Korea until Randy was five, and then returned to the adoptive parents' hometown of Toronto, Ontario, where they adopted his younger sister. Growing up, Randy's parents were always open with him whenever he had questions about his background, and he has been volunteering with children's advocacy and mentorship groups for most of his life. Randy recently went back to his birth city of Seoul and, while there, he decided to adopt a one-year-old girl named **Joon**, whom he met through an international adoption agency.
 
 In these circumstances, which of the following is true?
@@ -1515,6 +1605,8 @@ In these circumstances, which of the following is true?
   > Therefore, since Randy has been residing in Canada since age of 5, he is eligible to pass his citizenship to his adopted child, Joon.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-2 number"></i>
+
+♥️
 
 **Nasser** is a Qatari citizen who wants to attend Dalhousie University to obtain his BSc in marine biology, a four-year program. He retains **Amina**, an RCIC, to assist him in applying for a study permit. Amina must advise Nasser to submit all of the following in his application, **except**:
 
@@ -1536,6 +1628,8 @@ In these circumstances, which of the following is true?
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
 **Lulu**, a 45-year-old German citizen, has been the owner of a microbrewery in her home country for the past three years. Prior to initiating this venture, she worked at Bayer AG, a German multinational pharmaceutical company, as a chemist (NOC 21101). Her net assets are CDN$150,000 and she has a basic level of French proficiency. Would Lulu qualify for the Quebec self-employed program?
 
 - [ ] No, because she does not meet the work experience required to qualify.
@@ -1549,6 +1643,8 @@ In these circumstances, which of the following is true?
   > Applicants in the Quebec self-employed program must have at least **CDN$100,000** in net assets to qualify, and Lulu has CDN$150,000. References: Québec Immigration Regulation, Québec: Conditions for immigrating to Québec as a self-employed worker.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-2 number"></i><i class="fa-solid fa-5 number"></i>
+
+♥️
 
 **Katarina** initially came to Canada on a student visa, but was found working without valid authorization after her student visa had expired. When a removal order was issued against her, she retained **Julian**, an RCIC, to inquire about her options. Katarina tells Julian that she is terrified of returning to her home country because she is a lesbian, and homosexual acts are criminalized in her country. She asks Julian whether she can make a refugee claim to stay in Canada permanently. In these circumstances, Julian should advise Katarina that:
 
@@ -1652,6 +1748,8 @@ After working in an immigration consulting firm with several other RCICs for fiv
   > Under IRPR r 215(2)(b), **a family member of a foreign national can apply for a study permit after entering Canada** if the foreign national resides in Canada and holds a work permit. Gina is required to obtain a study permit because her program of studies is longer than six months.
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-3 number"></i><i class="fa-solid fa-5 number"></i>
+
+♥️
 
 In assessing an application on humanitarian and compassionate grounds, the decision-maker will consider each of the following, **except**:
 
