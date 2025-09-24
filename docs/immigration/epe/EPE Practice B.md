@@ -1498,12 +1498,12 @@ Which of the following would not be a bar to sponsorship of a foreign national u
 
 ♥️
 
-**Tereza** came to Charlottetown, Prince Edward Island, to complete a two-year diploma program at the Culinary Institute of Canada, and returned to her hometown of Prague, Czech Republic, soon after she graduated. She is currently 27 years old, and has been working for 16 months as a pastry chef in a fine dining restaurant in a hotel in Prague. Tereza really misses her life in the Maritimes and begins to actively look into immigrating to Canada permanently. She has received a qualifying job offer to be a sous chef for a boutique hotel in Halifax, Nova Scotia, and scored a CLB 8 on her IELTS exams. 
+**Tereza** came to Charlottetown, Prince Edward Island, to complete a two-year diploma program at the Culinary Institute of Canada, and returned to her hometown of Prague, Czech Republic, soon after she graduated. She is currently 27 years old, and has been working for **16 months** as a pastry chef in a fine dining restaurant in a hotel in Prague. Tereza really misses her life in the Maritimes and begins to actively look into immigrating to Canada permanently. She has received a qualifying job offer to be a sous chef for a boutique hotel in Halifax, Nova Scotia, and scored a CLB 8 on her IELTS exams. 
 
 In these circumstances, which of the following is true?
 
 - [ ] Tereza meets the requirements of both the FSWP and the FST program.
-- [ ] Tereza meets the requirements of the FSWP.
+- [x] Tereza meets the requirements of the FSWP.
 - [ ] Tereza meets the requirements of the FST program.
 - [ ] Tereza does not meet the requirements of any immigration program at this time.
 > Under the FSWP, Tereza will score (19 + 12 + 20 + 9 + 10 + 10) 80 points, which exceeds the minimum score of 67 points. • Education (college diploma, two years) = 19 points • Age (27) = 12 points • Language (CLB 8) = 20 points (5 points for each of the four competencies) • Experience (one year of TEER 2 work experience) = 9 points • Arranged employment = 10 points • Adaptability (education in Canada, arranged employment) = 10 points 
@@ -1593,7 +1593,7 @@ Which of the following immigration programs would preserve Ezra's right to appea
 If a person is determined to be a person described by Article 1E of the Refugee Convention, then which of the following is true?
 
 - [ ] The person will be granted refugee status in Canada under the IRPA.
-- [ ] The person has taken residence in a country other than Canada, and has the protection of that country.
+- [x] The person has taken residence in a country other than Canada, and has the protection of that country.
 - [ ] There are serious grounds to believe that the person has committed crimes against humanity.
 - [ ] There are serious grounds to believe that the person has committed a serious non-political crime.
 > Under Refugee Convention Article **1E**, the Convention does not apply to persons who are "**recognized by the competent authorities** of the country in which they have taken residence as having the rights and obligations which are attached to the possession of the nationality of that country." 
@@ -1648,7 +1648,9 @@ In these circumstances, Caleb must advise Karim that:
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i><i class="fa-solid fa-9 number"></i>
 
-**Julie** is a Canadian citizen who is working in a hospital in Ireland. She began dating **Pamela**, another nurse at the hospital, and the couple got married in Dublin. Julie wants to sponsor Pamela and return with her to Canada to start a family. Pamela has early stage multiple sclerosis, and although her mobility is not significantly impaired now, her condition may worsen over time and require ongoing medical treatment and care. Will Pamela's medical condition affect Julie's sponsorship application?
+**Julie** is a Canadian citizen who is working in a hospital in Ireland. She began dating **Pamela**, another nurse at the hospital, and the couple got married in Dublin. Julie wants to sponsor Pamela and return with her to Canada to start a family. Pamela has early stage multiple sclerosis, and although her mobility is not significantly impaired now, her condition may worsen over time and require ongoing medical treatment and care. 
+
+Will Pamela's medical condition affect Julie's sponsorship application?
 
 - [ ] Yes, Pamela is inadmissible on health grounds because she may cause excessive demand on health or social services.
 - [x] No, because an exemption to inadmissibility on health grounds applies in these circumstances.
