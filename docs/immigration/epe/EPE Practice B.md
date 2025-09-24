@@ -25,7 +25,7 @@ tags:
 - [ ] March 17, 2029
 - [ ] Bernadette can make an H&C application at any time.
 - [ ] May 11, 2025
-> A designated foreign national who has made a refugee claim at the RPD cannot make an H&C application until **five years** after the date of the designation, or five years after the decision on the designated foreign national's refugee claim, appeal of a rejected refugee claim, or application for PRRA. Reference: IRCC Guide 5291.
+> A **designated foreign national** who has made a refugee claim at the RPD cannot make an H&C application until ==**five years**== after the date of the designation, or five years after the decision on the designated foreign national's refugee claim, appeal of a rejected refugee claim, or application for PRRA. Reference: IRCC Guide 5291.
 
 
 <i class="fa-solid fa-2 number"></i>
@@ -111,6 +111,8 @@ To apply for **judicial review** of the decision, Isobel must serve a notice of 
 
 <i class="fa-solid fa-8 number"></i>
 
+♥️
+
 In order to be sponsored as an "**orphaned close relative**" under the IRPA, which of the following is **not** required?
 
 - [ ] The sponsored relative must be under 18 years old.
@@ -145,7 +147,9 @@ Barbara may advise Charlie of all of the following with regard to his applicatio
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-1 number"></i>
 
-**Namir** is the owner of a taco franchise in southwestern Ontario. He wants to hire additional staff to assist him in the franchise's expansion across the province, and submits his job offer for prospective temporary foreign workers to Employment and Social Development Canada (ESDC) in order to obtain an LMIA. In assessing his job offer, the ESDC may consider each of the following factors, **except**:
+**Namir** is the owner of a taco franchise in southwestern Ontario. He wants to hire additional staff to assist him in the franchise's expansion across the province, and submits his job offer for prospective temporary foreign workers to Employment and Social Development Canada (ESDC) in order to obtain an LMIA. 
+
+In assessing his job offer, the ESDC may consider each of the following factors, **except**:
 
 - [ ] Whether Namir made reasonable efforts to recruit or hire Canadian citizens or permanent residents before offering the job to a foreign worker.
 - [x] Whether the temporary foreign workers are likely to be found inadmissible.
@@ -179,7 +183,9 @@ Is Adel eligible for Canadian citizenship?
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-4 number"></i>
 
-**Ben** is a Canadian citizen who met his wife, **Xiao Wen**, while working as an English teacher in China. The couple currently live in London, Ontario, and Xiao Wen would like to apply to sponsor both of her parents, who still live in her hometown of Nanjing, China. Ben currently works as a marketing coordinator and has had an annual income of $42,000 for the past three years, while Xiao Wen works as a financial advisor at a bank and has had an annual income of $48,000 for the past three years. Assuming that Ben and Xiao Wen applied to sponsor Xiao Wen's parents in 2024, which of the following is true?
+**Ben** is a Canadian citizen who met his wife, **Xiao Wen**, while working as an English teacher in China. The couple currently live in London, Ontario, and Xiao Wen would like to apply to sponsor both of her parents, who still live in her hometown of Nanjing, China. Ben currently works as a marketing coordinator and has had an annual income of $42,000 for the past three years, while Xiao Wen works as a financial advisor at a bank and has had an annual income of $48,000 for the past three years. 
+
+Assuming that Ben and Xiao Wen applied to sponsor Xiao Wen's parents in 2024, which of the following is true?
 
 - [ ] Xiao Wen meets the financial requirements to sponsor her parents.
 - [ ] The couple do not meet the financial requirements to sponsor Xiao Wen's parents.
@@ -203,7 +209,9 @@ Each of the following statements is true of a person seeking to enter Canada und
 
 <i class="fa-solid fa-1 number"></i><i class="fa-solid fa-6 number"></i>
 
-**Henry** is a Canadian citizen who works as a freelance photographer. While on a trip to Cambodia to photograph the ruins at Angkor Wat, he met **Raina**, a tourist from New Zealand. Henry followed Raina back to her home in Wellington, New Zealand, where he met **Pika**, Raina's four-year-old daughter from a previous relationship. The couple fell in love over the seven months that Henry stayed in New Zealand, and he proposed to Raina at the top of Mt. Kaukau. Henry has retained **Brian**, an RCIC in Wellington, to begin the process of applying to sponsor Raina and Pika for permanent residence. Henry asks Brian if he meets the financial requirements, because his income as a freelance photographer can be unpredictable, and he has had an average annual income of only $16,000 in the past two years because of his travels. Brian should advise Henry that:
+**Henry** is a Canadian citizen who works as a freelance photographer. While on a trip to Cambodia to photograph the ruins at Angkor Wat, he met **Raina**, a tourist from New Zealand. Henry followed Raina back to her home in Wellington, New Zealand, where he met **Pika**, Raina's four-year-old daughter from a previous relationship. The couple fell in love over the seven months that Henry stayed in New Zealand, and he proposed to Raina at the top of Mt. Kaukau. Henry has retained **Brian**, an RCIC in Wellington, to begin the process of applying to sponsor Raina and Pika for permanent residence. Henry asks Brian if he meets the financial requirements, because his income as a freelance photographer can be unpredictable, and he has had an average annual income of only $16,000 in the past two years because of his travels. 
+
+Brian should advise Henry that:
 
 - [ ] He meets the financial requirements for sponsorship because his income will be greater when he is not travelling.
 - [ ] He can sponsor Raina and Pika provided that Raina and Henry can show combined funds of $42,110.
@@ -264,7 +272,9 @@ If **Jay** loses at the IAD and wishes to apply to the Federal Court for judicia
 
 <i class="fa-solid fa-2 number"></i><i class="fa-solid fa-1 number"></i>
 
-**Sophie** became a Canadian permanent resident on **March 20, 2021**, after being co-sponsored by her son, Frank, and his wife, Beth, both Canadian citizens. A few months after Sophie arrived, her relationship with her son and daughter-in-law deteriorated, with Sophie frequently expressing her disapproval of the way the couple conducted their lives. Sophie eventually moved out of her son's home in September 2024, and had to go on social assistance for several months. Fortunately, she found a job as a customer service representative three months later and has been employed since. Who would be responsible for paying back the government for the social assistance that Sophie received?
+**Sophie** became a Canadian permanent resident on **March 20, 2021**, after being co-sponsored by her son, Frank, and his wife, Beth, both Canadian citizens. A few months after Sophie arrived, her relationship with her son and daughter-in-law deteriorated, with Sophie frequently expressing her disapproval of the way the couple conducted their lives. Sophie eventually moved out of her son's home in September 2024, and had to go on social assistance for several months. Fortunately, she found a job as a customer service representative three months later and has been employed since. 
+
+Who would be responsible for paying back the government for the social assistance that Sophie received?
 
 - [ ] Sophie, because she now has the ability to repay.
 - [ ] Frank and Sophie will be jointly liable.
@@ -273,6 +283,8 @@ If **Jay** loses at the IAD and wishes to apply to the Federal Court for judicia
 > Sponsors and co-sponsors are obligated to reimburse the government of Canada or a province for any social assistance provided to the sponsored foreign national for the duration of their undertaking. Beth and Frank's undertaking to support Sophie has not yet expired because **20 years** have not elapsed from the date she became a permanent resident (IRPR, r 132(1)).
 
 <i class="fa-solid fa-2 number"></i><i class="fa-solid fa-2 number"></i>
+
+♥️
 
 **Elisa** came to Saskatoon, Saskatchewan on a work permit that authorized her to work for a specific employer. She has been in Saskatoon for one year and would like to apply for an extension of her work permit because she really enjoys her job. Unfortunately, she forgot to send in the application for renewal to a case processing centre until **four months after** her work permit expired. In order to remain in Canada in these circumstances, Elisa could apply for:
 
@@ -283,6 +295,8 @@ If **Jay** loses at the IAD and wishes to apply to the Federal Court for judicia
 > Elisa cannot apply for an extension of status because her work permit has expired. She is not able to apply for a restoration of status because she **continues to engage in unauthorized work** and because **more than 90 days have passed since losing her status**. A temporary resident permit may be granted in exceptional circumstances to a person who does not meet the eligibility and/or admissibility requirements to remain temporarily in Canada (IRPA, s 24(2)). In this case, Elisa's circumstances would not be considered exceptional enough to warrant a TRP.
 
 <i class="fa-solid fa-2 number"></i><i class="fa-solid fa-3 number"></i>
+
+♥️
 
 **Huang** is a naturalized Canadian citizen who has worked for three years as an RCIC at an immigration consulting firm with offices in Vancouver and Beijing. He recently decided to start his own sole proprietorship practice, and registered a web domain name in order to promote his business. At his former firm, Huang had a track record of successfully assisting clients in immigrating to Canada under the business and entrepreneurship streams, and he would like to include some positive quotes and testimonials from his former clients on his website. Which of the following is true?
 
@@ -353,6 +367,8 @@ If Xian appears at a Canadian land border with an expired PR card, the CBSA offi
 
 <i class="fa-solid fa-2 number"></i><i class="fa-solid fa-8 number"></i>
 
+♥️
+
 If an officer outside Canada ever did take away Xian's PR status for failing to meet the residency obligation, she would have a right to appeal. She has **a right to attend the IAD appeal hearing** in person if:
 
 - [ ] She was in Canada for at least 730 days in the past five years.
@@ -386,7 +402,9 @@ If an officer outside Canada ever did take away Xian's PR status for failing to 
 
 <i class="fa-solid fa-3 number"></i><i class="fa-solid fa-0 number"></i>
 
-**Yujin** is an avid soccer fan who plays in several amateur leagues in South Korea. She would like to obtain a temporary resident visa to attend a tournament with her team, the Seoul Tigers, in Saskatoon, Saskatchewan in **March 2025**. However, she was convicted of assault in June 2018, following a drunken brawl while watching the World Cup in her local bar. She was sentenced to two years' probation and required to attend anger management counselling and do community service, which she completed in **November 2020**. Will Yujin be able to obtain a temporary resident visa to attend the tournament in March 2025?
+**Yujin** is an avid soccer fan who plays in several amateur leagues in South Korea. She would like to obtain a temporary resident visa to attend a tournament with her team, the Seoul Tigers, in Saskatoon, Saskatchewan in **March 2025**. However, she was convicted of assault in June 2018, following a drunken brawl while watching the World Cup in her local bar. She was sentenced to two years' probation and required to attend anger management counselling and do community service, which she completed in **November 2020**. 
+
+Will Yujin be able to obtain a temporary resident visa to attend the tournament in March 2025?
 
 - [x] No, because she is eligible to apply for individual rehabilitation in November 2025, which is after the tournament.
 - [ ] Yes, because she was deemed rehabilitated in July 2023.
@@ -396,7 +414,9 @@ If an officer outside Canada ever did take away Xian's PR status for failing to 
 
 <i class="fa-solid fa-3 number"></i><i class="fa-solid fa-1 number"></i>
 
-**Than** was adopted from Myanmar by a Canadian couple when he was two years old. He grew up with his adoptive family in Newmarket, Ontario, and is now 26 years old. Last year, Than was able to find his biological mother through a website for adopted orphans operated by an international NGO. Than recently reconnected with her during a one-month trip to Yangon and, through an interpreter, he learned of the tragic circumstances that led his mother to leave him at an orphanage during the Burmese civil war. She does not have any family members who survived the war, and currently works as a maid in a hotel. Can Than apply to sponsor his biological mother for permanent residence?
+**Than** was adopted from Myanmar by a Canadian couple when he was two years old. He grew up with his adoptive family in Newmarket, Ontario, and is now 26 years old. Last year, Than was able to find his biological mother through a website for adopted orphans operated by an international NGO. Than recently reconnected with her during a one-month trip to Yangon and, through an interpreter, he learned of the tragic circumstances that led his mother to leave him at an orphanage during the Burmese civil war. She does not have any family members who survived the war, and currently works as a maid in a hotel. 
+
+Can Than apply to sponsor his biological mother for permanent residence?
 
 - [x] No, because she is not eligible as a member of the family class.
 - [ ] Yes, provided that evidence proving that she is his biological mother is submitted.
@@ -468,7 +488,7 @@ In order to come to Canada as an intra-company transferee, an applicant must sub
 
 ♥️
 
-**Xing** paid a human smuggler to assist him in obtaining documents and arranging transit to Canada. Upon his arrival at Vancouver International Airport, Xing and two other people he travelled with were detained and designated as irregular arrivals. Although Xing made a refugee claim that was referred to the RPD, it was rejected last week on the grounds that he did not meet the definition of a Convention refugee or a person in need of protection. 
+**Xing** paid a human smuggler to assist him in obtaining documents and arranging transit to Canada. Upon his arrival at Vancouver International Airport, Xing and two other people he travelled with were detained and designated as **irregular arrivals**. Although Xing made a refugee claim that was referred to the RPD, it was rejected last week on the grounds that he did not meet the definition of a Convention refugee or a person in need of protection. 
 
 In these circumstances, which of the following is true?
 
@@ -478,7 +498,7 @@ In these circumstances, which of the following is true?
 - [ ] Xing can apply for permanent residence on humanitarian and compassionate grounds.
 > Under IRPA s 110(2)(a), **a refugee claimant cannot appeal a decision of the RPD to the RAD if they are a designated foreign national**. 
 > 
-> IRPA s 25(1.01) provides that a designated foreign national may not make an application on humanitarian and compassionate grounds until five years have elapsed from the date on which a determination on their claim is made.
+> IRPA s 25(1.01) provides that a designated foreign national may not make an application on humanitarian and compassionate grounds until **five years** have elapsed from the date on which a determination on their claim is made.
 
 <i class="fa-solid fa-3 number"></i><i class="fa-solid fa-7 number"></i>
 
@@ -502,7 +522,7 @@ It is mandatory for an RCIC to withdraw from representing a client in each of th
 - [ ] Miya qualifies under the BC PNP International Post-Graduate stream and Reika qualifies under the BC PNP International Graduate stream.
 > The BC International **Graduate stream** applies to international students who have graduated from a Canadian university or college in the past three years, while the BC International **Post-Graduate stream** applies to those who have graduated with a master's or PhD degree in the sciences from a BC post-secondary institution in the past three years. 
 > 
-> While the BC International Post-Graduate stream does not require applicants to have a qualifying job offer, the BC International Graduate stream does, so Reika is not yet eligible for the program. Reference: BC PNP Skills Immigration and Express Entry BC Program Guide.
+> **While the BC International Post-Graduate stream does not require applicants to have a qualifying job offer, the BC International Graduate stream does**, so Reika is not yet eligible for the program. Reference: BC PNP Skills Immigration and Express Entry BC Program Guide.
 
 
 !!! note "Case"
@@ -573,7 +593,9 @@ In these circumstances, Mwanje could apply to sponsor Kato as a:
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-3 number"></i>
 
-**Ferenc** is a grape farmer who has owned and operated a vineyard in Doborján, Hungary, for the past eight years. He is interested in establishing a fruit farm in Taber, Alberta, and meets with an RCIC to seek advice on applying to the Alberta Immigrant Nominee Program under the **self-employed farmer stream**. The RCIC will advise Ferenc that he must meet each of the following criteria, **except**:
+**Ferenc** is a grape farmer who has owned and operated a vineyard in Doborján, Hungary, for the past eight years. He is interested in establishing a fruit farm in Taber, Alberta, and meets with an RCIC to seek advice on applying to the Alberta Immigrant Nominee Program under the **self-employed farmer stream**. 
+
+The RCIC will advise Ferenc that he must meet each of the following criteria, **except**:
 
 - [ ] Invest at least $500,000 in a primary production farming business in Alberta.
 - [ ] Submit a business plan for his proposed farming enterprise in Alberta.
@@ -619,7 +641,7 @@ Would Medha need a student visa to enroll in these courses?
 - [ ] No, because she will not be receiving a degree after the completion of both courses.
 > Medha may complete both courses without a study permit because each course is less than six months long and can be completed within one year, which is within the original period of stay authorized upon her entry. 
 > 
-> Under IRPR r 188(1)(c), a foreign national may study in Canada without a study permit if the duration of the course or program of studies is less than six months and will be completed within the period of the person's authorized stay in Canada.
+> Under IRPR r 188(1)(c), a foreign national may study in Canada without a study permit if the duration of the course or program of studies is **less than six months** and will be **completed within the period** of the person's authorized stay in Canada.
 
 
 <i class="fa-solid fa-4 number"></i><i class="fa-solid fa-7 number"></i>
@@ -642,7 +664,7 @@ Would Medha need a student visa to enroll in these courses?
 The time frame for Juan to file his basis of claim (BOC) form at the RPD is:
 
 - [ ] No later than the day on which the officer found his claim was eligible and referred it to the RPD.
-- [ ] 15 days after the officer referred the claim to the RPD.
+- [x] 15 days after the officer referred the claim to the RPD.
 - [ ] 10 days after referral to the RPD, as Mexico is a Designated Country of Origin (DCO) with shortened time frames.
 - [ ] 15 days from the date of arrival when he initially made his claim.
 > As this claim was made at the **port of entry**, the correct rule is found in the IRPR, s 159.8(2), namely **15 days after referral to the RPD**. 
@@ -713,6 +735,8 @@ An applicant may apply for permanent residence under the Caregiver program in wh
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-3 number"></i>
 
+♥️
+
 **Sung** is a wrestler from North Korea. Upon arriving in Edmonton, Alberta, for an international wrestling competition, he immediately made a refugee claim with CBSA officers at the airport. During his interview, Sung tells officers that his life is under constant surveillance by his country's government, and that he was subject to house arrest and harassment by state agents when he failed to perform to expectations at international competitions. 
 
 If Sung's claim is determined to be eligible to be referred to the RPD, which of the following is **not** true?
@@ -741,6 +765,8 @@ If Sung's claim is determined to be eligible to be referred to the RPD, which of
 > Under Code of Professional Conduct section 38, **a licensee must supervise and assume professional responsibility for any work** done by a person who assists in the provision of immigration or citizenship consulting services and ensure that the level of supervision is adequate for the type of work in question (s 38((2)), and must also ensure that any person who assists in the provision of those services does not carry out any acts that, if carried out by the licensee, would contravene the Code (s 38(1)(c)).
 
 <i class="fa-solid fa-5 number"></i><i class="fa-solid fa-5 number"></i>
+
+♥️
 
 In order to be considered a Convention refugee under the IRPA, a refugee claimant must meet all of the following requirements **except**:
 
@@ -1091,7 +1117,9 @@ Each of the following people would be exempt from the requirement to apply for a
 
 ♥️
 
-**Friso** was convicted in Australia of assault with the use of a weapon in 1995, when he was 20 years old. He served two years in jail. He has only one other offence on his record, for impaired driving 14 years ago. He is now married to **Edvard**, a Canadian citizen, who wishes to sponsor him for permanent residence. Section 267(a) of the Criminal Code states that everyone who uses a weapon in committing an assault is "guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years or is guilty of an offence punishable on summary convictions." Friso's conviction for assault with a weapon means that he will be inadmissible:
+**Friso** was convicted in Australia of assault with the use of a weapon in 1995, when he was 20 years old. He served two years in jail. He has only one other offence on his record, for impaired driving 14 years ago. He is now married to **Edvard**, a Canadian citizen, who wishes to sponsor him for permanent residence. Section 267(a) of the Criminal Code states that everyone who uses a weapon in committing an assault is "guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years or is guilty of an offence punishable on summary convictions." 
+
+Friso's conviction for assault with a weapon means that he will be inadmissible:
 
 - [x] For serious criminality under IRPA s 36(1)(b), because the maximum Canadian punishment is 10 years.
 - [ ] For criminality under IRPA s 36(2)(b).
@@ -1119,10 +1147,12 @@ What impact will Friso's criminal record have on the sponsorship application?
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-2 number"></i>
 
-**Antonio**, a Mexican citizen, obtained a job offer to work in Ontario as a biologist (NOC 21110). His employer obtained a positive Labour Market Impact Assessment from Employment and Social Development Canada and he subsequently applied for a work permit to the IRCC. A few days later, he received a letter from IRCC requesting that he attend an interview for the purpose of clarifying information on his application. Antonio quickly retained your legal services, and he has asked you what he should expect from the interview and what he should do to prepare. In order to effectively prepare Antonio for his upcoming interview, which of the following should you advise him to do?
+**Antonio**, a Mexican citizen, obtained a job offer to work in Ontario as a biologist (NOC 21110). His employer obtained a positive Labour Market Impact Assessment from Employment and Social Development Canada and he subsequently applied for a work permit to the IRCC. A few days later, he received a letter from IRCC requesting that he attend an interview for the purpose of clarifying information on his application. Antonio quickly retained your legal services, and he has asked you what he should expect from the interview and what he should do to prepare. 
+
+In order to effectively prepare Antonio for his upcoming interview, which of the following should you advise him to do?
 
 - [ ] Bring copies of the advertisement placed by the Canadian employer to show that there were no Canadian citizens or permanent residents available to fill the position offered to him.
-- [ ] Bring employment and academic records.
+- [x] Bring employment and academic records.
 - [ ] Bring official license and registration of his occupation in Ontario.
 - [ ] Bring a printout of the job bank website showing that the salary offered complies with the median wage requirement.
 > Antonio must bring to the interview official educational/professional documents to prove that he has the **ability and intention to perform the duties** of a biologist in Canada, per IRPR r 200(1). 
@@ -1141,13 +1171,15 @@ What impact will Friso's criminal record have on the sponsorship application?
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-4 number"></i>
 
+♥️
+
 **Malcolm** recently received notice of the rejection of his Canadian citizenship application. In its decision, the Citizenship Commission found that he did not meet the residency requirements. Malcolm disagrees with their assessment, and retains **Yen**, an RCIC, to discuss what his options are. Yen should advise Malcolm that:
 
 - [ ] He can appeal the decision to the Federal Court within 60 days.
 - [x] He can apply for leave for judicial review of the decision to the Federal Court within **30 days**.
 - [ ] He can appeal the decision to a senior judge of the Citizenship Commission within 30 days.
 - [ ] He must reapply for citizenship.
-> Under Citizenship Act s 22.1(2)(a), an application for judicial review for a decision made under the Act may only be made with leave from the court and must be made within 30 days after the date on the refusal letter. Reference: IRCC.
+> Under ***Citizenship Act*** s 22.1(2)(a), an application for **judicial review** for a decision made under the Act may only be made with leave from the court and must be made within **30 days** after the date on the refusal letter. Reference: IRCC.
 
 <i class="fa-solid fa-8 number"></i><i class="fa-solid fa-5 number"></i>
 
@@ -1169,7 +1201,9 @@ In these circumstances, which of the following is true?
 
 ♥️
 
-**Monica** is an RCIC with four years' experience. Recently, a client made a complaint against her, alleging that she failed to submit documentation to the IRCC on time, leading to the client's application being refused. The complaint has been referred to the **Discipline Committee**, and Monica has now received a notice of referral informing her that she is required to attend a pre-hearing conference on **January 10, 2025**. On December 8, 2024, Monica meets with **Robin**, a lawyer specializing in professional regulation matters, and retains him to represent her at the pre-hearing conference. What notice must Monica give the Discipline Committee with respect to her retaining a representative in this matter?
+**Monica** is an RCIC with four years' experience. Recently, a client made a complaint against her, alleging that she failed to submit documentation to the IRCC on time, leading to the client's application being refused. The complaint has been referred to the **Discipline Committee**, and Monica has now received a notice of referral informing her that she is required to attend a pre-hearing conference on **January 10, 2025**. On December 8, 2024, Monica meets with **Robin**, a lawyer specializing in professional regulation matters, and retains him to represent her at the pre-hearing conference. 
+
+What notice must Monica give the Discipline Committee with respect to her retaining a representative in this matter?
 
 - [ ] Monica must give the Discipline Committee written notice by December 15, 2024.
 - [x] Monica must give the Discipline Committee written notice by December 16, 2024.
@@ -1260,7 +1294,7 @@ In these circumstances, can the officers refer Olivero's claim to the RPD?
 
 ♥️
 
-If a permanent resident is named in a security certificate that is referred to the Federal Court, then each of the following is true, **except**:
+If a permanent resident is named in a **security certificate** that is referred to the Federal Court, then each of the following is true, **except**:
 
 - [ ] If the judge determines that the certificate is reasonable, it automatically becomes an enforceable removal order.
 - [ ] The Federal Court may conduct a closed hearing where evidence may be heard in the absence of the person named in the certificate.
@@ -1306,7 +1340,7 @@ What will Alistair advise Bradley about the BC Provincial Nominee Program?
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-6 number"></i>
 
-Each of the following persons could apply for a work permit while in Canada, **except**:
+Each of the following persons could **apply for a work permit while in Canada**, **except**:
 
 - [ ] A foreign national who has a temporary resident permit that is valid for at least six months.
 - [ ] A foreign national who has a spouse or common law partner who is in Canada on a study permit.
@@ -1341,7 +1375,7 @@ Who will be required to take the citizenship knowledge test as part of their app
 - [ ] Irene and Lukas.
 - [x] Irene only.
 - [ ] The citizenship test is not required because Irene's husband is a Canadian citizen.
-> Applicants between **18 and 54** years of age at the time they signed their application for citizenship must take the citizenship knowledge test. Since Lukas was 17 at the time he signed his application, he is not required to write the citizenship knowledge test. Reference: IRCC.
+> Applicants between ==**18 and 54**== years of age at the time they signed their application for citizenship must take the citizenship knowledge test. Since Lukas was 17 at the time he signed his application, he is not required to write the citizenship knowledge test. Reference: IRCC.
 
 <i class="fa-solid fa-9 number"></i><i class="fa-solid fa-9 number"></i>
 
@@ -1359,7 +1393,9 @@ Who will be required to take the citizenship knowledge test as part of their app
 
 ♥️
 
-**Juan** is a Venezuelan citizen who works as a journalist for one of the country's most widely read newspapers. After uncovering and reporting on government corruption, Juan is arrested by authorities, and imprisoned for ten months on false charges. After being released and placed under house arrest, Juan secretly flees his home one night, and boards a flight to San Francisco. Juan stays in San Francisco for three months, keeping a low profile, and eventually makes his way to Canada, arriving at the land border between Montana and Alberta, where he makes a refugee claim. However, Juan's claim is determined to be ineligible to be referred to the RPD because he arrived directly from the United States. In these circumstances, can Juan apply for PRRA?
+**Juan** is a Venezuelan citizen who works as a journalist for one of the country's most widely read newspapers. After uncovering and reporting on government corruption, Juan is arrested by authorities, and imprisoned for ten months on false charges. After being released and placed under house arrest, Juan secretly flees his home one night, and boards a flight to San Francisco. Juan stays in San Francisco for three months, keeping a low profile, and eventually makes his way to Canada, arriving at the land border between Montana and Alberta, where he makes a refugee claim. However, Juan's claim is determined to be ineligible to be referred to the RPD because he arrived directly from the United States. 
+
+In these circumstances, can Juan apply for **PRRA**?
 
 - [x] No, he is ineligible to apply for PRRA.
 - [ ] Yes, because he meets the definition of a person in need of protection.

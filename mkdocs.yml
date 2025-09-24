@@ -169,11 +169,12 @@ nav:
           - How to Count Residency Period: immigration/rc.md
           - A writ of Mandamus: immigration/mandamus.md
           - From AoR to CoPR: immigration/prjourney.md
-  - Taxes:
-      - Few Things to Know as New Immigrants: tax/fewthings.md
-      - Tax Brackets: tax/2024-02-26-taxBrackets.md
-      - Non-resident Tax of Property Sale: tax/2024-02-26-nonResidentTax.md
-      - Non-resident Tax General: tax/2024-02-27-nonResidentGeneral.md
+  - Finance:
+      - Few Things to Know as New Immigrants: finance/fewthings.md
+      - Tax Brackets: finance/2024-02-26-taxBrackets.md
+      - Non-resident Tax of Property Sale: finance/2024-02-26-nonResidentTax.md
+      - Non-resident Tax General: finance/2024-02-27-nonResidentGeneral.md
+      - Forex at TD: finance/tdex.md
   - Blog:
       - blog/index.md
   - About:
