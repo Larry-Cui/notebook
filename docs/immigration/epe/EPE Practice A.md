@@ -257,13 +257,13 @@ The officer may not fetter their discretion. A fettering of discretion in this c
 
 ♥️
 
-**Hugo** is an RCIC in Moncton, New Brunswick, with over eight years of experience. To the shock of many in the community, he was arrested at his home on April 3, 2024, and charged with possession and trafficking of cocaine. Hugo's criminal trial is scheduled to commence in December 2024, and he has vowed through his lawyer to fight the charges and assert his innocence. However, as a result of the allegations, counsel for the ICCRC makes an urgent motion for a Discipline Committee hearing, and delivers notice to Hugo on **Novemver 14, 2024**. In these circumstances, which of the following is true?
+**Hugo** is an RCIC in Moncton, New Brunswick, with over eight years of experience. To the shock of many in the community, he was arrested at his home on April 3, 2024, and charged with possession and trafficking of cocaine. Hugo's criminal trial is scheduled to commence in December 2024, and he has vowed through his lawyer to fight the charges and assert his innocence. However, as a result of the allegations, counsel for the ICCRC makes an **urgent motion** for a Discipline Committee hearing, and delivers notice to Hugo on **Novemver 14, 2024**. In these circumstances, which of the following is true?
 
 - [ ] Hugo's license to practise cannot be suspended because he has not been convicted on the charges yet.
 - [ ] The hearing on the urgent motion must be heard by November 22, 2024.
 - [ ] Hugo's license to practise will be automatically suspended until the conclusion of his criminal trial.
 - [x] The hearing on the urgent motion must be heard by December 06, 2024.
-  > An **urgent motion** to the Discipline Committee must be heard **within 21 days** after it has been delivered to the member (Tribunal Committee Rules of Procedure, s 42.1).
+  > An **urgent motion** to the Discipline Committee must be heard ==**within 21 days**== after it has been delivered to the member (Tribunal Committee Rules of Procedure, s 42.1).
 
 <i class="fa-solid fa-2 number"></i><i class="fa-solid fa-0 number"></i>
 
@@ -388,6 +388,8 @@ If Santiago is deemed a vulnerable claimant and the Minister is not a party to t
   > However, **the Member may vary the order of questioning to accommodate a vulnerable person** (RPD Rules, 10(5)).
 
 <i class="fa-solid fa-2 number"></i><i class="fa-solid fa-9 number"></i>
+
+♥️
 
 **Nikola** immigrated from Serbia and became a Canadian citizen on September 23, 2015. Recently, it was discovered that he had previously been convicted of theft in Belgrade in the late 1990s, and had served a four-year prison sentence that he completed prior to immigrating to Hamilton, Ontario. This was not initially discovered by visa officers because Nikola submitted in his application for permanent resident status a forged criminal record that he obtained by bribing a police officer. In these circumstances:
 
