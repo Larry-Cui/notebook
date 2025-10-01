@@ -32,5 +32,6 @@ Maybe yes, but a bad news for foreign lawyers is:
 
 [Foreign-Trained Lawyers Program](https://law.ucalgary.ca/future-students/post-jdllb-certificate-programs/foreign-trained-lawyers-program){:target="_blank"}, which is a program being held by some Canadian law schools that aiming to help foreign lawyers to get a Canadian lawyer license through an express path, has to be attended in person, full time. 
 
+## Distance Learning No Study Permit
 
-
+Distance learning does not require a study permit. Please see IRCC operational instructions and guidelines: [Study permits: Other considerations](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/other-considerations.html){:target="_blank"}
