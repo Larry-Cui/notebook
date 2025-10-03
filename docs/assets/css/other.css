@@ -37,9 +37,9 @@
 
 .highlight.green {
 	width: 100%;
-	background-color: rgba(60, 222, 20, 0.1);
+	background-color: rgba(60, 222, 20, 0.05);
 	/* border-radius: 5px; */
-	border-left: 0.3em solid rgb(34, 178, 34);
+	border-left: 0.3em solid rgb(34, 178, 34, 0.7);
 	padding: 0.5em;
 	padding-left: 1em;
 	margin: 0.5em auto;
