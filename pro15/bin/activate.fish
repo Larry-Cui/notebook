@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/mac2015/Library/Mobile Documents/com~apple~CloudDocs/Blog/notebook/pro15"
+set -gx VIRTUAL_ENV "/Users/larry/Library/Mobile Documents/com~apple~CloudDocs/Blog/notebook/pro15"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
