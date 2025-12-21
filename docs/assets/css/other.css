@@ -73,3 +73,12 @@ span.Coral {
 	color: #ff4500;
 	font-size: 1.5em;
 }
+
+
+/* 在中文字符和英文字母之间添加空格 */
+  /* 或针对数字: text-autospace: ideograph-numeric; */
+  /* 或组合: text-autospace: ideograph-alpha ideograph-numeric; 等于 text-autospace: normal; */
+
+body {
+	text-autospace: normal;
+}
