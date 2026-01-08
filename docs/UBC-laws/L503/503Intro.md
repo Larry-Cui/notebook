@@ -159,7 +159,7 @@ Please see the assignment instructions on the course website after February 16 t
 
 ***Final Exam***
 
-==**UBC will set the scheduling of the final exam.**==  You will have three hours to write the exam.  It will be open book and consist of a long answer fact pattern and short answer discussion questions.  You will be expected to cite appropriate case law and/or statutes.
+==**UBC will set the scheduling of the final exam.**==  You will have three hours to write the exam.  It will be ==**open book**== and consist of a long answer fact pattern and short answer discussion questions.  You will be expected to cite appropriate case law and/or statutes.
 
 All exams in Allard's online courses are written on your own computer through a software called Proctorio. 
 
