@@ -6,7 +6,8 @@ draft: false
 categories:
   - Law
 tags:
-  - Ethics
+  - LAW_V 588 99C 2025W2 Ethics and Professionalism
+  - Introduction
 ---
 
 # LAW_V 588 99C 2025W2 Ethics and Professionalism

@@ -6,7 +6,8 @@ draft: false
 categories:
   - Law
 tags:
-  - Tort Law
+  - LAW_V 503E E_99C 2025W2 Tort Law - Tort Law
+  - Introduction
 ---
 
 # LAW_V 503E E_99C 2025W2: Tort Law
