@@ -46,7 +46,7 @@ Quizzes comprise 10% of your course grade.  Each Module (except for Module 10) w
 
 The final exam comprises 70% of your course grade. 
 
-The final exam will be **open book** and will include any cases and readings in the course, as well as any topics discussed in the course.  You will be expected to be familiar with and cite relevant sections of the *Legal Profession Act*, *Code of Professional Conduct of B.C.* as well as appropriate case law and/or other statutes along with any other relevant material from the course in your answers.
+The final exam will be ==**open book**== and will include any cases and readings in the course, as well as any topics discussed in the course.  You will be expected to be familiar with and cite relevant sections of the *Legal Profession Act*, *Code of Professional Conduct of B.C.* as well as appropriate case law and/or other statutes along with any other relevant material from the course in your answers.
 
 
 
