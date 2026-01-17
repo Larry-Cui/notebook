@@ -1,0 +1,84 @@
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.fa-solid.number {
+	height: 1.6em;
+	width: 1.6em;
+	text-align: center;
+	padding: 5px 5px;
+	color: #0077b6;
+	color: #f77f00;
+	background-color: #caf0f8;
+	background-color: #f77f0022;
+	border-radius: 50%;
+	margin-right: 5px;
+	margin-right: -6px;
+}
+
+.highlight.red {
+	width: 100%;
+	background-color: rgba(222, 20, 60, 0.1);
+	/* border-radius: 5px; */
+	border-left: 0.3em solid rgb(178, 34, 34);
+	padding: 0.5em;
+	padding-left: 1em;
+	margin: 0 auto;
+}
+
+.highlight.green {
+	width: 100%;
+	background-color: rgba(60, 222, 20, 0.05);
+	/* border-radius: 5px; */
+	border-left: 0.3em solid rgb(34, 178, 34, 0.7);
+	padding: 0.5em;
+	padding-left: 1em;
+	margin: 0.5em auto;
+}
+
+.highlight.blue {
+	width: 100%;
+	background-color: rgba(151, 212, 233, 0.1);
+	/* border-radius: 5px; */
+	border-left: 0.3em solid #97d4e9;
+	padding: 0.5em;
+	padding-left: 1em;
+	margin: 0.5em auto;
+}
+
+.highlight.yellow {
+	width: 100%;
+	background-color: rgba(255, 215, 0, 0.1);
+	/* border-radius: 5px; */
+	border-left: 0.3em solid rgb(218, 165, 32);
+	padding: 0.5em;
+	padding-left: 1em;
+	margin: 0.5em auto;
+}
+
+span.Coral {
+	color: #ff7f50;
+}
+
+.fa-triangle-exclamation {
+	color: #ff4500;
+	font-size: 1.5em;
+}
+
+
+/* 在中文字符和英文字母之间添加空格 */
+  /* 或针对数字: text-autospace: ideograph-numeric; */
+  /* 或组合: text-autospace: ideograph-alpha ideograph-numeric; 等于 text-autospace: normal; */
+
+body {
+	text-autospace: normal;
+}
