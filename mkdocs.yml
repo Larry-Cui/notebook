@@ -48,7 +48,7 @@ nav:
   - Laws:
       - Path Toward Practice in Canada: articles/2024-08-18-NCA.md
       - UBC online Courses:
-          - LAW_V 505 99A:
+          - LAW_V 505 Constitutional:
               - Intro: UBC-laws/L505/505Intro.md
               - Unit 1: UBC-laws/L505/505Unit1.md
               - Unit 2: UBC-laws/L505/505Unit2.md
@@ -57,7 +57,7 @@ nav:
               - Unit Discussion: UBC-laws/L505/Unit1-4Dis.md
               - Unit 5: UBC-laws/L505/505Unit5.md
               - Unit 6: UBC-laws/L505/505Unit6.md
-          - Law_V 509 99A:
+          - Law_V 509 Administrative:
               - Intro: UBC-laws/L509/509Intro.md
               - Unit 1: UBC-laws/L509/509Unit1.md
               - Unit 2: UBC-laws/L509/509Unit2.md
