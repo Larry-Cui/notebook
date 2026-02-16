@@ -4,6 +4,10 @@ title: 英女王伊丽莎白二世驾崩
 date: 2022-09-08
 categories:
   - 学习笔记
+tags:
+  - Comments
+  - Politics
+draft: false
 ---
 
 <img style="display: inline-block; width: 100%; object-fit: cover;" src="https://lh3.googleusercontent.com/kaU6Bu37i4lhCG7j9RRp7Zis5u_KTg4yiPKmBFeu9yr2DggcUCQt21ky-hOwxvfcUNThi6hnAIJcuVN6SJruAHrL6SbKRlBYs3pQaTFLzlpB5lVpxDc0wzRgp9SP13YzMCEdtqGo2A=w2400" alt="canada_flag"/>

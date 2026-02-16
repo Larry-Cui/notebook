@@ -3,6 +3,10 @@ title: 在早春的日子里
 date: 2022-06-30
 categories:
   - 学习笔记
+tags:
+  - Prose
+  - Memoirs
+draft: false
 ---
 
 <img style="display: inline-block; width: 100%; object-fit: cover" src="https://lh3.googleusercontent.com/gLycs4ujic94enAuJtcVolsHAGK_77F8Ns3jYkvS1tReP4LRzMH8oMRrlKTF9QsYL-79Cxi2O8yZ94hL8-MuUx5ADOADWPVQPU_fRAog3xjOBMj8okLkSQHZ9LeKKSEkU0pQirCJQw=w2400" alt="spring_snow"/>

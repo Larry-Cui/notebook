@@ -3,6 +3,10 @@ title: 时代革命
 date: 2022-09-26
 categories:
   - 时政评说
+tags:
+  - Comments
+  - Politics
+draft: false
 ---
 
 <img style="display: inline-block; width: 100%; object-fit: cover;" src="https://lh3.googleusercontent.com/Lm4Wdrsq_y2_OQvJIJDbXjMhenV8uv9tmrhD67p79G_OpaTmHKHiwnKWUmsJc84_mPSSeO4cj-ZWN2vAFNEW56ZpiETx5-auNzvJJTlG5NnfFGow8sM7JMB339O_KyRrNy8qvc5MwQ=w2400" alt="canada_flag"/>

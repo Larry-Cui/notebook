@@ -3,6 +3,10 @@ title: Badminton Rules in Nutshell
 date: 2024-01-10
 categories:
   - 学习笔记
+tags:
+  - Badminton
+  - Sports
+draft: false
 ---
 
 <a href="https://lh3.googleusercontent.com/pw/ABLVV87SMdeuX9R2CUO1T1G_NnIg3ZwYa2_5SMjD0FeioTbGms3sogwAt6CkyCXOHUbhjUC6FEVUSdTZfWSz2Ah75Pl-u_bdUN3CLoISFvlwp2n31IqIwQg=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/ABLVV87SMdeuX9R2CUO1T1G_NnIg3ZwYa2_5SMjD0FeioTbGms3sogwAt6CkyCXOHUbhjUC6FEVUSdTZfWSz2Ah75Pl-u_bdUN3CLoISFvlwp2n31IqIwQg=w600-h315-p-k" style="width: 100%" /> </a>
