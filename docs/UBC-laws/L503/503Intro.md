@@ -140,7 +140,7 @@ The final exam is scheduled according to the Faculty’s exam timetable.  You wi
     </tr>
         <tr>
         <td>Exam Period</td>
-        <td>Exam Date set by UBC</td>
+        <td>April 16, 2026, 12pm @ Vancouver Time Zone</td>
         <td>Three-hour exam (open book)</td>
         <td style="color:red">Final Exam</td>
     </tbody>

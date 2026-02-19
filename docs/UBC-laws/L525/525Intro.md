@@ -112,7 +112,7 @@ Additional readings are provided online throughout the course.
     </tr>
         <tr>
         <td style="color:red">FINAL EXAMINATION</td>
-        <td>Date and time to be set by UBC usually in mid-March.</td>
+        <td>April 14, 2026, 12pm @ Vancouver Time Zone</td>
     </tr>
     </tbody>
 </table>
