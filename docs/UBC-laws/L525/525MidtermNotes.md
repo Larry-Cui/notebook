@@ -162,6 +162,9 @@ This case, ***R. v. Anderson***, [2014 SCC 41](https://canlii.ca/t/g784t){:targe
     - [37] This Court has repeatedly affirmed that prosecutorial discretion is a necessary part of a properly functioning criminal justice system ... the fundamental importance of prosecutorial discretion was said to lie, 
 
         > not in protecting the interests of individual Crown attorneys, but in advancing the public interest by enabling prosecutors to make discretionary decisions in fulfilment of their professional obligations without fear of judicial or political interference, thus fulfilling their quasijudicial role as ‘ministers of justice.’” 
+
+!!! info "*Anderson* Cont'd"
+    
     - [45] In sum, prosecutorial discretion applies to a wide range of prosecutorial decision making. That said, care must be taken to distinguish matters of prosecutorial discretion from constitutional obligations. **The distinction between prosecutorial discretion and the constitutional obligations of the Crown was made** in ***Krieger***, where the prosecutor’s duty to disclose relevant evidence to the accused was at issue:
 
         > ... disclosure of relevant evidence is not, therefore, a matter of prosecutorial discretion but, rather, is a prosecutorial duty. 
@@ -452,6 +455,9 @@ The following extract from Cory J’s judgment in ***Wholesale Travel Group Inc*
 
     - The correct approach, in my opinion, is to **relieve the Crown of the burden** of proving *mens rea*, having regard to ***Pierce Fisheries*** and to the virtual impossibility in most regulatory cases of proving wrongful intention. Equally, there is nothing wrong with **rejecting absolute liability and admitting the defence of reasonable care**. 
     - it is open to the defendant to prove that all due care has been taken. This **burden falls upon the defendant** as he is the only one who will generally have the means of proof. This would not seem unfair as the alternative is absolute liability which denies an accused any defence whatsoever. While the prosecution must prove **beyond a reasonable doubt** that the defendant committed the prohibited act, the defendant must only establish o**n the balance of probabilities** that he has a defence of reasonable care. 
+    
+!!! info "*R. v. Sault Ste. Marie*, [1978 CanLII 11 (SCC)](https://canlii.ca/t/1mkbt){:target=" \_blank"} Cont'd" 
+    
     - I conclude, for the reasons which I have sought to express, that there are compelling grounds for the recognition of **three categories of offences** rather than the traditional two:
         - **Offences** in which *mens rea*, consisting of some positive state of mind such as intent, knowledge, or recklessness, must be proved by the prosecution either as an inference from the nature of the act committed, or by additional evidence.
         - **Offences** in which there is no necessity for the prosecution to prove the existence of *mens rea*; the doing of the prohibited act *prima facie* imports the offence, leaving it open to the accused to avoid liability by proving that he took all reasonable care. 
