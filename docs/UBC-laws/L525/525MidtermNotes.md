@@ -313,7 +313,7 @@ There are also “**general omission offences**” which are more vague. These s
 
     **217** Every one who undertakes to do an act is under a legal duty to do it if an omission to do the act is or may be dangerous to life.
 
-    *Criminal negligence*
+<!-- *Criminal negligence*
 
     **219** (1) Every one is criminally negligent who
         
@@ -324,7 +324,7 @@ There are also “**general omission offences**” which are more vague. These s
 
     *Definition of duty*
 
-    (2) For the purposes of this section, duty means a duty imposed by law.
+    (2) For the purposes of this section, duty means a duty imposed by law. -->
 
 !!! info "*R. v. Browne*, [1997 CanLII 1744 (ON CA)](https://canlii.ca/t/6h8v){:target=" \_blank"}"
 
@@ -384,6 +384,9 @@ In the following case the Supreme Court of Canada offered an approach for assess
 
     - [5] ... the test for legal causation set out by this Court in ***Smithers v. The Queen***, [1978] 1 S.C.R. 506, and confirmed in ***R. v. Nette***, 2001 SCC 78, [2001] 3 S.C.R. 488: **Were the unlawful acts of the appellants a significant contributing cause of death?**
     - [15] In ***Nette***, this Court affirmed the validity of the *de minimis* causation standard expressed in ***Smithers*** for culpable homicide. Writing for the majority, Arbour J. noted that **causation in homicide cases involves two aspects**: **factual** and **legal causation**. **Factual causation** is “an inquiry about how the victim came to his or her death, in a medical, mechanical, or physical sense, and with the contribution of the accused to that result” (***Nette***, at para. 44). **The trier of fact usually asks: “But for”** the action(s) of the accused, would the death have occurred?
+    
+!!! info "*R. v. Maybin*, [2012 SCC 24](https://canlii.ca/t/frczg){:target=" \_blank"} Cont'd"
+    
     - [16] **Legal causation**, however, is a narrowing concept which funnels a wider range of factual causes into those which are **sufficiently connected** to a harm to warrant legal responsibility. Arbour J. noted that legal causation is “based on concepts of **moral responsibility** and is **not a mechanical or mathematical exercise**” (***Nette***, at para. 83). 
     - [28] **Neither** an unforeseeable intervening act **nor** an independent intervening act is necessarily a **sufficient condition to break the chain** of legal causation. Similarly, the fact that the intervening act was reasonably foreseeable, or was not an independent act, is not necessarily a sufficient condition to establish legal causation. ... the causation test articulated in ***Smithers*** and confirmed in ***Nette*** remains the same: **Were the dangerous, unlawful acts of the accused a significant contributing cause of the victim’s death?**
     - [29] Depending on the circumstances, assessments of **foreseeability** or **independence** may be more or less **helpful** in determining whether an accused’s unlawful acts were still a significant contributing cause at the time of death.
@@ -507,6 +510,9 @@ In ***Sansregret***, the Supreme Court of Canada describes the concepts of **rec
 
     - As a practical matter, though, situations where **duress** will operate to “**negate**” *mens rea* will be **exceptional**, for the simple reason that the types of mental states that are capable of being “negated” by duress are not often found in the definitions of criminal offences. 
     - In general, a person who performs an action in response to a threat will know what he or she is doing, and will be aware of the probable consequences of his or her actions. Whether or not he or she **desires** the occurrence of these consequences will **depend on the particular circumstances**. 
+
+!!! info "*R. v. Hibbert*, [1995 CanLII 110 (SCC)](https://canlii.ca/t/1frjf){:target=" \_blank"} Cont'd"
+
     - The conclusions that can be extracted from the discussion in the previous sections may be summarized as follows:
         - A person who commits a criminal act under threats of death or bodily harm may also be able to **invoke an excuse-based defence** (either the statutory defence set out in **s. 17** or the common law defence of duress, depending on whether the accused is charged as a principal or as a party). This is so **regardless** of whether or not the offence at issue is one where the presence of coercion also has **a bearing on the existence** of *mens rea*. 
         - The mental states specified in **s. 21(1)(b)** and **(2)** of the *Criminal Code* are **not susceptible to being “negated” by duress**. Consequently, it is not open to persons charged under these sections to argue that because their acts were coerced by threats they lacked the requisite *mens rea*. Such persons may, however, seek to have their conduct **excused through the operation of the common law defence of duress**.
@@ -536,16 +542,14 @@ In ***R. v. Briscoe***, [2010 SCC 13](https://canlii.ca/t/29280){:target=" \_bla
 
 ## Discussion Activity:  Identifying the *Actus Reus* & *Mens Rea* that Crown Must Prove
 
-!!! quote "Answer"
+**131** Every one commits perjury who, with intent to mislead, makes a false statement under oath or solemn affirmation, by affidavit, or orally, knowing that the statement is false.
 
-    **131** Every one commits perjury who, with intent to mislead, makes a false statement under oath or solemn affirmation, by affidavit, or orally, knowing that the statement is false.
-
-    **Act:** makes a false statement<br>
-    **Circumstances:** under oath or solemn affirmation<br>
-    **Circumstances:** by affidavit, or orally<br>
-    **Intention:** with intent to mislead<br>
-    **RECKLESSNESS:** N/A<br>
-    **Knowledge or WB:** knowing that the statement is false
+**Act:** makes a false statement<br>
+**Circumstances:** under oath or solemn affirmation<br>
+**Circumstances:** by affidavit, or orally<br>
+**Intention:** with intent to mislead<br>
+**RECKLESSNESS:** N/A<br>
+**Knowledge or WB:** knowing that the statement is false
 
 ## 4.6 Criminal Negligence
 
@@ -571,7 +575,10 @@ In ***R. v. Creighton***, [1993 CanLII 61 (SCC)](https://canlii.ca/t/1fs09){:tar
     - The foregoing analysis suggests the following line of inquiry in cases of penal negligence. 
         - The **first** question is whether *actus reus* is established. This requires that the negligence constitute a marked departure from the standards of the reasonable person in all the circumstances of the case. 
         - The **next** question is whether the *mens rea* is established. The *mens rea* for objective foresight of risking harm is normally inferred from the facts. **The standard is that of the reasonable person in the circumstances of the accused**. 
-        - However, the normal inference may be **negated by evidence** raising a reasonable doubt as to **lack of capacity to appreciate the risk**. Thus, if a *prima facie* case for *actus reus* and *mens rea* is made out, it is necessary to ask **a further question**: did the accused possess the requisite **capacity to appreciate the risk** flowing from his conduct? If this further question is answered in the affirmative, the necessary moral fault is established and the accused is properly **convicted**. If not, the accused must be **acquitted**.
+        
+!!! info "*R. v. Creighton*, [1993 CanLII 61 (SCC)](https://canlii.ca/t/1fs09){:target=" \_blank"} Cont'd" 
+        
+    - However, the normal inference may be **negated by evidence** raising a reasonable doubt as to **lack of capacity to appreciate the risk**. Thus, if a *prima facie* case for *actus reus* and *mens rea* is made out, it is necessary to ask **a further question**: did the accused possess the requisite **capacity to appreciate the risk** flowing from his conduct? If this further question is answered in the affirmative, the necessary moral fault is established and the accused is properly **convicted**. If not, the accused must be **acquitted**.
 
 
 !!! info "***R. v. Beatty***, [2008 SCC 5](https://canlii.ca/t/1vrp5){:target=" \_blank"}"
@@ -584,11 +591,11 @@ In ***R. v. Creighton***, [1993 CanLII 61 (SCC)](https://canlii.ca/t/1fs09){:tar
         - (b) The *Mens Rea*: The trier of fact must also be satisfied beyond a reasonable doubt that the accused’s objectively dangerous conduct was **accompanied by the required *mens rea***. In making the objective assessment, the trier of fact should be satisfied on the basis of all the evidence, including evidence about the accused’s actual state of mind, if any, that the conduct amounted to a **marked departure** from the standard of care that **a reasonable person would observe in the accused’s circumstances**. 
     - [49] If the conduct does not constitute a marked departure from the standard expected of a reasonably prudent driver, **there is no need to pursue the analysis**. The offence will not have been made out.
 
+
 !!! info "*R. v. Roy*, [2012 SCC 26](https://canlii.ca/t/frjlk){:target=" \_blank"}"
 
     - [36] The focus of the *mens rea* analysis is on whether the dangerous manner of driving was the result of **a marked departure from the standard of care** which a reasonable person would have exercised in the same circumstances (***Beatty***, at para. 48). It is helpful to approach the issue by asking two questions. 
         - The **first** is whether, in light of all the relevant evidence, a reasonable person would have foreseen the risk and taken steps to avoid it if possible. 
         - If so, the **second** question is whether the accused’s failure to foresee the risk and take steps to avoid it, if possible, was a marked departure from the standard of care expected of a reasonable person in the accused’s circumstances. 
-
 
 
