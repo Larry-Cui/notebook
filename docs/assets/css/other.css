@@ -22,7 +22,7 @@
 	background-color: #f77f0022;
 	border-radius: 50%;
 	margin-right: 5px;
-	margin-right: -6px;
+	/* margin-right: -6px; */
 }
 
 .highlight.red {
@@ -74,10 +74,9 @@ span.Coral {
 	font-size: 1.5em;
 }
 
-
 /* 在中文字符和英文字母之间添加空格 */
-  /* 或针对数字: text-autospace: ideograph-numeric; */
-  /* 或组合: text-autospace: ideograph-alpha ideograph-numeric; 等于 text-autospace: normal; */
+/* 或针对数字: text-autospace: ideograph-numeric; */
+/* 或组合: text-autospace: ideograph-alpha ideograph-numeric; 等于 text-autospace: normal; */
 
 body {
 	text-autospace: normal;
