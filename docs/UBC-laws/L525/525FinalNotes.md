@@ -531,7 +531,129 @@ Duress operates as a **true defence**. As touched on in the above passage, Crown
     
     As I see it, the rationale for this exclusion is that the excluded offences are largely violent crimes or require active operations. A person who commits such crimes under duress will often be more accurately characterized not as the principal offender, but as an aider or party to the offence. Admittedly, in extreme circumstances, the accused may still be the principal, or one of several principals. However, as the Court stated in *R. v. Poon and Wong*, 2006 BCSC 1158, the criminal law expects the accused to demonstrate reasonable fortitude in resisting threats. Acting as a principal is an important factor suggesting voluntary participation in criminal activity, which undermines both the common law and statutory defences of duress.
 
+### 6.6 Intoxication
 
+There are two types of intoxication for our purposes: **involuntary** and **voluntary (self-induced)**.
 
+Involuntary intoxication can **negate** an Accused's *mens rea* or make their actions **physically involuntary**. **The defence of involuntary intoxication can be applied to any charges.**
 
+**Self-induced intoxication** is a controversial potential defence that **only applies in certain circumstances**. We will focus on self-induced intoxication in this topic, which is a mixture of **statutory provisions** and **common law** decisions.
 
+**Self-Induced Intoxication**
+
+From the case of ***R. v. Daley***, [2007 SCC 53](https://canlii.ca/t/1v5dr){:target=" \_blank"} which we will read later in this Topic:
+
+> [35] Courts in England and Canada have taken the reference in ***Beard*** to "forming the specific intent essential to constitute the crime" as drawing a distinction between crimes of **specific** intent and those of **general** intent, such that the **defence of intoxication is traditionally only available with respect to the former**.  
+
+**Specific intent crimes** are those where the Accused specifically intends the result. 
+
+**General intent crimes**, on the other hand, require only that the Accused intended to do the *actus reus* itself.  S/he does not need to intend what results from the act, such as death in the case of manslaughter.
+
+**Self-induced intoxication** can prevent the Crown from establishing the requisite *mens rea* **in specific intent offences**.  For general intent crimes, self-induced intoxication may be used as a defence **only if** the offence does NOT include "as an element an assault or any other interference or threat of interference by a person with the bodily integrity of another person," per s.33.1 of the *Criminal Code*.
+
+!!! warning "Section 33.1 of the *Criminal Code*"
+    
+    **Offences of violence by negligence**
+
+    33.1 (1) A person who, by reason of **self-induced extreme intoxication**, lacks the general intent or voluntariness ordinarily required to commit an offence referred to in subsection (3), **nonetheless commits the offence** if
+
+    - (a) all the other elements of the offence are present; **and**
+
+    - (b) before they were in **a state of extreme intoxication**, they **departed markedly from the standard of care** expected of a reasonable person in the circumstances with respect to the consumption of intoxicating substances.
+
+    **Marked departure — foreseeability of risk and other circumstances**
+
+    (2) For the purposes of determining whether the person departed markedly from the standard of care, the court must consider the **objective foreseeability of the risk** that the consumption of the intoxicating substances could cause extreme intoxication **and** lead the person to harm another person. The court must, in making the determination, also consider all relevant circumstances, including anything that the person did to avoid the risk.
+
+    **Offences**
+
+    (3) This section applies in respect of an offence under this Act or any other Act of Parliament that includes as an element an assault or any other interference or threat of interference by a person with the bodily integrity of another person.
+
+    **Definition of extreme intoxication**
+
+    (4) In this section, **extreme intoxication** means intoxication that renders a person **unaware** of, or **incapable** of consciously controlling, their behaviour.
+
+Section 33.1 is a key statutory provision that **limits** the availability of the defence of self-induced intoxication for general intent offences involving threats or acts of violence.
+
+In the leading case of ***R. v. Daley***, [2007 SCC 53](https://canlii.ca/t/1v5dr){:target=" \_blank"}, the Supreme Court of Canada sets out the current scope of the defence of self-induced intoxication, including the **three legally relevant levels** of intoxication and their application to specific versus general intent offences.
+
+!!! info "*R. v. Daley*, [2007 SCC 53](https://canlii.ca/t/1v5dr){:target=" \_blank"}, headnote (edited, with emphasis)"
+
+    - On the current state of the law, for **a murder charge**, the defence of intoxication will only be available to **negate specific intent so as to reduce the charge to manslaughter**.  There are three legally relevant degrees of intoxication. 
+    - First, there is **mild drunkenness**, which induces relaxation of both inhibitions and socially acceptable behaviour.  This has **never been accepted as a factor** in determining whether the accused possessed the requisite *mens rea* and the trial judge is not required to give any instruction on mild intoxication.
+    - Second, there is **advanced intoxication**, i.e. intoxication to the point where the accused lacks the specific intent, to the extent of an impairment of the accused's foresight of the consequences of his or her act **sufficient to raise a reasonable doubt** about the requisite *mens rea*.  A defence based on this level of intoxication applies only to specific intent offences and the extent of intoxication required to advance it successfully may vary, depending on the type of offence involved. 
+    - Third, there is **extreme intoxication** akin to automatism, which **negates voluntariness** and thus is a complete defence to criminal responsibility, but such a defence would be extremely rare and, by operation of s. 33.1  of the *Criminal Code*, **limited to non violent types of offences**.  [40 44]
+
+Note that intoxication is **not** a "**true defence**" so to speak. Rather, its successful assertion will prevent Crown from proving the requisite *actus reus* (voluntariness) and/or *mens rea* (guilty state of mind) beyond a reasonable doubt.
+
+### 6.7 Mental Disorder
+
+An Accused who is deemed NCR (“**Not Criminally Responsible on Account of Mental Disorder**”) is neither found **guilty** nor **acquitted**. Instead of being criminally sanctioned, the offender must receive **mental health treatment** in a secure facility and can only be released based on a process set out in the *Criminal Code*, which is related to their level of risk.
+
+!!! warning "Section 16 of the *Criminal Code*"
+
+    **Defence of mental disorder**
+
+    16(1) No person is criminally responsible for an act committed or an omission made while suffering from **a mental disorder** that rendered the person **incapable of appreciating the nature and quality of the act or omission or of knowing that it was wrong**.
+
+    **Presumption**
+
+    (2) Every person is presumed not to suffer from a mental disorder so as to be exempt from criminal responsibility by virtue of subsection (1), until the contrary is proved **on the balance of probabilities**.
+
+    **Burden of proof**
+
+    (3) The burden of proof that an accused was suffering from a mental disorder so as to be exempt from criminal responsibility is **on the party that raises the issue**.
+
+Mental disorder is **not a true “defence”**. The result of a successful mental disorder claim is a verdict of NCR.
+
+**Disease of the Mind**
+
+Section 2 of the *Criminal Code* defines “mental disorder” as a “disease of the mind”, preserving the common law definition that developed through case law. 
+
+In ***Regina v. Simpson***, [1977 CanLII 1142 (ON CA)](https://canlii.ca/t/g1dvj){:target=" \_blank"}, the Ontario Court of Appeal found that it is **for the judge to determine** whether something is a disease of the mind or not. **The key question** for the judge is that while the existence of a disease of the mind is a necessary condition, it must operate to an extent that it renders the Accused either (a) incapable of appreciating the nature and quality of the act/omission, or (b) knowing that it is wrong. 
+
+In ***Cooper v. R.***, [1979 CanLII 63 (SCC)](https://canlii.ca/t/1tx9m){:target=" \_blank"}, Justice Dickson (as he then was) held that:
+
+> **the disease must be of such intensity as to render accused incapable of appreciating nature/quality of act or knowing it is wrong**.”
+
+**Appreciating the nature and quality of the act or omission**
+
+In ***Cooper v. R.***, Justice Dickson:
+
+> Was the accused person at the very time of the offence by reason of disease of the mind unable to fully appreciate not only the **nature and quality of the act** but the **natural consequences that would flow** from it? Was the accused person deprived of the mental capacity to **foresee and measure the consequences of the act**” (emphasis added).
+
+In ***R. v. Abbey***, [1982 CanLII 25 (SCC)](https://canlii.ca/t/1lpcd){:target=" \_blank"}, the Supreme Court of Canada held that an Accused who does not “appreciate the penal consequences of his actions” does not, by reason of that finding, fail to appreciate the nature and quality of the act under section 16 of the *Criminal Code*.
+
+**Knowing that the Act is Wrong**
+
+In ***R. v. Oommen***, [1994 CanLII 101 (SCC)](https://canlii.ca/t/1frs9){:target=" \_blank"}, the Supreme Court of Canada revisited the interpretation of the word “wrong” in section 16 of the *Criminal Code* and overrode the decision in ***R. v. Chaulk***.  Justice McLachlin (as she then was) held that the test is
+
+> whether the accused lacks the capacity to **rationally decide whether the act is right or wrong** and hence to make a rational choice about whether to do it or not.
+
+### Discussion Activity: ==Mental Disorder Practice Problem==
+
+!!! quote "Answer"
+
+    The accused does not appear to meet the NCR standard under s. 16 of the *Criminal Code*, which requires proof of three elements:
+
+    - the accused was suffering from a mental disorder; 
+    - the mental disorder rendered the accused incapable of appreciating the nature and quality of the act or omission; or 
+    - incapable of knowing that the act was wrong. 
+    
+    Section 2 of the *Criminal Code* defines “mental disorder” as a “disease of the mind.” In ***Regina v. Simpson***, 1977 CanLII 1142 (ON CA), the Ontario Court of Appeal held that it is for the trial judge to determine whether a condition constitutes a disease of the mind. In ***Cooper v. R.***, 1979 CanLII 63 (SCC), the Supreme Court held that the disease must be of such intensity as to render the accused incapable of appreciating the nature and quality of the act, or of knowing that it was wrong.
+    
+    In this factual scenario, the accused was diagnosed by two psychiatrists as suffering from a mental disorder at the time of the homicide. Even so, it remains for the judge to determine whether the disorder was sufficiently severe to deprive the accused of the required capacity. Here, the court accepted the psychiatrists’ evidence as credible.
+    
+    With respect to “appreciating the nature and quality of the act,” the Court in ***Cooper*** explained that the real question is whether, at the very time of the offence, the accused was unable to fully appreciate not only the physical nature of the act, but also its natural consequences. In other words, was the accused deprived of the mental capacity to foresee and measure the consequences of the act?
+
+    The Court also noted that s. 16 uses the word “appreciating,” rather than the narrower common law concept of merely “knowing” the nature and quality of the act. This makes NCR broader in scope than the former insanity defence.
+
+    As for the requirement of knowing that the act was wrong, the Supreme Court in ***R. v. Oommen***, 1994 CanLII 101 (SCC), revisited the meaning of “wrong” in s. 16 and held that the relevant inquiry is whether the accused lacked the capacity to rationally decide whether the act was right or wrong, and therefore to make a rational choice about whether to do it.
+
+    On facts, the accused suffered from religious delusions and believed that “God” had commanded him to kill his daughter, failing which his entire family would be killed. However, this does not necessarily show that he lost the capacity to appreciate the nature and quality of his actions. He appears to have understood that killing his daughter would cause her death and that legal consequences would follow. Rather, he made a choice between what he perceived to be two evils: killing his daughter or risking the death of his entire family. He chose to preserve the rest of the family at the expense of his daughter’s life.
+    
+    The accused also appears to have understood that both options were morally wrong. After fatally stabbing his daughter, he went to church to pray, which strongly suggests an awareness that he had committed a wrongful act. The fact that he nevertheless proceeded indicates that he viewed the killing as the lesser wrong, not that he lacked the capacity to distinguish right from wrong.
+    
+    In my view, the accused’s imagined command from God functioned more like an abetting influence than evidence that his disease of the mind deprived him of the capacity required under s. 16. Accordingly, the accused should be convicted of murder rather than found NCR.   
+
+    
