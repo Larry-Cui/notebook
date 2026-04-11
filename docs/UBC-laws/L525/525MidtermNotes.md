@@ -190,7 +190,7 @@ Section 11(f) of the *Canadian Charter of Rights and Freedoms* gives an Accused 
 
 > 11 Any person charged with an offence has the right
 
-> (f) except in the case of an offence under military law tried before a military tribunal, to the benefit of trial by jury where the maximum punishment for the offence is **imprisonment for five years or a more** severe punishment;
+> (f) except in the case of an offence under military law tried before a military tribunal, to the benefit of trial by jury where the maximum punishment for the offence is **imprisonment for five years or a more severe punishment**;
 
 !!! info "***R. v. Gunning***, [2005 SCC 27](https://canlii.ca/t/1kt5b){:target=" \_blank"}"
 
@@ -198,17 +198,21 @@ Section 11(f) of the *Canadian Charter of Rights and Freedoms* gives an Accused 
     - 28 Subject to one exception, it is also the **exclusive domain of the jury to determine the verdict**. An exception lies where the judge is satisfied that there is no evidence upon which a properly instructed jury could reasonably convict, in which case, it is the judge’s duty to direct the jury to acquit the accused. **However, there is no corresponding duty or entitlement to direct a jury to return a verdict of guilty.** 
     - 29 As a corollary of the trial judge’s duty to instruct the jury on the law, it is a well-established principle that a judge should **withdraw a defence** from the consideration of the jury when there is no evidence upon which a properly instructed jury acting reasonably could find in the accused’s favour. This threshold test, requiring that **a defence be put to the jury only if there is an evidential foundation for it**, is often referred to as the **“air of reality” test**.
     - 30 In every trial where there is no plea of guilty or an admission by the accused as to one or more of the essential elements of the offence, **the question of whether the Crown has met its burden is necessarily at play and must be put to the jury for its determination.** This “defence” is squarely before the jury. There is no further threshold to meet. 
-    - 31 Hence, **it is never the function of the judge in a jury trial to assess the evidence and make a determination that the Crown has proven one or more of the essential elements of the offence and to direct the jury accordingly.**
+    - 31 Hence, **it is never the function of the judge** in a jury trial to assess the evidence and make a determination that the Crown has proven one or more of the essential elements of the offence and to direct the jury accordingly.
 
 ### 2.3 Crown Prosecutors
 
 **Both lawyers** representing the Crown (the Prosecutor) and the Accused (Defence Counsel) introduce evidence and make submissions on the facts an on the law.
+
+**A Crown Prosecutor’s Role & Duties**
 
 A Crown Prosecutor’s role is not to secure convictions. His or her role is a public duty to **help the court arrive at a just result**.
 
 ***Boucher v. The Queen***, [1954 CanLII 3 (SCC)](https://canlii.ca/t/1nlk7){:target=" \_blank"} remains a leading Supreme Court of Canada decision on the role of the Crown Prosecutor:
 
 > It cannot be over-emphasized that the purpose of a criminal prosecution is not to obtain a conviction, it is to lay before a jury what the Crown considers to be credible evidence relevant to what is alleged to be a crime. The role of prosecutor excludes any notion of winning or losing; his function is a matter of public duty than which in civil life there can be none charged with greater personal responsibility. It is to be efficiently performed with an ingrained sense of the dignity, the seriousness and the just­ness of judicial proceedings.
+
+**Prosecutorial Discretion**
 
 This case, ***R. v. Anderson***, [2014 SCC 41](https://canlii.ca/t/g784t){:target=" \_blank"}, provides an overview of “prosecutorial discretion”.
 
@@ -218,18 +222,20 @@ This case, ***R. v. Anderson***, [2014 SCC 41](https://canlii.ca/t/g784t){:targe
     - [37] This Court has repeatedly affirmed that prosecutorial discretion is a necessary part of a properly functioning criminal justice system ... the fundamental importance of prosecutorial discretion was said to lie, 
 
         > not in protecting the interests of individual Crown attorneys, but in advancing the public interest by enabling prosecutors to make discretionary decisions in fulfilment of their professional obligations without fear of judicial or political interference, thus fulfilling their quasijudicial role as ‘ministers of justice.’” 
-
-!!! info "*Anderson* Cont'd"
     
-    - [45] In sum, prosecutorial discretion applies to a wide range of prosecutorial decision making. That said, care must be taken to distinguish matters of prosecutorial discretion from constitutional obligations. **The distinction between prosecutorial discretion and the constitutional obligations of the Crown was made** in ***Krieger***, where the prosecutor’s duty to disclose relevant evidence to the accused was at issue:
+    - [45] In sum, prosecutorial discretion applies to a wide range of prosecutorial decision making. That said, care must be taken to distinguish matters of prosecutorial discretion from constitutional obligations. **The distinction between prosecutorial discretion and the constitutional obligations of the Crown was made** in ***Krieger***, where the **prosecutor’s duty to disclose relevant evidence** to the accused was at issue:
 
         > ... disclosure of relevant evidence is not, therefore, a matter of prosecutorial discretion but, rather, is a prosecutorial duty. 
 
-        Manifestly, **the Crown possesses no discretion to breach the *Charter* rights of an accused**. In other words, prosecutorial discretion provides no shield to a Crown prosecutor who has failed to fulfill his or her constitutional obligations such as the duty to provide proper disclosure to the defence.
+        > Manifestly, **the Crown possesses no discretion to breach the *Charter* rights of an accused**. In other words, prosecutorial discretion provides no shield to a Crown prosecutor who has failed to fulfill his or her constitutional obligations such as the duty to provide proper disclosure to the defence.
     - [46] The many decisions that Crown prosecutors are called upon to make in the exercise of their prosecutorial discretion must not be subjected to routine second-guessing by the courts. **Judicial non-interference** with prosecutorial discretion has been referred to as a “matter of principle based on the doctrine of **separation of powers** as well as a matter of policy founded on the **efficiency of the system of criminal justice**” which also recognizes that prosecutorial discretion is “especially ill-suited to judicial review”.
     - [48] Manifestly, prosecutorial discretion is entitled to considerable deference. **It is not, however, immune from all judicial oversight.** This Court has repeatedly affirmed that **prosecutorial discretion is reviewable for abuse of process**: ***Krieger***, at para. 32; ***Nixon***, at para. 31; ***Miazga***, at para. 46. 
     - **(ii) The Threshold Evidentiary Burden** 
     - [52] The **burden of proof** for establishing abuse of process lies on the **claimant**, who must prove it on **a balance of probabilities**. However, given the unique nature of prosecutorial discretion, specifically, the fact that the Crown will typically (if not always) be the only party who will know why a particular decision was made, this Court in ***Nixon*** recognized that **where prosecutorial discretion is challenged, the Crown may be required to provide reasons justifying its decision** where the claimant establishes a proper evidentiary foundation: para. 60.
+
+**Code of Professional Conduct**
+
+All lawyers are subject to rules of professional conduct and ethics, including both **Crown Prosecutors** and **Defence Counsel**, as a requirement of their membership in their provincial or territorial law society in Canada.
 
 #### Discussion Activity: Crown Prosecutors and the *BC Code*
 
@@ -243,11 +249,15 @@ This case, ***R. v. Anderson***, [2014 SCC 41](https://canlii.ca/t/g784t){:targe
 
     This ethical framework is consistent with the Supreme Court of Canada’s approach in ***Boucher v. The Queen***, 1954 CanLII 3 (SCC), where the Court emphasized that the Crown’s role is not to obtain a conviction at all costs, but to present the case firmly and fairly as a minister of justice.
 
+**Disclosure**
+
 One of the duties of a Crown Prosecutor is to ensure full and timely disclosure of all potentially relevant information to the Accused, subject to certain limited exceptions (usually involving “**privilege**”).
 
 The duty to provide disclosure is now a constitutional requirement, as set out by ***R. v. Stinchcombe***, [1991 CanLII 45 (SCC)](https://canlii.ca/t/1fsgp){:target=" \_blank"}.
 
 > Subject to the Crown's discretion, **all relevant information must be disclosed**, both that which the Crown intends to introduce into evidence and that which it does not, and whether the evidence is **inculpatory** or **exculpatory**.
+
+**Wrongful Convictions**
 
 The most **serious consequence** of a Crown Prosecutor not following their duties and responsibilities is that they may contribute to **wrongful convictions**.
 
@@ -255,17 +265,17 @@ The most **serious consequence** of a Crown Prosecutor not following their dutie
 
 !!! quote "Answer"
 
-    By withholding crucial evidence, entering into undisclosed bargains with jailhouse informants, relying on questionable testimony, or using coerced confessions, a Crown prosecutor can mislead both the jury and the court and thereby contribute to a wrongful conviction.
+    By **withholding crucial evidence**, **entering into undisclosed bargains** with jailhouse informants, **relying on questionable testimony**, or **using coerced confessions**, a Crown prosecutor can mislead both the jury and the court and thereby contribute to a wrongful conviction.
 
-    The objective reason this can occur is that Crown prosecutors enjoy a high degree of prosecutorial discretion, which is reviewable by the courts only on the narrow ground of abuse of process.
+    The objective reason this can occur is that Crown prosecutors enjoy a high degree of **prosecutorial discretion**, which is reviewable by the courts only on the narrow ground of abuse of process.
 
-    The subjective reason in this case is that the prosecutor, **George Dangerfield**, disregarded the proper purpose of a criminal prosecution, which is not to obtain a conviction, but to see that justice is done for both the accused and the victims. 
+    The subjective reason in this case is that the prosecutor, **George Dangerfield**, disregarded the **proper purpose of a criminal prosecution**, which is not to obtain a conviction, but to see that **justice is done for both the accused and the victims**. 
 
     There are several ways to prevent prosecutorial abuse of process. One of the most important and effective is full and timely disclosure of all potentially relevant information to the accused.
 
 ### 2.4 Defence Counsel
 
-Rather, Defence Counsel also have obligations as “**officers of the court**”.
+While the role of Defence Counsel is to **represent the accused**, this does not mean that their obligations are limited to their client. Rather, Defence Counsel also have obligations as “**officers of the court**”. At times, these duties to the client and the court may create **ethical dilemmas**. 
 
 All lawyers are subject to the rules of professional conduct and ethics, including both **Crown Prosecutors** and **Defence Counsel**.
 
@@ -273,7 +283,7 @@ The *Federation of Law Societies of Canada*’s [Model Code of Professional Cond
 
 > 5.1-1 When acting as an advocate, **a lawyer must represent the client resolutely and honourably within the limits of the law**, while treating the tribunal with candour, fairness, courtesy and respect.
 
-> [9] Duty as Defence Counsel: When defending an accused person, a lawyer’s duty is to protect the client as far as possible **from being convicted**, except by a tribunal of competent jurisdiction and upon legal evidence sufficient to support a conviction for the offence with which the client is charged.
+> [9] Duty as **Defence Counsel**: When defending an accused person, a lawyer’s duty is to protect the client as far as possible **from being convicted**, except by a tribunal of competent jurisdiction and upon legal evidence sufficient to support a conviction for the offence with which the client is charged.
 
 > [3] A lawyer is never required to take or keep possession of incriminating physical evidence or to disclose its mere existence. Possession of illegal things could constitute an offense. **A lawyer in possession of incriminating physical evidence** should carefully consider his or her options. These options include, as soon as reasonably possible:
 
@@ -296,11 +306,25 @@ The *Federation of Law Societies of Canada*’s [Model Code of Professional Cond
 
 ### 2.5 Classification of Offences
 
+**Types of Offences**
+
 All offences in the *Criminal Code* are classified by Parliament when they are enacted by legislation. The words that create the offence itself, or the penalty provision appearing after it, will identify the offence as “**summary**” or “**indictable**” (pronounced “in-dite-a-ble”), or indicate that it can be either summary or indictable, meaning it is a “**hybrid**” offence.
 
-The **maximum penalty** for this type of offence (summary conviction offence) is **2 years (less a day)** in jail and/or a **$5000 fine**, unless the offence prescribes a different penalty (see *Criminal Code* s. 787.) 
+**Summary Conviction Offences**
 
-For certain offences, the Crown may “elect” (decide) to proceed either summarily or by indictment – these are known as “**hybrid**” offences. 
+These offences are less serious criminal offences and follow a simplified or “summary” procedure. The **maximum penalty** for this type of offence (summary conviction offence) is **2 years (less a day)** in jail and/or a **$5000 fine**, unless the offence prescribes a different penalty (see *Criminal Code* s. 787.) 
+
+**Indictable Offences**
+
+These offences are generally more serious and equate to “**felonies**” on American TV.  **Only the federal Parliament, and not the provinces, can create indictable offences.**  They are found in the *Criminal Code* and in other federal statutes.  The maximum penalty will vary with the offence, as does the mode of trial. 
+
+In B.C. Provincial Court **the “charging document” (the sworn document setting out the charges) is called an “Information”**. If an Accused is charged with an indictable offence in provincial court, the Information is noted at the top with the words “**BY INDICTMENT**”. **If these words are not typed at the top of the page, it can be assumed that Crown is proceeding summarily.** 
+
+Indictable matters can also be heard in B.C. Supreme Court. The charging document in this court is called an “**Indictment**”, likely because only indictable matters can be heard at this level of court.
+
+**Hybrid Offences**
+
+For certain offences, the Crown may “elect” (decide) to proceed either summarily or by indictment, these are known as “**hybrid**” offences. 
 
 When an Accused is charged with a hybrid offence, it is **deemed to be indictable, unless and until the Crown elects to proceed by summary conviction**: *Interpretation Act*, s. 34(1)(a). (Adapted from: Janine Benedet, Casebook: 2007-2008, Ch. 1.)
 
@@ -310,17 +334,19 @@ Criminal proceedings begin with a police investigation into criminal activity. I
 
 Crown Counsel reviews the RTCC and **assesses the file for charge approval**. 
 
-When assessing RTCCs for charge approval, the **Provincial Crown** apply a **two pronged standard**: 
+When assessing RTCCs for charge approval, the **Provincial Crown** apply a **two pronged standard** (for offences under the *Criminal Code*): 
 
 - (1) there must be **enough evidence** to support a substantial likelihood of conviction, and 
 - (2) it must be in the **public interest** to prosecute. 
 
-The **Federal Crown** apply a slightly different **two pronged standard**: 
+The **Federal Crown** apply a slightly different **two pronged standard** (for offences under all **other acts of Parliament**): 
 
 - (1) there must be enough evidence to support **a reasonable prospect** of conviction, and 
 - (2) it must also be in the public interest to prosecute.
 
 It is matter of **Crown discretion** whether to lay charges against an individual, who will thereafter be referred to as the “Accused”.
+
+**Outline of a Criminal Trial**
 
 In Canada, **very few criminal charges proceed to trial**. In most cases, the Accused will either admit their guilt (“**plead guilty**”) and proceed to sentencing without a trial (often involving a **plea agreement** with the Crown Prosecutor that the judge must ultimately approve or depart from), or the Crown Prosecutor “stays” (**drops**) the charges due to there no longer being a substantial likelihood of conviction or because it is no longer in the public interest to prosecute.
 
@@ -330,6 +356,14 @@ If an Accused denies the charges (“**pleads not guilty**”) then a trial will
 
 **Arraignment**: Formal reading of the charge to the Accused and entering of a plea. If the plea is “Guilty,” the Accused proceeds to sentencing.  If s/he pleads “Not Guilty” then a **trial** or **Preliminary Hearing** (This is similar to a trial but there is a lesser evidentiary threshold) is scheduled. 
 
+**Election**:  For matters where the Crown is **proceeding indictably**, the Accused must elect his/her **mode of trial**. The three options are 
+
+- (1) trial in B.C. Provincial Court by a provincial court judge, 
+- (2) trial in B.C. Supreme Court by judge alone, or 
+- (3) trial in B.C. Supreme Court by judge and jury. 
+
+**Trial scheduling**: Counsel will then attend at a trial scheduling office (in B.C. they are called Judicial Case Managers) to schedule a date for trial. Note that steps 1, 2 and 3 are usually done all at once at what is called an “**Arraignment Hearing**”.
+
 ## Unit 3: Acts and Omissions (*actus reus*)
 
 ### 3.1 Introduction
@@ -338,20 +372,39 @@ At common law, and now under section 7 of the *Charter*, every criminal offence 
 
 The concept of *actus reus* refers to more than simply a prohibited action; *actus reus* comprises a bundle of components that, together, constitute the “guilty act.” Put most helpfully, the *actus reus* requires a 
 
-- **Physical voluntariness** – that the Accused did the prohibited physical action on purpose (this is discussed more in the next topic)
+- **Physical voluntariness** – that the Accused did the prohibited physical action **on purpose** (this is discussed more in the next topic)
 - **Act or omission** – what the Accused physically did (or didn’t do in the case of an omission)
 - Sometimes in **prescribed circumstances** – for instance, if someone is charged with “assaulting a police officer”, the prescribed circumstance is that the assaulted person must have been a police officer.
 - Sometimes causing **certain consequences** – for example, if someone is charged with “assault causing bodily harm”, the required consequence of the prohibited act (the assault) is that the assaulted person was harmed.
 
+==Each of these **components** is equally critical to defining the *actus reus* for a given offence, and the starting point is that a finding of guilt requires that the Crown **prove each** beyond a reasonable doubt.==
+
 ### 3.2 Voluntariness
+
+**Defining Physical Voluntariness**
 
 The first of the elements of the *actus reus* is the requirement for voluntary conduct. The essential characteristic of voluntariness is the **conscious control of action**. Consciousness alone, however, is not enough to establish voluntariness because a person might be conscious and yet still be incapable of controlling his or her conduct. In sum, **the voluntariness of a person’s conduct will be established if his or her conduct is the product of conscious choice.** 
 
-The Supreme Court of Canada decision in ***Ruzic*** confirms that both at common law and under section 7 of the *Charter*, **there can be no criminal liability unless the conduct was voluntary**. The test for physical voluntariness set out by the Court is that it requires a “**conscious mind and a controlled body**” – if either of these is lacking, there is no physical voluntariness, and no crime has occurred. 
+**The Test for Physical Voluntariness**
+
+The Supreme Court of Canada decision in ***Ruzic*** confirms that both at common law and under section 7 of the *Charter*, **there can be no criminal liability unless the conduct was voluntary**. 
+
+The test for **physical voluntariness** set out by the Court is that it requires a “**conscious mind and a controlled body**” – if either of these is lacking, there is no physical voluntariness, and no crime has occurred. 
+
+In contrast, ***Ruzic*** explains that **==moral voluntariness== relates to whether the Accused had an autonomous or free will**. Moral involuntariness does not negate *actus reus* or *mens rea*, but may operate as a defence.
+
 
 ### 3.3 Acts & Omissions
 
 Most criminal offences require that an Accused commit a **positive act**. Certain offences can be committed by **failing to act** (e.g. **omissions**). These involve situations where the Accused was **under a legal duty** to act and failed to do so.
+
+**ACTS**
+
+The act is thus the “**verb**” in the definition of criminal liability, and it is “**positive**” in the sense that walking or running, as opposed to standing still, would be considered “positive.” Offences premised on some such positive act, rather than mere passivity or omitting to do something, are the **norm**. 
+
+**Criminal Liability by Omission**
+
+For certain offences, a failure to act can constitute the *actus reus* of a criminal offence. This can be controversial since it expands the scope of criminal liability beyond acts, using the coercive power of the state to compel a person to do something in a given situation. However, many people in society are under **important legal duties** (e.g. police officers, doctors, parents, construction site managers, etc.), which **if not done can result in serious harm to others**, often vulnerable individuals.
 
 The **common factor in omission offences** is that they all require people to act in a way that fulfills a duty that is imposed upon them. Sometimes this duty is built right into a *Criminal Code* offence section. These are called “**specific omission offences**” and their *Code* sections both create a duty to act and then criminalize a failure to meet that duty. An example is s.129(1)(b) which makes it an offence to not assist a peace officer.
 
@@ -362,66 +415,84 @@ There are also “**general omission offences**” which are more vague. These s
 
 **The common law in these cases only creates the duty**. It is the *Criminal Code* section (e.g. **s.217 or s.219**) that then **creates the offence**. This is how common law duties to act are not contrary to s.9, they does not create offences. Rather, they create duties that statutory sections then criminalize a failure to act on.
 
-!!! example "s 217 & 219 *Criminal Code*"
+!!! warning "s 217 & 219 *Criminal Code*"
 
-    *Duty of persons undertaking acts*
+    **Duty of persons undertaking acts**
 
     **217** Every one who undertakes to do an act is under a legal duty to do it if an omission to do the act is or may be dangerous to life.
 
-<!-- *Criminal negligence*
+    **Criminal negligence**
 
     **219** (1) Every one is criminally negligent who
         
     - (a) in doing anything, or
     - (b) in omitting to do anything that it is his duty to do,
     
-    shows wanton or reckless disregard for the lives or safety of other persons.
+    **shows wanton or reckless disregard** for the lives or safety of other persons.
 
-    *Definition of duty*
+<!-- *Definition of duty*
 
     (2) For the purposes of this section, duty means a duty imposed by law. -->
 
-!!! info "*R. v. Browne*, [1997 CanLII 1744 (ON CA)](https://canlii.ca/t/6h8v){:target=" \_blank"}"
+<!-- !!! info "*R. v. Browne*, [1997 CanLII 1744 (ON CA)](https://canlii.ca/t/6h8v){:target=" \_blank"}"
 
-    - [15] **What kind of an undertaking gives rise to a legal duty** within the meaning of s. 217, the breach of which can result in criminal culpability? The threshold definition must be sufficiently **high** to justify such serious penal consequences. The mere expression of words indicating a willingness to do an act cannot trigger the legal duty. There must be something in the nature of a **commitment**, generally, though not necessarily, **upon which reliance can reasonably be said to have been placed**. 
+    - [15] **What kind of an undertaking gives rise to a legal duty** within the meaning of s. 217, the breach of which can result in criminal culpability? The threshold definition must be sufficiently **high** to justify such serious penal consequences. The mere expression of words indicating a willingness to do an act cannot trigger the legal duty. There must be something in the nature of a **commitment**, generally, though not necessarily, **upon which reliance can reasonably be said to have been placed**.  -->
 
-Be able to define an **omission offence** in your own words. Know that they can be **created by statute (the most common) or by common law (less common)**. In what circumstances can the common law impose on someone a duty to act?
+<!-- Be able to define an **omission offence** in your own words. Know that they can be **created by statute (the most common) or by common law (less common)**. In what circumstances can the common law impose on someone a duty to act? -->
 
 When considering a fact pattern with an omission offence, first ask yourself “**was there a duty to act?**” And if so, “**what section of the Code (if statutory) created that duty?**” Next consider whether that **duty applied** to the Accused in your fact pattern. Finally, if the duty applied, you will want to analyse whether the Accused **met/fulfilled/discharged that duty**.
 
 ### 3.4 Causation & Consequences
 
-**==Some criminal offences== require that the Accused’s act or omission cause a certain consequence or result.** “Causation” is the link between the act or omission and the alleged consequence or result: the prohibited conduct (act/omission) causes the prohibited consequence for there to be liability. Where they are part of an offence, **causation and the prohibited consequence must be proven beyond a reasonable doubt** by the Crown.
+**==Some criminal offences== require that the Accused’s act or omission cause a certain consequence or result.** 
+
+“**Causation**” is the **link** between the act or omission and the alleged consequence or result: the prohibited conduct (act/omission) causes the prohibited consequence for there to be liability. Where they are part of an offence, **causation and the prohibited consequence must be proven beyond a reasonable doubt** by the Crown.
+
+When an offence prohibits a specified result, proof of causation is plainly an essential element, without which the prosecution must **fail**. 
 
 Having demonstrated that a line can be drawn connecting the accused’s conduct to the prohibited consequence, the **more difficult question** is deciding whether this causal connection is **sufficiently strong** to support criminal liability. 
 
+**Establishing Causation**
+
 Factual situations that raise causation as an issue can become extremely complicated. It is a good idea sometimes to draw out a diagram of the facts to help clearly identify the role of the Accused in a situation, as well as to note any **potential intervening acts**, **pre-existing frailties** of the victim (e.g. the “**thin skull rule**”), or **contributions of any third parties**.
 
-***Smithers*** establishes a very **low threshold for causation** in the criminal law. It is, however, a pre-*Charter* case, decided in 1978. 
+***Smithers v. R.***, [1977 CanLII 7 (SCC)](https://canlii.ca/t/1mk9r){:target=" \_blank"} establishes a very **low threshold for causation** in the criminal law. It is, however, a pre-*Charter* case, decided in 1978. 
 
+!!! info "*Smithers v. R.*"
 
-!!! info "*Smithers v. R.*, [1977 CanLII 7 (SCC)](https://canlii.ca/t/1mk9r){:target=" \_blank"}"
-
-    - **The issue of causation is for the jury and not the experts**. The weight to be given to the evidence of the experts was entirely for the jury. In the search for truth, **the jury was entitled to consider all of the evidence, expert and lay, and accept or reject any part of it**. Non-medical testimony is available to both the Crown and the accused, and in the instant case lay evidence was vital to the defence raised by the appellant.
-    - The second sub-question raised is whether there was evidence on the basis of which the jury was entitled to find that it had been established **beyond a reasonable doubt that the kick caused the death**. In answer to this question it may shortly be said that there was a very substantial body of evidence, both expert and lay, before the jury indicating that **the kick was at least a contributing cause of death**, outside the *de minimis* range, and that is all that the Crown was required to establish. **It is immaterial that the death was in part caused by a malfunctioning epiglottis, to which malfunction the appellant may, or may not, have contributed.** 
-    - It is a well-recognized principle that one who assaults another must take his victim as he finds him. Although causation in civil cases differs from that in a criminal case, the “**thin skulled man**” may appear in the criminal law as in the civil law. The case of ***R. v. Nicholson (1926)***, 47 C.C.C. 113 (C.A.), will serve as an illustration.
+    - **The issue of causation is for the jury and not the experts**. The weight to be given to the evidence of the experts was entirely for the jury. In the search for truth, **the jury was entitled to consider all of the evidence, expert and lay, and accept or reject any part of it**. 
+    - The second sub-question raised is whether there was evidence on the basis of which the jury was entitled to find that it had been established **beyond a reasonable doubt that the kick caused the death**. In answer to this question it may shortly be said that there was a very substantial body of evidence, both expert and lay, before the jury indicating that **the kick was at least a contributing cause of death**, outside the ***de minimis*** range, and that is all that the Crown was required to establish.
+    - It is a well-recognized principle that **one who assaults another must take his victim as he finds him**. Although causation in civil cases differs from that in a criminal case, the “**thin skulled man**” may appear in the criminal law as in the civil law. 
 
 The ***Smithers*** test governs analysis of legal causation for almost all crimes in Canada. There is, however, one area of the criminal law in which a different and **more stringent causation test** is used. The Supreme Court established this higher threshold for causation, applicable to a subset of the forms of **first-degree murder**, in the ***Harbottle*** decision.
-
 
 !!! info "*R. v. Harbottle*, [1993 CanLII 71 (SCC)](https://canlii.ca/t/1fs0z){:target=" \_blank"}"
 
     - The consequences of a conviction for **first degree murder** and the wording of the section are such that the **test of causation for s. 214(5) must be a strict one**. In my view, an accused may only be convicted under the subsection if the Crown establishes that the accused has committed **an act or series of acts** which are of such a nature that they must be regarded as **a substantial and integral cause of the death**. 
     - Obviously, this requirement is much higher than that described in ***Smithers v. The Queen***, [1978] 1 S.C.R. 506, which dealt with the offence of manslaughter. There it was held at p. 519 that sufficient causation existed where the actions of the accused were “a contributing cause of death, outside the *de minimis* range.” **That case demonstrates the distinctions in the degree of causation required for the different homicide offences**.
 
-In ***R. v. Nette***, [2001] 3 SCR 488, the Supreme Court of Canada sets out the **current test for causation** for criminal offences. Justice Arbour, for the majority, held that the test for causation is whether the conduct of the Accused was a “**significant contributing cause**” of the prohibited consequence. **This test applies to all homicide offences, and is the general test for causation for other Criminal Code offences.** 
+In ***R. v. Nette***, [2001] 3 SCR 488, the Supreme Court of Canada sets out the ==**current test for causation**== for criminal offences. 
 
+Justice Arbour, for the majority, held that the test for causation is whether the conduct of the Accused was a “**significant contributing cause**” of the prohibited consequence. **This test applies to all homicide offences, and is the general test for causation for other *Criminal Code* offences.** 
 
 !!! info "*R. v. Nette*, [2001 SCC 78](https://canlii.ca/t/51x9){:target=" \_blank"}"
 
-    - [70] ... I agree with **Lambert J.A.** that even if it were desirable to formulate a causation test for second degree murder that is higher than the ***Smithers*** standard for **manslaughter** but less strict than the ***Harbottle*** standard for **first degree murder** under s. 231(5), which **I conclude it is not**, it would be difficult to formulate such a test in a meaningful way and even more difficult for a jury to grasp the subtle nuances and apply three different standards of causation. 
     - [71] The causation standard expressed in ***Smithers*** is still **valid and applicable to all forms of homicide**. ... In order to explain the standard as clearly as possible to the jury, it may be preferable to phrase the standard of causation in positive terms using a phrase such as “**significant contributing cause**” rather than using expressions phrased in the negative such as “not a trivial cause” or “not insignificant.” Latin terms such as “*de minimis*” are rarely helpful. 
-    - [88] ... There is only **one standard of causation for homicide offences**, including second degree murder. That standard may be expressed using different terminology, but it remains the standard expressed by this Court in the case of ***Smithers***, *supra*. The terminology of substantial cause in ***Harbottle*** is used to indicate the increased degree of participation in the killing that is required to raise the accused’s culpability to first degree murder under s. 231(5) of the ***Code***. ***Harbottle* did not raise the standard of causation that applies to all homicide offences from the standard expressed in *Smithers*.** 
+    - [88] ... There is only **one standard of causation for homicide offences**, including second degree murder. That standard may be expressed using different terminology, but it remains the standard expressed by this Court in the case of ***Smithers***, *supra*. The terminology of **substantial cause** in ***Harbottle*** is used to indicate the increased degree of participation in the killing that is required to raise the accused’s culpability to first degree murder under s. 231(5) of the ***Code***. ***Harbottle* did not raise the standard of causation that applies to all homicide offences from the standard expressed in *Smithers*.** 
+
+## Discussion Activity: Did ***R. v. Nette*** change the law?
+
+!!! quote "Answer"
+
+    In ***Smithers***, the Court clarified that the causation test for manslaughter is whether the accused’s act was at least **a contributing cause** of the victim’s death, outside the *de minimis* range, and proven beyond a reasonable doubt.
+
+    The majority in ***Nette*** insisted that the causation standard articulated in ***Smithers*** remains valid and applicable to all forms of homicide, but suggested that the wording be slightly modified to make the standard clearer for a jury. They proposed phrasing causation in positive terms, such as “**a significant contributing cause**,” rather than in negative terms like “not a trivial cause” or “not insignificant.” The majority also noted that Latin expressions such as *de minimis* are rarely helpful for juries.
+
+    With respect to elevating a homicide to first degree murder, the majority acknowledged that it would make sense to instruct the jury that the accused’s acts must have made **a “significant” contribution** to the victim’s death to establish culpability for homicide generally, while, to be guilty of first degree murder under s. 231(5), the accused’s actions must have been **an essential, substantial, and integral part** of the killing, in light of ***Harbottle***. However, this constitutes a second-stage inquiry, which only arises after causation between the accused’s conduct and the victim’s death has been established under the ***Smithers*** test.
+
+    I agree with the minority in ***Nette***. As Justice L’Heureux-Dubé observed, there is a meaningful difference between expressing the standard as “a contributing cause that is not trivial or insignificant” and describing it as a “significant contributing cause.” Substituting the terminology of ***Smithers*** with that proposed in ***Nette*** risks altering the substance of the test. In my view, “not insignificant” may capture a relatively modest contribution, whereas “significant” suggests a much higher threshold. By changing the wording, ***Nette*** effectively raises the causation standard established in ***Smithers***.
+
+    I also disagree with the majority’s artificial division of the causation inquiry for first degree murder into two parts: a general homicide test (the revised ***Smithers*** test) and a separate aggravated criterion requiring that the accused’s actions be an “essential, substantial and integral part” of the killing. In my view, it would be more coherent to recognize three distinct levels of causal contribution test for manslaughter, second degree murder, and first degree murder, progressing from low to high, approximately 25%, 50%, and 75% respectively, in terms of the accused’s contribution to the victim’s death.
 
 
 **Actions of Third Parties and the Causation Analysis**
@@ -432,21 +503,18 @@ In these situations (Shoot-outs in public and street-races), Accused persons hav
 
 In ***R. v. Maybin***, 2012 SCC 24, the Supreme Court of Canada clarified when an **intervening act** can be said to **break the chain of causation** and affirmed the “significant contributing cause” test remains pivotal to the causation analysis.
 
-
-In the following case the Supreme Court of Canada offered an approach for assessing **intervening causes** and whether a subsequent event has **severed the chain** of causation between the accused’s acts and the proscribed consequence.
+<!-- In the following case the Supreme Court of Canada offered an approach for assessing **intervening causes** and whether a subsequent event has **severed the chain** of causation between the accused’s acts and the proscribed consequence. -->
 
 !!! info "*R. v. Maybin*, [2012 SCC 24](https://canlii.ca/t/frczg){:target=" \_blank"}"
 
     - [5] ... the test for legal causation set out by this Court in ***Smithers v. The Queen***, [1978] 1 S.C.R. 506, and confirmed in ***R. v. Nette***, 2001 SCC 78, [2001] 3 S.C.R. 488: **Were the unlawful acts of the appellants a significant contributing cause of death?**
-    - [15] In ***Nette***, this Court affirmed the validity of the *de minimis* causation standard expressed in ***Smithers*** for culpable homicide. Writing for the majority, Arbour J. noted that **causation in homicide cases involves two aspects**: **factual** and **legal causation**. **Factual causation** is “an inquiry about how the victim came to his or her death, in a medical, mechanical, or physical sense, and with the contribution of the accused to that result” (***Nette***, at para. 44). **The trier of fact usually asks: “But for”** the action(s) of the accused, would the death have occurred?
-    
-!!! info "*R. v. Maybin*, [2012 SCC 24](https://canlii.ca/t/frczg){:target=" \_blank"} Cont'd"
-    
+    - [15] In ***Nette***, this Court noted that **causation in homicide cases involves two aspects**: **factual** and **legal causation**. **Factual causation** is “an inquiry about how the victim came to his or her death, in a medical, mechanical, or physical sense, and with the contribution of the accused to that result” (***Nette***, at para. 44). The trier of fact usually asks: **“But for”** the action(s) of the accused, would the death have occurred?    
     - [16] **Legal causation**, however, is a narrowing concept which funnels a wider range of factual causes into those which are **sufficiently connected** to a harm to warrant legal responsibility. Arbour J. noted that legal causation is “based on concepts of **moral responsibility** and is **not a mechanical or mathematical exercise**” (***Nette***, at para. 83). 
-    - [28] **Neither** an unforeseeable intervening act **nor** an independent intervening act is necessarily a **sufficient condition to break the chain** of legal causation. Similarly, the fact that the intervening act was reasonably foreseeable, or was not an independent act, is not necessarily a sufficient condition to establish legal causation. ... the causation test articulated in ***Smithers*** and confirmed in ***Nette*** remains the same: **Were the dangerous, unlawful acts of the accused a significant contributing cause of the victim’s death?**
-    - [29] Depending on the circumstances, assessments of **foreseeability** or **independence** may be more or less **helpful** in determining whether an accused’s unlawful acts were still a significant contributing cause at the time of death.
+    - [28] Neither an **unforeseeable** intervening act nor an **independent** intervening act is necessarily a **sufficient condition to break the chain** of legal causation. ... the causation test articulated in ***Smithers*** and confirmed in ***Nette*** remains the same: **Were the dangerous, unlawful acts of the accused a significant contributing cause of the victim’s death?**
     - [30] An intervening act that is **reasonably foreseeable** will usually not break or rupture the chain of causation so as to relieve the offender of legal responsibility for the unintended result. ... it accords with our notions of **moral accountability**.
     - [34] In my view, the chain of causation should not be broken only because the specific subsequent attack by the bouncer was not reasonably foreseeable. From the perspective of moral responsibility, it is **sufficient** if the **general nature of the intervening act and the risk of non-trivial harm are objectively foreseeable** at the time of the dangerous and unlawful acts.
+
+**Parliament can legislate causation requirements**, just as it can legislate other elements of the *actus reus*. Importantly, any causation test, whether created by Parliament or by the judges in their rulings, must comply with the *Charter*.
 
 **Improper Medical Care and Causation Analysis**
 
@@ -457,17 +525,6 @@ The *Criminal Code* specifies that **improper medical care** applied after the c
     *Death from treatment of injury* 
     
     **225** Where a person causes to a human being a bodily injury that is of itself of a dangerous nature and from which death results, he causes the death of that human being **notwithstanding** that the immediate cause of death is **proper or improper treatment** that is applied **in good faith**.
-
-==**Study Tips**==
-
-Devise a framework for analysing causation fact patterns. A good approach is to first consider 
-
-- (1) whether there was **factual** causation, then 
-- (2) whether there was **legal** causation. 
-- (3) You can then go on to consider any other circumstances in the fact pattern that affect causation, such as 
-    - intervening factors, 
-    - thin skulls, and 
-    - improper medical treatment. 
 
 ## Unit 4: Mental Fault (*mens rea*)
 
