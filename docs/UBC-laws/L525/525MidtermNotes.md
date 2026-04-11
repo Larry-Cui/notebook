@@ -10,9 +10,9 @@ tags:
   - Midterm Notes
 ---
 
-# L525 Midterm Notes
+## Unit 1: Introduction to the Criminal Law
 
-## 1.2 Sources of Law
+### 1.2 Sources of Law
 
 The three major sources of criminal law are:
 
@@ -22,63 +22,97 @@ The three major sources of criminal law are:
     - [***Controlled Drugs and Substances Act***](http://laws-lois.justice.gc.ca/eng/acts/c-38.8){:target=" \_blank"}, S.C. 1996, c. 19: Canada’s specialized statute dealing with illicit drugs.
     - [***Youth Criminal Justice Act***](http://laws-lois.justice.gc.ca/eng/acts/Y-1.5){:target=" \_blank"}, S.C. 2002, c. 1: Canada’s criminal law statute governing persons who allegedly committed an offence(s) while under the age of eighteen years.
 - **Common Law:** judicial decisions by various levels of courts, which is also referred to as “judge-made law”, “case law” or jurisprudence
+    - A judicial decision may **interpret a statutory provision** (e.g. a term in a *Criminal Code* offence) and apply that interpretation to the facts of the case.
+    - A judicial decision may **interpret a constitutional provision** (e.g. the meaning of a legal right in the *Charter*) and apply that interpretation to: 
+    - (a) a statutory provision (e.g. an offence or penalty provision in the Criminal Code); 
+    - (b) a previous judicial decision to bring it into conformity with the constitution; or 
+    - (c) the facts of the case (e.g. assessing whether the conduct of the police in the case met the necessary constitutional standards).
+    - A judicial decision may also be an **independent source of law**, particularly when there is no legislation addressing the specific issue.
 
+**Section 91(27)** of the *Constitution Act*, 1867 vests in the **federal** Parliament exclusive jurisdiction to legislate in relation to 
 
-!!! info "Alan W Mewett, “*The Criminal Law, 1867-1967*”"
+> the Criminal Law, except the Constitution of Courts of Criminal Jurisdiction, but including the Procedure in Criminal Matters.
 
-    - One significant change was that enacted by **section 8 [now s 9]** stating:
-    
-        > Notwithstanding anything in this Act or any other Act, no person shall be convicted or discharged under section 736
+This means that the **substance** of criminal law and **rules of criminal procedure** in Canada are federal matters. 
 
-        > (a) of **an offence at common law**, 
+The **federal** Parliament also has jurisdiction under **s 91(28)** to establish, maintain, and manage **penitentiaries**, which have been considered to be the place of detention for persons serving terms of imprisonment lasting **two years or more**. 
 
-    - On the other hand, **section 7(2) [now s 8(3)]** providing:
+The **provinces** have jurisdiction under **s 92(15)** to impose punishment by way of fine, penalty, or imprisonment in order to enforce valid provincial laws. The provinces also have jurisdiction over the administration of justice under **s 92(14)**, the establishment of “Reformatory Prisons” (**s 92(6)**) (the place of detention for persons serving terms of imprisonment lasting **less than two years**), and “Asylums” (**s 92(7)**), and property and civil rights (**s 92(13)**). 
 
-        > Every rule and principle of the common law that renders any circumstance a justification or excuse for an act or a **defence** to a charge continues in force and applies in respect of proceedings for an offence under this Act or any other Act of the Parliament of Canada, except insofar as they are altered by or are inconsistent with this Act or any other Act of the Parliament of Canada.
+#### Discussion: Federal Gov't Options
 
-## Discussion: Federal Gov't Options
-
-What options does the federal government have if it disagrees with a judicial decision interpreting the Criminal Code? Are there any limitations to those options?
+What options does the federal government have if it disagrees with a judicial decision interpreting the *Criminal Code*? Are there any limitations to those options?
 
 !!! quote "Answer"
 
-    - First, the government may appeal the decision to a higher court, provided there is a right of appeal or leave is granted. 
-    - Second, if the judicial interpretation is final or remains unsatisfactory after appeals are exhausted, the government may pursue a legislative response by introducing a bill to amend the Criminal Code.
-    - However, the legislative route is neither simple nor guaranteed. Moreover, legislative amendments remain subject to constitutional limits. 
+    - First, the government may appeal the decision to a higher court, provided there is a right of appeal or leave is granted. Through the appeal process, the government can argue that the lower court erred in its statutory interpretation, legal reasoning, or application of precedent.
+    - Second, if the judicial interpretation is final or remains unsatisfactory after appeals are exhausted, the government may pursue a legislative response by introducing a bill to amend the *Criminal Code*.
+    - However, the legislative route is neither simple nor guaranteed. Any proposed amendment must pass through the full legislative process, including readings, committee review, and approval by both the House of Commons and the Senate. Political opposition, public scrutiny, and competing policy priorities may prevent the bill from passing or significantly alter its content.
+    - Moreover, legislative amendments remain subject to constitutional limits. If the new law is inconsistent with the Canadian Charter of Rights and Freedoms or other constitutional provisions, it may be challenged and ultimately declared invalid by the courts, including the Supreme Court of Canada.
 
-## 1.3 Criminal Offences and Defences
+### 1.3 Criminal Offences and Defences
 
 A criminal offence is comprised of two key elements: the ***actus reus*** or prohibited conduct, and the ***mens rea*** or mental fault. 
 
+**Criminal Law Offences**
+
+The central idea of a criminal code is to consolidate the criminal law into a single, coherent, and therefore readily knowable source. ... **no one should be punishable for an offence found only in the common law**.
+
 Before the **abolition of common law offences** by the 1953 *Criminal Code*, the Supreme Court of Canada in ***Frey v Fedoruk*** (a civil action for false imprisonment and malicious prosecution) had decided not to increase the number of common law offences and thus refused to declare it to be an offence to be a “peeping tom.”
+
+!!! warning "s 9, the *Criminal Code*"
+
+    **9** Notwithstanding anything in this *Act* or any other Act, **no person shall be convicted** or discharged under section **730**
+
+    - (a) of an offence at common law,
+    - (b) of an offence under an Act of the Parliament of England, or of Great Britain, or of the United Kingdom of Great Britain and Ireland, or
+    - (c) of an offence under an Act or ordinance in force in any province, territory or place before that province, territory or place became a province of Canada, ...
+
+**Criminal Law Defences**
 
 Supreme Court of Canada found that criminal law defences may appear in **statute**, but may also continue to be recognized at **common law** by the courts.
 
 Section 8(3) of the *Criminal Code* (“**Common law principles continued**”), was the provision interpreted in ***Amato v. The Queen***, [1982 CanLII 31 (SCC)](https://canlii.ca/t/1lpcs){:target=" \_blank"} as confirming the ongoing ability of the courts to recognize new defences at common law.
 
+!!! info "*Amato v. The Queen*, [1982 CanLII 31 (SCC)](https://canlii.ca/t/1lpcs){:target=" \_blank"}"
+ 
+    - If a defence arises in the common law it can only find its way into the courts through s. 8(3) of the *Code*:
+        
+        > 8(3) Every rule and principle of the common law that renders any circumstance a justification or excuse for an act or a defence to a charge continues in force and applies in respect of proceedings for an offence under this Act or any other Act of the Parliament of Canada, except in so far as they are altered by or are inconsistent with this Act or any other Act of the Parliament of Canada.
+    - The common law would be allowed to develop defences not inconsistent with the provisions of the *Code* if the construction adopted was prospective. 
+    - Applying the ordinary rule of construction where statutes and common law meet I conclude that s. 8(3) is the authority for the courts of criminal jurisdiction to adopt, if appropriate in the view of the court, defences including the defence of entrapment.
+
 In some instances, the *Canadian Charter of Rights and Freedoms*, specifically section 7 (principles of fundamental justice) has been interpreted to require that certain defences be available to accused persons. 
 
-## 1.4 Interpreting the Criminal Code
+### 1.4 Interpreting the *Criminal Code*
 
 The modern approach (also called the **purposive and contextual approach**) to statutory interpretation is how the *Criminal Code* is interpreted today. 
 
-In ***Schreiber v. Canada (Attorney General)***, [2002 SCC 62](https://canlii.ca/t/51rl){:target=" \_blank"}. Justice LeBel explained the rule as follows:
+In ***Bell ExpressVu Limited Partnership v. Rex***, [2002 SCC 42](https://canlii.ca/t/51s6){:target=" \_blank"}, the Court set out the basic rule governing the interpretation of statutes: 
+
+> [26] ... Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense **harmoniously with the scheme** of the Act, the **object** of the Act, and the **intention** of Parliament.
+
+... how does one resolve apparent differences in the meaning of the French and English versions of a provision? In ***Schreiber v. Canada (Attorney General)***, [2002 SCC 62](https://canlii.ca/t/51rl){:target=" \_blank"}. Justice LeBel explained the rule as follows:
 
 > [56] A principle of **bilingual statutory interpretation** holds that where one version is ambiguous and the other is clear and unequivocal, **the common meaning of the two versions would a priori be preferred**; Furthermore, where one of the two versions is broader than the other, **the common meaning would favour the more restricted or limited meaning**.
 
 The rule of **strict construction** of penal statutes: This rule holds that when interpreting a penal statute, including the *Criminal Code*, any **real textual ambiguities should be resolved in a way that benefits the accused**. 
 
-As the Court explained in ***Bell ExpressVu Limited Partnership v. Rex***, [2002 SCC 42](https://canlii.ca/t/51s6){:target=" \_blank"}, one must **first apply this normal, “modern approach”** to statutory interpretation to determine whether an ambiguity truly exists.
+In a number of subsequent cases, the Supreme Court has affirmed that courts should only resort to the principle of the **strict construction** of the criminal law, and other “**special**” rules of statutory construction, **if there remains an ambiguity after the law has been subject to a contextual and purposive interpretation**. 
 
-> Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the **scheme** of the Act, the **object** of the Act, and the **intention** of Parliament.
+As the Court explained in ***Bell ExpressVu***, one must **first apply this normal, “modern approach”** to statutory interpretation to determine whether an ambiguity truly exists. “Other principles of interpretation, such as the **strict construction of penal statutes and the ‘*Charter* values’ presumption**, only receive application where there is ambiguity as to the meaning of a provision” (at para 28). 
 
-“Other principles of interpretation, such as the **strict construction** of penal statutes and the ***Charter* values presumption**, only receive application where there is ambiguity as to the meaning of a provision” (at para 28). 
+## Unit 2: Criminal Justice Process and Procedure
 
-## 2.1 The Onus & Standard of Proof
+### 2.1 The Onus & Standard of Proof
 
 **The main onus of proof in criminal matters is the Crown’s onus** to prove the offence charged and to establish the Accused’s guilt. 
 
 The standard of proof refers to **how much evidence the Crown or Defence must present in order to prove an issue** in a criminal trial. The **highest** standard of proof in Canadian criminal law is proof **beyond a reasonable doubt**. This is the overarching standard to which Crown must prove the offence charged and the Accused’s guilt.
+
+Lesser standards of proof may also apply in criminal proceedings. These can include “reasonable grounds”, “reasonable and probable grounds”, “some credible evidence” or “a balance of probabilities”. These lesser standards require that less evidence be put before the court and are therefore easier for the party with the onus of proof to meet.
+
+**Proof Beyond a Reasonable Doubt**
 
 The decision in ***R. v. Lifchus***, [1997 CanLII 319 (SCC)](https://canlii.ca/t/1fqzt){:target=" \_blank"} is a leading case setting out the meaning of “proof beyond a reasonable doubt”.
 
@@ -88,13 +122,31 @@ The decision in ***R. v. Lifchus***, [1997 CanLII 319 (SCC)](https://canlii.ca/t
     - 31 They (jurors) should be instructed that a reasonable doubt **cannot be based on sympathy or prejudice**.  Further they should be told that a reasonable doubt **must not be imaginary or frivolous**.  As well they must be advised that the Crown is not required to prove its case to **an absolute certainty** since such an unrealistically high standard could seldom be achieved.
     - 32 They should be told that proof establishing **a probability of guilt is not sufficient** to establish guilt beyond a reasonable doubt.
 
+In ***R. v. Starr***, [2000 SCC 40](https://canlii.ca/t/525l){:target=" \_blank"} to see how the majority of the Supreme Court of Canada has been strict in requiring compliance with the ***Lifchus*** description of “proof beyond a reasonable doubt”.
+
+!!! info "*Starr*"
+
+    - [87] **Two further annotations** to ***Lifchus*** are necessary.  
+
+        > ***Lifchus***, at para. 27,  emphasized the need for the trial judge to link the **standard of proof beyond a reasonable doubt** to that basic premise which is fundamental to all criminal trials: **the presumption of innocence**.  The two concepts ... must be presented together as a unit. Jurors must be reminded that the **burden** of proving beyond a reasonable doubt that the accused committed the crime **rests with the prosecution throughout the trial and never shifts to the accused**. 
+
+        > In addition, ... jurors must be advised that the Crown is **not required to prove its case to an absolute certainty** since such an unrealistically high standard could seldom be achieved (para. 31).
+
+**Presumption of Innocence at Common Law**
+
 **Section 11(d)** of the *Canadian Charter of Rights and Freedoms* enshrined the presumption of innocence in our constitutional law. It states:
 
 > Any person charged with an offence has the right ... to be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal.
 
-## Discussion Activity: ***R. v. Keegstra***, [1990 CanLII 24 (SCC)](https://canlii.ca/t/1fsr1){:target=" \_blank"}
+If this right is infringed, the party seeking to uphold the infringement has the onus of proof (on a balance of probabilities) to justify it under **section 1** of the *Charter*, which states:
 
-Did section 319(2) violate Keegstra’s presumption of innocence, and if so, was that violation justified under s.1 of the *Charter*?
+> The *Canadian Charter of Rights and Freedoms* guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
+
+In ***R. v. Keegstra***, [1990 CanLII 24 (SCC)](https://canlii.ca/t/1fsr1){:target=" \_blank"}, the Supreme Court of Canada split on the issue of whether the infringement of section 11(d) of the *Charter* could be justified under section 1 of the *Charter*.
+
+#### Discussion Activity: ***R. v. Keegstra***, [1990 CanLII 24 (SCC)](https://canlii.ca/t/1fsr1){:target=" \_blank"}
+
+Did section 319(2) violate ***Keegstra***’s presumption of innocence, and if so, was that violation justified under s.1 of the *Charter*?
 
 
 !!! quote "Answer"
@@ -102,6 +154,7 @@ Did section 319(2) violate Keegstra’s presumption of innocence, and if so, was
     - One of the legal issues in ***Keegstra*** is whether sections 319(2) and 319(3)(a) of the *Criminal Code* violate the presumption of innocence principle in the common law and section 11(d) of the *Charter*, and thus reverse the burden of proof from the prosecution to the accused.
     - Both the majority and dissenting justices found that the provisions violate section 11(d) of the *Charter*, but they diverge in the second phase of the analysis. 
     - The majority held that the violation is justified under section 1, while the dissents argued that it could not be saved by section 1 because there lacks a “rational connection” between the aims of s. 319(3)(a) and its requirement that the accused prove the truth of his statements, and because the effects of the infringement and the objectives it promotes raise proportionality concerns.
+    - my opinion: Hate speech and its promotion are so poisonous to a healthy and harmonious society that certain precautions must be laid out to curb such irresponsible actions. As the Court said, the crucial objective of Parliament in this appeal justifies requiring a more convincing demonstration that a hate-monger’s statements may be true, as a successful defence provides an excuse despite the presence of the harm sought to be eradicated. Having the accused prove truthfulness on the balance of probabilities is an understandable and valuable precaution against too easily justifying such harm. Thus, as the majority concluded, the reverse-onus provision in s. 319(3)(a) represents a minimal impairment of the presumption of innocence.
 
 In ***R. v. Downey***, [1992 CanLII 109 (SCC)](https://canlii.ca/t/1fsbb){:target=" \_blank"}, **Cory J** provided the following summary of the principles that emerged from the s 11(d) jurisprudence to date:
 
@@ -109,26 +162,29 @@ In ***R. v. Downey***, [1992 CanLII 109 (SCC)](https://canlii.ca/t/1fsbb){:targe
 2. If by the provisions of a statutory presumption, an accused is required to establish, that is to say to prove or disprove, on a balance of probabilities either an element of an offence or an excuse, then it contravenes s. 11(d). Such a provision would permit a conviction in spite of a reasonable doubt.
 3. statutory presumptions which infringe s 11(d) may still be justified pursuant to s. 1 of the *Charter*. (As, for example, in ***Keegstra***, *supra*.)
 
-The standard jury instructions in ***Lifchus***, often **supplemented by an explanation**, inspired by ***Starr***, that **proof beyond a reasonable doubt is closer to certainty than probability**. 
 
+### 2.2 Judges and Juries
 
-!!! info "*R. v. Starr*, [2000 SCC 40](https://canlii.ca/t/525l){:target=" \_blank"}"
-
-    - It will be of great assistance for a jury if the trial judge situates the reasonable doubt standard appropriately between these two standards. I am in agreement with Twaddle J.A. in the court below, when he said, at p. 177:
-
-        > If standards of proof were marked on a measure, proof “beyond reasonable doubt” would lie much closer to “absolute certainty” than to “a balance of probabilities.” 
-
-## 2.2 Judges and Juries
+**Judges**
 
 Crown Counsel can charge an Accused either by **summary conviction** or by **indictment** (“in-dite-ment”). 
 
-This independence is vital to fostering public confidence in the fairness and objectivity of the justice system. Three principles protect it:
+A judge acting alone has the task of determining whether the Accused is guilty of the offence that s/he is charged with and, if so, what the appropriate sentence should be. In jury trials, the judge rules on preliminary (before trial) applications, makes rulings on evidentiary and procedural issues during the trial, and explains the law to the jury before they go deliberate and make their finding of guilt or acquittal. Judges also determine sentence in jury trials.
 
-- **Administrative independence:** Judges oversee the administration of the courts; the government does not set hearing dates or assign a judge to a particular case.
-- **Financial security:** An independent body, the Judicial Compensation and Benefits Commission, reviews judges’ salaries, benefits and retirement annuities, and recommends improvements and changes.
-- **Security of tenure:** Judges can remain on the bench until retirement; they cannot be removed from office unless an independent investigation determines they are unfit or guilty of misconduct.
 
-In addition to independence, judges are expected to maintain **integrity** and **impartiality**.
+!!! info "[An Independent and Impartial Judiciary](https://cscja.ca/judicial-independence/){:target=" \_blank"}"
+
+    While governments appoint and pay judges, once appointed, judges are shielded from bureaucratic control. Judges must be able to make courageous, even unpopular decisions knowing that no one, a chief justice, another judge, a government official or even the most powerful politician, can fire them or cut their salaries as retaliation.
+
+    This independence is vital to fostering public confidence in the fairness and objectivity of the justice system. Three principles protect it:
+
+    - **Administrative independence:** Judges oversee the administration of the courts; the government does not set hearing dates or assign a judge to a particular case.
+    - **Financial security:** An independent body, the Judicial Compensation and Benefits Commission, reviews judges’ salaries, benefits and retirement annuities, and recommends improvements and changes.
+    - **Security of tenure:** Judges can remain on the bench until retirement; they cannot be removed from office unless an independent investigation determines they are unfit or guilty of misconduct.
+
+    In addition to independence, judges are expected to maintain **integrity** and **impartiality**. The Canadian Judicial Council developed a set of Ethical Principles for Judges to provide guidance.
+
+**Juries**
 
 Section 11(f) of the *Canadian Charter of Rights and Freedoms* gives an Accused the right to a jury trial for serious offences as follows:
 
@@ -144,7 +200,7 @@ Section 11(f) of the *Canadian Charter of Rights and Freedoms* gives an Accused 
     - 30 In every trial where there is no plea of guilty or an admission by the accused as to one or more of the essential elements of the offence, **the question of whether the Crown has met its burden is necessarily at play and must be put to the jury for its determination.** This “defence” is squarely before the jury. There is no further threshold to meet. 
     - 31 Hence, **it is never the function of the judge in a jury trial to assess the evidence and make a determination that the Crown has proven one or more of the essential elements of the offence and to direct the jury accordingly.**
 
-## 2.3 Crown Prosecutors
+### 2.3 Crown Prosecutors
 
 **Both lawyers** representing the Crown (the Prosecutor) and the Accused (Defence Counsel) introduce evidence and make submissions on the facts an on the law.
 
@@ -175,8 +231,7 @@ This case, ***R. v. Anderson***, [2014 SCC 41](https://canlii.ca/t/g784t){:targe
     - **(ii) The Threshold Evidentiary Burden** 
     - [52] The **burden of proof** for establishing abuse of process lies on the **claimant**, who must prove it on **a balance of probabilities**. However, given the unique nature of prosecutorial discretion, specifically, the fact that the Crown will typically (if not always) be the only party who will know why a particular decision was made, this Court in ***Nixon*** recognized that **where prosecutorial discretion is challenged, the Crown may be required to provide reasons justifying its decision** where the claimant establishes a proper evidentiary foundation: para. 60.
 
-## Discussion Activity: Crown Prosecutors and the *BC Code*
-
+#### Discussion Activity: Crown Prosecutors and the *BC Code*
 
 !!! quote "Answer"
 
@@ -196,7 +251,7 @@ The duty to provide disclosure is now a constitutional requirement, as set out b
 
 The most **serious consequence** of a Crown Prosecutor not following their duties and responsibilities is that they may contribute to **wrongful convictions**.
 
-## Discussion Activity: Wrongful Convictions
+#### Discussion Activity: Wrongful Convictions
 
 !!! quote "Answer"
 
@@ -208,7 +263,7 @@ The most **serious consequence** of a Crown Prosecutor not following their dutie
 
     There are several ways to prevent prosecutorial abuse of process. One of the most important and effective is full and timely disclosure of all potentially relevant information to the accused.
 
-## 2.4 Defence Counsel
+### 2.4 Defence Counsel
 
 Rather, Defence Counsel also have obligations as “**officers of the court**”.
 
@@ -239,7 +294,7 @@ The *Federation of Law Societies of Canada*’s [Model Code of Professional Cond
 - (c) **required** to deliver the information to the Law Society; or 
 - (d) otherwise **permitted** by this rule.
 
-## 2.5 Classification of Offences
+### 2.5 Classification of Offences
 
 All offences in the *Criminal Code* are classified by Parliament when they are enacted by legislation. The words that create the offence itself, or the penalty provision appearing after it, will identify the offence as “**summary**” or “**indictable**” (pronounced “in-dite-a-ble”), or indicate that it can be either summary or indictable, meaning it is a “**hybrid**” offence.
 
@@ -249,7 +304,7 @@ For certain offences, the Crown may “elect” (decide) to proceed either summa
 
 When an Accused is charged with a hybrid offence, it is **deemed to be indictable, unless and until the Crown elects to proceed by summary conviction**: *Interpretation Act*, s. 34(1)(a). (Adapted from: Janine Benedet, Casebook: 2007-2008, Ch. 1.)
 
-## 2.6 Overview of Pre-trial and Trial Procedures
+### 2.6 Overview of Pre-trial and Trial Procedures
 
 Criminal proceedings begin with a police investigation into criminal activity. In B.C., once an officer has gathered enough evidence to support a prosecution, he or she will **submit a police report to Crown Counsel**. This report is called a **Report to Crown Counsel** (“**RTCC**”) and includes typed narratives from each officer involved in the investigation explaining what they did, saw and learned during the investigation. The RTCC also includes a copy of all evidence gathered by police including photographs, videos, witness statements, fingerprint analysis and more.
 
@@ -275,7 +330,9 @@ If an Accused denies the charges (“**pleads not guilty**”) then a trial will
 
 **Arraignment**: Formal reading of the charge to the Accused and entering of a plea. If the plea is “Guilty,” the Accused proceeds to sentencing.  If s/he pleads “Not Guilty” then a **trial** or **Preliminary Hearing** (This is similar to a trial but there is a lesser evidentiary threshold) is scheduled. 
 
-## 3.1 Introduction
+## Unit 3: Acts and Omissions (*actus reus*)
+
+### 3.1 Introduction
 
 At common law, and now under section 7 of the *Charter*, every criminal offence must include **prohibited conduct** (*actus reus*) accompanied by the **requisite mental state** (*mens rea*).
 
@@ -286,17 +343,15 @@ The concept of *actus reus* refers to more than simply a prohibited action; *act
 - Sometimes in **prescribed circumstances** – for instance, if someone is charged with “assaulting a police officer”, the prescribed circumstance is that the assaulted person must have been a police officer.
 - Sometimes causing **certain consequences** – for example, if someone is charged with “assault causing bodily harm”, the required consequence of the prohibited act (the assault) is that the assaulted person was harmed.
 
-## 3.2 Voluntariness
+### 3.2 Voluntariness
 
 The first of the elements of the *actus reus* is the requirement for voluntary conduct. The essential characteristic of voluntariness is the **conscious control of action**. Consciousness alone, however, is not enough to establish voluntariness because a person might be conscious and yet still be incapable of controlling his or her conduct. In sum, **the voluntariness of a person’s conduct will be established if his or her conduct is the product of conscious choice.** 
 
 The Supreme Court of Canada decision in ***Ruzic*** confirms that both at common law and under section 7 of the *Charter*, **there can be no criminal liability unless the conduct was voluntary**. The test for physical voluntariness set out by the Court is that it requires a “**conscious mind and a controlled body**” – if either of these is lacking, there is no physical voluntariness, and no crime has occurred. 
 
-## 3.3 Acts & Omissions
+### 3.3 Acts & Omissions
 
 Most criminal offences require that an Accused commit a **positive act**. Certain offences can be committed by **failing to act** (e.g. **omissions**). These involve situations where the Accused was **under a legal duty** to act and failed to do so.
-
-
 
 The **common factor in omission offences** is that they all require people to act in a way that fulfills a duty that is imposed upon them. Sometimes this duty is built right into a *Criminal Code* offence section. These are called “**specific omission offences**” and their *Code* sections both create a duty to act and then criminalize a failure to meet that duty. An example is s.129(1)(b) which makes it an offence to not assist a peace officer.
 
@@ -334,7 +389,7 @@ Be able to define an **omission offence** in your own words. Know that they can 
 
 When considering a fact pattern with an omission offence, first ask yourself “**was there a duty to act?**” And if so, “**what section of the Code (if statutory) created that duty?**” Next consider whether that **duty applied** to the Accused in your fact pattern. Finally, if the duty applied, you will want to analyse whether the Accused **met/fulfilled/discharged that duty**.
 
-## 3.4 Causation & Consequences
+### 3.4 Causation & Consequences
 
 **==Some criminal offences== require that the Accused’s act or omission cause a certain consequence or result.** “Causation” is the link between the act or omission and the alleged consequence or result: the prohibited conduct (act/omission) causes the prohibited consequence for there to be liability. Where they are part of an offence, **causation and the prohibited consequence must be proven beyond a reasonable doubt** by the Crown.
 
@@ -414,7 +469,9 @@ Devise a framework for analysing causation fact patterns. A good approach is to 
     - thin skulls, and 
     - improper medical treatment. 
 
-## 4.1 Mental Fault (Mens Rea) Introduction
+## Unit 4: Mental Fault (*mens rea*)
+
+### 4.1 Mental Fault (*mens rea*) Introduction
 
 Only the federal Parliament has jurisdiction to enact criminal offences (e.g offences in the *Criminal Code* and *Controlled Drugs and Substances Act*). **If the offence you are considering comes from one of these two statutes, you can be almost certain that you are dealing with a true criminal offence.**
 
@@ -422,7 +479,7 @@ On the other hand, regulatory offences involve conduct that is not inherently wr
 
 It can be critically important how an offence is classified between criminal and regulatory. This is because each has **a starting presumption of the minimal level of *mens rea*** required.
 
-## 4.2 Absolute & Strict Liability
+### 4.2 Absolute & Strict Liability
 
 As some regulatory offences can involve the possibility of imprisonment, **absolute liability** means that someone could possibly be liable to imprisonment without any mental fault at all. This would mean that even an “accident” could give rise to the possibility of imprisonment. As we will see, such a possibility is **not allowed** under the *Charter*. However, **for those regulatory offences that do not involve the possibility of imprisonment, absolute liability offences do still exist.**
 
@@ -475,7 +532,7 @@ The Supreme Court affirmed in 2006 that it would apply the “clear analytical f
     - ... no imprisonment may be imposed for an absolute liability offence, and, consequently, given the question put to us, an offence punishable by imprisonment cannot be an absolute liability offence. 
     - **Comment:** The Court subsequently held that **corporations do not enjoy s 7 rights** in ***Irwin Toy Ltd. v. Quebec (Attorney General)***, [1989 CanLII 87 (SCC)](https://canlii.ca/t/1ft6g){:target=" \_blank"}. At the same time, corporations charged with an offence that also applies to natural persons can still challenge the offence under s 7 as well as other rights under the *Charter*. That is why a corporation was able to challenge regulatory offences under s 7 of the *Charter* in ***R. v. Wholesale Travel Group Inc.***, [1991 CanLII 39 (SCC)](https://canlii.ca/t/1fsjf){:target=" \_blank"}. Note that the rights in **s 11** of the *Charter*, including the presumption of innocence in s 11(d) of the *Charter*, **apply to all** those charged with an offence, including corporations.
 
-## 4.3 Subjective vs. Objective Fault
+### 4.3 Subjective vs. Objective Fault
 
 Four different types of “**subjective fault**” (often referred to simply as *mens rea*): **intention**, **recklessness**, **knowledge**, and **wilful blindness**.
 
@@ -493,7 +550,7 @@ In contrast, **“objective fault”**, does not ask what was going on in the mi
 
 > what **a reasonable man ought to have anticipated** is merely evidence from which a conclusion may be drawn that the Accused anticipated the same consequences.
 
-## 4.4 Intention & Recklessness
+### 4.4 Intention & Recklessness
 
 Intention generally refers to the Accused’s conscious choice to engage in the prohibited conduct (i.e. they mean to engage in such conduct) and, if applicable, that they mean to cause the prohibited consequence.
 
@@ -504,7 +561,6 @@ In cases where specific “intention” language is not use, **recklessness** ma
 There is a small **knowledge component** involved in recklessness, the knowledge that the behaviour one is engaging in has the potential to result in criminality.
 
 In ***Sansregret***, the Supreme Court of Canada describes the concepts of **recklessness** and **wilful blindness** (discussed in our next topic) as **subjective types of mental fault**. The Court explains how recklessness involves the Accused being aware that there is a risk that his conduct could bring about the prohibited results, but nevertheless persists despite the risk.
-
 
 !!! info "*R. v. Hibbert*, [1995 CanLII 110 (SCC)](https://canlii.ca/t/1frjf){:target=" \_blank"}"
 
@@ -528,7 +584,7 @@ In ***Sansregret***, the Supreme Court of Canada describes the concepts of **rec
         - The culpability in recklessness is **justified by** consciousness of the risk and by proceeding in the face of it, 
         - while in wilful blindness it is **justified by** the accused’s fault in deliberately failing to inquire when he knows there is reason for inquiry.
 
-## 4.5 Knowledge & Willful Blindness
+### 4.5 Knowledge & Willful Blindness
 
 Knowledge generally requires a **“true belief”** in a certain state of affairs. For example, if someone is charged with assaulting a police officer, they must have known at the time that the victim was a police officer. Usually (but not always) an Accused must have knowledge of each essential element of the crime to have the requisite *mens rea* for the crime.
 
@@ -540,7 +596,7 @@ In ***R. v. Briscoe***, [2010 SCC 13](https://canlii.ca/t/29280){:target=" \_bla
 
 > ==Wilful blindness does not define the *mens rea* required for particular offences. Rather, it can **substitute for actual knowledge** whenever knowledge is a component of the *mens rea*.==
 
-## Discussion Activity:  Identifying the *Actus Reus* & *Mens Rea* that Crown Must Prove
+#### Discussion Activity:  Identifying the *Actus Reus* & *Mens Rea* that Crown Must Prove
 
 **131** Every one commits perjury who, with intent to mislead, makes a false statement under oath or solemn affirmation, by affidavit, or orally, knowing that the statement is false.
 
@@ -551,7 +607,7 @@ In ***R. v. Briscoe***, [2010 SCC 13](https://canlii.ca/t/29280){:target=" \_bla
 **RECKLESSNESS:** N/A<br>
 **Knowledge or WB:** knowing that the statement is false
 
-## 4.6 Criminal Negligence
+### 4.6 Criminal Negligence
 
 Objective mental fault falls short of a “purely subjective inquiry” into what the Accused actually thought about, and instead considers what he or she **should have contemplated or ought to have perceived**. Such standards consider what a fictitious **“reasonable person”** would have thought, known or done in the circumstances. 
 
