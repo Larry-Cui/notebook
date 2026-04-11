@@ -343,8 +343,6 @@ Self-defence is the justified use of force to defend oneself, one’s property, 
 
 **Statutory Provisions**
 
-Read Sections 34 and 35 of the *Criminal Code*: Self-Defence Provisions
-
 !!! warning "an excerpt of sections 34 and 35 of the Criminal Code (it omits a few exceptions)"
 
     **Defence of Person**
@@ -630,7 +628,7 @@ In ***R. v. Oommen***, [1994 CanLII 101 (SCC)](https://canlii.ca/t/1frs9){:targe
 
 > whether the accused lacks the capacity to **rationally decide whether the act is right or wrong** and hence to make a rational choice about whether to do it or not.
 
-### Discussion Activity: ==Mental Disorder Practice Problem==
+#### Discussion Activity: ==Mental Disorder Practice Problem==
 
 !!! quote "Answer"
 
@@ -656,4 +654,143 @@ In ***R. v. Oommen***, [1994 CanLII 101 (SCC)](https://canlii.ca/t/1frs9){:targe
     
     In my view, the accused’s imagined command from God functioned more like an abetting influence than evidence that his disease of the mind deprived him of the capacity required under s. 16. Accordingly, the accused should be convicted of murder rather than found NCR.   
 
+## Unit 7: Sentencing 
+
+Within the range of possible sentences, the sentencing judge (who is the same as the trial judge) must fix a fit sentence that is **proportionate to** the **gravity** of the offence and the **blameworthiness** of the offender.  The judge is guided by the general principles of sentencing found in **Part XXIII** of the *Code* and in the case law.
+
+For most offences, sentencing judges exercise their discretion within this range and are generally afforded deference by appeals courts, **unless** there is “an error in principle, failure to consider a relevant factor, or an overemphasis of the appropriate factors” such that the sentence is ==“**demonstrably unfit**”== (***R. v. M. (C.A.)***, [1996 CanLII 230 (SCC)](https://canlii.ca/t/1frb9){:target=" \_blank"}).
+
+Sometimes the defence and the Crown make **a joint submission** as to the appropriate sentence, usually as **part of a plea negotiation**.  ==The judge is **not obliged to accept** this recommendation and may choose to award a more or less severe sentence.==
+
+### 7.2 Purpose and Objectives
+
+!!! warning "ss. 718 to 718.2 of the *Criminal Code*"
+
+    ==**Purpose**==
+
+    **718** The ==**fundamental purpose of sentencing**== is to **protect** society and to contribute, along with crime prevention initiatives, to **respect** for the law and the **maintenance** of a just, peaceful and safe society by imposing just sanctions that have one or more of the following objectives:
+
+    - to **denounce** unlawful conduct and the harm done to victims or to the community that is caused by unlawful conduct;
+    - to **deter** the offender and other persons from committing offences;
+    - to **separate** offenders from society, where necessary;
+    - to **assist** in rehabilitating offenders;
+    - to provide **reparations** for harm done to victims or to the community; and
+    - to **promote** a sense of responsibility in offenders, and acknowledgment of the harm done to victims or to the community.
+
+    ==**Fundamental principle**==
+
+    **718.1** A sentence must be **proportionate** to the **gravity** of the offence and the degree of **responsibility** of the offender.
+
+    ==**Other sentencing principles**==
+
+    **718.2** A court that imposes a sentence shall also take into consideration the following principles:
+
+    (a) a sentence should be increased or reduced to account for any relevant **aggravating or mitigating circumstances** relating to the offence or the offender, and, without limiting the generality of the foregoing,
+
+    - (i) evidence that the offence was motivated by bias, prejudice or hate based on race, national or ethnic origin, language, colour, religion, sex, age, mental or physical disability, sexual orientation, or gender identity or expression, or on any other similar factor,
+    - (ii) evidence that the offender, in committing the offence, abused the offender’s spouse or common-law partner,
+    - (ii.1) evidence that the offender, in committing the offence, abused a person under the age of eighteen years,
+    - (iii) evidence that the offender, in committing the offence, abused a position of trust or authority in relation to the victim,
+    - (iii.1) evidence that the offence had a significant impact on the victim, considering their age and other personal circumstances, including their health and financial situation,
+    - (iv) evidence that the offence was committed for the benefit of, at the direction of or in association with a criminal organization,
+    - (v) evidence that the offence was a terrorism offence, or
+    - (vi) evidence that the offence was committed while the offender was subject to a conditional sentence order made under section 742.1 or released on parole, statutory release or unescorted temporary absence under the *Corrections and Conditional Release Act* shall be deemed to be aggravating circumstances;
+
+    (b) a sentence should be **similar** to sentences imposed on similar offenders for similar offences committed in similar circumstances;
+
+    (c) where consecutive sentences are imposed, the **combined sentence** should not be unduly long or harsh;
+
+    (d) an offender should **not be deprived of liberty**, if less restrictive sanctions may be appropriate in the circumstances; and
+
+    (e) all available sanctions, other than imprisonment, that are reasonable in the circumstances and consistent with the harm done to victims or to the community should be considered for all offenders, with particular attention to the circumstances of **Aboriginal offenders**.
+
+#### Discussion Activity: ==Purposes and Objectives of Sentencing==
+
+!!! quote "Answer"
+
+    Section 718 states that “[t]he fundamental purpose of sentencing is to protect society and to contribute, along with crime prevention initiatives, to respect for the law and the maintenance of a just, peaceful and safe society by imposing just sanctions that have one or more of the following objectives ...”
     
+    Under ss. 718.1 and 718.2, the main sentencing principles include:
+    
+    - A sentence must be proportionate to the gravity of the offence and the degree of responsibility of the offender. 
+    - A sentence should be increased or reduced to account for any relevant aggravating or mitigating circumstances relating to the offence or the offender. 
+    - A sentence should be similar to sentences imposed on similar offenders for similar offences committed in similar circumstances. 
+    - Where consecutive sentences are imposed, the combined sentence should not be unduly long or harsh. 
+    - An offender should not be deprived of liberty if less restrictive sanctions may be appropriate in the circumstances. 
+    - All available sanctions other than imprisonment that are reasonable in the circumstances, and consistent with the harm done to victims or the community, should be considered for all offenders, with particular attention to the circumstances of Aboriginal offenders. 
+    
+    In the present case, the incident arose from a late-night fight involving intoxication. The victim initiated the confrontation, physically outmatched the accused, and the accused immediately regretted his actions once the victim was wounded. 
+    
+    Considering these factors, even if the self-defence claim were ultimately rejected, the accused should receive neither the maximum sentence nor an acquittal. Instead, the sentence should be proportionate to the gravity of the offence and the degree of the accused’s moral blameworthiness, as determined by the judge at the new trial. Furthermore, sentences imposed on similar offenders for similar offences committed in comparable circumstances should also be considered to ensure consistency in sentencing.
+
+### 7.3 Constitutional Considerations
+
+Section 12 of the *Charter* provides that
+
+> everyone has the right not to be subjected to any cruel and unusual treatment or punishment.
+
+Most notably, this provision has been used, successfully in some cases, to challenge the imposition of **mandatory minimum sentences of imprisonment** (“**MMPs**”) for some offences. MMPs are the minimum sentence that a judge must impose for a given offence.
+
+Many of these **MMPs** were “struck down” by the courts over the first few years. The following cases of ***R. v. Nur***, [2015 SCC 15](https://canlii.ca/t/gh5ms){:target=" \_blank"} and ***R. v. Lloyd***, [2016 SCC 13](https://canlii.ca/t/gpg9t){:target=" \_blank"} are two of these decisions.
+
+At ***R. v. Nur***, paragraph 46:
+
+> [46] To recap, a challenge to a mandatory minimum sentencing provision on the ground it constitutes cruel and unusual punishment under s. 12 of the *Charter* involves two steps.  **First**, the court must determine what constitutes **a proportionate sentence** for the offence having regard to the objectives and principles of sentencing in the *Criminal Code*.  **Then**, the court must ask **whether the mandatory minimum requires the judge to impose a sentence that is grossly disproportionate to the fit and proportionate sentence**.  If the answer is yes, the mandatory minimum provision is inconsistent with s. 12 and will fall unless justified under s. 1 of the *Charter*.
+
+### 7.4 Sentencing Options
+
+**Not all** types of sentence can be imposed for every offence or in every circumstance.
+
+- **Absolute discharge:** When a person is found guilty or pleads guilty but the judge decides it is not necessary to convict them. The person then has no criminal record. See *Criminal Code* **section 730**.
+- **Conditional discharge:** When a person is found guilty or pleads guilty but the judge decides it is not necessary to convict them if they obey the rules (conditions) of a **probation** order. If they obey all the rules, **at the end of their probation they will not have a criminal record**. See *Criminal Code* **section 730**.  Note that a conditional discharge is very different from **a conditional sentence**.
+- **Conditional sentence:** A jail sentence **served in the community**. The offender does not live in jail but is **supervised by BC Community Corrections**. They must follow certain rules (conditions). 
+- **Suspended sentence and probation:** With a suspended sentence, a judge **convicts** the offender, but suspends sentencing and instead releases the offender on specific conditions for a period of time, as set out in a probation order. This often includes a condition that the offender must report to a probation officer. 
+- **Fine:** If the offender is given a fine, they will be given time to pay it. If it is not paid within that time, they could end up in custody or there could be other impacts such as being unable to renew their driver’s licence. 
+- **Custodial sentence:** This is where the offender serves a period of time in jail, either a provincial **correctional centre** or a federal **penitentiary**. 
+- **Intermittent custodial sentence:** For sentences of **90 days or less**, a judge may order an intermittent custodial sentence. This means the offender does not serve all the days of the sentence at the same time. For example, they may **serve the sentence on weekends**.  
+- **Victim fine surcharge:** The offender may be required to pay a surcharge or fee, called the **victim surcharge**, **that goes toward helping victims of crime**. This surcharge will be added by the court registry unless the judge says the offender does not have to pay it (exempts them from paying it) or reduces the amount. The judge may order that the offender pay no victim surcharge or that a reduced amount must be paid if the full amount would cause undue hardship because of financial circumstances. The judge may also decrease, increase or order no payment based on the circumstances of the offence and the offender's responsibility for it. 
+
+In ***R. v. Proulx***, [2000 SCC 5](https://canlii.ca/t/527b){:target=" \_blank"}, the Supreme Court of Canada explains the significance of the **conditional sentence of imprisonment** and sets out the test for when it is an available and appropriate sentence. Note that conditional sentences were **no longer available for many drug trafficking offences** since the passing of the *Safe Streets and Community Act* discussed in the previous topic, however these prohibitions on CSOs were later overturned as unconstitutional.
+
+!!! info "*R. v. Proulx*, headnote"
+    
+    A **conditional sentence** should be distinguished from **probationary measure**s.  Probation is primarily a rehabilitative sentencing tool.  By contrast, Parliament intended conditional sentences to include **both punitive and rehabilitative** aspects.  Therefore, conditional sentences should generally include punitive conditions that are restrictive of the offender's liberty.  Conditions such as house arrest should be the norm, not the exception.
+
+    No offences are excluded from the conditional sentencing regime except those with a minimum term of imprisonment, nor should there be presumptions in favour of or against a conditional sentence for specific offences.
+
+    Section 742.1 of the *Code* lists four criteria that a court must consider before deciding to impose a conditional sentence:
+    
+    - (1) the offender must be convicted of an offence that is not punishable by a minimum term of imprisonment; 
+    - (2) the court must impose a term of imprisonment of less than two years; 
+    - (3) the safety of the community would not be endangered by the offender serving the sentence in the community; and 
+    - (4) a conditional sentence would be consistent with the fundamental purpose and principles of sentencing set out in ss. 718 to 718.2. 
+
+### 7.5 Aboriginal Offenders
+
+In ***R. v. Gladue***, [1999 CanLII 679 (SCC)](https://canlii.ca/t/1fqp2){:target=" \_blank"}, the Supreme Court of Canada recognized the problem of **disproportionate incarceration of Aboriginal offenders** and established the approach that should be taken in sentencing such offenders, citing section 718.2(e) of the *Criminal Code*. 
+
+Section **718.2(e)** of the *Criminal Code* states that
+
+> all available sanctions other than imprisonment that are reasonable in the circumstances should be considered for all offenders, with particular attention to the circumstances of aboriginal offenders.
+
+### 7.6 Victims
+
+**Victim Impact Statements**
+
+The main role of victims during sentencing is to provide information to the sentencing judge about the impact of the offence on them through a **victim impact statement**. This document may be submitted **in written form** or **read aloud during** the sentencing hearing.
+
+!!! warning "ss 722 to 722.2 of the *Criminal Code*"
+
+    **Victim impact statement**
+
+    **722(1)** When determining the sentence to be imposed on an offender or determining whether the offender should be discharged under section 730 in respect of any offence, the court shall consider any statement of a victim prepared in accordance with this section and filed with the court describing the physical or emotional harm, property damage or economic loss suffered by the victim as the result of the commission of the offence and the impact of the offence on the victim.
+
+    **Community impact statement**
+
+    **722.2(1)** When determining the sentence to be imposed on an offender or determining whether the offender should be discharged under section 730 in respect of any offence, the court shall consider any statement made by an individual on a community’s behalf that was prepared in accordance with this section and filed with the court describing the harm or loss suffered by the community as the result of the commission of the offence and the impact of the offence on the community.
+
+
+
+
+
+
