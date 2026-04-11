@@ -530,17 +530,33 @@ The *Criminal Code* specifies that **improper medical care** applied after the c
 
 ### 4.1 Mental Fault (*mens rea*) Introduction
 
-Only the federal Parliament has jurisdiction to enact criminal offences (e.g offences in the *Criminal Code* and *Controlled Drugs and Substances Act*). **If the offence you are considering comes from one of these two statutes, you can be almost certain that you are dealing with a true criminal offence.**
+The *Criminal Code* does not include a definition of the various types of mental fault, so this has fallen to the courts to interpret.
 
-On the other hand, regulatory offences involve conduct that is not inherently wrongful, but if it were unregulated it would present some danger to society. **Both the federal Parliament and provincial legislatures may enact regulatory offences within their respective areas of jurisdiction** (e.g. provincial health inspections of restaurants, federal air transport safety regulations).
+**“True Criminal Offences” versus Regulatory Offences**
+
+Only the federal Parliament has jurisdiction to enact **criminal offences** (e.g offences in the *Criminal Code* and *Controlled Drugs and Substances Act*). If the offence you are considering comes from one of these two statutes, you can be almost certain that you are dealing with a true criminal offence.
+
+On the other hand, **regulatory offences** involve conduct that is not inherently wrongful, but if it were unregulated it would present some danger to society. **Both the federal Parliament and provincial legislatures may enact regulatory offences within their respective areas of jurisdiction** (e.g. provincial health inspections of restaurants, federal air transport safety regulations).
 
 It can be critically important how an offence is classified between criminal and regulatory. This is because each has **a starting presumption of the minimal level of *mens rea*** required.
 
 ### 4.2 Absolute & Strict Liability
 
+These **absolute liability** and **strict liability** standards are **only applicable to regulatory offences**.
+
+**Absolute Liability**
+
+Absolute liability involves **no mental fault** requirement whatsoever. The Accused is liable solely based on having committed the *actus reus* of the offence. A common example of an absolute liability offence is a parking infraction.
+
+Regulatory offences were once presumed at common law to require no fault element (i.e. absolute liability). However, this presumption could be displaced with clear statutory language.
+
 As some regulatory offences can involve the possibility of imprisonment, **absolute liability** means that someone could possibly be liable to imprisonment without any mental fault at all. This would mean that even an “accident” could give rise to the possibility of imprisonment. As we will see, such a possibility is **not allowed** under the *Charter*. However, **for those regulatory offences that do not involve the possibility of imprisonment, absolute liability offences do still exist.**
 
-In ***Reference Re B.C. Motor Vehicle Act***, [1985 CanLII 81 (SCC)](https://canlii.ca/t/dln){:target=" \_blank"}, the Supreme Court of Canada held that this provincial regulatory offence that involved absolute liability violated section 7 of the *Charter*. It was not saved by section 1 of the *Charter* because it exposed the Accused to the possibility of imprisonment without any mental fault. In short, **“absolute liability and imprisonment cannot be combined.”**
+**Constitutional Considerations**
+
+In ***Reference Re B.C. Motor Vehicle Act***, [1985 CanLII 81 (SCC)](https://canlii.ca/t/dln){:target=" \_blank"}, the Supreme Court of Canada held that this provincial regulatory offence that involved absolute liability violated **section 7** of the *Charter*. It was not saved by **section 1** of the *Charter* because it exposed the Accused to the possibility of imprisonment without any mental fault. In short, **“absolute liability and imprisonment cannot be combined.”**
+
+**Strict Liability**
 
 A new default standard of mental fault for such regulatory offences: “**strict liability**”. While it is a **low standard**, it does **involve a degree of mental fault**.
 
