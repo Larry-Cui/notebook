@@ -562,11 +562,13 @@ A new default standard of mental fault for such regulatory offences: “**strict
 
 Strict liability means that once the Crown prosecutor has proven the *actus reus* of the offence **beyond a reasonable doubt**, the burden then shifts to the Accused to prove on **a balance of probabilities** that they exercised “**due diligence**” (e.g. took the steps that a reasonable person in the circumstances would have done).
 
-In ***R. v. Sault Ste. Marie***, [1978 CanLII 11 (SCC)](https://canlii.ca/t/1mkbt){:target=" \_blank"}, the Supreme Court of Canada recognized for the first time that “**strict liability**” should be presumed at common law to be the **default level of mental fault for regulatory offences**. 
+In ***R. v. Sault Ste. Marie***, [1978 CanLII 11 (SCC)](https://canlii.ca/t/1mkbt){:target=" \_blank"}, the Supreme Court of Canada recognized for the first time that “**strict liability**” should be presumed at common law to be the **default level of mental fault for regulatory offences**. It bridges the gap between no fault requirement (absolute liability) and “full *mens rea*” (for criminal offences).
 
 In ***Lévis (City) v. Tétreault; Lévis (City) v. 2629-4470 Québec inc.***, [2006 SCC 12](https://canlii.ca/t/1n0zk){:target=" \_blank"}, the Supreme Court of Canada affirmed the decision in ***R. v. Sault Ste. Marie*** and indicated that while it is still possible to have absolute liability offences if there is “clear proof of legislative intent”, such offences are now quite rare.
 
-**Full Mens Rea**: Although **regulatory offences** are presumed to be strict liability, they are **capable of requiring “full *mens rea*”** as would a true criminal offence. This occurs when the otherwise regulatory provision has **express language** requiring a higher level of mental fault. For example, the provision might require that the Accused commit the act “**knowingly**”, or with “**intent**” or “**purpose**”. 
+**Full *Mens Rea***
+
+Although **regulatory offences** are presumed to be strict liability, they are **capable of requiring “full *mens rea*”** as would a true criminal offence. This occurs when the otherwise regulatory provision has **express language** requiring a higher level of mental fault. For example, the provision might require that the Accused commit the act “**knowingly**”, or with “**intent**” or “**purpose**”. 
 
 The following extract from Cory J’s judgment in ***Wholesale Travel Group Inc***, grapples with the distinction between “true criminal offences” and “regulatory offences.”
 
@@ -578,42 +580,41 @@ The following extract from Cory J’s judgment in ***Wholesale Travel Group Inc*
         - Where the offence is one of strict liability, the Crown is required to prove neither *mens rea* nor negligence; conviction may follow merely upon proof **beyond a reasonable doubt** of the **proscribed act**. 
         - However, it is open to the defendant to avoid liability by proving **on a balance of probabilities** that all due care was taken. 
         - This is the hallmark of the strict liability offence: **the defence of due diligence**. 
-    - The **objective** of regulatory legislation is to protect the public or broad segments of the public (such as employees, consumers and motorists, to name but a few) from the potentially adverse effects of otherwise lawful activity. 
     - While criminal offences are usually designed to condemn and punish past, inherently wrongful conduct, regulatory measures are generally **directed** to the prevention of future harm through the enforcement of minimum standards of conduct and care. 
     - Regulatory measures are the primary mechanisms employed by governments in Canada to **implement public policy objectives**. In short, regulation is absolutely essential for our protection and well being as individuals, and for the effective functioning of society. 
 
 **THE EMERGENCE OF STRICT LIABILITY**
 
 !!! info "*R. v. Sault Ste. Marie*, [1978 CanLII 11 (SCC)](https://canlii.ca/t/1mkbt){:target=" \_blank"}"
-
-    - The correct approach, in my opinion, is to **relieve the Crown of the burden** of proving *mens rea*, having regard to ***Pierce Fisheries*** and to the virtual impossibility in most regulatory cases of proving wrongful intention. Equally, there is nothing wrong with **rejecting absolute liability and admitting the defence of reasonable care**. 
-    - it is open to the defendant to prove that all due care has been taken. This **burden falls upon the defendant** as he is the only one who will generally have the means of proof. This would not seem unfair as the alternative is absolute liability which denies an accused any defence whatsoever. While the prosecution must prove **beyond a reasonable doubt** that the defendant committed the prohibited act, the defendant must only establish o**n the balance of probabilities** that he has a defence of reasonable care. 
-    
-!!! info "*R. v. Sault Ste. Marie*, [1978 CanLII 11 (SCC)](https://canlii.ca/t/1mkbt){:target=" \_blank"} Cont'd" 
     
     - I conclude, for the reasons which I have sought to express, that there are compelling grounds for the recognition of **three categories of offences** rather than the traditional two:
         - **Offences** in which *mens rea*, consisting of some positive state of mind such as intent, knowledge, or recklessness, must be proved by the prosecution either as an inference from the nature of the act committed, or by additional evidence.
         - **Offences** in which there is no necessity for the prosecution to prove the existence of *mens rea*; the doing of the prohibited act *prima facie* imports the offence, leaving it open to the accused to avoid liability by proving that he took all reasonable care. 
         - **Offences of absolute liability** where it is not open to the accused to exculpate himself by showing that he was free of fault.
 
-The Supreme Court affirmed in 2006 that it would apply the “clear analytical framework and classification approach adopted in ***Sault Ste. Marie***” (at para 19) and that while “**absolute liability** offences still exist ... they have become an **exception** requiring clear proof of legislative intent” (at para 17). ***Lévis (City) v. Tétreault; Lévis (City) v. 2629-4470 Québec inc.***, [2006 SCC 12](https://canlii.ca/t/1n0zk){:target=" \_blank"}. 
+The Supreme Court affirmed in 2006 that it would apply the “clear analytical framework and classification approach adopted in ***Sault Ste. Marie***” (at para 19) and that while “**absolute liability** offences still exist ... they have become an **exception** requiring clear proof of legislative intent” (at para 17). See ***Lévis (City) v. Tétreault; Lévis (City) v. 2629-4470 Québec inc.***, [2006 SCC 12](https://canlii.ca/t/1n0zk){:target=" \_blank"}. 
 
 !!! info "*Re B.C. Motor Vehicle Act*, [1985 CanLII 81 (SCC)](https://canlii.ca/t/dln){:target=" \_blank"}"
 
     - In other words, **absolute liability and imprisonment cannot be combined**.
     - A law enacting an **absolute liability** offence will violate s. 7 of the *Charter* **only if** and to the extent that it has the potential of **depriving of life, liberty, or security of the person**. 
     - ... no imprisonment may be imposed for an absolute liability offence, and, consequently, given the question put to us, an offence punishable by imprisonment cannot be an absolute liability offence. 
-    - **Comment:** The Court subsequently held that **corporations do not enjoy s 7 rights** in ***Irwin Toy Ltd. v. Quebec (Attorney General)***, [1989 CanLII 87 (SCC)](https://canlii.ca/t/1ft6g){:target=" \_blank"}. At the same time, corporations charged with an offence that also applies to natural persons can still challenge the offence under s 7 as well as other rights under the *Charter*. That is why a corporation was able to challenge regulatory offences under s 7 of the *Charter* in ***R. v. Wholesale Travel Group Inc.***, [1991 CanLII 39 (SCC)](https://canlii.ca/t/1fsjf){:target=" \_blank"}. Note that the rights in **s 11** of the *Charter*, including the presumption of innocence in s 11(d) of the *Charter*, **apply to all** those charged with an offence, including corporations.
+
+**Comment:** The Court subsequently held that **corporations do not enjoy s 7 rights** in ***Irwin Toy Ltd. v. Quebec (Attorney General)***, [1989 CanLII 87 (SCC)](https://canlii.ca/t/1ft6g){:target=" \_blank"}. At the same time, corporations charged with an offence that also applies to natural persons can still challenge the offence under s 7 as well as other rights under the *Charter*. That is why a corporation was able to challenge regulatory offences under s 7 of the *Charter* in ***R. v. Wholesale Travel Group Inc.***, [1991 CanLII 39 (SCC)](https://canlii.ca/t/1fsjf){:target=" \_blank"}. 
+
+Note that the rights in **s 11** of the *Charter*, including the presumption of innocence in s 11(d) of the *Charter*, **apply to all** those charged with an offence, including corporations.
 
 ### 4.3 Subjective vs. Objective Fault
 
 Four different types of “**subjective fault**” (often referred to simply as *mens rea*): **intention**, **recklessness**, **knowledge**, and **wilful blindness**.
 
-When analysing subjective fault, the focus is on what was in the Accused’s mind at the time of the offence. This can be proven through **direct evidence** (e.g. **an admissible confession** by the Accused stating that knew the victim was a police officer), but more often it is proven by **indirect or circumstantial evidence** where inferences lead to that conclusion (e.g. the victim was in full police uniform so that it can be inferred that the Accused knew he was a police officer).
+**Subjective Mental Fault**
 
-In contrast, **“objective fault”**, does not ask what was going on in the mind of the Accused. Instead, the Accused’s behaviour is compared to what a “reasonable person” would have done or known in the circumstances.
+When analysing subjective fault, the focus is on **what was in the Accused’s mind at the time of the offence**. This can be proven through **direct evidence** (e.g. **an admissible confession** by the Accused stating that knew the victim was a police officer), but more often it is proven by **indirect or circumstantial evidence** where inferences lead to that conclusion (e.g. the victim was in full police uniform so that it can be inferred that the Accused knew he was a police officer).
 
-**What a reasonable person would have realized or known** may be of value in the determination of what the accused actually thought. 
+**Objective Fault**
+
+In contrast, **“objective fault”**, does not ask what was going on in the mind of the Accused. Instead, the Accused’s behaviour is compared to **what a “reasonable person” would have done or known in the circumstances**.
 
 ***Regina v. Buzzanga and Durocher***, [1979 CanLII 1927 (ON CA)](https://canlii.ca/t/g181w){:target=" \_blank"}:
 
@@ -625,77 +626,83 @@ In contrast, **“objective fault”**, does not ask what was going on in the mi
 
 ### 4.4 Intention & Recklessness
 
+**Intention**
+
 Intention generally refers to the Accused’s conscious choice to engage in the prohibited conduct (i.e. they mean to engage in such conduct) and, if applicable, that they mean to cause the prohibited consequence.
 
 In these readings, we find a helpful distinction between **intent** (which is the most onerous type of subjective mental fault for Crown to prove) and **motive** (**which is generally not required to be proven**, absent express statutory language). In ***Lewis v. The Queen***, [1979 CanLII 19 (SCC)](https://canlii.ca/t/1mkv6){:target=" \_blank"}, Chief Justice Dickson describes intent as “**the exercise of a free will to use particular means to produce a particular result**”, whereas motive is “that **which precedes and induces the exercise of will**”. Think of intention as being **what** the Accused meant to do, and of motive as being **why** the Accused chose to do it.
 
-In cases where specific “intention” language is not use, **recklessness** may substitute in its place. Recklessness occurs when one “is aware that there is a danger that his conduct could bring about the result prohibited by the criminal law, nevertheless persists despite the risk.” It is “the conduct of one **who sees the risk and who takes the chance**” (***Sansregret v. The Queen***, [1985 CanLII 79 (SCC)](https://canlii.ca/t/1fv0t){:target=" \_blank"}). 
+**Recklessness**
+
+In cases where specific “intention” language is not use, **recklessness** may substitute in its place. 
+
+Recklessness occurs when one “is aware that there is a danger that his conduct could bring about the result prohibited by the criminal law, nevertheless persists despite the risk.” It is “the conduct of one **who sees the risk and who takes the chance**” (***Sansregret v. The Queen***, [1985 CanLII 79 (SCC)](https://canlii.ca/t/1fv0t){:target=" \_blank"}). 
 
 There is a small **knowledge component** involved in recklessness, the knowledge that the behaviour one is engaging in has the potential to result in criminality.
 
 In ***Sansregret***, the Supreme Court of Canada describes the concepts of **recklessness** and **wilful blindness** (discussed in our next topic) as **subjective types of mental fault**. The Court explains how recklessness involves the Accused being aware that there is a risk that his conduct could bring about the prohibited results, but nevertheless persists despite the risk.
-
-!!! info "*R. v. Hibbert*, [1995 CanLII 110 (SCC)](https://canlii.ca/t/1frjf){:target=" \_blank"}"
-
-    - As a practical matter, though, situations where **duress** will operate to “**negate**” *mens rea* will be **exceptional**, for the simple reason that the types of mental states that are capable of being “negated” by duress are not often found in the definitions of criminal offences. 
-    - In general, a person who performs an action in response to a threat will know what he or she is doing, and will be aware of the probable consequences of his or her actions. Whether or not he or she **desires** the occurrence of these consequences will **depend on the particular circumstances**. 
-
-!!! info "*R. v. Hibbert*, [1995 CanLII 110 (SCC)](https://canlii.ca/t/1frjf){:target=" \_blank"} Cont'd"
-
-    - The conclusions that can be extracted from the discussion in the previous sections may be summarized as follows:
-        - A person who commits a criminal act under threats of death or bodily harm may also be able to **invoke an excuse-based defence** (either the statutory defence set out in **s. 17** or the common law defence of duress, depending on whether the accused is charged as a principal or as a party). This is so **regardless** of whether or not the offence at issue is one where the presence of coercion also has **a bearing on the existence** of *mens rea*. 
-        - The mental states specified in **s. 21(1)(b)** and **(2)** of the *Criminal Code* are **not susceptible to being “negated” by duress**. Consequently, it is not open to persons charged under these sections to argue that because their acts were coerced by threats they lacked the requisite *mens rea*. Such persons may, however, seek to have their conduct **excused through the operation of the common law defence of duress**.
-
-**Recklessness** often forms the** minimal subjective fault** that can be read into offences that contain no explicit fault requirement. In ***Sansregret***, the Supreme Court discussed **recklessness** and **its relation to wilful blindness**
 
 !!! info "*Sansregret v. The Queen*, [1985 CanLII 79 (SCC)](https://canlii.ca/t/1fv0t){:target=" \_blank"}"
 
     - **Negligence**, is frequently confused with **recklessness** in the criminal sense and care should be taken to separate the **two concepts**. 
         - **Negligence** is tested by the **objective standard of the reasonable man**. A departure from his accustomed sober behaviour by an act or omission which reveals less than reasonable care will involve liability at civil law but forms no basis for the imposition of criminal penalties. 
         - **Recklessness**, **must have an element of the subjective**. It is found in the attitude of one who, aware that there is danger that his conduct could bring about the result prohibited by the criminal law, **nevertheless persists**, despite the risk. It is, in other words, **the conduct of one who sees the risk and who takes the chance**. 
-    - Wilful blindness is distinct from recklessness because, while **recklessness involves knowledge of a danger or risk and persistence in a course of conduct** which creates a risk that the prohibited result will occur, **wilful blindness** arises where a person who has become aware of the need for some inquiry **declines to make the inquiry because he does not wish to know the truth**. He would prefer to remain ignorant. 
+    - **Wilful blindness** is distinct from **recklessness** because, while **recklessness involves knowledge of a danger or risk and persistence in a course of conduct** which creates a risk that the prohibited result will occur, **wilful blindness** arises where a person who has become aware of the need for some inquiry **declines to make the inquiry because he does not wish to know the truth**. He would prefer to remain ignorant. 
         - The culpability in recklessness is **justified by** consciousness of the risk and by proceeding in the face of it, 
         - while in wilful blindness it is **justified by** the accused’s fault in deliberately failing to inquire when he knows there is reason for inquiry.
 
 ### 4.5 Knowledge & Willful Blindness
 
+**Knowledge**
+
 Knowledge generally requires a **“true belief”** in a certain state of affairs. For example, if someone is charged with assaulting a police officer, they must have known at the time that the victim was a police officer. Usually (but not always) an Accused must have knowledge of each essential element of the crime to have the requisite *mens rea* for the crime.
 
-If a *Criminal Code* section uses specific language requiring **intention**, then **recklessness** cannot substitute. **Willful blindness, however, can always substitute in for knowledge**, ==even if the *Code* section specifies that the Accused do something “knowingly”.==
+**Willful Blindness**
 
-In ***R. v. Briscoe***, [2010 SCC 13](https://canlii.ca/t/29280){:target=" \_blank"}, **Justice Charron** for the majority of the Supreme Court of Canada describes wilful blindness not as a type of mental fault, but as a
+In ***R. v. Briscoe***, [2010 SCC 13](https://canlii.ca/t/29280){:target=" \_blank"}, **Justice Charron** for the majority of the Supreme Court of Canada describes **wilful blindness** not as a type of mental fault, but as a
 
 > a “**doctrine that imputes knowledge to an Accused** whose suspicion is aroused to the point where he or she sees the need for further inquiries, but deliberately chooses not to make those inquiries”.
 
 > ==Wilful blindness does not define the *mens rea* required for particular offences. Rather, it can **substitute for actual knowledge** whenever knowledge is a component of the *mens rea*.==
 
+If a *Criminal Code* section uses specific language requiring **intention**, then **recklessness** cannot substitute. **Willful blindness, however, can always substitute in for knowledge**, ==even if the *Code* section specifies that the Accused do something “knowingly”.==
+
 #### Discussion Activity:  Identifying the *Actus Reus* & *Mens Rea* that Crown Must Prove
 
-**131** Every one commits perjury who, with intent to mislead, makes a false statement under oath or solemn affirmation, by affidavit, or orally, knowing that the statement is false.
+!!! quote "Answer"
 
-**Act:** makes a false statement<br>
-**Circumstances:** under oath or solemn affirmation<br>
-**Circumstances:** by affidavit, or orally<br>
-**Intention:** with intent to mislead<br>
-**RECKLESSNESS:** N/A<br>
-**Knowledge or WB:** knowing that the statement is false
+    **131** Every one commits perjury who, with intent to mislead, makes a false statement under oath or solemn affirmation, by affidavit, or orally, knowing that the statement is false.
+
+    **Act:** makes a false statement<br>
+    **Circumstances:** under oath or solemn affirmation<br>
+    **Circumstances:** by affidavit, or orally<br>
+    **Intention:** with intent to mislead<br>
+    **RECKLESSNESS:** N/A<br>
+    **Knowledge or WB:** knowing that the statement is false
 
 ### 4.6 Criminal Negligence
 
+Now that we have completed our study of subjective mental fault, we can turn our minds to the topic of **objective mental fault** for a criminal offence, known as **criminal negligence**. This is a **less onerous** type of *mens rea* for Crown to prove.
+
 Objective mental fault falls short of a “purely subjective inquiry” into what the Accused actually thought about, and instead considers what he or she **should have contemplated or ought to have perceived**. Such standards consider what a fictitious **“reasonable person”** would have thought, known or done in the circumstances. 
 
-One clue as to whether an offence only requires objective mental fault is the use of the words “**ought**” or “**negligence**” in the language of the offence. 
+One clue as to whether an offence only requires **objective mental fault** is the use of the words “**ought**” or “**negligence**” in the language of the offence. 
 
 Objective standards of fault in criminal law are somewhat **controversial**, and may be **unconstitutional** in certain circumstances that we will explore later in this topic, because they reflect a lower degree of moral blameworthiness. They have been recognized for only a small category of offences, usually based on **explicit statutory language**.  
 
 In ***R. v. Hundal***, [1993 CanLII 120 (SCC)](https://canlii.ca/t/1fs58){:target=" \_blank"}, Justice Cory for the majority said: “Although an objective test must be applied to the offence of dangerous driving, **it will remain open to the accused to raise a reasonable doubt that a reasonable person would have been aware of the risks of the accused’s conduct.** The test must be applied with some measure of flexibility.” He added that **personal factors of the accused need not be taken into account**.
 
+**Objective Mental Fault**
+
+In ***R. v. Hundal***, [1993 CanLII 120 (SCC)](https://canlii.ca/t/1fs58){:target=" \_blank"}, the Supreme Court of Canada interpreted the offence of **dangerous driving causing death** to have an objective standard of fault. In applying this standard, Justice Cory for the majority said: “**it will remain open to the accused to raise a reasonable doubt that a reasonable person would have been aware of the risks of the accused’s conduct.** The test must be applied with some measure of flexibility.” He added that **personal factors of the accused need not be taken into account**.
+
 In ***R. v. Creighton***, [1993 CanLII 61 (SCC)](https://canlii.ca/t/1fs09){:target=" \_blank"}, the majority found that
 
+> a person may be held criminally responsible for negligent conduct on the objective test, and that this alone does not violate the principle of fundamental justice that the **moral fault of the accused must be commensurate with the gravity of the offence and its penalty**. 
+> 
 > considerations of law and policy dictate the maintenance of **a single, uniform legal standard of care** for such offences, subject to **one exception**: **incapacity to appreciate the nature of the risk** which the activity in question entails. 
 
-***R. v. Beatty***, [2008 SCC 5](https://canlii.ca/t/1vrp5){:target=" \_blank"} again deals with the offence of **dangerous driving causing death**. Justice Charron for the majority held that there must be a **“marked departure” from the standard of a reasonable person** for them to be criminally liable.
-
+***Hundal*** and ***Creighton*** examined the permissibility of employing objective standards of liability and the requirements for objective fault. In doing so, they confirmed that **an objective fault standard** was required for cases involving **criminal negligence**: the Crown must prove the accused’s behaviour amounted to a **marked and substantial departure from the standard of care of a reasonable person** and, per **s 219**, that it exhibited a wanton or reckless disregard for the lives or safety of other persons. 
 
 !!! info "*R. v. Creighton*, [1993 CanLII 61 (SCC)](https://canlii.ca/t/1fs09){:target=" \_blank"}"
 
@@ -704,27 +711,27 @@ In ***R. v. Creighton***, [1993 CanLII 61 (SCC)](https://canlii.ca/t/1fs09){:tar
     - The foregoing analysis suggests the following line of inquiry in cases of penal negligence. 
         - The **first** question is whether *actus reus* is established. This requires that the negligence constitute a marked departure from the standards of the reasonable person in all the circumstances of the case. 
         - The **next** question is whether the *mens rea* is established. The *mens rea* for objective foresight of risking harm is normally inferred from the facts. **The standard is that of the reasonable person in the circumstances of the accused**. 
-        
-!!! info "*R. v. Creighton*, [1993 CanLII 61 (SCC)](https://canlii.ca/t/1fs09){:target=" \_blank"} Cont'd" 
-        
     - However, the normal inference may be **negated by evidence** raising a reasonable doubt as to **lack of capacity to appreciate the risk**. Thus, if a *prima facie* case for *actus reus* and *mens rea* is made out, it is necessary to ask **a further question**: did the accused possess the requisite **capacity to appreciate the risk** flowing from his conduct? If this further question is answered in the affirmative, the necessary moral fault is established and the accused is properly **convicted**. If not, the accused must be **acquitted**.
 
-
-!!! info "***R. v. Beatty***, [2008 SCC 5](https://canlii.ca/t/1vrp5){:target=" \_blank"}"
-
-    - [7] The **modified objective test** established by this Court’s jurisprudence remains the appropriate test to determine the requisite *mens rea* for negligence-based criminal offences. It does so in two important respects. 
-    - **First**, there must be a “**marked departure**” from the civil norm in the circumstances of the case. The distinction between a mere departure and a marked departure from the norm is **a question of degree**. It is only when the conduct meets the higher threshold that the court may find, on the basis of that conduct alone, a blameworthy state of mind. 
-    - [8] **Second**, the modified objective test for penal negligence cannot ignore the actual mental state of the accused. Objective *mens rea* is based on the premise that a reasonable person in the accused’s position would have been aware of the risks arising from the conduct. **The fault lies in the absence of the requisite mental state of care**. **However**, where the accused raises **a reasonable doubt** whether a reasonable person in his or her position would have been aware of the risks arising from the conduct, the premise for finding objective fault is no longer sound and there must be an acquittal. 
-    - I would therefore **restate** the **[modified objective] test** reproduced above as follows:
-        - (a) The *Actus Reus*: The trier of fact must be satisfied beyond a reasonable doubt that, **viewed objectively**, the accused was, in the words of the section, driving in a manner that was “dangerous to the public, having regard to all the circumstances, including the nature, condition and use of the place at which the motor vehicle is being operated and the amount of traffic that at the time is or might reasonably be expected to be at that place.”
-        - (b) The *Mens Rea*: The trier of fact must also be satisfied beyond a reasonable doubt that the accused’s objectively dangerous conduct was **accompanied by the required *mens rea***. In making the objective assessment, the trier of fact should be satisfied on the basis of all the evidence, including evidence about the accused’s actual state of mind, if any, that the conduct amounted to a **marked departure** from the standard of care that **a reasonable person would observe in the accused’s circumstances**. 
-    - [49] If the conduct does not constitute a marked departure from the standard expected of a reasonably prudent driver, **there is no need to pursue the analysis**. The offence will not have been made out.
-
+***R. v. Beatty***, [2008 SCC 5](https://canlii.ca/t/1vrp5){:target=" \_blank"} again deals with the offence of **dangerous driving causing death**. Justice Charron for the majority held that there must be a **“marked departure” from the standard of a reasonable person** for them to be criminally liable.
 
 !!! info "*R. v. Roy*, [2012 SCC 26](https://canlii.ca/t/frjlk){:target=" \_blank"}"
 
     - [36] The focus of the *mens rea* analysis is on whether the dangerous manner of driving was the result of **a marked departure from the standard of care** which a reasonable person would have exercised in the same circumstances (***Beatty***, at para. 48). It is helpful to approach the issue by asking two questions. 
         - The **first** is whether, in light of all the relevant evidence, a reasonable person would have foreseen the risk and taken steps to avoid it if possible. 
         - If so, the **second** question is whether the accused’s failure to foresee the risk and take steps to avoid it, if possible, was a marked departure from the standard of care expected of a reasonable person in the accused’s circumstances. 
+
+The Supreme Court revisited the modified objective test in ***R. v. Javanmardi***, [2019 SCC 54](https://canlii.ca/t/j3bnw){:target=" \_blank"}. **Justice Abella** turned to the interpretation and application of the **reasonable person standard** from McLachlin J’s majority judgment in ***Creighton***, which defined the modified objective standard as that **“of the reasonable person in all the circumstances of the case.”** 
+
+> [37] ... that greater care may be expected of the
+“reasonable person” on the basis of the nature and circumstances of the activity (p. 72). **Certain activities, for example, require special attention and skill**. 
+
+> [38] ***Creighton***’s activity sensitive approach to the modified objective standard has been
+applied in a variety of contexts, ... These decisions confirm that while the standard is not determined by the accused’s personal characteristics, it is informed by the activity. 
+
+> [39] An accused’s training and experience may, for example, be used to **rebut an allegation of being unqualified** to engage in an activity. Evidence of training and experience may also be used to **show how a reasonable person would have performed** the activity in the circumstances. 
+
+
+
 
 
