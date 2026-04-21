@@ -1,0 +1,2174 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://paralegal.netlify.app/Computer/Others/2026-04-16-latexOnVScode/">
+      
+      
+        <link rel="prev" href="../2023-6-14-get-jekyll-running-locally/">
+      
+      
+        <link rel="next" href="../../../articles/2024-08-18-NCA/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/img/book-real.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Latex in VS Code - My Notebook</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/css/styled-table.css">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/icon.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/extra.css">
+    
+      <link rel="stylesheet" href="../../../assets/css/other.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="larry-blue" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#how-to-edit-and-compile-latex-in-vs-code" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="My Notebook" class="md-header__button md-logo" aria-label="My Notebook" data-md-component="logo">
+      
+  <img src="../../../assets/img/hkadd.jpeg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            My Notebook
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Latex in VS Code
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="larry-blue" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="larry-blue" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../math/math123/2022-9-03-number/" class="md-tabs__link">
+          
+  
+  
+  Math
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../algo/" class="md-tabs__link">
+          
+  
+  
+  Computer
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../articles/2024-08-18-NCA/" class="md-tabs__link">
+          
+  
+  
+  Laws
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../immigration/epe/EPE%20Practice%20A/" class="md-tabs__link">
+          
+  
+  
+  Immigration
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../finance/fewthings/" class="md-tabs__link">
+          
+  
+  
+  Finance
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../blog/" class="md-tabs__link">
+          
+  
+  
+  Blog
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../.." class="md-tabs__link">
+          
+  
+  
+  About
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="My Notebook" class="md-nav__button md-logo" aria-label="My Notebook" data-md-component="logo">
+      
+  <img src="../../../assets/img/hkadd.jpeg" alt="logo">
+
+    </a>
+    My Notebook
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../math/math123/2022-9-03-number/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Math
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Computer
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Computer
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../algo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Algorithm
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../htmlCss/2022-8-19-video/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Html & CSS
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../JavaScript/takeawayEE/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Javascript
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../Nodejs/s1/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Node.js
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../p5js/2023-7-9-basics-of-matter/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    p5js
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../Python/2023-4-22-venv/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Python
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_7" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Others
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Others
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2023-6-14-get-jekyll-running-locally/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Docker and Jekyll
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Latex in VS Code
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Latex in VS Code
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#latex-workshop" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        \(\LaTeX\) Workshop
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="\(\LaTeX\) Workshop">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Settings
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#building-the-document" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Building the document
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#multi-file-projects" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multi File projects
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cleaning-generated-files" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cleaning generated files
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#structure-of-the-document" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Structure of the document
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#counting-words" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Counting words
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#latex-style-files-sty" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        \(\LaTeX\) Style Files (.sty)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="\(\LaTeX\) Style Files (.sty)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-your-first-sty-file" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Creating Your First .sty File
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#anatomy-of-a-sty-file" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Anatomy of a .sty File
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sty-vs-cls-files" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        .sty vs .cls Files
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#best-practices" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Best Practices
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multi-file-latex-projects" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multi-file \(\LaTeX\) projects
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Multi-file \(\LaTeX\) projects">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-main-file" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The main file
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-subfiles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The subfiles
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#glossaries-in-latex" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Glossaries in \(\LaTeX\)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Glossaries in \(\LaTeX\)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#makeglossaries-working-in-vs-code" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        \makeglossaries working in VS Code
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../articles/2024-08-18-NCA/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Laws
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    
+  
+  
+  
+    <a href="../../../immigration/epe/EPE%20Practice%20A/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Immigration
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../finance/fewthings/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Finance
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../blog/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../.." class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#latex-workshop" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        \(\LaTeX\) Workshop
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="\(\LaTeX\) Workshop">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Settings
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#building-the-document" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Building the document
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#multi-file-projects" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multi File projects
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cleaning-generated-files" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cleaning generated files
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#structure-of-the-document" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Structure of the document
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#counting-words" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Counting words
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#latex-style-files-sty" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        \(\LaTeX\) Style Files (.sty)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="\(\LaTeX\) Style Files (.sty)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-your-first-sty-file" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Creating Your First .sty File
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#anatomy-of-a-sty-file" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Anatomy of a .sty File
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sty-vs-cls-files" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        .sty vs .cls Files
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#best-practices" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Best Practices
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multi-file-latex-projects" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multi-file \(\LaTeX\) projects
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Multi-file \(\LaTeX\) projects">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-main-file" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The main file
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-subfiles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The subfiles
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#glossaries-in-latex" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Glossaries in \(\LaTeX\)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Glossaries in \(\LaTeX\)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#makeglossaries-working-in-vs-code" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        \makeglossaries working in VS Code
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+
+  <nav class="md-path" aria-label="Navigation" >
+    <ol class="md-path__list">
+      
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../../algo/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Computer
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../2023-6-14-get-jekyll-running-locally/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Others
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  <nav class="md-tags" >
+    
+      
+      
+      
+      
+        <span class="md-tag">Latex</span>
+      
+    
+      
+      
+      
+      
+        <span class="md-tag">Mathematics</span>
+      
+    
+  </nav>
+
+
+
+<h1 id="how-to-edit-and-compile-latex-in-vs-code">How to edit and compile <span class="arithmatex">\(\LaTeX\)</span> in <code>VS Code</code></h1>
+<h2 id="latex-workshop"><span class="arithmatex">\(\LaTeX\)</span> Workshop</h2>
+<p><span class="arithmatex">\(\LaTeX\)</span> Workshop is a <code>VS Code</code> extension. See <a href="https://github.com/James-Yu/LaTeX-Workshop" target=" _blank">here</a> for details.</p>
+<!-- more -->
+
+<h3 id="settings">Settings</h3>
+<p>Select the <span class="arithmatex">\(\LaTeX\)</span> Workshop extension, in it you can modify its specific settings by clicking the extension's icon <i class="fa-solid fa-gear"></i>.</p>
+<p>You can also modify settings by directly editing <code>settings.json</code>. </p>
+<h3 id="building-the-document">Building the document</h3>
+<p>A <span class="arithmatex">\(\LaTeX\)</span> file is typically built by calling the command Build LaTeX project from the Command Palette or from the TeX badge. This command is bind to <span class="keys"><kbd class="key-control">Ctrl</kbd><span>+</span><kbd class="key-alt">Alt</kbd><span>+</span><kbd class="key-b">B</kbd></span>. The recipe called by this command is defined by <a href="https://github.com/James-Yu/LaTeX-Workshop/wiki/Compile#latex-workshoplatexrecipedefault" target=" _blank"><code>latex-workshop.latex.recipe.default</code></a>.</p>
+<p>If you have a multi-file project, see <a href="https://github.com/James-Yu/LaTeX-Workshop/wiki/Compile#multi-file-projects" target=" _blank"><code>multi-files-projects</code></a> for more details on how the root file is discovered.</p>
+<p><strong>Auto build LaTeX</strong></p>
+<p>Besides manually calling the <code>Build LaTeX Project</code> command to compile a document, you may also let the extension automatically start compiling it upon file change or on save. This can be defined in <a href="https://github.com/James-Yu/latex-workshop/wiki/Compile#auto-build-latex" target=" _blank"><code>latex-workshop.latex.autoBuild.run</code></a>. </p>
+<p>The recipe called by auto build is defined by <a href="https://github.com/James-Yu/LaTeX-Workshop/wiki/Compile#latex-workshoplatexrecipedefault" target=" _blank"><code>latex-workshop.latex.recipe.default</code></a>.</p>
+<p><strong><span class="arithmatex">\(\LaTeX\)</span> recipes</strong></p>
+<p>A <span class="arithmatex">\(\LaTeX\)</span> recipe refers to a sequence/array of commands which <span class="arithmatex">\(\LaTeX\)</span> Workshop executes sequentially when building <span class="arithmatex">\(\LaTeX\)</span> projects. It is defined by <a href="https://github.com/James-Yu/latex-workshop/wiki/Compile#latex-recipes" target=" _blank"><code>latex-workshop.latex.recipes</code></a>. </p>
+<p>By default, <span class="arithmatex">\(\LaTeX\)</span> Workshop includes several basic recipes defined by the variables <code>latex-workshop.latex.recipes</code> and <code>latex-workshop.latex.tools</code>. Below are two popular examples:</p>
+<ul>
+<li>The first one simply relies on the <code>latexmk</code> command</li>
+<li>The second one run the following sequence of commands <code>pdflatex</code> → <code>bibtex</code> → <code>pdflatex</code> → <code>pdflatex</code>.</li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="nt">&quot;latex-workshop.latex.recipes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">  </span><span class="p">{</span>
+<span class="w">    </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;latexmk&quot;</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;tools&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">      </span><span class="s2">&quot;latexmk&quot;</span>
+<span class="w">    </span><span class="p">]</span>
+<span class="w">  </span><span class="p">},</span>
+<span class="w">  </span><span class="p">{</span>
+<span class="w">    </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;pdflatex -&gt; bibtex -&gt; pdflatex * 2&quot;</span><span class="p">,</span>
+<span class="w">    </span><span class="nt">&quot;tools&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">      </span><span class="s2">&quot;pdflatex&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="s2">&quot;bibtex&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="s2">&quot;pdflatex&quot;</span><span class="p">,</span>
+<span class="w">      </span><span class="s2">&quot;pdflatex&quot;</span>
+<span class="w">    </span><span class="p">]</span>
+<span class="w">  </span><span class="p">}</span>
+<span class="p">]</span>
+</code></pre></div>
+<h3 id="multi-file-projects">Multi File projects</h3>
+<p>While it is fine to write all contents in one <code>.tex</code> file, it is common to split things up for simplicity. For such <span class="arithmatex">\(\LaTeX\)</span> projects, the file with <code>\documentclass[]{}</code> is considered as the root file, which serves as the entry point to the project. </p>
+<p><strong>The dependencies</strong></p>
+<p>Once the root file is determined, it is parsed to discover all the files it includes using <code>input</code>, <code>include</code>, <code>InputIfFileExists</code>, <code>subfile</code>, <code>import</code> and <code>subimport</code> and the process goes on recursively. All these files are called dependencies and are considered to define a <span class="arithmatex">\(\LaTeX\)</span> project. If you include some files located in some external directories, you can list these extra directories in <a href="https://github.com/James-Yu/latex-workshop/wiki/Compile#latex-workshoplatextexdirs" target=" _blank"><code>latex-workshop.latex.texDirs</code></a>. If you need to strip off some environments before actually parsing the file, use <a href="https://github.com/James-Yu/latex-workshop/wiki/Compile#latex-workshoplatexverbatimenvs" target=" _blank"><code>latex-workshop.latex.verbatimEnvs</code></a>.</p>
+<p>Moreover, when a <code>.fls</code> file with the same basename as the root file exists, it is used to compute the full list of dependencies, ie all classes, packages, fonts, input <code>.tex</code> files, listings, graphs, ... All these files are parsed to provide intellisense completion.</p>
+<h3 id="cleaning-generated-files">Cleaning generated files</h3>
+<p><span class="arithmatex">\(\LaTeX\)</span> compilation typically generates several auxiliary files. You can change default settings in <a href="https://github.com/James-Yu/latex-workshop/wiki/Compile#latex-workshoplatexautocleanrun" target=" _blank"><code>latex-workshop.latex.autoClean.run</code></a> to define how autoClean would work:</p>
+<ul>
+<li><code>never</code>: Disable the auto cleaning feature</li>
+<li><code>onFailed</code>: Clean the project upon failed compilation.</li>
+<li><code>onBuilt</code>: Clean the project upon completing a compilation, whether it is successful or not.</li>
+</ul>
+<h3 id="structure-of-the-document">Structure of the document</h3>
+<p>The structure of the <span class="arithmatex">\(\LaTeX\)</span> project (<code>\chapter</code>, <code>\section</code>, <code>\subsection</code>, ...) is accessible via the TeX panel on the left of the editor. The entry corresponding to the cursor position in the editor is automatically selected and follows the cursor. The outline hierarchy is defined by <a href="https://github.com/James-Yu/latex-workshop/wiki/ExtraFeatures#latex-workshopviewoutlinesections" target=" _blank"><code>latex-workshop.view.outline.sections</code></a>.</p>
+<h3 id="counting-words">Counting words</h3>
+<p>To count the number of words in the current document, call Count words in <span class="arithmatex">\(\LaTeX\)</span> document from the Command Palette (the associated command is <code>latex-workshop.wordcount</code>). Setting <a href="https://github.com/James-Yu/latex-workshop/wiki/ExtraFeatures#latex-workshoptexcountautorun" target=" _blank"><code>latex-workshop.texcount.autorun</code></a> to <code>onSave</code> counts the number of words on every file save and displays it in the status bar.</p>
+<h2 id="latex-style-files-sty"><span class="arithmatex">\(\LaTeX\)</span> Style Files (<code>.sty</code>)</h2>
+<p>For detailed explanation, see <a href="https://www.underleaf.ai/learn/latex/style-files" target=" _blank">this post on Underleaf</a>.</p>
+<p>A <code>.sty</code> file is a <span class="arithmatex">\(\LaTeX\)</span> style file, essentially a custom package. It lets you bundle commands, environments, and formatting rules into a single reusable file that you load with <code>\usepackage</code>. If you've ever had a preamble that spans 50+ lines of custom macros, a style file is how you clean it up.</p>
+<h3 id="creating-your-first-sty-file">Creating Your First <code>.sty</code> File</h3>
+<p>A style file is a plain text file with a <code>.sty</code> extension. At minimum, it needs one line to identify itself. Create a file called <code>mycommands.sty</code> in the same directory as your <code>.tex</code> file:</p>
+<div class="highlight"><pre><span></span><code><span class="c">% mycommands.sty</span>
+<span class="k">\NeedsTeXFormat</span><span class="nb">{</span>LaTeX2e<span class="nb">}</span>
+<span class="k">\ProvidesPackage</span><span class="nb">{</span>mycommands<span class="nb">}</span>[2026/02/06 My custom commands]
+
+<span class="c">% Load any packages your commands depend on</span>
+<span class="k">\RequirePackage</span><span class="nb">{</span>amsmath<span class="nb">}</span>
+<span class="k">\RequirePackage</span><span class="nb">{</span>amssymb<span class="nb">}</span>
+<span class="k">\RequirePackage</span><span class="nb">{</span>bm<span class="nb">}</span>
+
+<span class="c">% --- Custom commands ---</span>
+
+<span class="c">% Probability and expectation</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\E</span><span class="nb">}{</span><span class="k">\mathbb</span><span class="nb">{</span>E<span class="nb">}}</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\Prob</span><span class="nb">}{</span><span class="k">\mathbb</span><span class="nb">{</span>P<span class="nb">}}</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\Var</span><span class="nb">}{</span><span class="k">\operatorname</span><span class="nb">{</span>Var<span class="nb">}}</span>
+
+<span class="c">% Vector and matrix notation</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\vv</span><span class="nb">}</span>[1]<span class="nb">{</span><span class="k">\bm</span><span class="nb">{</span>#1<span class="nb">}}</span>            <span class="c">% bold vector</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\mat</span><span class="nb">}</span>[1]<span class="nb">{</span><span class="k">\bm</span><span class="nb">{</span>#1<span class="nb">}}</span>           <span class="c">% bold matrix</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\tr</span><span class="nb">}{</span><span class="k">\operatorname</span><span class="nb">{</span>tr<span class="nb">}}</span>      <span class="c">% trace</span>
+
+<span class="c">% Sets</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\R</span><span class="nb">}{</span><span class="k">\mathbb</span><span class="nb">{</span>R<span class="nb">}}</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\N</span><span class="nb">}{</span><span class="k">\mathbb</span><span class="nb">{</span>N<span class="nb">}}</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\Z</span><span class="nb">}{</span><span class="k">\mathbb</span><span class="nb">{</span>Z<span class="nb">}}</span>
+
+<span class="c">% Norms and inner products</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\norm</span><span class="nb">}</span>[1]<span class="nb">{</span><span class="k">\left\lVert</span> #1 <span class="k">\right\rVert</span><span class="nb">}</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\abs</span><span class="nb">}</span>[1]<span class="nb">{</span><span class="k">\left\lvert</span> #1 <span class="k">\right\rvert</span><span class="nb">}</span>
+<span class="k">\newcommand</span><span class="nb">{</span><span class="k">\inner</span><span class="nb">}</span>[2]<span class="nb">{</span><span class="k">\left\langle</span> #1, #2 <span class="k">\right\rangle</span><span class="nb">}</span>
+
+<span class="k">\endinput</span>
+</code></pre></div>
+<p>Then load it in your document:</p>
+<div class="highlight"><pre><span></span><code><span class="k">\documentclass</span><span class="nb">{</span>article<span class="nb">}</span>
+<span class="k">\usepackage</span><span class="nb">{</span>mycommands<span class="nb">}</span>  <span class="c">% loads mycommands.sty</span>
+
+<span class="k">\begin</span><span class="nb">{</span>document<span class="nb">}</span>
+Let <span class="s">$</span><span class="nv">\vv</span><span class="nb">{x} </span><span class="nv">\in</span><span class="nb"> </span><span class="nv">\R</span><span class="nb">^n</span><span class="s">$</span>. Then <span class="s">$</span><span class="nv">\E</span><span class="o">[</span><span class="nv">\norm</span><span class="nb">{</span><span class="nv">\vv</span><span class="nb">{x}}^</span><span class="m">2</span><span class="o">]</span><span class="nb"> </span><span class="o">=</span><span class="nb"> </span><span class="nv">\tr</span><span class="o">(</span><span class="nv">\mat</span><span class="nb">{</span><span class="nv">\Sigma</span><span class="nb">}</span><span class="o">)</span><span class="s">$</span>.
+<span class="k">\end</span><span class="nb">{</span>document<span class="nb">}</span>
+</code></pre></div>
+<h3 id="anatomy-of-a-sty-file">Anatomy of a <code>.sty</code> File</h3>
+<ul>
+<li><strong><code>\NeedsTeXFormat{LaTeX2e}</code></strong>: Declares that this package requires LaTeX2e (the current standard). Optional but good practice.</li>
+<li><strong><code>\ProvidesPackage{name}[date description]</code></strong>: Identifies the package. The name must match the filename (without <code>.sty</code>). <span class="arithmatex">\(\LaTeX\)</span> uses this to prevent loading the same package twice.</li>
+<li><strong><code>\RequirePackage{name}</code></strong>: The <code>.sty</code> equivalent of <code>\usepackage</code>. Use this instead of <code>\usepackage</code> inside style files to load dependencies.</li>
+<li><strong><code>\newcommand, \renewcommand, \newenvironment</code></strong> Your custom definitions.</li>
+<li><strong><code>\endinput</code></strong> Marks the end of the file. LaTeX stops reading here. Optional but recommended.</li>
+</ul>
+<h3 id="sty-vs-cls-files"><code>.sty</code> vs <code>.cls</code> Files</h3>
+<p>You may also encounter <code>.cls</code> files. The distinction is simple:</p>
+<ul>
+<li><strong><code>.sty</code> (style file):</strong> Loaded with <code>\usepackage</code>. Adds commands and features. You can load multiple .sty files.</li>
+<li><strong><code>.cls</code> (class file):</strong> Loaded with <code>\documentclass</code>. Defines the document type (article, book, etc.). You can only have one. Conference templates (like NeurIPS or ICML) typically provide a <code>.cls</code> file for the document layout and sometimes a <code>.sty</code> file for additional macros. Your own custom notation should go in a <code>.sty</code> file.</li>
+</ul>
+<h3 id="best-practices">Best Practices</h3>
+<ul>
+<li><strong>Use <code>\newcommand</code> not <code>\def</code>:</strong> \newcommand gives an error if the command already exists, preventing silent overwrites. \def silently replaces existing commands.</li>
+<li><strong>Prefix internal commands with <code>@</code>:</strong> Commands like <code>\my@internal@helper</code> won't clash with user-level commands. The <code>@</code> character is not normally allowed in command names in <code>.tex</code> files, so this provides a natural namespace.</li>
+<li><strong>Use <code>\RequirePackage</code> instead of <code>\usepackage</code>:</strong> They do the same thing, but <code>\RequirePackage</code> is the <strong>convention</strong> inside <code>.sty</code> files and works before <code>\documentclass</code>.</li>
+<li><strong>Keep one file per concern:</strong> If your macros grow large, split into <code>math-notation.sty</code> and <code>formatting.sty</code> rather than one giant file.</li>
+<li><strong>Version your <code>.sty</code> files:</strong> Include a date in the <code>\ProvidesPackage</code> line. Track changes in Git alongside your documents.</li>
+</ul>
+<h2 id="multi-file-latex-projects">Multi-file <span class="arithmatex">\(\LaTeX\)</span> projects</h2>
+<p>There are two main packages that allow compilation of single files in a multi-file project. The choice you make depends on what you need.</p>
+<ul>
+<li>With the <code>subfiles</code> package you can compile every subfile independently and each subfile will automatically use the preamble in the main file.</li>
+<li>With the <code>standalone</code> package every subfile works as an independent file, subfiles can be latter joined in a main document that will pull the preambles from each one of them. Especially useful if you need to reuse the same file in more than one document, a tikz picture is a good example of this.</li>
+</ul>
+<h3 id="the-main-file">The main file</h3>
+<p>In the main file two special commands are needed.</p>
+<div class="highlight"><pre><span></span><code><span class="k">\documentclass</span><span class="nb">{</span>article<span class="nb">}</span>
+<span class="k">\usepackage</span><span class="nb">{</span>graphicx<span class="nb">}</span>
+<span class="k">\graphicspath</span><span class="nb">{{</span>images/<span class="nb">}}</span>
+
+<span class="k">\usepackage</span><span class="nb">{</span>blindtext<span class="nb">}</span>
+
+<span class="k">\usepackage</span><span class="nb">{</span>subfiles<span class="nb">}</span> <span class="c">% Best loaded last in the preamble</span>
+
+<span class="k">\title</span><span class="nb">{</span>Subfiles package example<span class="nb">}</span>
+<span class="k">\author</span><span class="nb">{</span>Overleaf<span class="nb">}</span>
+<span class="k">\date</span><span class="nb">{</span> <span class="nb">}</span>
+
+<span class="k">\begin</span><span class="nb">{</span>document<span class="nb">}</span>
+
+<span class="k">\maketitle</span>
+
+<span class="k">\section</span><span class="nb">{</span>Introduction<span class="nb">}</span>
+<span class="k">\subfile</span><span class="nb">{</span>sections/introduction<span class="nb">}</span>
+<span class="k">\section</span><span class="nb">{</span>Second section<span class="nb">}</span>
+<span class="k">\subfile</span><span class="nb">{</span>sections/section2<span class="nb">}</span>
+
+<span class="k">\end</span><span class="nb">{</span>document<span class="nb">}</span>
+</code></pre></div>
+<h3 id="the-subfiles">The subfiles</h3>
+<p>Once you have set up your main file, each subfile must have a special structure. You can select any <strong>subfile</strong> to compile, provided it contains a <code>\documentclass</code> declaration.</p>
+<div class="highlight"><pre><span></span><code><span class="k">\documentclass</span><span class="na">[../main.tex]</span><span class="nb">{</span>subfiles<span class="nb">}</span>
+
+<span class="k">\graphicspath</span><span class="nb">{{</span><span class="k">\subfix</span><span class="nb">{</span>../images/<span class="nb">}}}</span>
+
+<span class="k">\begin</span><span class="nb">{</span>document<span class="nb">}</span>
+
+<span class="k">\textbf</span><span class="nb">{</span>Hello world!<span class="nb">}</span>
+
+<span class="k">\begin</span><span class="nb">{</span>figure<span class="nb">}</span>[bh]
+<span class="k">\centering</span>
+<span class="k">\includegraphics</span><span class="na">[width=3cm]</span><span class="nb">{</span>overleaf-logo<span class="nb">}</span>
+<span class="k">\label</span><span class="nb">{</span>fig:img1<span class="nb">}</span>
+<span class="k">\caption</span><span class="nb">{</span>Overleaf logo<span class="nb">}</span>
+<span class="k">\end</span><span class="nb">{</span>figure<span class="nb">}</span>
+
+Hello, here is some text without a meaning...
+
+<span class="k">\end</span><span class="nb">{</span>document<span class="nb">}</span>
+</code></pre></div>
+<p>The example has been successfully tested in <code>VS Code</code>.</p>
+<h2 id="glossaries-in-latex">Glossaries in <span class="arithmatex">\(\LaTeX\)</span></h2>
+<p>Overleaf has <a href="https://www.overleaf.com/learn/latex/Glossaries#Compiling_the_glossary" target=" _blank">an article</a> explaining the use of <code>glossaries</code> package. </p>
+<p>Let's start with a simple example.</p>
+<div class="highlight"><pre><span></span><code><span class="k">\documentclass</span><span class="nb">{</span>article<span class="nb">}</span>
+<span class="k">\usepackage</span><span class="na">[utf8]</span><span class="nb">{</span>inputenc<span class="nb">}</span>
+
+<span class="k">\usepackage</span><span class="nb">{</span>glossaries<span class="nb">}</span>
+<span class="k">\makeglossaries</span>
+
+<span class="k">\newglossaryentry</span><span class="nb">{</span>latex<span class="nb">}</span>
+<span class="nb">{</span>
+    name=LaTex,
+    description=<span class="nb">{</span>Is a markup language specially suited 
+    for scientific documents<span class="nb">}</span>
+<span class="nb">}</span>
+
+<span class="k">\newglossaryentry</span><span class="nb">{</span>maths<span class="nb">}</span>
+<span class="nb">{</span>
+    name=Mathematics,
+    description=<span class="nb">{</span>Mathematics is what mathematicians do<span class="nb">}</span>
+<span class="nb">}</span>
+
+<span class="k">\begin</span><span class="nb">{</span>document<span class="nb">}</span>
+
+The <span class="k">\gls</span><span class="nb">{</span>latex<span class="nb">}</span> typesetting markup language is specially suitable 
+for documents that include <span class="k">\gls</span><span class="nb">{</span>maths<span class="nb">}</span>. 
+
+<span class="k">\clearpage</span>
+
+<span class="k">\printglossaries</span>
+
+<span class="k">\end</span><span class="nb">{</span>document<span class="nb">}</span>
+</code></pre></div>
+<p>Some annotations:</p>
+<ul>
+<li>To create a glossary the package glossaries has to be imported. This is accomplished by the line <code>\usepackage{glossaries}</code>
+in the preamble. </li>
+<li>The command <code>\makeglossaries</code> must be written before the first glossary entry.</li>
+<li>Each glossary entry is created by the command<code>\newglossaryentry</code> which takes two parameters, then each entry can be referenced later in the document by the command <code>\gls</code>. </li>
+<li>The command <code>\printglossaries</code> is the one that will actually render the list of words and definitions typed in each entry, with the title "Glossary". In this case it's shown at the end of the document, but <code>\printglossaries</code> can be used in any other location.</li>
+<li>If you want to change the <strong>default title</strong> of the glossary for something else, this is straightforward, <strong>two parameters</strong> must be added when printing the glossary: <code>\printglossary[title=Special Terms, toctitle=List of terms]</code>.</li>
+<li>For the "glossary" (as that of a section name) to show up in the table of contents put <code>\usepackage[toc]{glossaries}</code> in the preamble of your document.</li>
+</ul>
+<h3 id="makeglossaries-working-in-vs-code"><code>\makeglossaries</code> working in <code>VS Code</code></h3>
+<p>Here's how to configure the <span class="arithmatex">\(\LaTeX\)</span> Workshop extension to include a build step for <code>\makeglossaries</code>: You must define a custom "recipe" and "tool" in your <code>settings.json</code> file to tell VS Code how to handle glossaries.</p>
+<p>Add or modify the following sections:</p>
+<div class="highlight"><pre><span></span><code><span class="nt">&quot;latex-workshop.latex.tools&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;pdflatex&quot;</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">&quot;command&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;pdflatex&quot;</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">&quot;args&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;-synctex=1&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;-interaction=nonstopmode&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;-file-line-error&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;%DOC%&quot;</span><span class="p">]</span>
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;makeglossaries&quot;</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">&quot;command&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;makeglossaries&quot;</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">&quot;args&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;%DOCFILE%&quot;</span><span class="p">]</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">],</span>
+<span class="nt">&quot;latex-workshop.latex.recipes&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span>
+<span class="w">    </span><span class="p">{</span>
+<span class="w">        </span><span class="nt">&quot;name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;pdflatex -&gt; makeglossaries -&gt; pdflatex (*2)&quot;</span><span class="p">,</span>
+<span class="w">        </span><span class="nt">&quot;tools&quot;</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;pdflatex&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;makeglossaries&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;pdflatex&quot;</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;pdflatex&quot;</span><span class="p">]</span>
+<span class="w">    </span><span class="p">}</span>
+<span class="p">]</span>
+</code></pre></div>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../2023-6-14-get-jekyll-running-locally/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Docker and Jekyll">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Docker and Jekyll
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../../../articles/2024-08-18-NCA/" class="md-footer__link md-footer__link--next" aria-label="Next: Path Toward Practice in Canada">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Path Toward Practice in Canada
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2021-2025 Haddock
+    </div>
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.youtube.com/" target="_blank" rel="noopener" title="www.youtube.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M549.7 124.1c-6.2-23.7-24.8-42.3-48.3-48.6C458.9 64 288.1 64 288.1 64S117.3 64 74.7 75.5c-23.5 6.3-42 24.9-48.3 48.6C15 167 15 256.4 15 256.4s0 89.4 11.4 132.3c6.3 23.6 24.8 41.5 48.3 47.8C117.3 448 288.1 448 288.1 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zM232.2 337.6V175.2l142.7 81.2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.facebook.com/" target="_blank" rel="noopener" title="www.facebook.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256c0 120 82.7 220.8 194.2 248.5V334.2h-52.8V256h52.8v-33.7c0-87.1 39.4-127.5 125-127.5 16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287v175.9C413.8 494.8 512 386.9 512 256"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://instagram.com/@" target="_blank" rel="noopener" title="instagram.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M224.3 141a115 115 0 1 0-.6 230 115 115 0 1 0 .6-230m-.6 40.4a74.6 74.6 0 1 1 .6 149.2 74.6 74.6 0 1 1-.6-149.2m93.4-45.1a26.8 26.8 0 1 1 53.6 0 26.8 26.8 0 1 1-53.6 0m129.7 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8M399 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:info@somewhere.com" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M536.4-26.3c9.8-3.5 20.6-1 28 6.3s9.8 18.2 6.3 28l-178 496.9c-5 13.9-18.1 23.1-32.8 23.1-14.2 0-27-8.6-32.3-21.7l-64.2-158c-4.5-11-2.5-23.6 5.2-32.6l94.5-112.4c5.1-6.1 4.7-15-.9-20.6s-14.6-6-20.6-.9l-112.4 94.3c-9.1 7.6-21.6 9.6-32.6 5.2L38.1 216.8c-13.1-5.3-21.7-18.1-21.7-32.3 0-14.7 9.2-27.8 23.1-32.8z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.tabs", "navigation.instant", "navigation.tracking", "navigation.path", "navigation.prune", "navigation.top", "header.autohide", "navigation.footer", "search.highlight", "search.share", "search.suggest", "content.code.annotate", "content.code.copy"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../../assets/js/mathjax.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="../../../assets/js/pic-selector.js"></script>
+      
+    
+  </body>
+</html>
