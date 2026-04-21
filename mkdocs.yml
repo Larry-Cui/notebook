@@ -45,6 +45,7 @@ nav:
           - Reinstall Mkdocs: Computer/Python/2025-10-28-mkdocs.md
       - Others:
           - Docker and Jekyll: Computer/Others/2023-6-14-get-jekyll-running-locally.md
+          - Latex in VS Code: Computer/Others/2026-04-16-latexOnVScode.md
   - Laws:
       - Path Toward Practice in Canada: articles/2024-08-18-NCA.md
       - UBC online Courses:
