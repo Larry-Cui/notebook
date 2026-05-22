@@ -110,6 +110,16 @@ nav:
           - Family Property: family/property.md
           - Gift or Loan: family/giftorloan.md
   - Immigration:
+      - Articles:
+          - Reading of s. 42: immigration/articles/2026-05-14-ReadingOfs42.md
+          - Misrepresentation: immigration/articles/2026-05-14-misrepresentationFlagpoling.md
+          - Visitor Visa Inside Canada: immigration/articles/visaInside.md
+          - New Policy for Work Permit Holder: immigration/articles/newpolicy.md
+          - Job Advertisement Prior to LMIA: immigration/articles/jobad.md
+          - Residency Obligation of a PR: immigration/articles/ro.md
+          - How to Count Residency Period: immigration/articles/rc.md
+          - A writ of Mandamus: immigration/articles/mandamus.md
+          - From AoR to CoPR: immigration/articles/prjourney.md
       - EPE:
           - Practice A: immigration/epe/EPE Practice A.md
           - Practice B: immigration/epe/EPE Practice B.md
@@ -199,15 +209,6 @@ nav:
               - Week 10 Online Portals: immigration/890/ICL890week10.md
               - Week 11 Development: immigration/890/ICL890week11.md
               - Week 12 Analytics: immigration/890/ICL890week12.md
-      - Articles:
-          - Reading of s. 42: immigration/articles/2026-05-14-ReadingOfs42.md
-          - Visitor Visa Inside Canada: immigration/articles/visaInside.md
-          - New Policy for Work Permit Holder: immigration/articles/newpolicy.md
-          - Job Advertisement Prior to LMIA: immigration/articles/jobad.md
-          - Residency Obligation of a PR: immigration/articles/ro.md
-          - How to Count Residency Period: immigration/articles/rc.md
-          - A writ of Mandamus: immigration/articles/mandamus.md
-          - From AoR to CoPR: immigration/articles/prjourney.md
   - Finance:
       - Few Things to Know as New Immigrants: finance/fewthings.md
       - Tax Brackets: finance/2024-02-26-taxBrackets.md
