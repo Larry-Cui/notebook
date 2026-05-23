@@ -9,49 +9,102 @@ tags:
 draft: false
 ---
 
-# Misrepresentation: Flagpoling as a kind of visa refusal
+# Misrepresentation: Flagpoling as a Kind of Visa Refusal
 
-Case Study: ***Singh v. Canada (Citizenship and Immigration)***, [2024 FC 1369](https://canlii.ca/t/k6kmd){:target="\_blank"}
+Case Study: ***Singh v. Canada (Citizenship and Immigration)***, [2024 FC 1369](https://canlii.ca/t/k6kmd){:target="_blank"}
 
 ## Background
 
-The Applicant sought to extend existing work permits by going to a Canada-United States land crossing, exiting Canada, then turning around without being admitted into the United States, and applying for their permits upon re-entry into Canada.
+The Applicant sought to extend existing work permits by going to a Canada–United States land border crossing, exiting Canada, then turning around without being admitted into the United States, and applying for renewed permits upon re-entry into Canada.
 
-He was told that his work permit could not be extended through this process.
+The Applicant was informed that the work permit could not be extended through this process.
 
-Some six months later, in March 2023, the Applicant applied for a TRV. In April 2023, an Immigration Officer sent a letter to the Applicant, indicating a concern that he might be inadmissible to Canada due to misrepresentation, pursuant to s.40 of the *Immigration and Refugee Protection Act* [*IRPA*], because he didn't disclose his flagpoling activity as a visa/permit refusal. The applicant's TRV application was later refused and received a 5-year ban based on s. 40 of the *IRPA*.  
+Approximately six months later, in March 2023, the Applicant applied for a temporary resident visa (“TRV”). In April 2023, an immigration officer sent a procedural fairness letter indicating concerns that the Applicant might be inadmissible to Canada for misrepresentation under s. 40 of the *Immigration and Refugee Protection Act* (“*IRPA*”), because the Applicant had failed to disclose the prior flagpoling incident as a visa or permit refusal. The TRV application was subsequently refused, and the Applicant received a five-year ban pursuant to s. 40 of the *IRPA*.
 
 ## Broad Application of s. 40
 
 > 40(1) A permanent resident or a foreign national is inadmissible for misrepresentation
-> 
-> - (a) for directly or indirectly misrepresenting or withholding material facts relating to a relevant matter that induces or could induce an error in the administration of this Act;
-> - (b) for being or having been sponsored by a person who is determined to be inadmissible for misrepresentation;
-> - (c) on a final determination to vacate a decision to allow their claim for refugee protection or application for protection; or ...
+>
+> * (a) for directly or indirectly misrepresenting or withholding material facts relating to a relevant matter that induces or could induce an error in the administration of this Act;
+> * (b) for being or having been sponsored by a person who is determined to be inadmissible for misrepresentation;
+> * (c) on a final determination to vacate a decision to allow their claim for refugee protection or application for protection; or ...
 
-Section 40(1)(a) received extensive jurisprudence interpretations, a number of principles arisen include: (i) that section 40 of the *IRPA* should receive a broad interpretation in order to promote its underlying purpose; and (ii) applicants have the onus and a continuing duty of candour to provide complete, accurate, honest, and truthful information when applying for entry into Canada: see ***Kazzi v. Canada (Citizenship and Immigration)***, [2017 FC 153](https://canlii.ca/t/gxf89){:target="\_blank"}.
+Section 40(1)(a) has received extensive judicial interpretation. Several principles have emerged, including:
+
+1. section 40 of the *IRPA* should receive a broad interpretation in order to promote its underlying purpose; and
+2. applicants bear the onus and continuing duty of candour to provide complete, accurate, honest, and truthful information when seeking entry into Canada.
+
+See ***Kazzi v. Canada (Citizenship and Immigration)***, [2017 FC 153](https://canlii.ca/t/gxf89){:target="_blank"}.
 
 ## Innocent Misrepresentation Exception
 
-The court has recognized that the important objective of section 40 is not undermined by recognizing that honest errors can occur in immigration applications.
+The Court has recognized that the important objective underlying section 40 is not undermined by acknowledging that honest errors can occur in immigration applications.
 
-But this exception only applies in “truly exceptional circumstances where the applicant honestly and reasonably believed they were not misrepresenting a material fact”: see ***Paashazadeh v. Canada (Citizenship and Immigration)***, [2015 FC 327](https://canlii.ca/t/ggttg){:target="\_blank"} at paras 18-19; ***Oloumi v. Canada (Citizenship and Immigration)***, [2012 FC 428](https://canlii.ca/t/fr185){:target="\_blank"} at para 32.
+However, this exception applies only in “truly exceptional circumstances where the applicant honestly and reasonably believed they were not misrepresenting a material fact”: see ***Paashazadeh v. Canada (Citizenship and Immigration)***, [2015 FC 327](https://canlii.ca/t/ggttg){:target="_blank"} at paras 18–19; ***Oloumi v. Canada (Citizenship and Immigration)***, [2012 FC 428](https://canlii.ca/t/fr185){:target="_blank"} at para 32.
 
-In ***Gill v. Canada (Citizenship and Immigration)***, [2021 FC 1441](https://canlii.ca/t/jlh7h){:target="\_blank"} at para 17,
+In ***Gill v. Canada (Citizenship and Immigration)***, [2021 FC 1441](https://canlii.ca/t/jlh7h){:target="_blank"} at para 17, the Court stated:
 
-> Given this recognition, the Court has concluded that an “honest mistake” or “innocent misrepresentation” may not lead to inadmissibility based on paragraph 40(1)(a): [***Berlin***](https://canlii.ca/t/fnc0h){:target="\_blank"} at paras 14–19. This is often referred to as the “**innocent misrepresentation exception**” or “**innocent mistake exception**” to inadmissibility on grounds of misrepresentation: [***Tuiran***](https://canlii.ca/t/hr59k){:target="\_blank"} at para 23; [***Punia***](https://canlii.ca/t/gxj8r){:target="\_blank"} at para 68; ***Appiah v Canada (Citizenship and Immigration)***, [2018 FC 1043](https://canlii.ca/t/hvkx9){:target="\_blank"}  at para 18; [***Berlin***](https://canlii.ca/t/fnc0h){:target="\_blank"} at para 19.
+> Given this recognition, the Court has concluded that an “honest mistake” or “innocent misrepresentation” may not lead to inadmissibility based on paragraph 40(1)(a): [***Berlin***](https://canlii.ca/t/fnc0h){:target="_blank"} at paras 14–19. This is often referred to as the “**innocent misrepresentation exception**” or “**innocent mistake exception**” to inadmissibility on grounds of misrepresentation: [***Tuiran***](https://canlii.ca/t/hr59k){:target="_blank"} at para 23; [***Punia***](https://canlii.ca/t/gxj8r){:target="_blank"} at para 68; ***Appiah v Canada (Citizenship and Immigration)***, [2018 FC 1043](https://canlii.ca/t/hvkx9){:target="_blank"} at para 18; [***Berlin***](https://canlii.ca/t/fnc0h){:target="_blank"} at para 19.
 
-The court continued in ***Gill***,
+The Court in ***Gill*** continued:
 
-> [18] There appear to be two strains of case law from this Court regarding innocent misrepresentations as an exception to inadmissibility under paragraph 40(1)(a). In one, the Court has concluded there are effectively two requirements for an innocent misrepresentation: (i) that subjectively the person honestly believes they are not making a misrepresentation; and (ii) that objectively it was reasonable on the facts that the person believed they were not making a misrepresentation. This approach can be seen in cases such as ***Baro v Canada (Citizenship and Immigration)***, [2007 FC 1299](https://canlii.ca/t/1v7w0){:target="\_blank"} at para 18; ***Karunaratna v Canada (Citizenship and Immigration)***, [2014 FC 421](https://canlii.ca/t/g6t75){:target="\_blank"} at para 14; [***Punia***](https://canlii.ca/t/gxj8r){:target="\_blank"} at paras 66–68; [Singh Dhatt](https://canlii.ca/t/fxnr9){:target="\_blank"} at para 27; ***Canada (Citizenship and Immigration) v Robinsion***, [2018 FC 159](https://canlii.ca/t/hqf5l){:target="\_blank"} at para 6; ***Alalami v Canada (Citizenship and Immigration)***, [2018 FC 328](https://canlii.ca/t/hr6r1){:target="\_blank"} at paras 15–16; and ***Alkhaldi v Canada (Citizenship and Immigration)***, [2019 FC 584](https://canlii.ca/t/j065c){:target="\_blank"} at para 19.
+> [18] There appear to be two strains of case law from this Court regarding innocent misrepresentations as an exception to inadmissibility under paragraph 40(1)(a). In one, the Court has concluded there are effectively two requirements for an innocent misrepresentation: (i) that subjectively the person honestly believes they are not making a misrepresentation; and (ii) that objectively it was reasonable on the facts that the person believed they were not making a misrepresentation.
 
-> [19] In the other, an additional requirement has been adopted which considerably narrows the availability of the exception, namely that “knowledge of the misrepresentation was beyond the applicant’s control.” This additional requirement appears to stem from ***Oloumi v. Canada (Citizenship and Immigration)***, [2012 FC 428](https://canlii.ca/t/fr185){:target="\_blank"} at para 39, drawing on language from ***Mohammed v Canada (Minister of Citizenship & Immigration)***, [1997 CanLII 16384 (FC), [1997] 3 FC 299](https://canlii.ca/t/4fpd){:target="\_blank"} at para 41. It was then adopted in Justice Strickland’s decision in [***Goburdhun***](https://canlii.ca/t/g1t61){:target="\_blank"}, a decision which has been frequently applied: see, e.g., ***Suri v Canada (Citizenship and Immigration)***, [2016 FC 589](https://canlii.ca/t/grvwt){:target="\_blank"} at para 20; ***Brar v Canada (Citizenship and Immigration)***, [2016 FC 542](https://canlii.ca/t/grqhx){:target="\_blank"} at para 11; ***Tuiran*** at paras 27, 30; ***Appiah*** at para 18.
+The Court further observed:
 
-The Court agreed that the additional requirement was not backed by some cases (see ***Punia*** at paras 68–70; ***Berlin*** at paras 2, 19–22; ***Karunaratna*** at paras 5–6, 16). Ii also questioned whether this requirement is consistent with the very purpose behind the exception, namely to recognize that mistakes can happen and “honest errors” can occur. However, the preponderance of this Court’s case law, particularly after Justice Strickland’s 2013 decision in ***Goburdhun***, appears to include this requirement.
+> [19] In the other, an additional requirement has been adopted which considerably narrows the availability of the exception, namely that “knowledge of the misrepresentation was beyond the applicant’s control.”
 
-The Court in the case in question, agrees with ***Gill*** that there remains some ambiguity in the jurisprudence as to whether knowledge of the misrepresentation must have been, as mentioned above, “beyond the Applicant’s control”. 
+The Court acknowledged that the additional “beyond control” requirement is not uniformly supported in the jurisprudence. Nevertheless, following the predominant line of authorities after ***Goburdhun v. Canada (Citizenship and Immigration)***, [2013 FC 971](https://canlii.ca/t/g1t61){:target="\_blank"}, the Court concluded that the exception appears to include this additional requirement.
 
-## Flagpoling as stands out as an exception
+## Flagpoling Standing Out as a Possible Exception
+
+### Reasonableness
+
+The Court in ***Singh v. Canada*** agreed with ***Gill*** that there remains ambiguity in the jurisprudence regarding whether knowledge of the misrepresentation must have been “beyond the Applicant’s control.”
+
+However, regardless of this doctrinal discrepancy, both cases held that a failure to disclose a flagpoling-related refusal may fall within the innocent misrepresentation exception.
+
+The Court concluded in ***Gill*** at para 21:
+
+> ... regardless of the approach to the exception, the officer did not provide an adequate justification for their conclusion.
+
+Similarly, in ***Singh v. Canada*** at para 21:
+
+> ... I will not seek to resolve the matter here as I have concluded that, on any understanding of the innocent misrepresentation exception, the Officer’s decision in this matter was unreasonable.
+
+The Court held that, before making a finding of misrepresentation, the officer was required to assess whether the Applicant had “honestly and reasonably believed they were not misrepresenting a material fact.” The Applicant’s explanation had to be considered contextually.
+
+In particular, the Court emphasized that it was necessary to consider whether it was reasonable for the Applicant to be unaware that a U.S. entry refusal was effectively a by-product of the flagpoling process itself.
+
+Given the circumstances, the Court concluded that the officer’s reasoning was inadequate and therefore unreasonable.
+
+### Materiality
+
+The issue of materiality is highly fact-specific and varies from case to case.
+
+In ***Gill*** at para 29, the Court held that the officer’s “brief and fairly conclusory statement” failed to adequately explain how omitting a U.S. tourist visa refusal — particularly in the context of disclosure of six prior Canadian visa refusals — could have affected the assessment of temporary intent or compliance with conditions of entry.
+
+The Court reiterated that materiality does not require a misrepresentation to be determinative; rather, it need only “affect the process”: ***Goburdhun*** at para 28, citing ***Oloumi*** at para 25. Nevertheless, officers must still provide a comprehensible explanation of how the omission could affect the administration of the *IRPA*.
+
+Accordingly, the Court rejected the Minister’s broad assertion that any foreign visa refusal is invariably material.
+
+Similarly, in ***Singh v. Canada***, the Court required a more specific explanation from the officer. At paras 28–29, the Court stated:
+
+> The context of the U.S. entry refusal also required a clearer explanation from the Officer as to why the misrepresentation was **material** to the Applicant’s TRV application ... While the omission of the Applicant’s U.S. refusal could have led to the issuance of the Applicant’s visa, it does not explain how the Applicant’s previous attempt to flagpole at the United States border could have been material to the TRV determination.
+
+The Court then concluded at para 30:
+
+> As mentioned above, the process of flagpoling seems to result, as a matter of course, in a denial of admission into the U.S. If this is the case, the process itself would not appear to result in an inadmissibility or a failure to meet the requirements of the Act. If it were otherwise, the process would not exist, as everyone who did it would have to be denied re-entry into Canada. As a result, **it is difficult to comprehend how a failure to mention a flagpoling attempt in a subsequent visa application is, on its own, particularly material to that application**.
+
+## Conclusion
+
+The decisions in ***Gill*** and ***Singh*** demonstrate that not every omission relating to a prior refusal will automatically justify a finding of misrepresentation under s. 40 of the *IRPA*. In the specific context of flagpoling, the Federal Court recognized that applicants may reasonably fail to appreciate that a routine U.S. refusal associated with the flagpoling process constitutes a “visa refusal” requiring disclosure.
+
+These cases also reaffirm that immigration officers must provide transparent and intelligible reasons addressing both the innocent misrepresentation exception and the materiality of the omission in question. A conclusory assertion that a foreign refusal is inherently material will generally be insufficient. 
+
+
+
+
 
 
 
