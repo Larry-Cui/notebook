@@ -96,6 +96,8 @@ nav:
       - UBC Application:
           - How to Apply: articles/2024-12-21-ubcOnline.md
           - Courses Introduction: UBC-laws/orientation.md
+      - Business Organizations:
+          - Partnership: laws/businessOrganizations/partnership.md
       - Real Estate:
           - Documents for Residential Transactions: realestate/docu-list.md
           - Air Conditioning Unit On RPR: realestate/acrpr.md
