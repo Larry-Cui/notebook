@@ -172,6 +172,149 @@ Co-ownership of land is not automatically a partnership, though it may be. The d
 !!! info "*Backman v. Canada*, [2001 SCC 10](https://canlii.ca/t/521z){:target="\_blank"}"
 
     - [1] This appeal was heard with ***Spire Freezers Ltd. v. Canada***, [2001 SCC 11](https://canlii.ca/t/1j2gc){:target="\_blank"}, released concurrently. Both cases raise the basic question of **whether a valid partnership has been established for income tax purposes**.
+    - [17] We are of the view that, where a taxpayer seeks to deduct Canadian partnership losses through s. 96 of the *Act* (the *Income Tax Act*, [SC 1970-71-72, c. 63](https://laws-lois.justice.gc.ca/eng/acts/I-3.3/){:target="\_blank"}), the taxpayer must satisfy the definition of partnership that exists under the relevant provincial or territorial law.
+    - [18] Each of the common law provinces has enacted its own partnership legislation based on the *Partnership Act*, 1890 (UK), 53 & 54 Vict., c. 39. However, partnership as a concept was recognized by the courts of law and equity long before the enactment of that statute. ... The three essential ingredients of partnership were recently described by this Court in ***Continental Bank Leasing Corp. v. Canada***, [1998 CanLII 794 (SCC)](https://canlii.ca/t/1fqr5){:target="\_blank"}, at para. [22](https://www.canlii.org/en/ca/scc/doc/1998/1998canlii794/1998canlii794.html#par22){:target="\_blank"}:
+
+        > Section 2 of the [Ontario] *Partnerships Act* defines partnership as “the relation that subsists between persons carrying on a business in common with a view to profit.” This wording, which is common to the majority of partnership statutes in the common law world, discloses three essential ingredients: (1) a business, (2) carried on in common, (3) with a view to profit.
+    - [20] The existence of a valid partnership does not depend on the creation of a new business because it is sufficient that an existing business was continued.
+    - [21] The common purpose required for establishing a partnership will usually exist where the parties entered into a valid partnership agreement setting out their respective rights and obligations as partners. ... the fact that the management of a partnership rests with a single partner does not mandate the conclusion that the business was not carried on in common. Other evidence consistent with an intention to carry on business in common includes: the contribution of skill, knowledge or assets to a common undertaking; a joint property interest in the subject matter of the adventure; the sharing of profits and losses; the filing of income tax returns as a partnership; financial statements and joint bank accounts; as well as correspondence with third parties: see ***Continental Bank***, *supra*, at paras. 24 and 36.
+    - [22] A determination of whether there exists a “view to profit” requires an inquiry into the intentions of the parties entering into an alleged partnership. At the outset, it is important to distinguish between **motivation** and **intention**. Motivation is that which stimulates a person to act, while intention is a person’s objective or purpose in acting. This Court has repeatedly held that **a tax motivation does not derogate from the validity of transactions for tax purposes**: ***Shell Canada Ltd. v. Canada***, [1999] 3 SCR 622, 178 DLR (4th) 26; ***Canada v. Antosko***, [1994] 2 SCR 312; ***Stubart Investments Ltd. v. The Queen***, [1984] 1 SCR 536 at p. 540, 10 DLR (4th) 1. Similarly, **a tax motivation will not derogate from the validity of a partnership where the essential ingredients of a partnership are otherwise present**: ***Continental Bank***, *supra*, at paras. 50-52. The question at this stage is whether the taxpayer can establish an intention to make a profit, whether or not he was motivated by tax considerations.
+    - [23] Moreover,in ***Continental Bank***, *supra*, this Court held that a tax payer’s overriding intention is not determinative of whether the essential ingredient of “view to profit” is present. **It will be sufficient for a taxpayer to show that there was an ancillary profit-making purpose.** 
+    - [25] ... to ascertain the existence of a partnership the courts must inquire into whether the **objective**, **documentary evidence** and the **surrounding facts**, including what the parties actually did, are consistent with **a subjective intention to carry on business in common with a view to profit**.
+    - [31] As stated, the time, labour and money spent on the purchase and holding of the interest (one per cent) in the oil and gas property was nominal; indeed, it may be that that arrangement can be viewed as co-ownership of property as found by the Federal Court of Appeal or as an isolated event or adventure as opposed to the carrying on of a business: see ***Tara Exploration and Development Co. v. M.N.R.***, 70 DTC 6370 (Ex. Ct.).
+    - [33] In contrast, the appellants in ***Spire Freezers***, *supra*, made a considerable investment in a pre-existing business which they continued to operate after entering the partnership. Ultimately, they acquired an asset, an apartment building, requiring substantially more than nominal management effort. The common purpose requirement was met by the parties’ having entered into a valid partnership agreement, and by the fact that they were joint owners of the apartment building, albeit briefly. The appellants in Spire Freezers must have entered into the transaction with a view to profit since they were apprised of the potential to make a profit from the apartment building and they clearly intended to continue that business. In that case, the requirements of partnership were met.
+    - [34] The appellant was not a member of a partnership because there was no business being carried on in common with a view to profit.
+    - [44] Finally ..., it is important to mention that, if a person or group of persons hold themselves out as partners in a partnership, but subsequently claim not to be partners for failure to meet the essential ingredients of a valid partnership, third parties dealing with such a non-entity may well have contractual and tortious remedies against the alleged partner(s). Thus, third parties need not look behind representations of partnership in order to be assured of a remedy against the alleged partners.
+
+The issue of whether a partnership exists has also been considered by the Supreme Court of Canada in the context of human rights legislation, namely, whether an “equity partner” in a law firm was engaged in an “employment relationship” for purposes of the application of a provincial Human Rights Code. In order to determine whether the BC Human Rights Tribunal had jurisdiction over the case, the court examined the nature of the relationship between the individual, Mr McCormick, and his law firm.
+
+!!! info "*McCormick v. Fasken Martineau DuMoulin LLP*, [2014 SCC 39](https://canlii.ca/t/g6xlp){:target="\_blank"}"
+
+    - [1] **John Michael McCormick** became an equity partner at **Fasken Martineau DuMoulin LLP** in 1979. In the 1980s, the equity partners, those partners with an ownership interest in the firm, voted to adopt a provision in their Partnership Agreement whereby equity partners were to retire as equity partners and divest their ownership shares in the partnership at the end of the year in which they turned **65**. A partner could make individual arrangements to continue working as an employee or as a “regular” partner without an equity stake, but such arrangements were stated in the Agreement to be “the exception.”
+    - [2] In 2009, when he was 64, Mr. McCormick brought a claim alleging that this provision in the Partnership Agreement constituted age discrimination contrary to s. 13(1) of the *British Columbia Human Rights Code*.
+    - [4] The issue before this Court, therefore, is how to characterize Mr. McCormick’s **relationship with his firm** in order to determine if it comes within the jurisdiction of the *Code* over employment.
+    - [5] At the time this complaint was brought, **Fasken** had 650 lawyers worldwide, of whom 260 were equity partners. There were about 60 equity partners in **Fasken**’s Vancouver office. Responsibility for the day-to-day running of the partnership is delegated through the Partnership Agreement to the **Partnership Board**, consisting of 13 equity partners, including three from the British Columbia region, elected to **three-year terms** by the equity partners. Before the creation of the Board, this responsibility had been given to the “**Executive Committee**.”
+    - [7] The Board appoints and gives direction to the firm’s **managing partner**, who is responsible for the overall management of the firm and who is accountable to the Board.
+    - [8] All written opinions given to a client are the opinion of the firm, and must be reviewed and approved by a partner other than the partner who prepared it. ...Partners are prohibited from entering into financial arrangements or contracts in the name of the firm without the authorization of the firm’s managing partner, Board Chair, regional managing partner or two members of the Board.
+    - [10] An equity partner also has a capital account with the firm,which is paid out when he or she leaves the firm. The aggregate of the partners’ capital accounts represents the funding of the partnership. Partners are liable for the debts of the partnership to the extent that they are not covered by insurance or which the Board elects to treat as an expense, and as limited by s. 104 of the *Partnership Act*.
+    - [15] For the reasons that follow, I agree with the Court of Appeal that the Tribunal’s decision was incorrect and that the Tribunal had no jurisdiction over Mr. McCormick’s relationship with the firm, but **do not accept that a partner can never be an employee** for purposes of the *Code*. The key is the **degree of control and dependency**.
+    - [30] The conventional view of a partnership was famously described in *Lindley & Banks on Partnership* (19th ed. 2010) as a collection of partners, rather than a distinct legal entity separate from the parties who are its members.
+    - [33] In other words, the control over workplace conditions and remuneration is with the partners who form the partnership. **In most cases, therefore, partners are not employees of the partnership, they are, collectively, the employer**.
+    - [35] Canadian and British courts have similarly held that **partnerships are not relationships of employment** for purposes of other forms of protective legislation, such as in the realm of workers’ compensation: ***Ellis v. Joseph Ellis & Co.***, [1905] 1 K.B. 324 (C.A.); ***Re Thorne and New Brunswick Workmen’s Compensation Board*** (1962), 33 D.L.R. (2d) 167 (N.B.S.C. (App. Div.)), aff ’d [1962] S.C.R. viii.
+    - [36] **This does not mean human rights legislation cannot apply to partnerships**, it means that an express statutory provision is usually required, as is found in s. 44 of the U.K. *Equality Act* 2010, 2010, c. 15. The Explanatory Note to that provision states that a separate provision protecting partners from discrimination was necessary because their relationship with their partnership is not one of employment:
+
+        > Because partners are mainly governed by their partnership agreements, rather than by employment contracts, separate provisions are needed to provide protection from discrimination, harassment and victimisation for partners in ordinary and limited partnerships. [para. 158]
+    - [38] While the structure and protections normally associated with equity partnerships mean they will rarely be employment relationships for purposes of human rights legislation, this does not mean that form should trump substance. 
+    - [39] Turning to Mr. McCormick’s relationship with his partnership and applying the control/dependency test, based on his ownership, sharing of profits and losses, and the right to participate in management, I see him more as someone in control of, rather than subject to, decisions about workplace conditions. As an equity partner, **he was part of the group that controlled the partnership, not a person vulnerable to its control**.
+    - [46] This is not to say that a partner in a firm can never be an employee under the *Code*, but such a finding would only be justified in a situation quite different from this case, one where the powers, rights and protections normally associated with a partnership were greatly diminished.
+    - [47] But the fact that a partner like Mr. McCormick has no remedy under the *Code* does not necessarily mean that partners have no recourse for claims of discrimination. One of the duties partners owe each other is the duty of utmost fairness and good faith, set out in s. 22 of the *Partnership Act*:
+        
+        > 22(1) A partner must act with the utmost fairness and good faith towards the other members of the firm in the business of the firm.
+        >
+        > (2) The duties imposed by this section are in addition to, and not in derogation of, any enactment or rule of law or equity relating to the duties or liabilities of partners.
+    - [48] **This duty is an important source of protection for partners**: ***Hitchcock v. Sykes*** (1914), 49 S.C.R. 403, at p. 407; ***Cameron v. Julien*** (1957), 9 D.L.R. (2d) 460 (Ont. C.A.); ***Rochwerg v. Truster*** (2002), 58 O.R. (3d) 687 (C.A.). 
+
+## IV. THE LEGAL STATUS OF PARTNERSHIPS
+
+Once it is determined that a partnership exists, what is its legal status? What are the consequences of a partnership being recognized? The following case concerned compensation for a person injured at work, but at its essence the case was determined on the basis of the legal status of partnerships. **The court had to consider whether a partner might also be an employee**, can **Thorne** make a contract with himself?
+
+!!! info "*Re Thorne and New Brunswick Workmen's Compensation Board*, [1962 CanLII 494 (NB CA)](https://canlii.ca/t/gwdxj){:target="\_blank"}"
+
+    - The question submitted for the opinion of the Court reads:
+
+        > Based on the foregoing facts was **Osborne Thorne**, on April 3, 1961, a workman employed by the said partnership within the meaning of the *Workmen’s Compensation Act* so as to entitle him to compensation thereunder?
+    - ***Ellis v. Joseph Ellis & Co.***, [1905] 1 KB 324, lends support to the views we entertain. The action, brought under the *Workmen’s Compensation Act* 1897 of the United Kingdom which contains a definition of “workman” corresponding closely to that found in the *New Brunswick Act*, was against the surviving members of a firm by the dependents of a deceased partner who under a mutual agreement worked in the colliery for wages and had, up to the time of his injury, been paid at the stipulated rate out of the proceeds of the business. It was held the Act contemplated the case of a workman employed by some other person or persons and that **the deceased, having been himself one of the partners in the firm for which he was working, could not be said to have been employed by them**. At p. 329 Collins MR says:
+
+        > It seems to me obvious, that a person cannot for the purposes of the *Act* occupy the position of being both employer and employee.
+    - Since the argument in the case at bar our attention has been drawn to two recent decisions of the English Court of Appeal in which the word “entity” was used as descriptive of a partnership firm. They are ***Davies v. Elsby Brothers Ltd.***, [1960] 3 All ER 672, [1961] 1 WLR 170 and ***Whittam v. W.J. Daniel & Co. Ltd.***, [1961] 3 All ER 796, [1961] 3 WLR 1123. In our view their language **falls far short of a recognition** in English jurisprudence of the doctrine that as a matter of substantive law a partnership is a legal entity or persona juridica separate and distinct from the individuals composing it.
+
+In ***Kucor Construction & Developments & Associates v. Canada Life Assurance Co.***, [1997 CanLII 12111 (ON CTGD)](https://canlii.ca/t/1vv6q){:target="\_blank"}, Justice Ground affirmed the position that **a partnership is not a legal entity** or a person “having a separate existence recognized in law and therefore capable of holding title to property.” Note his characterization of property ownership in the following passage:
+
+> A partnership may be recognized in law as an association of persons with certain distinctive characteristics and one which, in accordance with Rule 8.01 of *The Rules of Civil Procedure*, RRO 1990, Reg. 194, **is entitled to commence proceedings or have proceedings commenced against it in the name of the partnership**. The concept of partnership property is also recognized in law but this does not mean that it is property owned by the partnership but rather property in which all of the partners have undivided interests. In a limited partnership, the legal title is held by the general partner for the benefit of all of the partners. 
+> 
+> **None of these factors, in my view, constitutes a partnership a legal entity** or person having a separate existence recognized in law and accordingly being capable of holding title to property and mortgaging or creating security on such property.
+
+The partnership is not recognized as a separate legal entity despite the presence in *Partnerships Acts* of reference to an entity called a “firm”: see e.g. *OPA* s 5 and *BCPA* s 1. Section 7 of the *Ontario Act* provides that **acts or instruments in the firm’s name bind the firm (and thereby all the partners)**.
+
+Under s 96 of the *Income Tax Act*, the partnership firm is not taxed; instead, the income is allocated between the partners and partners are taxed individually on their shares of the partnership income.
+
+Rules of court in each province provide for actions being commenced or defended in the name of the partnership. The result is that **all partners are bound by the judgment, even if they were not named in the action, and were not even served with notice of the action**.
+
+## V. RELATIONSHIP BETWEEN PARTNERS
+
+The *Partnership Act* provides a set of default rules that will govern the relationship between the partners to the extent that they have not either explicitly or implicitly agreed otherwise. In that respect, the Act might be viewed as a sort of standard form contract. Consider s 21 of the *BC Partnership Act*, which provides:
+
+> The mutual rights and duties of partners, whether ascertained by agreement or defined by this Part, **may be varied by the consent** of all the partners and the consent may be either express or inferred from a course of dealing.
+
+The default rules provided in the statute are based on the assumption that the partners are **equal** with respect to their capital contributions, rights to participate in the management of the business, and rights to share in the profits of the business. However, this notion of equality does not reflect the way most partnerships work. Partners often make different contributions of capital, have different skills and different interests in the management of the partnership, and agree on sharing profits in an **unequal** manner that may be consistent with their contributions of capital and services to the firm.
+
+**The Default Provisions**
+
+*1. Partnership Property*
+
+“Partnership property” is defined as property brought into the partnership, property acquired on account of the firm, or property acquired for the purposes of and in the course of the partnership business: see e.g. *OPA* s 21 and *BCPA* s 1.1.
+
+Land belonging to the partnership held in the name of an individual partner or one or more partners is held in trust for the partnership. Property bought with money belonging to the firm is deemed to be partnership property.
+
+*2. Capital, Profits, Losses, Management, Admission of New Partners, and Record-Keeping*
+
+Partnership statutes include provisions concerning the day-to-day running of the partnership business, “subject to any agreement express or implied between the partners”: see e.g. *OPA* s 24 and *BCPA* s 27. 
+
+*3. Removal of Partners*
+
+Section 28 of the BC Partnership Act and s 25 of the Ontario Partnerships Act provide that no majority of the partners can expel any partner “**unless a power to do so has been conferred by express agreement between the partners and the power is exercised in good faith**.” Thus, the default rule is that a partner cannot be removed from the partnership without that partner’s consent. If the partners wish to alter this default rule, they must do so by express agreement.
+
+*4. Fiduciary Duties*
+
+The common law presumption was that partners owed fiduciary duties to one another. This is codified in statute: s 22 of the *BC Partnership Act*, for example, requires that a “partner must act with the utmost fairness and good faith towards the other members of the firm in the business of the firm.” Specific fiduciary duties are set out in ss 31 to 33.
+
+Fiduciary duties of partners in Ontario have been confirmed in ***Rochwerg v. Truster***, [2002 CanLII 41715 (ON CA)](https://canlii.ca/t/1db42){:target="\_blank"}, where Cronk JA noted:
+
+> [36] It has long been established that **partners owe a fiduciary duty to each other**, and that equitable principles hold fiduciaries to a strict standard of conduct, encompassing duties of loyalty, utmost good faith and avoidance of conflict of duty and self-interest. These are well recognized, core principles of the law of partnership.
+
+*5. Assignment of Partnership Interests*
+
+**A partnership interest can be assigned, but this does not result in the assignee becoming a partner**: see *BCPA* s 34 and *OPA* s 31. 
+
+An assignee of a partner is entitled to a share of the profits and a share of the partnership assets on dissolution. However, the assignee is not entitled simply by virtue of the assignment to participate in the management or administration of the partnership business. Partners want to be in business with persons they know and trust. Consequently, the **default rule** is that they cannot be forced to accept a new partner just because a fellow partner has sold his or her interest.
+
+*6. Dissolution*
+
+*a. By the Partners Themselves*
+
+A partnership can be dissolved by the partners themselves. 
+
+- One way they can do this is by setting **a fixed term** for the partnership: see *BCPA* s 35(1)(a) and *OPA* s 32(a). At the expiry of the fixed term, the partnership will be dissolved unless the partners agree otherwise. 
+- Another way is for the partners to agree that the partnership will be dissolved at the end of **a particular venture** for which the partnership was created: *BCPA* s 35(1)(b) and *OPA* s 32(b).
+- If there is no fixed term and the partnership is not formed for a particular venture, then the partnership may be dissolved by **notice of the intention to dissolve**. The dissolution will take effect from the date of the notice or the date specified in the notice: *BCPA* ss 29 and 35(1)(c) and *OPA* s 32(c).
+
+*b. On Death, Bankruptcy, or Dissolution of a Partner*
+
+Under the *Partnership Acts* of most of the provinces, a partnership is **dissolved automatically upon the death, bankruptcy, or dissolution of a partner**: *OPA* s 33(1).
+
+However, if the whole partnership is dissolved, then an entirely new partnership agreement among the remaining partners would be required in order to continue. ... this standard form provision is **frequently overridden by express agreement** between the partners that the death, bankruptcy, or dissolution of a partner does not result in the dissolution of the partnership as between the remaining partners. 
+
+While the *Ontario Partnerships Act*, for example, simply provides that the partnership will be dissolved in these circumstances, the *BC Partnership Act* provides in s 36(1)(b) that, where there are more than two partners, the death, bankruptcy, or dissolution of a partner dissolves the partnership only as between the deceased, bankrupt, or dissolved partner and the remaining partners, that is, **the partnership agreement continues to apply with respect to the remaining partners**.
+
+## VI. RELATIONSHIP BETWEEN PARTNERS AND THIRD PARTIES
+
+When are partners liable for the acts of their fellow partners in the conduct of partnership business? When might third parties be able to recover from partners not directly engaged in a breach of contract or personally in the commission of a tort?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
