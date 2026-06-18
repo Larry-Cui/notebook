@@ -300,6 +300,158 @@ While the *Ontario Partnerships Act*, for example, simply provides that the part
 
 When are partners liable for the acts of their fellow partners in the conduct of partnership business? When might third parties be able to recover from partners not directly engaged in a breach of contract or personally in the commission of a tort?
 
+**1. Liability in Contract**
+
+*a. Apparent Authority of Partners*
+
+Section 6 of the *Ontario Partnerships Act* and s 7 of the *BC Partnership Act* provide that every partner is **an agent of the firm and other partners** for the purposes of the partnership business. 
+
+Further, where a partner “does any act for carrying on in the usual way **business of the kind** carried on by the firm of which he or she is a member,” it binds the firm and his or her
+partners **unless** **(1)** the partner had no authority to act for the firm in the particular matter; and **(2)** the third party either knew the person dealt with had no authority or did not know or believe him or her to be a partner.
+
+If the partner was doing something **not associated with the business of the firm**, reliance by the third party would not have been reasonable. Similarly, where the business is of the kind carried on by the firm but the partner is doing something **inconsistent with the usual way** in which that business is carried on, reliance by the third party would not be reasonable. 
+
+*b. Actual Authority of Partners*
+
+Section 7 of the *Ontario Act* and s 8(1) of the *BC Act* provide that “an act or instrument relating to the business of the firm and done or executed in the firm name, or in any other manner showing an intention to bind the firm by a person thereto authorized, **whether a partner or not**, is binding on the firm and all the partners.” This section does not limit the authority to actual authority. It thus appears to cover both **actual** and **ostensible** authority. 
+
+*c. Third-Party Notice of Restriction on Authority of Partner*
+
+The statute (*BCPA* s 10 and *OPA* s 9) provides that if a third party has notice of a restriction on the power of a partner, then the partner’s actions in contravention of the restriction **do not bind the firm**. 
+
+A person dealing with the firm may not have been given “notice” of a partner’s lack of actual authority but may nonetheless have knowledge of that partner’s lack of authority.
+
+*d. Joint Liability for Debts of Partnership*
+
+Every partner is **jointly liable** with the other partners for all debts and obligations of the firm as long as he or she is a partner. 
+
+After the partner’s death, his or her **estate is also severally liable** subject to the prior payment of the partner’s separate debts: see *BCPA* s 11 and *OPA* s 10(1).
+
+*e. Liability of New Partners and Retired Partners*
+
+The statute also provides that a person who joins an existing partnership is **not liable** to creditors for debts of the partnership that arose **before the person joined the firm**. 
+
+On the other hand, once a person is a member of the firm and partners or agents of the firm enter into contracts that bind the firm, **the person does not cease to be a party to those contracts just because he or she left the partnership**. 
+
+If a creditor, however, agrees to relieve a retiring partner from further liability, then that agreement will be binding, subject to the normal rules of contract law governing such **waivers**.
+
+**2. Liability in Tort: Wrongful Acts or Omissions**
+
+The statute provides that the firm is liable for wrongful acts or omissions where a partner acted with the authority of the other partners or acted in the ordinary course of business of the firm: *BCPA* s 12 and *OPA* s 11. This liability for wrongs is **joint and several**: *BCPA* s 14 and
+*OPA* s 13.
+
+In ***Ernst & Young Inc. v. Falconi***, [1994 CanLII 7237 (ON CTGD)](https://canlii.ca/t/1vsn4){:target="\_blank"}, the court addressed the scope of the statutory liability provisions:
+
+> I agree with the submission of counsel for the plaintiff that the court need not find that it is within the ordinary course of business of a law firm for a partner for that firm to conspire with others to defeat creditors of the firm’s clients. **It is sufficient if the partner used the facilities of the law firm to perform services normally performed by a law firm** in carrying out the transactions as a result of which the creditors of the firm’s clients suffered loss.
+>
+> I accept the submission of counsel for the plaintiff that the fact that the various actions of **Falconi** were for improper purposes and with intent to defraud the creditors of the bankrupts does not take the acts themselves out of
+the ordinary course of business of the law firm if **they are in the nature of acts normally performed by the law firm in carrying on its usual business**.
+
+**3. Other Matters**
+
+*a. Indemnification*
+
+When a partner is found liable the partner is **liable for the full amount**. Tort victims or per sons contracting with the partnership business can claim full compensation from any one or more of the partners. 
+
+The liability of a partner is **independent of any right of the partner to seek indemnification or contribution** from the other partners. A partner who is required to satisfy such an obligation may seek contribution or indemnification from his or her fellow partners according to the **terms of their partnership agreement**.
+
+*b. “Holding Out”*
+
+The statute provides that a person who represents himself or herself to be a partner (whether orally, in writing, or by conduct), or who knowingly allows himself or herself to
+be represented as a partner, will be liable to anyone who has given credit on the faith of the representation. **This could apply even where there is no partnership**: *BCPA* s 16 and
+*OPA* s 15(1).
+
+**4. Retirement of Partners**
+
+Under the default provisions of the statute the partner who retires does not cease to be **liable** for partnership debts
+or obligations **incurred before his or her retirement**. 
+
+Further, when a partner retires, third parties dealing with the firm may not be aware that the partner has retired. They may rely on the retired partner as still being a partner. Accordingly, under the statute (*BCPA* s 19(2) and *OPA* s 18(2)), a retiring partner can also be **liable** for debts and obligations of the partnership even **after the partner has left the partnership**. A retiring partner can avoid such liability if he or she takes certain steps required under
+the statute, including: 
+
+- (1) providing **actual notice** to all those with whom the firm has had prior dealings; 
+- (2) placing a notice of the retirement in the **Gazette**: *BCPA* s 39(2) *OPA* s 36(2);
+- (3) filing **a revised registration** statement removing the name of the retired partner from the list of partners of the firm.
+
+**VII. LIMITED PARTNERSHIP**
+
+**A. Introduction and Overview of Features**
+
+Unlike partnership, limited partnership is a
+creature of statute rather than the common law. Limited partnership statutes permit some of the partners (investors) to have limited liability, but only if the partnership conducts business under a name that adds the words **“Limited Partnership” as a suffix**. Limited partnerships **must be registered** pursuant to the requirements of the statute for the jurisdiction in which the partnership wishes to function.
+
+Limited partnership statutes generally also provide that the limited partners may not take part in the “management” or “control” of the business. **Should a limited partner become engaged in “management” or “control,” the benefit of limited liability may be lost.**
+
+As a result of their restricted involvement in the management or operation of the partnership business, limited partners may **not be directly liable for torts** committed in carrying on the business, but they may be **vicariously liable for the acts of agents or employees engaged in carrying on the business**. The limit of their liability is the amount of their **investment**.
+
+**B. Statutory Provisions and Features**
+
+Limited partnerships are creatures of statute. In Ontario,
+the relevant provisions are contained in **a separate statute**, the *Limited Partnerships Act*, RSO 1990 c L 16. In contrast, in British Columbia the relevant provisions are contained in Part 3 of the *Partnership Act*.
+
+*1. One or More Limited Partners and One or More General Partners*
+
+A limited liability partnership consists of **one or more general partners** and **one or more limited partners**. The liability of the limited partners is restricted to the amount that the limited partner contributes or agrees to contribute to the limited partnership: see *BCPA* s 63. **The liability of the general partners is not limited.**
+
+*2. Formation by Filing Certificate or Declaration*
+
+The filing of the certificate is essential to the formation of the limited partnership; **if it is not filed, there is no limited partnership**.
+
+*3. Protection of Third Parties*
+
+A limited partner’s contribution is restricted, for example, s 7(1) of the *Ontario Limited Partnerships Act* provides that
+a limited partner “may contribute money or other property to the limited partnership, but may not contribute services.” Section 64 of the *BC Partnership Act* provides that a limited
+partner is not to take part in the management of the partnership. **Participating in the management of the partnership might deceive third parties into believing that the limited partner is a general partner.**
+
+The partners will have better access to information about any looming insolvency of the business. The *BC Partnership Act* addresses this by providing in s 59 that **no return of capital to partners is permitted** if after the return of capital the partnership would be insolvent.
+
+In addition, third-party creditors may find helpful the requirement in *BCPA* s 51(2) that the certificate or declaration must state the contribution provided, or to be provided, by the limited partners.
+
+**C. Maintaining Limited Liability and Management of the Business**
+
+As noted earlier, limited partners are precluded from taking part in the management of the business at the risk of losing the limitation on their liability. Accordingly, a common structure for a limited partnership is to **have a corporation as the general partner**. The promoters of the business will be made officers of the corporation and perform the management functions of the limited partnership business on behalf of the general partner corporation. 
+
+This raises the question of **whether limited partners who are officers in the general partner corporation are in fact liable as general partners** on the basis that they have taken part in the management of the business. The two cases that follow have considered this issue.
+
+!!! info "*Haughton Graphic Ltd v Zivot* [1986] OJ No 288, 33 BLR 125 (H Ct J)"
+
+    - The plaintiff sues the two named defendants as limited partners of **Printcast** on the ground that, in addition to exercising their rights and powers as limited partners, each took part in the control of the business of the limited partnership, within the meaning of s. 63 in Part 2 of the *Alberta Partnership Act* RSA, 1980, c. P-2, as amended by RSA 1980 (supp.), c. 2; SA 1981 c. 28.
+    - ... the principle players being: **Printcast** (the limited partnership); **Lifestyle** (the general partner); and **Zivot** and **Marshall** (two of the limited partners).
+    -  s. 63 of the *Alberta Partnership Act* [now s. 64] reads as follows:
+
+        > (63) A limited partner does not become liable as a general partner unless, in addition to exercising his rights and powers as a limited partner, he takes part in the control of the business.
+    - Although elaborate arguments were made as to the meaning of the section, I take a simpler view of it. If a limited partner takes part in the control of the business, **he becomes liable under the statute as a general partner**, *i.e.* unlimited liability to the extent of his assets.
+    - The elaborate arguments made only come into play if it should be found that the plaintiff somehow disclaimed reliance on that section. The arguments demonstrate that in the United States, where the limited partnership is also recognized, there are **two lines of authority**.
+        - One line of authority recognizes that in a statutory provision such as s. 63 of the *Alberta Act*, there is **no room for consideration of whether or not the Plaintiff relied upon the personal liability of the limited partner**. It is simply a question of whether or not the limited partner took part in the control of the business and this question becomes largely a quantitative matter. An example of this line of authority is commonly taken to be ***Delaney v. Fidelity Lease Limited*** (1975), 526 SW 2d 543 in the Supreme Court of Texas.
+        - On the other hand, there is a line of cases which espouses what is called the **“specific reliance” test**. An example commonly referred to is ***Frigidaire Sales Corporation v. Union Properties, Inc.*** (1975), 544 P2d 781 in the Court of Appeals of Washington State. This view may be more fully explained by stating that “liability for a partnership’s obligation to a creditor should not be imposed upon a limited partner who takes part in the control of the business **unless**, as a result of the limited partner’s conduct, **the creditor believed that the limited partner was a general partner**.” 
+    - ... the ***Delaney*** decision correctly points out that the American statutory provision under discussion, which is **indistinguishable** from s. 63 of the *Alberta Act*, **does not by its terms require creditor reliance as a predicate for holding a limited partner liable**.
+    - Section 63 does not contain any requirement of reliance. If reliance was a necessary precondition to unlimited liability for a limited partner, appropriate words should be in the statute. 
+    - In any event, mere knowledge by the plaintiff that a magazine was being promoted and published by a limited partnership does not assist the defendants at all. **What engages the liability of the limited partner is his taking part in the control of the business**.
+    - Finally it was submitted on behalf of the defendants that to hold them liable in this case means that a person who is an officer or director (or I suppose a senior employee) of the corporate general partner in a limited partnership would always be fixed with unlimited liability for the debts of the limited partnership by virtue of s. 63 of the Alberta Act on the ground that he is the person who has control of the corporate general partner. **This conclusion does not logically follow.** The section only applies to a person who, in addition to being an officer, director, senior employee, or other directing mind of the corporate general partner, seeks also to take advantage of personal limited liability as a limited partner in the limited partnership. 
+    - In other words, **s. 63 applies only if two conditions are met.** **One** is that the person be a limited partner and the **second** is that he take part in the control of the business of the limited partnership. The section does not apply to someone whose sole role in and connection with the limited partnership is that of an officer, director or other controlling mind of the general partner.
+
+!!! info "*Nordile Holdings Ltd. v. Breckenridge*, [1992 CanLII 1499 (BC CA)](https://canlii.ca/t/1d9kz){:target="\_blank"}"
+
+    - Nordile rests its case on s. 64 of the *Partnership Act* which provides:
+
+        > A limited partner is not liable as a general partner unless he takes part in the management of the business.
+    - Breckenridge and Rebiffe were **limited partners** in the Arman limited partnership. They were **minority shareholders** in the general partner, Arbutus. They were also **officers and directors** of Arbutus. Breckenridge, and to a lesser extent, Rebiffe, managed Arbutus, and Arbutus managed Arman.
+    - when Breckenridge and Rebiffe participated in the management as directors they did so “solely in their capacities as directors and officers of the general partner, Arbutus.” That agreed fact alone is sufficient to exclude liability under the “unless” provision of s. 64 of the *Partnership Act*. **Acting solely in one capacity necessarily negates acting in any other capacity.**
+
+In ***Nordile***, according to Chief Justice McEachern, it was “agreed that the limited partners acted solely in their capacity as officers of the general partnership” and thus they would not be liable under the *Partnership Act*, s 64.
+
+For more recent consideration of ***Nordile***, see the following case:
+
+!!! info "*Atlantic Waste Systems Ltd. v. Canada (Attorney General)*, [2014 BCSC 490](https://canlii.ca/t/g6905){:target="\_blank"}"
+
+    - h
+
+
+
+
+
+
+
 
 
 
