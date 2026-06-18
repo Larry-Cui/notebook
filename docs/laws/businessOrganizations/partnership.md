@@ -438,32 +438,153 @@ This raises the question of **whether limited partners who are officers in the g
     - Breckenridge and Rebiffe were **limited partners** in the Arman limited partnership. They were **minority shareholders** in the general partner, Arbutus. They were also **officers and directors** of Arbutus. Breckenridge, and to a lesser extent, Rebiffe, managed Arbutus, and Arbutus managed Arman.
     - when Breckenridge and Rebiffe participated in the management as directors they did so “solely in their capacities as directors and officers of the general partner, Arbutus.” That agreed fact alone is sufficient to exclude liability under the “unless” provision of s. 64 of the *Partnership Act*. **Acting solely in one capacity necessarily negates acting in any other capacity.**
 
-In ***Nordile***, according to Chief Justice McEachern, it was “agreed that the limited partners acted solely in their capacity as officers of the general partnership” and thus they would not be liable under the *Partnership Act*, s 64.
+In ***Nordile***, according to Chief Justice **McEachern**, it was “agreed that the limited partners acted solely in their capacity as officers of the general partnership” and thus they would not be liable under the *Partnership Act*, s 64.
 
-For more recent consideration of ***Nordile***, see the following case:
+The courts seem inconsistent on this issue and swang back to ***Haughton Graphic***. For more recent consideration of ***Nordile***, see the following case:
 
 !!! info "*Atlantic Waste Systems Ltd. v. Canada (Attorney General)*, [2014 BCSC 490](https://canlii.ca/t/g6905){:target="\_blank"}"
 
-    - h
+    - [26] In ***Nordile***, the defendants were officers and directors of the corporate general partner of a limited partnership of which they were also limited partners.
+    - [27] Under the *Partnership Act*, R.S.B.C. 1996, c. 348, s. 64, a limited partner may lose liability protection if the limited partner “takes part in the management of the business” of the limited partnership.
+    - [28] The plaintiff in ***Nordile*** argued that the defendants lost limited liability protection as a result of their actions as directors and officers of the corporate general partner. The parties agreed that the defendants participated in the management and direction of the corporate general partner of the limited partnership, but they did so “**solely** in their capacities as directors and officers of the general partner...”
+    - [29] Chief Justice **McEachern** in dismissing the plaintiff’s appeal in ***Nordile*** stated in additional reasons (concurred in by Wood and Gibbs JJ.A.):
 
+        > Mr. Arbour urges us to conclude that the usual rule enunciated in ***Salomon v. Salomon*** [[1897] AC 22 (H.L.)] should not be applied in this case because of the fact that this is a statutory scheme which abrogates that principle in a case where a limited partner is engaged in the management of the partnership. **I have no doubt that that would be the case if the limited partner in that capacity engaged in management** because that would be an additional statutory fact which was not present in ***Salomon v. Salomon***.  
+        
+        > In this case, however, it has been agreed that the limited partners acted **solely** in their capacity as officers of the general partnership. In my view, that concession takes this case out of the principle for which Mr. Arbour contends.  Speaking for myself, such a conclusion in the circumstances of this case would destroy the Salomon principle and I would require much more specific language and facts before I would conclude that an officer of a corporation acting **solely** in that capacity can be held personally liable in a different capacity.
+    - [30] For the current application, I must only address the **low threshold** as to whether Canada has “a possible cause of action” against Mr. Mann.  Unless I am sure the rule in ***Salomon v. Salomon*** would apply, or that on some other basis the AG of Canada’s counterclaim against Mr. Mann would surely fail, I should allow the application to add Mr. Mann as a defendant by way of counterclaim.
 
+**D. Relations Among the Partners**
 
+***1. Separation of Ownership and Control***
 
+The limited partnership tends to create what is often referred to as a “separation of ownership from control.” The limited partners are usu- ally major contributors of capital for the business. They do not (and cannot, because of the statutory restrictions) “control” the business.
 
+It is left to the parties themselves to contract for the protections of limited partners they see fit and appropriate for the particular context. This makes the drafting and review of limited partnership agreements critically important.
 
+Two statutory protections are illustrated by ss 56 and 58 of the *BC Partnership Act*. 
 
+- **Section 56** provides that general partners cannot perform an act that makes it impossible to carry on the partnership business or consent to a judgment against the partnership. They cannot possess partnership property or dispose of it for other than a partnership purpose.
+- **Section 58(1)(c)** provides a limited partner with the same right as a general partner to obtain dissolution and winding up of the limited partnership by court order. If the business of a limited partnership were being conducted by the general partner(s) in a way that was oppressive to one or more of the limited partners, then as a last resort a limited partner could apply to have the partnership dissolved and wound up.
 
+***2. Other Aspects of the Relations Among Partners***
 
+*a. Right to Inspect Books*
 
+Statutory provisions concerning limited partnerships provide for the “same right as a general partner” to “inspect and make copies of, or take extracts from the limited partnership books”: *BCPA* s 58(1) and *OLPA* s 10.
 
+*b. Assignment of Limited Partnership Interests*
 
+Section 66 the *BC Partnership Act* provides:
 
+> 66(1) A limited partner must not assign his or her interest, in whole or in part, in the limited partnership **unless** <br>
+> (a) all the limited partners and all the general partners consent or the partnership agreement permits it, **and** <br>
+> (b) the assignment is made in accordance with the terms of the consent or partnership agreement.
 
+The *Ontario Limited Partnerships Act*, s 18(1) provides simply that a “limited partner’s interest is **assignable**.” The balance of s 18, however, sets out important rights and restrictions in respect of becoming a “substituted limited partner” and entitlements and liabilities on admission.
 
+*c. Restriction on the Admission of Additional Partners*
 
+**Section 17** of the *Ontario Limited Partnerships Act* provides:
 
+> 17 After the formation of the limited partnership, additional limited partners may be admitted by amendment of the record of limited partners.
 
+In British Columbia, **s 56(d)** of the *Partnership Act* provides that a general partner has **no authority** to admit a person as a general partner or a limited partner unless the right to do so has been given in the certificate. **Section 51(4)(c)** also requires that a right to admit additional limited partners must be set out in the limited partnership certificate. **Section 65** provides that an additional limited partner is not to be admitted to a limited partnership except in accordance with the partnership agreement and by entry in the register of limited partners that must be kept pursuant to **s 54(2)(a)**.
 
+*d. Share of Profits*
+
+Profit-sharing is another topic where it is important to consider both the statutory provisions and the agreement made between the partners. In British Columbia, for example, **s 61** of the *Partnership Act* provides that limited partners share in the profits and in any return of capital **in proportion to their contributions** unless the limited partnership agreement provides otherwise.
+
+**Section 11(1)** of the *Ontario Limited Partnerships Act* provides that, a limited partner has the right
+
+> (a) to a share of the profits or other compensation by way of income; and <br>
+> (b) to have the limited partner’s contribution to the limited partnership returned.
+
+## VIII. LIMITED LIABILITY PARTNERSHIPS
+
+A “limited liability partnership,” or, as an “LLP,” is the newest form of modern business enterprise in the United States. Its birth date can be precisely identified as **August 26, 1991**, when Texas House Bill 278 became effective. Since then it has had almost exponential growth. The reason for this unexpected development was the enactment of an LLP statute in New York that recognized **foreign LLPs**.
+
+The original conception of an LLP, and the conception that has been accepted by the great bulk of the LLP statutes, is that it provides what might be described as **“peace of mind”** insurance for **innocent partners**. The LLP is designed to avoid the fear by a partner that her personal assets may be at risk because of **negligence or malpractice** by a partner over whom she has no control and quite possibly whom she has never met.
+
+A basic principle of **general partnership law** is that each individual partner is personally liable for all partnership obligations to the extent they exceed the assets of the partnership. 
+
+In the original **LLP concept**, all partners have the benefits, responsibilities, and potential liability of general partners **except** that **partners have no responsibility for malpractice claims or for liabilities arising from negligence or misconduct in which they were not personally involved**. The protection provided innocent partners against personal liability is usually referred to as “**the shield of limited liability**.”
+
+**LLP Structures and Statutory Provisions**
+
+**In the United States, LLP structures have varied widely.** Some have provided that partners are not liable for the malpractice liabilities of their fellow partners. Others provided that partners are not liable for the ordinary debts of the firm. Some provide for full limited liability, but limit this form of association to professional partnerships. Others provide full limited liability, but are open to any form of enterprise.
+
+Canadian jurisdictions enacting LLP legislation have generally limited the use of LLPs to members of “**eligible professions**,” those that are regulated under an act, such as **doctors**, **lawyers**, and **accountants**. In those cases, professional partnerships are permitted to use the LLP structure **only if the profession is expressly authorized by or under its governing act** to carry on the practice of the profession **through an LLP** and if the partnership has met any prerequisites to the authorization established under the constating act.
+
+**S 44.2** of the *Ontario Partnerships Act* provides:
+
+> A limited liability partnership may carry on business in Ontario **only for the purpose of practising a profession** governed by an Act and only if, <br>
+> (a) that **Act expressly permits** a limited liability partnership to practise the profession; <br>
+> (b) the governing body of the profession requires the partnership to **maintain a minimum amount of liability insurance**; and <br>
+> (c) the partnership complies with section 44.3 if it is not an extra-provincial limited liability partnership or section 44.4 if it is an extra-provincial limited liability partnership.
+
+In contrast, in 2005, British Columbia amended its *Partnership Act* to include LLP provisions that place **no restrictions on the types of businesses** able to register. However, **s 97** provides:
+
+> If a partnership that wishes to register as a limited liability partnership is a professional partnership, that partnership must not register as a limited liability partnership **unless** <br>
+> (a) members of that profession are expressly **authorized under the Act** by which that profession is governed to carry on the practice of the profession through a limited liability partnership, and <br>
+> (b) any **prerequisites** to that authorization that have been established under that Act have been met by the partnership.
+
+**Full Shield Liability**
+
+Amendments to the *Ontario Partnerships Act* in December 2006 provided for **full shield liability**, 
+
+!!! warning "Limited liability partnerships"
+
+    - **10(2)** Subject to subsections (3) and (3.1), a partner in a limited liability partnership is not liable, by means of indemnification, contribution or otherwise, for,
+        - (a) the debts, liabilities or obligations of the **partnership or any partner** arising from the **negligent or wrongful acts or omissions** that another partner or an employee, agent or representative of the partnership commits in the course of the partnership business while the partnership is a limited liability partnership; or
+        - (b) **any other debts or obligations of the partnership** that are incurred while the partnership is a limited liability partnership.
+
+!!! warning "Limitations"
+
+    - **10(3)** Subsection (2) **does not relieve a partner** in a limited liability partnership from liability for,
+        - (a) the partner’s **own negligent or wrongful act or omission**;
+        - (b) the negligent or wrongful act or omission of a person **under the partner’s direct supervision**; or
+        - (c) the negligent or wrongful act or omission of another partner or an employee of the partnership **not under the partner’s direct supervision, if,**
+            - (i) the act or omission was **criminal or constituted fraud**, even if there was no criminal act or omission, or
+            - (ii) the partner **knew or ought to have known** of the act or omission and **did not take the actions** that a reasonable person would have taken to prevent it.
+
+!!! warning "Same"
+
+    - **10(3.1)** Subsection (2) does not protect a partner’s **interest in the partnership property** from claims against the partnership respecting a partnership obligation.
+
+**Business Name Registration Requirements**
+
+The *Ontario Partnerships Act* also provides in **s 44.3** that a limited liability partnership is not allowed to carry on business unless the name of the firm has been registered under the Ontario Business Names Act, and unless that name contains the words “limited liability partnership,” “LLP,” or their French language equivalents. **No other name can be used to carry on the business.**
+
+**IX. JOINT VENTURES**
+
+One issue that often arises is whether an enterprise is a “joint venture.” The following case from 2015 considered this issue directly, and whether the parties formed a joint venture or a partnership.
+
+!!! info "*Woronuk v Woronuk*, [2015 ABQB 116](https://canlii.ca/t/ggbst){:target="\_blank"}"
+
+    - [315] In determining whether the parties formed a joint venture or partnership, it is necessary to first consider the concepts of **joint ventures** and **partnerships**, and specifically, what they are in law.
+    - [316] **A joint venture** is not itself a legal entity capable of entering into a contract. It takes one of **three forms**:
+        – a **corporate** joint venture, where a separate company is set up for the joint venture;
+        – a **partnership** among joint venture participants; or
+        – a contractual joint venture where parties proceed with a joint venture based upon **agreement**.
+    - [317] **Joint venture relationships are governed by contract between the joint venture participants**, whether that is in the form of establishing a new corporation to carry out the joint venture, joining together as partners, or agreeing contractually on how the parties will operate the joint venture. They will be subject to the applicable business corporations or partnership statutes.
+    - [319] In ***Central Mortgage & Housing Corp. v. Graham et al.***, [1973 CanLII 1244 (NS SC)](https://canlii.ca/t/gwgjr){:target="\_blank"} (“***Graham***”), Justice **Jones** discussed the factors present in a joint venture, citing Samuel Williston, *Williston on Contracts*, 3rd ed (New York: Baker Voorhis & Co, 1957) vol 2 at 563, at 706-707 of his decision:
+
+        > the following factors must be present (in a joint venture):
+        >
+        > (a) A contribution by the parties of money, property, effort, knowledge, skill or other asset to a common undertaking; <br>(b) A joint property interest in the subject matter of the venture; <br>(c) A right of mutual control or management of the enterprise; <br>(d) Expectation of profit, or the presence of “adventure,” as it is sometimes called; <br>(e) A right to participate in the profits; <br>(f) Most usually, limitation of the objective to a single undertaking or *ad hoc* enterprise.
+    - [323] Under the *Partnership Act*, “**partnership**” means “the relationship that subsists between persons carrying on a business in common with a view to profit”: s 1(g). A corporation is not a partnership: *Partnership Act*, s 3. A “person” may be an individual or a corporation.
+    - [325] The Supreme Court of Canada provides guidance on when a relationship is a partnership in ***Continental Bank Leasing Corp. v. Canada***, [1998 CanLII 794 (SCC)](https://canlii.ca/t/1fqr5){:target="\_blank"} (“***Continental***”), setting out “three essential ingredients: (1) a business, (2) carried on in common, (3) with a view to profit”: para [22](https://www.canlii.org/en/ca/scc/doc/1998/1998canlii794/1998canlii794.html#par22){:target="\_blank"}. In dissent, Justice Bastarache makes the following statements, with which the majority agreed, in paras [23 and 24](https://www.canlii.org/en/ca/scc/doc/1998/1998canlii794/1998canlii794.html#par23){:target="\_blank"}:
+
+        >  The indicia of a partnership include the contribution by the parties of money, property, effort, knowledge, skill or other assets to a common undertaking, a joint property interest in the subject matter of the adventure, the sharing of profits and losses, a mutual right of control or management of the enterprise, the filing of income tax returns as a partnership and joint bank accounts.
+    - [328] In ***Blue Line Hockey Acquisition Co., Inc. v. Orca Bay Hockey Limited Partnership***, [2008 BCSC 27](https://canlii.ca/t/1vd2g){:target="\_blank"} (“***Blue Line***”),... the British Columbia Supreme Court considered whether the relationship between three people was a non-partnership joint venture or a partnership, and concluded it was neither.
+    - [334] The Supreme Court of Canada discussed the approach to be taken to determine whether a partnership exists in ***Backman v. Canada***, [2001 SCC 10](https://canlii.ca/t/521z){:target="\_blank"} (“***Backman***”), at paras [25-26](https://www.canlii.org/en/ca/scc/doc/2001/2001scc10/2001scc10.html#par25){:target="\_blank"}:
+
+        > [25] As adopted in ***Continental Bank***, *supra*, at para. 23, and stated in *Lindley & Banks on Partnership*, *supra*, at p. 73: “in determining the existence of a partnership ... regard must be paid to the true contract and intention of the parties as appearing from the whole facts of the case.” In other words, to ascertain the existence of a partnership the courts must inquire into whether the objective, documentary evidence and the surrounding facts, including what the parties actually did, are consistent with a subjective intention to carry on business in common with a view to profit.
+
+        > [26] Courts must be pragmatic in their approach to the three essential ingredients of partnership. Whether a partnership has been established in a particular case will depend on an analysis and weighing of the relevant factors in the context of all the surrounding circumstances. That the alleged partnership must be considered in the totality of the circumstances prevents the mechanical application of a checklist or a test with more precisely defined parameters.
+    - [335] A partnership, like a joint venture, is based on the **existence of a contract among the parties**. **Unlike a joint venture, however, a partnership is a legal entity that owns assets and has liabilities.** The cases and commentary examining joint ventures typically focus on whether the relationship among the parties creates a partnership. The existence of a partnership affects the parties’ obligations to each other and the remedies available for breach of those obligations. A partnership creates fiduciary obligations.
+    - [336] No separate corporation was formed by the parties in this case. There was, therefore, no corporate joint venture. Whether the partiers formed a contractual joint venture or a joint venture partnership (that is, a partnership) is a fact-driven determination, dependent upon the parties’ intentions.
 
 
 
