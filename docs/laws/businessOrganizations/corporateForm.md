@@ -102,19 +102,44 @@ The articles of incorporation for simple CBCA corporations are prepared by filli
 
 In practice, the provisions in the articles will usually be kept to a minimum and it is the bylaws that typically set out detailed rules about internal governance. This simplifies the process of incorporation and also eliminates the need to amend the articles under *CBCA* s 173 if some change in the provisions is desired at a later date.
 
+*1. The Name of the Corporation*
 
+The incorporators may decide that they will use a number rather than a name, in which case they will ask the director to assign a number to the corporation.  The *CBCA* explicitly permits **a numbered company to carry on business under a business name or style**, as long as the full corporate name is set out in all “contracts, invoices, negotiable instruments and orders for goods and services issued or made by or on behalf of the corporation.”
 
+The name of the corporation must include a suffix such as “Ltd.,” “Inc.,” or “Corp.” (short for “Limited,” “Incorporated,” and “Corporation,” respectively). This suffix is required in order to ensure that members of the public dealing with the corporation are aware of its existence as a corporation with limited liability.
 
+*2. Registered Office*
 
+A corporation must maintain a registered office at which it can be served with legal documents and at which it may be required to maintain corporate records. **The registered office need not be the place where the corporation actually carries on its business.** In fact, it often is not, particularly for small corporations. Such companies will ordinarily designate their lawyer’s office as the corporation’s registered office.
 
+*3. Classes and Maximum Number of Shares*
 
+Section 6 of the *CBCA* provides that the articles of incorporation must set out 
 
+- (1) the classes and any maximum number of shares that the corporation is authorized to issue; 
+- (2) the rights and privileges attaching to each class of shares if there is to be more than one class; 
+- (3) the authority to be given to directors to determine the rights and privileges attaching to shares in a particular series if classes of shares can be issued in series; and 
+- (4) any restrictions on the issue, transfer, or ownership of shares in the corporation (*CBCA* ss 6(1)(c) and (d)). 
 
+Section 6 of the *CBCA* is now permissive, and does not require a *CBCA* corporation to specify the maximum number of shares that it is authorized to issue (although such a maximum may be specified if desired). Instead, to preserve maximum **flexibility**, the relevant section of the articles of incorporation might read as follows: “**The Corporation is authorized to issue an unlimited number of [common/preferred/series X] shares.**”
 
+*4. Restrictions on the Transfer of Shares*
 
+Substantial advantages may be available to “private companies” under Canadian securities legislation. Private companies are typically defined in Canadian securities legislation as corporations whose articles of incorporation or constating documents (1) restrict the right to transfer its shares; (2) limit the number of its shareholders to **50**; and (3) **prohibit any invitation to the public to subscribe for its securities**. See e.g. *Securities Act*, [RSO 1990 c S.5](https://canlii.ca/t/56l4v){:target="\_blank"}, s 1(1). Share transfer restrictions are common in closely held corporations due to the incorporators having a personal relationship and having all agreed that all shareholders also participate in management going forward.
 
+*5. Number of Directors*
 
+Under the *CBCA*, the articles of incorporation must set out the minimum and maximum number of directors. The exact size of the board of directors does not need to be set out when the articles of incorporation are filed, with one exception, that *CBCA* s 107(a) requires that where the articles of incorporation provide for cumulative voting, they “shall require a fixed number and not a minimum and maximum number of directors.” Every *CBCA* corporation must have at least one director; when the corporation is a “distributing corporation,” or one that has sold its shares to the public, it is required to have at least three directors.
 
+Having first directors is important, because they will have the authority to **issue the initial shares** of the corporation and to take the other steps required to **organize the corporation** after the certificate of incorporation has been issued. The initial meeting of directors will ordinarily address the **making of bylaws** for the corporation, authorize the **issuing of securities**, make banking arrangements for the company, **appoint officers**, adopt forms of corporate records, appoint an auditor, and deal with other necessary business.
+
+*6. Restrictions on the Business of the Company*
+
+Any restrictions on the kind of business the company may carry on must be set out in the articles of incorporation (*CBCA* s 6(1)(f)). The *CBCA* no longer requires such a statement of corporate objects, or even that any restrictions on the company’s activities be articulated. However, if they wish, incorporators may include such restrictions.
+
+## IV. SEPARATE LEGAL PERSONALITY AND LIMITED LIABILITY
+
+**A. Economic Justifications and Policy Concerns**
 
 
 
