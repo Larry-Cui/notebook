@@ -173,6 +173,47 @@ The principles laid down in ***Salomon*** and ***Lee*** can be used to protect b
 
 ## V. PIERCING THE CORPORATE VEIL
 
+Despite the apparent robustness of the ***Salomon*** decision, Canadian courts, like courts in other common law jurisdictions, began developing principles upon which it was presumed that judges could **lift or pierce the corporate veil**. 
+
+Early Canadian decisions drew from UK cases. The **early recognized grounds** for piercing the corporate veil were **agency and use of the corporate structure for an improper purpose**. In addition to this, courts would also condemn those corporations deemed unworthy of enjoying the rights and privileges of incorporation with vague, pejorative labels such as **alias**, **alter ego**, **simulacrum** and **cloak**.
+
+In addition, several specific forms of impropriety have sometimes been identified in veil piercing cases, including use of the corporation to avoid a pre-existing legal obligation; thin or inadequate corporate capitalization; and failure to observe proper corporate formalities, though they are not without criticism. In the Canadian context, the courts have been reluctant to pierce the corporate veil, and have generally required a **strong showing of impropriety** before doing so.
+
+Typically, a court’s refusal to pierce the veil is explained simply as an expression of respect for the ***Salomon*** principle. There are three other common examples of when courts will refuse to pierce the corporate veil. 
+
+- First, the veil is not typically pierced in actions brought by **voluntary creditors** on the basis that the claimants chose to deal with an incorporated entity and, therefore, assumed the risk of the corporation not being able to satisfy its debts. 
+- Second, in cases where the veil piercing claim is brought by the **shareholder or corporation** itself (seeking to share a benefit, rather than a liability), courts frequently deny the claim on the basis that incorporators must accept the burden of incorporation as a quid pro quo for enjoying its various benefits. 
+- Finally, in denying claims, courts also sometimes cite the **absence of compelling control or impropriety**, factors that are said to be recognized, and perhaps necessary, grounds for piercing the veil.
+
+In sum, the veil piercing principles developed and applied in Canadian common law courts consist of **a mishmash of indeterminate expressions that have been in a state of confusion** since their inception.
+
+In the following sample, Canadian courts have pierced the corporate veil in approximately **36%** of the cases where the issue was explicitly addressed. By comparison, based on the similar studies in other jurisdictions, courts chose to pierce the veil **40%** of the time in the US, **47%** of the time in England and **38%** of the time in Australia.
+
+*Frequency with which Canadian common law courts have pierced the corporate veil*
+
+| Category  | Number of Observations | Pierced | Not Pierced | % Pierced |
+| --------- | ---------------------- | ------- | ----------- | --------- |
+| All cases | 619                    | 223     | 396         | 36%       |
+
+!!! info "*Rockwell Developments Ltd. v. Newtonbrook Plaza Ltd.*, [1972 CanLII 531 (ON CA)](https://canlii.ca/t/g1b1w){:target="\_blank"}"
+
+    - The use of a “one man company” for the carrying on of business transactions, authoritatively recognized and expressed in ***Salomon v. Salomon & Co.***, [1897] AC 22, and the correlative propositions that the property of the company is distinct from that of its members, and its transactions create legal rights and obligations vested in the company itself as opposed to its members, continue today.
+
+!!! info "*642947 Ontario Ltd. v. Fleischer*, [2001 CanLII 8623 (ON CA)](https://canlii.ca/t/1f1hr){:target="\_blank"}"
+
+    - To pierce the corporate veil is to disregard the separate legal personality of a corporation, a fundamental principle of corporate law recognized in ***Salomon v. Salomon & Co.***, [1897] AC 22, [1895-1899] All ER Rep. 33. 
+    - Only exceptional cases,cases where applying the ***Salomon*** principle would be **“flagrantly” unjust**, warrant going behind the company and imposing personal liability. Thus, in ***Clarkson Co. v. Zhelka***, [1967] 2 OR 565 at p. 578, 64 DLR (2d) 457 (HCJ), Thompson J held that instances in which the corporate veil has been pierced “represent refusals to apply the logic of the ***Salomon*** case where it would be flagrantly opposed to justice.” 
+    - Similarly, Wilson J observed in ***Kosmopoulos v. Constitution Insurance Co.***, [1987] 1 SCR 2 at p. 10, 34 DLR (4th) 208, that the law on when the corporate veil can be pierced “follows no consistent principle. The best that can be said is that the ‘separate entities’ principle is not enforced when it would yield a result **‘too flagrantly opposed to justice, convenience or the interests of the Revenue’**: L.C.B. Gower, *Modern Company Law* (4th ed. 1979), at p. 112.”
+    - Typically, the corporate veil is pierced when the company is incorporated for an illegal, fraudulent or improper purpose. But it can also be pierced if when incorporated “those in control expressly direct a wrongful thing to be done”: ***Clarkson Co. v. Zhelka*** at p. 578. Sharpe J set out a useful statement of the guiding principle in ***Transamerica Life Insurance Co. of Canada v. Canada Life Assurance Co.*** (1996), 28 OR (3d) 423 at pp. 433-34 (Gen. Div.), aff’d. [1997] OJ No. 3754 (CA): “the courts will disregard the separate legal personality of a corporate entity where it is completely dominated and controlled and being used as **a shield for fraudulent or improper conduct**.”
+    - These authorities indicate that the decision to pierce the corporate veil will depend on the context. They also indicate that **the separate legal personality of the corporation cannot be lightly set aside**.
+
+
+
+
+
+
+
+
 
 
 
