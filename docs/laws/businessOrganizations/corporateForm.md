@@ -141,6 +141,39 @@ Any restrictions on the kind of business the company may carry on must be set ou
 
 **A. Economic Justifications and Policy Concerns**
 
+While **separate legal personality** and **limited liability** provide valuable economic benefits in the forms of asset partitioning and lowering the cost of capital for widely held public corporations, they do generate costs in particular contexts. 
+
+In response to the negative externalities raised, courts have developed a principle called “**piercing the corporate veil**,” “**lifting the corporate veil**,” or “**drawing aside the corporate veil**,” which defines situations where the separate legal personality of corporations and the limited liability of shareholders will be disregarded judicially. 
+
+Empirical studies on veil piercing in several jurisdictions have suggested that **veil piercing occurs almost exclusively in the context of private corporations**.
+
+**B. Doctrinal Implications**
+
+While the separate legal personality of corporations was
+established and recognized by the courts long before the following case, Salomon v Salomon, this case is most often cited as the authoritative Anglo-Canadian declaration of the separate legal entity principle, particularly for de facto sole shareholder corporations.
+
+!!! info "*Salomon v Salomon & Co, Ltd; Salomon & Co, Ltd v Salomon* [[1895-1899] All ER Rep 33 (HL)](https://www.trans-lex.org/310810/_/salomon-v-salomon-co-ltd-%5B1897%5D-ac-22/){:target="\_blank"}"
+
+    - **The company is at law a different person altogether from the subscribers to the memorandum**, and, though it may be that after incorporation the business is precisely the same as it was before, the same persons are managers, and the same hands receive the profits, the company is not in law the agent of the subscribers or trustee for them. **Nor are the subscribers as members liable**, in any shape or form, except to the extent and in the manner provided by the Act.
+    - It has become the fashion to call companies of this class “one-man companies.” ...if it merely means that there is a predominant partner possessing an overwhelming influence and entitled practically to the whole of the profits, there is nothing in that that I can see contrary to the true intention of the Act of 1862, or against public policy, or detrimental to the interests of creditors.
+    - But, short of such proof (fraud), it seems to me impossible to dispute that **once the company is legally incorporated it must be treated like any other independent person** with rights and liabilities appropriate to itself, and that the **motives of those who took part in the promotion of the company are absolutely irrelevant** in discussing what those rights and liabilities are.
+    - the Companies Act... appears to me to give a company a legal existence with, as I have said, rights and liabilities of its own, whatever may have been the ideas or schemes of those who brought it into existence.
+    - In a popular sense **a company may in every case be said to carry on business for and on behalf of its shareholders, but this certainly does not in point of law constitute the relation of principal and agent** between them or render the shareholders liable to indemnify the company against the debts which it incurs.
+
+The House of Lords in ***Salomon*** legally legitimized the use of sole shareholder corporations, that is, the default features of separate legal personality and limited liability **apply equally** to both widely held public corporations and closely held private corporations.
+
+!!! info "*Lee v Lee’s Air Farming Ltd* [[1961] AC 12 (PC)](https://www.bailii.org/uk/cases/UKPC/1960/1960_33.pdf){:target="\_blank"}"
+
+    - The substantial question which arises is, as their Lordships think, whether the deceased was a “worker” within the meaning of the *Workers’ Compensation Act*, 1922, and its amendments.
+    - It is well established that the mere fact that someone is a director of a company is no impediment to his entering into a contract to serve the company. If, then, it be accepted that the **respondent company was a legal entity**, their Lordships see no reason to challenge the validity of any contractual obligations which were created between the respondent company and the deceased. 
+    - The circumstance that, in his capacity as a shareholder, he could control the course of events would not in itself affect the validity of his contractual relationship with the respondent company. In their Lordships’ view, it is a logical consequence of the decision in ***Salomon v. Salomon & Co.*** that **one person may function in dual capacities**.
+    - The right to control existed in the respondent company and an application of the principles of ***Salomon v. Salomon & Co.*** demonstrates that the respondent company was distinct from the deceased.  Their Lordships consider, therefore, that the deceased was a worker and that the question posed in the Case Stated should be answered in the affirmative.
+
+The principles laid down in ***Salomon*** and ***Lee*** can be used to protect both kinds of **asset partitioning**. In ***Rohani v. Rohani***, [2004 BCCA 605](https://canlii.ca/t/1jcgn){:target="\_blank"}, the plaintiff was using his company as a corporate vehicle for business, succession, and tax planning purposes. The court recognized that the corporation was no more than a “piggy bank” for family property, but still respected the ***Salomon*** principle of separate legal entity and would not make corporate assets available to Mr. Rohani’s creditors.
+
+## V. PIERCING THE CORPORATE VEIL
+
+
 
 
 
