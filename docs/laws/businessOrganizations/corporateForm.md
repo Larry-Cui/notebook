@@ -237,7 +237,40 @@ In a concurring judgement, **Justice McIntyre** would have maintained the ***Mac
 
 !!! info "*Clarkson Co. Ltd. v. Zhelka et al.*, [1967 CanLII 189 (ON HCJ)](https://canlii.ca/t/g1fg4){:target="\_blank"}"
 
-    - h
+    - The cases in which the Courts, both in this Province and in England, have seen fit to disregard the corporate entity or personality, and instead to consider the economic realities behind the legal facade, **fall within a narrow compass**. **The Legislature, in the fields of revenue and taxation, and particularly with respect to true subsidiaries, has made much greater departure in this respect.** Such cases as there are illustrate no consistent principle. The only principle laid down is that in the leading case of ***Salomon v. Salomon & Co. Ltd.***, [1897] AC 22; and **in general such principle has been rigidly applied**. Briefly stated, it is that the legal persona created by incorporation is an entity distinct from its shareholders and directors and that even in the case of [a] one-man company, the company is not an alias for the owner. The exceptions would appear to represent refusals to apply the logic of the ***Salomon*** case where it would be flagrantly opposed to justice.
+    - In questions of property and capacity, of acts done and rights acquired or liabilities assumed, **the company is always an entity distinct from its corporators**. It is not an alias or a sham and the principle of the ***Salomon*** case stands unimpaired.
+    - If a company is formed for the express purpose of doing **a wrongful or unlawful act**, or, if when formed, those in control expressly direct a wrongful thing to be done, **the individuals as well as the company are responsible** to those to whom liability is legally owed.
+
+!!! info "*Yaiguaje v Chevron Corporation*, [2017 ONSC 135](https://canlii.ca/t/gx2x6){:target="\_blank"}"
+
+    - [23] The parties agree that this is an appropriate case for summary judgment. Therefore, the only issues that I must decide on this motion are the following:
+        - (a) Are the shares and assets of **Chevron Canada** exigible and available for execution and seizure pursuant to the Execution Act [RSO 1990, c E.24] to satisfy the Ecuadorian judgment against **Chevron**?
+        - (b) If they are not, should **Chevron Canada**’s corporate veil be pierced so that its shares and assets are available to satisfy the Ecuadorian judgment against its indirect parent, **Chevron**?
+    
+        [The court found no basis to consider the assets or shares of **Chevron Canada** to be owned by **Chevron**. As a result, they were not exigible for the purpose of satisfying the judgement against **Chevron**. The court then dealt with the veil-piercing issue.]
+
+    - [57] In my view, the plaintiffs have not established that Chevron Canada’s corporate veil should be pierced for the following reasons.
+    - [58] Chevron and Chevron Canada are separate legal entities with separate rights and obligations. The principle of corporate separateness has been recognized and respected since the 1896 decision of the House of Lords in ***Salomon v. Salomon & Co.***
+    - [59] This principle applies equally to groups of companies such as Chevron’s group of companies of which Chevron Canada is a part. The English Court of Appeal made this clear in ***Adams v. Cape Industries Plc.***, [[1990] Ch 433 (CA), at pp 532, 536] as follows: 
+        - **There is no general principle that all companies in a group of companies are to be regarded as one.** On the contrary, the fundamental principle is that “each company in a group of companies ... is a separate legal entity possessed of separate legal rights and liabilities.”
+        - Our law, for better or worse, recognizes the creation of subsidiary companies, which though in one sense the creatures of their parent companies, will nevertheless under the general law fall to be treated as separate legal entities with all the rights and liabilities which would normally attach to separate legal entities.
+    - [60] **The principle of corporate separateness provides that shareholders of a corporation are not liable for the obligations of the corporation. It also provides that the assets of the corporation are owned exclusively by the corporation, not the shareholders of the corporation.** As a result, Chevron does not have any legal or equitable interest in the assets of Chevron Canada as an indirect shareholder seven-times removed.
+    - [61] Further, the plaintiffs’ claim against Chevron Canada for its shares cannot succeed because its shares do not belong to Chevron Canada. **Gascon J.** made this clear in the Supreme Court of Canada’s decision, in this case, when he stated the following [at para 95]:
+        - Similarly, should the judgment be recognized and enforced against Chevron, it does not automatically follow that Chevron Canada’s shares or assets will be available to satisfy Chevron’s debt. For instance, **shares in a subsidiary belong to the shareholder, not to the subsidiary itself**.
+    - [63] Because the principle of corporate separateness applies to Chevron and Chevron Canada, the plaintiffs must satisfy **the test for piercing** Chevron Canada’s corporate veil, established in ***Transamerica Life Insurance Co. of Canada v. Canada Life Assurance Co*** [(1996), 28 OR (3d) 423 (Gen Div)]. In ***Transamerica***, **Sharpe J.** (as he then was) held the following [at 433-34]:
+        - As just indicated, the courts will disregard the separate legal personality of a corporate entity where it is completely dominated and controlled and being used as a shield for fraudulent or improper conduct. **The first element, “complete control,”** requires more than ownership. It must be shown that there is complete domination and that the subsidiary company does not, in fact, function independently.
+        - **The second element relates to the nature of the conduct**: is there “conduct akin to fraud that would otherwise unjustly deprive claimants of their rights”? In my view, while **Transamerica** has alleged fraud against **C.L.M.S.** there is no evidence to suggest that Canada Life has any involvement in that alleged fraud, apart from the fact that **C.L.M.S.** is its wholly owned subsidiary. The officers and employees of Canada Life were not involved in the dealings between **C.L.M.S.** and **Transamerica**, and no evidence has been advanced sufficient to give rise to a triable issue that Canada Life is somehow using **C.L.M.S.** as a shield for some nefarious purpose.
+    - [66] **I do not accept the plaintiffs’ submission that the corporate veil will be pierced when it is just and equitable to do so.** Sharpe J. came to the same conclusion in ***Transamerica***, as follows [at 431, 433]:
+        - In my view, the argument advanced by **Transamerica** reads far too much into a dictum plainly not intended to constitute an in-depth analysis of an important area of the law or to reverse a legal principle which, for almost 100 years, has served as a cornerstone of corporate law. **It was conceded in argument that no case since *Kosmopoulos* has applied the preferred “just and equitable” test.**
+
+Although, as we have seen, there is no evidence to suggest that courts have pierced the corporate veil more often for involuntary claimants, they have been **more open to do so for family law** plaintiffs where the defendant is a sole shareholder corporation. 
+
+Family law has its own set of rules and procedures, which create obligations for separating spouses to support one another and any children of the relationship. Married partners are also required to share any increase in wealth that has occurred during the marriage, which in some cases motivates spouses to “hide” assets (especially property and investments) in corporations. 
+
+The following three cases all involve a former spouse claimant seeking to hold a corporation in which the former spouse defendant is **a sole shareholder liable for obligations under family law**.
+
+
+
 
 
 
