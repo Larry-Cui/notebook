@@ -269,6 +269,25 @@ Family law has its own set of rules and procedures, which create obligations for
 
 The following three cases all involve a former spouse claimant seeking to hold a corporation in which the former spouse defendant is **a sole shareholder liable for obligations under family law**.
 
+!!! info "*Wildman v. Wildman*, [2006 CanLII 33540 (ON CA)](https://canlii.ca/t/1pq1v){:target="\_blank"}"
+
+    - [23] The principle of the separate legal personality of a corporation is an important one. However, **it is not an absolute principle**. In my view, a particularly clear, concise and useful description of the principle and its limits was articulated by **Laskin J.A.** in ***642947 Ontario Ltd. v. Fleischer (2001)***, 56 O.R. (3d) 417 at paras. 67-68 (“***Fleischer***”).
+    - [25] The crucial question in this appeal is whether the exception to the principle of separate legal personality for corporations set out in ***Fleischer*** and ***Transamerica Life Insurance*** should be injected into family law. Should the courts in appropriate family law cases disregard the separate legal personality of a corporate entity where, in the words of **Sharpe J.** in the latter case, **“it is completely dominated and controlled and being used as a shield for fraudulent or improper conduct”?** In my view, the answer to this question is a resounding “**Yes**.” I say this for two reasons.
+    - [26] First, s. 18 of both the federal and provincial *Child Support Guidelines* contemplates piercing the corporate veil in appropriate cases.
+    - [27] The purpose of s. 18 is to enable the courts to conduct a fair accounting of the money available for the payment of child support. **Justice Martinson** commented in ***Baum v. Baum*** (1999), 182 D.L.R. (4th) 715 at para. 128 (B.C.S.C.):
+        - Valid corporate objectives may differ from valid child support objectives. **The purpose of s. 18 is to allow the court to “lift the corporate veil” to ensure that the money received as income by the paying parent fairly reflects all of the money available for the payment of child support.** This is particularly important in the case of a sole shareholder as that shareholder has the ability to control the income of the corporation.
+    - [28] Second, in his reasons the trial judge explicitly referred to and adopted the analysis and conclusion of **Justice Martinson** in ***Arsenault v. Arsenault***, [1998] O.J. No. 1423, 59 O.T.C. 232 (Gen. Div.). 
+    - [31] Against this backdrop, **Wood J.** shifted to his legal analysis. 
+        - While I am satisfied that the situation in this case meets even the most rigorous standards applied in corporate law to the lifting of the veil, I take some comfort in the fact that **in the area of family law a somewhat more relaxed approach has been taken by the Courts**. 
+        - It should also be noted that a piercing of the corporate veil for the purpose of imputing income is not only mandated, but **set out in detail in section 18 of both the Federal and Provincial *Child Support Guidelines***. It could be argued that section 18 of the *Guidelines* [is] a codification of a common practice in the Courts across Canada when imputing income for the purpose of setting the appropriate level of child or spousal support.
+        - There is also **a strong public policy argument** to be made for a review of closely held corporations in the context of support. ... Non payment of support often results in support recipients and their families having to rely on public funds. The connection between non payment of support and the present levels of child poverty in Canada hardly needs to be underlined.
+    - [38] It is clear from [***Fleischer***] that **a company need not have been created with an improper purpose in mind to justify piercing the corporate veil**; it is sufficient that the corporation is used for an improper purpose. In a matrimonial context, ... the real focus must be on the relationship between the company and the controlling spouse and how the spouse is using the corporation after the parties have separated and before the financial issues are resolved.
+    - [49] In the end, although a business person is entitled to create corporate structures and relationships for valid business, tax and other reasons, **the law must be vigilant to ensure that permissible corporate arrangements do not work an injustice in the realm of family law.** In appropriate cases, piercing the corporate veil of one spouse’s business enterprises may be an essential mechanism for ensuring that the other spouse and children of the marriage receive the financial support to which, by law, they are entitled. 
+
+!!! info "***Lynch v. Segal***, [2006 CanLII 42240 (ON CA)](https://canlii.ca/t/1q61c){:target="\_blank"}"
+
+    - h
+
 
 
 
