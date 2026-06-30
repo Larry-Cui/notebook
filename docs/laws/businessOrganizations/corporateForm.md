@@ -207,12 +207,37 @@ In the following sample, Canadian courts have pierced the corporate veil in appr
     - Typically, the corporate veil is pierced when the company is incorporated for an illegal, fraudulent or improper purpose. But it can also be pierced if when incorporated “those in control expressly direct a wrongful thing to be done”: ***Clarkson Co. v. Zhelka*** at p. 578. Sharpe J set out a useful statement of the guiding principle in ***Transamerica Life Insurance Co. of Canada v. Canada Life Assurance Co.*** (1996), 28 OR (3d) 423 at pp. 433-34 (Gen. Div.), aff’d. [1997] OJ No. 3754 (CA): “the courts will disregard the separate legal personality of a corporate entity where it is completely dominated and controlled and being used as **a shield for fraudulent or improper conduct**.”
     - These authorities indicate that the decision to pierce the corporate veil will depend on the context. They also indicate that **the separate legal personality of the corporation cannot be lightly set aside**.
 
+!!! info "*B.G. Preeco (Pacific Coast) Ltd. v. Bon Street Holdings Ltd.*, [1989 CanLII 230 (BC CA)](https://canlii.ca/t/1p6qp){:target="\_blank"}"
 
+    - [4] The focus of the lawsuit, the appeal and the cross-appeal is on the liability of the defendants Bon Street Holdings Ltd. (the original Bon Street Developments Ltd.), Kaplan and MacDonald ...
+    - [9] In mid-April Bon Street Developments Ltd. changed its name to 262098 B.C. Ltd. and the shell company, 286357 B.C. Ltd., on the same day changed its name to Bon Street Developments Ltd. Everything else remained the same.
+    - [11] It was the original company that the plaintiff dealt with at the beginning and thought it was dealing with throughout.
+    - [31] The plaintiff also sought ... to fix liability for damages for breach of contract on the individuals and possibly the original Bon Street Developments Ltd. by an argument entitled “**Lift the Corporate Veil**.”
+    - [37] That doctrine (piercing the corporate veil) and the doctrine laid down in ***Salomon*** cannot co-exist. If it were possible to ignore the principles of corporate entity when a judge thought it unfair not to do so, ***Salomon***’s case would have afforded a good example for the application of that approach.
+    - [38] In ***Kosmopoulos v. Constitution Ins. Co.***, [[1987] 1 SCR 2](https://canlii.ca/t/1ftpw){:target="\_blank"} at [12-13](https://www.canlii.org/en/ca/scc/doc/1987/1987canlii75/1987canlii75.html#par12){:target="\_blank"} there is an *obiter dictum* that might be thought to support the [doctrine].
+    - [42] In ***Gilford Motor Co. v. Horne***, [1933] Ch. 935, [1933] All E.R. Rep. 109 (C.A.), the plaintiff sought an injunction to prevent the defendant, through a newly incorporated company, from breaching a restrictive covenant. 
+    - [44] In ***Lockharts Ltd. v. Excalibur Hldg. Ltd.*** (1987), 47 R.P.R. 8, 83 N.S.R. (2d) 181, 210 A.P.R. 181 (T.D.), a plaintiff was granted a declaration that its judgment against one company was binding on another company owned by the same individual, as assets had been conveyed to the second company in order to avoid the plaintiff ’s judgment.
+    - [45] The Courts have also pierced the corporate veil so as to ignore the separate legal existence of related companies. This has been done in **income tax cases**. For example, see ***De Salaberry Realties Ltd. v. M.N.R.***, 46 D.L.R. (3d) 100, [1974] C.T.C. 295, 74 D.T.C. 6235 (Fed. T.D.), where the character of the company’s business was determined from a look at the business of its associated companies.
+    - [49] **The use of a company as a means of avoiding bearing business losses is neither unusual nor a basis for lifting the veil.**
+    - [50] In my view, the proper remedy is not to lift the corporate veil, but to award damages for fraud against the individuals and the company that committed the fraud. 
+    - [51] ... **Lifting the veil is no help, when it is lifted the old company is not to be seen.** Neither company had shares in the other.
 
+!!! info "*Kosmopoulos v. Constitution Insurance Co.*, [1987 CanLII 75 (SCC)](https://canlii.ca/t/1ftpw){:target="\_blank"}"
 
+    - [1] The issue in this appeal is whether a sole shareholder of a corporation has **an insurable interest** in the assets of that corporation. The traditional view is that a sole shareholder has neither the legal nor the equitable interest in the corporate assets required for a valid insurance on those assets: ***Macaura v. Northern Assurance Co.***, [1925] AC 619 (HL). In examining the issue it will be necessary to consider first whether ***Macaura*** would provide the insurers with a valid defence in this case and, if so, whether ***Macaura*** is or should continue to be the law in Ontario.
+    - [12] As a general rule a corporation is a legal entity distinct from its shareholders: ***Salomon v. Salomon & Co.***, [1897] AC 22 (HL). The law on when a court may disregard this principle by “lifting the corporate veil” and regarding the company as a mere “agent” or “puppet” of its controlling shareholder or parent corporation follows no consistent principle. The best that can be said is that **the “separate entities” principle is not enforced when it would yield a result “too flagrantly opposed to justice, convenience or the interests of the Revenue**”.
+    - [13] There is a persuasive argument that “**those who have chosen the benefits of incorporation must bear the corresponding burdens**, so that if the veil is to be lifted at all that should only be done in the interests of third parties who would otherwise suffer as a result of that choice”. ... Having chosen to receive the benefits of incorporation, he should not be allowed to escape its burdens. He should not be permitted to “blow hot and cold” at the same time.
+    - [14] I am mindful too of this Court’s decision in the ***Aqua-Land Exploration Ltd.*** case, *supra*, in which the Court did not “lift the veil” in order to find that one of three shareholders in a corporation had an insurable interest in its asset. So also in the ***Wandlyn Motels Ltd.*** case, *supra*, ... it is my view that if the application of a rule leads to harsh justice, the proper course to follow is to examine the rule itself rather than affirm it and attempt to ameliorate its ill effects on a case-by-case basis.
+    - [15] For all these reasons, I would **not lift the corporate veil** in this case. The company was a legal entity distinct from Mr. Kosmopoulos. It, and not Mr. Kosmopoulos, legally owned the assets of the business.
 
+**Madam Justice Wilson** thereafter engaged in a review of the “***Macaura*** Principle,” under which shareholders of a corporation had no insurable interest in the corporation’s assets. She declined to follow ***Macaura*** and the Supreme Court of Canada precedents implementing a restrictive definition of “insurable interest,” and held that **a shareholder could have
+an insurable interest in the property of the corporation**.
 
+In a concurring judgement, **Justice McIntyre** would have maintained the ***Macaura*** principle, but allowed **an exception for sole shareholders** such as Mr. Kosmopoulos.
 
+!!! info "*Clarkson Co. Ltd. v. Zhelka et al.*, [1967 CanLII 189 (ON HCJ)](https://canlii.ca/t/g1fg4){:target="\_blank"}"
+
+    - h
 
 
 
