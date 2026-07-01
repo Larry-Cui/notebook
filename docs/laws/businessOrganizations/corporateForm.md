@@ -286,7 +286,36 @@ The following three cases all involve a former spouse claimant seeking to hold a
 
 !!! info "***Lynch v. Segal***, [2006 CanLII 42240 (ON CA)](https://canlii.ca/t/1q61c){:target="\_blank"}"
 
-    - h
+    - [19] At trial, the **main issues** centred around the relief claimed by Ms. Lynch against the appellant corporations, Idyllic Acres Holdings Inc. and Ashoe High Speed Solutions Inc. ... that Mr. Segal is the **beneficial owner** of the shares of Idyllic and Ashoe, and pursuant to s. 34(1)(c) of the *Family Law Act*, R.S.O. 1990, c. F.3  the shares of Idyllic and Ashoe and the Lands, to be transferred to her and vested in her absolutely.
+    - [35] The well-known corporate law principle, first enunciated in ***Salomon v. Salomon & Co.***, [1897] A.C. 22 (H.L,), that the shareholders of a corporation are separate and distinct from the corporate legal entity is, as MacPherson J.A. recently noted in ***Wildman v. Wildman***, [2006] O.J. No. 3966 at para. 23 (C.A.), **”an important one” but not, however, “an absolute principle.”** There is a line of jurisprudence establishing in very general terms that the courts will not enforce the “separate entities” notion where “it would yield a result ‘too flagrantly opposed to justice, convenience or the interests of the Revenue’”: ***Kosmopoulos v. Constitution Insurance Co.***, [1987] 1 S.C.R. 2 at 10.
+    - [36] A more flexible approach is appropriate in the family law context, particularly where, as here, **the corporations in question are completely controlled by one spouse, for that spouse’s benefit, and no third parties are involved.** 
+    - [38] In my view, **Justice Paisley**, like the trial judge in Wildman, was correct in recognizing that this case is one in which **it is appropriate to pierce the corporate veil**. During argument he observed that Mr. Segal was not using the appellant corporations for permissible corporate arrangements, but rather “**was using the corporate structure for one sole purpose, to disguise his property so that his spouse and children would have no claim against him should he ever have to defend against a claim.**” In the circumstances, piercing the corporate veil, and finding that both the corporate shares and the Lands are beneficially owned by Mr. Segal, was ... an essential mechanism for ensuring that [Ms. Lynch] and [the] children of the marriage receive the financial support to which, by law, they are entitled.”
+
+!!! info "*Prest v Petrodel Resources Ltd & Ors*, [[2013] UKSC 34](https://www.bailii.org/uk/cases/UKSC/2013/34.html){:target="\_blank"}"
+
+    **LORD SUMPTION:** 
+
+    - Subject to very limited exceptions, most of which are statutory, a company is a legal entity distinct from its shareholders. It has rights and liabilities of its own which are distinct from those of its shareholders. Its property is its own, and not that of its shareholders. In ***Salomon v A Salomon and Co Ltd*** [1897] A.C. 22 , the House of Lords held that these principles applied as much to a company that was wholly owned and controlled by one man as to any other company.
+    - ... The separate personality and property of a company is sometimes described as a fiction, and in a sense it is. But the fiction is **the whole foundation of English company and insolvency law**.
+    - Against this background, there are **three possible legal bases** on which the assets of the Petrodel companies might be available to satisfy the lump sum order against the husband:
+        - It might be said that this is a case in which, exceptionally, a court is at liberty to **disregard the corporate veil** in order to give effective relief. 
+        - **Section 24** of the *Matrimonial Causes Act* might be regarded as conferring a distinct power to disregard the corporate veil in matrimonial cases. 
+        - The companies might be regarded as holding the properties **on trust for the husband**, not by virtue of his status as their sole shareholder and controller, but in the particular circumstances of this case. 
+    - “Piercing the corporate veil” ... means disregarding the separate personality of the company. We are speaking of only those cases which are true exceptions to the rule in ***Salomon v A Salomon and Co Ltd*** [1897] A.C. 22 , i.e. where a person who owns and controls a company is said in certain circumstances to be identified with it in law by virtue of that ownership and control. 
+    - English law has no general doctrine of this kind (piercing the corporate veil). But it has a variety of specific principles which achieve the same result in some cases. **One of these principles** is that the law defines the incidents of most legal relationships between persons (natural or artificial) on the fundamental assumption that their dealings are honest. The same legal incidents will not necessarily apply if they are not. ...  The authorities show that there are limited circumstances in which **the law treats the use of a company as a means of evading the law as dishonest** for this purpose.
+    - ... in ***Woolfson v Strathclyde Regional Council*** 1978 S.C. (HL) 90 at 96, **Lord Keith**, delivering the leading speech, observed that “**it is appropriate to pierce the corporate veil only where special circumstances exist indicating that it is **a mere façade** concealing the true facts**.”
+    - In my view, the principle that the court may be justified in piercing the corporate veil if a company’s separate legal personality is being abused for the purpose of some relevant wrongdoing is well established in the authorities. 
+    - **The difficulty is to identify what is a relevant wrongdoing.** References to a “façade” or “sham” beg too many questions to provide a satisfactory answer. It seems to me that **two distinct principles** lie behind these protean terms, and that much confusion has been caused by failing to distinguish between them. They can conveniently be called the concealment principle and the evasion principle. 
+        - **The concealment principle** is legally banal and does not involve piercing the corporate veil at all. It is that the interposition of a company or perhaps several companies so as to conceal the identity of the real actors will not deter the courts from identifying them, assuming that their identity is legally relevant. In these cases the court is not disregarding the “façade,” but only looking behind it to discover the facts which the corporate structure is concealing. 
+        - **The evasion principle** is different. It is that the court may disregard the corporate veil if there is a legal right against the person in control of it which exists independently of the company’s involvement, and a company is interposed so that the separate legal personality of the company will defeat the right or frustrate its enforcement. 
+
+
+
+
+
+
+
+
 
 
 
