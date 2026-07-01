@@ -15,9 +15,9 @@ tags:
 
 # MEMORANDUM
 
-**TO:** International Student Arriving in Alberta During the Second Semester of Grade 11
-**FROM:** Academic Admissions Strategy Advisor
-**DATE:** June 30, 2026
+**TO:** International Student Arriving in Alberta During the Second Semester of Grade 11<br>
+**FROM:** Academic Admissions Strategy Advisor<br>
+**DATE:** June 30, 2026<br>
 **SUBJECT:** Comprehensive Admissions Strategy for Engineering, Computer Science, and Science Programs in Alberta, British Columbia, and Ontario
 
 <!-- more -->
@@ -79,7 +79,7 @@ Such results demonstrate successful academic adjustment and strong performance a
 
 For Engineering, Computer Science, and Science programs, the principal concern is not the missing semester of Canadian grades but the compressed timeline for completing prerequisites.
 
-### Engineering
+**Engineering**
 
 Typical prerequisite courses include:
 
@@ -89,7 +89,7 @@ Typical prerequisite courses include:
 * Chemistry 30
 * Physics 30
 
-### Computer Science and General Sciences
+**Computer Science and General Sciences**
 
 Typical prerequisite courses include:
 
@@ -123,21 +123,21 @@ The ASN becomes your permanent educational identifier within Alberta and is requ
 
 ## 5. Application Systems and Transcript Transmission
 
-### Alberta Institutions
+**Alberta Institutions**
 
 Applications to Alberta universities are generally submitted through ApplyAlberta.
 
 For Alberta high school students, official transcripts are transmitted electronically through Alberta Education using the student's ASN.
 
-### British Columbia Institutions
+**British Columbia Institutions**
 
 Applications are generally submitted through EducationPlannerBC.
 
-### Ontario Institutions
+**Ontario Institutions**
 
 Applications are generally submitted through the Ontario Universities' Application Centre (OUAC).
 
-### Transcript Requests for Out-of-Province Universities
+**Transcript Requests for Out-of-Province Universities**
 
 British Columbia and Ontario universities generally do not automatically receive Alberta high school records.
 
@@ -161,26 +161,26 @@ March 1
 University of Alberta Deadline
 ```
 
-### October
+**October**
 
 * Open application accounts.
 * Begin applications.
 * Prepare supporting documentation.
 
-### December
+**December**
 
 * Submit applications for early consideration where available.
 
-### January
+**January**
 
 * Submit Ontario applications.
 * Complete supplementary applications and interviews where required.
 
-### January to February
+**January to February**
 
 * Submit first-semester Grade 12 marks for conditional admission consideration.
 
-### March
+**March**
 
 * Final application deadline for most Alberta undergraduate programs.
 
@@ -245,7 +245,7 @@ Obtaining qualifying scores early removes uncertainty from the application proce
 
 Students arriving midway through Grade 11 can significantly strengthen their applications through the following measures.
 
-### Complete Prerequisites as Early as Possible
+**Complete Prerequisites as Early as Possible**
 
 The earlier Grade 12 prerequisite courses are completed, the stronger the application becomes.
 
@@ -255,11 +255,11 @@ Priority courses include:
 * Chemistry 30; and
 * Physics 30.
 
-### Complete Mathematics 31
+**Complete Mathematics 31**
 
 Although not always formally required, calculus preparation is highly valued in Engineering and Computer Science admissions.
 
-### Demonstrate Strong Academic Improvement
+**Demonstrate Strong Academic Improvement**
 
 Admissions officers frequently view upward academic trends favourably.
 
@@ -269,11 +269,11 @@ Strong Alberta grades can demonstrate:
 * resilience; and
 * readiness for university studies.
 
-### Complete English Testing Early
+**Complete English Testing Early**
 
 Completing IELTS or another approved examination during the fall semester of Grade 12 removes uncertainty surrounding language requirements.
 
-### Use Supplementary Applications Strategically
+**Use Supplementary Applications Strategically**
 
 Programs requiring interviews, personal profiles, or supplementary essays provide opportunities to explain:
 
@@ -292,7 +292,7 @@ Most new post-secondary study permit applications currently require a Provincial
 
 Universities generally provide instructions regarding the PAL process after an admission offer has been accepted and any required tuition deposit has been paid.
 
-# 12. Overall Assessment
+## 12. Overall Assessment
 
 From an admissions perspective, arriving in Alberta during the second semester of Grade 11 is generally viewed as a neutral factor rather than a negative one.
 
