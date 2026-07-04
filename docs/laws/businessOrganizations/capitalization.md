@@ -103,11 +103,57 @@ Thus, a $5 par value share could be issued for $15, with $5 added to stated capi
 
 **However, shares could not be issued for a consideration less than par, that is, at a discount below par.**
 
+The judicial hostility to discount stock was nowhere so evident as in ***The North-West Electric C. v. Walsh***, [1898 CanLII 64 (SCC)](https://canlii.ca/t/gfqcm){:target="\_blank"}, rev’g (1897) 11 Man LR 629 (QB). The Supreme Court held the issue of shares to be *ultra vires* and illegal, though the interpretation given to s 30(b) is not easy to explain.
 
+**In the United States, a corporation was permitted to issue discount stock.** In ***Handley v Stutz***, 139 US 417 (1891), the Clifton Coal Co required money to expand. The corporation’s initial attempt to issue bonds failed and shares were therefore added as a “sweetener.” Eventually, the corporation received $45,000 for an issue of $45,000 of bonds and an equal face value of shares. The US Supreme Court upheld the allotment. The transaction was fair and the parties were in good faith.
 
+*3. Watered Stock*
 
+It soon became apparent that corporations that sought to avoid the prohibition of discount stock could do so in other ways:
 
+- The corporation could issue “**no par value shares**.”Since **1924**, Canadian corporations statutes have permitted the creation of no par value shares, which, unlike par value shares, do not bear a monetary figure on their face. The movement to no par value shares, which began with a New York statute in 1912, offered **three reasons** for detaching the dollar sign from the share certificate. 
+    - First, it would **avoid cases like** ***Ooregum***, where an issue of discount stock is set aside even if the transaction is fair. Indeed, discount stock cases are, strictly speaking, restricted to issues of par value shares, though there are other prohibitions against an issue of no par value shares for an inadequate consideration. 
+    - Second, it would emphasize that the true value of the share is a function of its right to participate in the earnings of a going concern, and is quite **independent of par value**. Retaining par value might even seem like a misrepresentation. 
+    - Finally, all the consideration received by the corporation on an issue of no par value shares is **normally added to stated capital, with artificial contributed surplus accounts eliminated**: see *CBCA* s 26(1). For these reasons, par value shares are prohibited by *CBCA* s 24(1). 
+- The corporation could issue shares **for a non-monetary consideration**. Corporations statutes have always permitted an issue of shares for a non-monetary consideration. The consideration might still be inadequate, but without an “obvious money measure” it was more difficult to impeach the issue. Such shares are called **watered stock**, a term derived from the efforts of ranchers to increase the weight of their cattle before a sale. Watered stock will arise whenever no par value shares are issued for an inadequate consideration, whether in a monetary or non-monetary form.
 
+**Valuation of Property or Services**
+
+Anglo-Canadian decisions in the past, particularly in the 19th century, exhibited **a great reluctance to impeach the directors’ valuation of property or services** received on an issue of shares. Thus, **Lord Watson** said in ***Ooregum*** at 137 that “so long as the company honestly regards the consideration given as fairly representing the nominal value of the shares in cash, its estimate ought not to be critically examined.” 
+
+In ***In re Hess Manufacturing Company***, [1894 CanLII 14 (SCC)](https://canlii.ca/t/1tt9k){:target="\_blank"}, a corporation had issued shares to a promoter for a consideration, in the form of a factory together with the land on which it was built, which the master found to be inadequate. **Strong CJ**, delivering the judgment of the Supreme Court, stated at 653-54:
+
+> The only principle upon which the master could have acted in making the order he did was in assuming that no consideration whatever had been given for the shares. If any consideration was given it was beyond the master’s competence to enquire into the adequacy of it.
+
+> So that **unless a case of fraud** was made and proved which could only be done in a formal action to rescind[,] it must be held that there was a valuable consideration given *bona fide* for the 126 shares in question.
+
+**Modern Statutory Liability**
+
+However, one can no longer argue under **modern corporations statutes** in Canada that the use of no par value shares will insulate an issuer from liability. *CBCA* s 24(1) prohibits par value shares and s 25(3) requires that a consideration in property or services be “**not less in value than the fair equivalent of the money that the corporation would have received if the share had been issued for money**.”
+
+*4. Unacceptable Consideration*
+
+CBCA s 25(3) requires a consideration of **money**, **property**, or **past services**. Under the *CBCA*, three kinds of consideration are **unacceptable**: 
+
+- (1) promissory notes or promises to pay, 
+- (2) non-property assets, and 
+- (3) future services.
+
+The following case considers whether shares may be issued on the basis that property contributed will generate future value in excess of the immediate value of that property.
+
+!!! info "*See v Heppenheimer*, 61 A 843 (NJ Ch 1905)"
+
+    - [The Columbia Straw Paper Co was incorporated in 1892 to acquire a monopoly over the manufacture of wrapping paper. Columbia’s promoters purchased 39 paper mills for **\$2,250,000**, which they sold to Columbia for securities with a value of **\$5,000,000**, of which **\$1,000,000** was in bonds and the balance in shares.]
+    - ... can prospective profits, however promising, be considered as property, as that word is used in the statute above quoted? I repeat its language: “The directors of any company incorporated under this act may purchase mines, manufactories or other property necessary for their business ... and issue stock to the amount of the value thereof in payment therefor.” There the word “**property**” must evidently be construed by its context, which refers to **something visible and tangible and necessary for the business**, and the amount of stock to be issued therefor is limited to the value thereof; that is, to the value of that property.
+    - I shall deal with this element of **good will** at once. ... that written by **Judge Lacombe**, of the United States Circuit Court, and reported in ***Washburn v. National Wall Paper Co.***, 81 Fed. 17, 20, 26 CCA 312, 315: 
+        
+        - “Good will has been defined as ‘all that good disposition which customers entertain towards the house of business identified by the particular name or firm, and which may induce them to continue giving their custom to it.’ ... **an element of value quite as important as, in some cases, perhaps, far more important than, the plant or machinery with which the business is carried on**.”
+
+        This language was used in a case where the capital stock was issued, as here, for the value of several manufacturing establishments in which the individual good will of each separate factory was added to the value of its visible property...
+    
+    - [However], the present case is a painful illustration of the utter impossibility of giving the word “property” the construction claimed for it.
+    - ... different estimates may be formed of the value of property. When such differences are brought before judicial tribunals, **the judgment of those who are by law intrusted with the power of issuing stock** [to the amount of the value of the property], and on whom, therefore, is placed the first duty of valuing the property, must be accorded considerable weight; **but it cannot be deemed conclusive, when duly subjected to judicial scrutiny**.
+    - That result can only be obtained by supposing that the property is to be appraised at its actual cash value, precisely as if a board of directors, with the whole capital stock actually paid in cash, is **dealing at actual arm’s length** as real purchasers with the owner of property proposed to be purchased as a real vendor, without any interest in the directors to overvalue the property, or other interests inconsistent with the real interest of the stockholders as such.
 
 
 
