@@ -155,11 +155,36 @@ The following case considers whether shares may be issued on the basis that prop
     - ... different estimates may be formed of the value of property. When such differences are brought before judicial tribunals, **the judgment of those who are by law intrusted with the power of issuing stock** [to the amount of the value of the property], and on whom, therefore, is placed the first duty of valuing the property, must be accorded considerable weight; **but it cannot be deemed conclusive, when duly subjected to judicial scrutiny**.
     - That result can only be obtained by supposing that the property is to be appraised at its actual cash value, precisely as if a board of directors, with the whole capital stock actually paid in cash, is **dealing at actual arm’s length** as real purchasers with the owner of property proposed to be purchased as a real vendor, without any interest in the directors to overvalue the property, or other interests inconsistent with the real interest of the stockholders as such.
 
+*5. Remedies*
 
+An action for breach of *CBCA* [s 25(3)](https://www.canlii.org/en/ca/laws/stat/rsc-1985-c-c-44/235475/rsc-1985-c-c-44.html#sec25){:target="\_blank"} or [s 118(1)](https://www.canlii.org/en/ca/laws/stat/rsc-1985-c-c-44/235475/rsc-1985-c-c-44.html#sec118){:target="\_blank"} may perhaps be brought by one or all of the following parties.
 
+- The **corporation** itself is expressly permitted to recover from the directors under s 118(1). 
+- Shareholders might be permitted to sue under a variety of theories:
+    - a. **Shareholders** might first apply to bring a **derivative action** under *CBCA* [s 239](https://www.canlii.org/en/ca/laws/stat/rsc-1985-c-c-44/235475/rsc-1985-c-c-44.html#sec239){:target="\_blank"} on behalf of the issuer, asserting a breach of duties owed to it by the directors.
+    - b. Alternatively, **shareholders** who subscribed for shares after an issue of watered stock might argue that they had suffered direct personal loss by **balance sheet misrepresentation**, paying more for their shares than they would have had they known all the facts concerning the initial allotment.
+    - c. Finally, **shareholders** who held shares at the time of an issue of watered stock might, so long as they did not consent to the allotment, argue that **their interests were thereby diluted**.
+- **Creditors** might also be permitted to bring an action, although it is difficult to see how they are prejudiced by watered stock unless they can claim reliance on the attendant **balance sheet misrepresentation**.
 
+Apart from s 118(1), causes of action for breach of *CBCA* s 25(3) are still hypothetical. Nearly all actions for discount stock were brought by liquidators.
 
+Most discount stock cases involved insolvent issuers. On bankruptcy, **liquidators often sought to add the shareholders as contributories to the extent of the discount.** This inclusion was done on the basis of a continuing obligation to pay the full amount of the required consideration. 
 
+**D. Pre-Emptive Rights**
+
+A new issue of watered stock will dilute the financial interest of existing shareholders in the corporation, and may radically affect control positions even if the consideration is adequate. Existing shareholders may seek relief in either of these cases by an action to have the issue set aside. **Alternatively, they may argue for a rule of equal opportunity, with the right to have a proportionate number of shares issued to them on the same terms.** These options to purchase shares are called **pre-emptive rights**.
+
+**Absolute pre-emptive rights**, whose exercise is not conditioned on a prior issuance of watered stock, may also be costly for a firm. Pre-emptive rights may frustrate the transaction by introducing a risk that the new investor will not obtain the percentage of shares he or she requires.
+
+!!! info "*Stokes v Continental Trust Co*, 78 NE 1090 (NY Ct App 1906)"
+
+    - [**Stokes** was a shareholder in the defendant banking corporation, and sought to compel it to issue to him a proportionate number of additional common shares. Alternatively, he asked for damages.]
+    - [On January 2, 1902, another bank, **Blair & Co**, offered to acquire a majority of the defendant’s shares through a subscription for 5,000 shares at $450 each. At this time, the **book value** of the shares was $310 and their **par value** was $100. Their **market value** increased from $450 in September 1901 to $550 in January 1902.]
+    - [T]he question presented for decision is whether ... the plaintiff had the legal right to subscribe for and take the same number of shares of the new stock that he held of the old? The **leading authority** is ***Gray v. Portland Bank***, decided in 1807. The court held that stockholders who held old stock have a right to subscribe for and take new stock in proportion to their respective shares. As the corporation refused this right to the plaintiff he was permitted to recover the excess of the market value above the par value, with interest. 
+    - While he (stockholder) does not own and cannot dispose of any specific property of the corporation, yet he and his associates own the corporation itself, its charter, franchises, and all rights conferred thereby, including the right to increase the stock.
+    - By the increase of stock the voting power of the plaintiff was reduced one-half, and while he consented to the increase **he did not consent to the disposition of the new stock by a sale thereof to Blair & Co. at less than its market value**, nor by sale to any person in any way except by an allotment to the stockholders.
+    - The **new stock belonged to the stockholders** as an inherent right by virtue of their being stockholders, to be shared in proportion upon paying its par value or the value per share fixed by vote of a majority of the stockholders, or ascertained by a sale at public auction. ... **it could not lawfully dispose of those shares without giving him a chance to get his proportion at the same price that outsiders got theirs**.
+    - **A share of stock is a share in the power to increase the stock, and belongs to the stockholders the same as the stock itself.** When that power is exercised, the new stock belongs to the old stockholders in proportion to their holding of old stock, subject to compliance with the lawful terms upon which it is issued.
 
 
 
