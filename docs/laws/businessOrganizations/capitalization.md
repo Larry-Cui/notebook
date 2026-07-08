@@ -185,11 +185,37 @@ A new issue of watered stock will dilute the financial interest of existing shar
     - By the increase of stock the voting power of the plaintiff was reduced one-half, and while he consented to the increase **he did not consent to the disposition of the new stock by a sale thereof to Blair & Co. at less than its market value**, nor by sale to any person in any way except by an allotment to the stockholders.
     - The **new stock belonged to the stockholders** as an inherent right by virtue of their being stockholders, to be shared in proportion upon paying its par value or the value per share fixed by vote of a majority of the stockholders, or ascertained by a sale at public auction. ... **it could not lawfully dispose of those shares without giving him a chance to get his proportion at the same price that outsiders got theirs**.
     - **A share of stock is a share in the power to increase the stock, and belongs to the stockholders the same as the stock itself.** When that power is exercised, the new stock belongs to the old stockholders in proportion to their holding of old stock, subject to compliance with the lawful terms upon which it is issued.
+    - We are thus led to lay down the **rule** that a stockholder has an inherent right to a proportionate share of new stock **issued for money only and not to purchase property for the purposes of the corporation or to effect a consolidation**, and while he can waive that right, he cannot be deprived of it without his consent except when the stock is issued at a fixed price not less than par, and he is given the right to take at that price in proportion to his holding, or in some other equitable way that will enable him to protect his interest by acting on his own judgment and using his own resources. 
+    - While in connection with his protest he demanded the right to subscribe at par, that demand was entirely proper when made, because the price had not then been fixed. **After the price was fixed it was the duty of the defendant to offer him his proportion at that price**, ... The directors were under the legal obligation to give him an opportunity to purchase at the price fixed before they could sell his property to a third party, **even with the approval of a large majority of the stockholders**.
+    - His **actual loss**, therefore, is $100 per share, or the difference between $450, **the price that he would have been obliged to pay had he been permitted to purchase, and the market value on the day of sale**, which was $550.
 
+Pre-emptive rights developed in a very different way in American than in Anglo-Canadian law. In England and Canada, such rights were merely a matter of contract, with a presumption that they did not arise unless specifically bargained for. This policy is continued in *CBCA* s 28, which is merely permissive in nature. By contrast, early American decisions held that shareholders had a vested pre-emptive right.
 
+> **28(1)** If the articles so provide, no shares of a class shall be issued unless the shares have first been offered to the shareholders holding shares of that class, and those shareholders have a pre-emptive right to acquire the offered shares in proportion to their holdings of the shares of that class, at such price and on such terms as those shares are to be offered to others.
 
+> **28(2)** **Notwithstanding** that the articles provide the pre-emptive right referred to in subsection (1), shareholders have **no pre-emptive right** in respect of shares to be issued
 
+> - (a) for a consideration other than money;
+> - (b) as a share dividend; or
+> - (c) pursuant to the exercise of conversion privileges, options or rights previously granted by the corporation.
 
+**E. The Nature of a Share**
+
+At no point does the *CBCA* state that in purchasing a share a shareholder is acquiring a right of ownership with respect to the corporation. The *CBCA* simply tells us that a shareholder may be entitled to certain rights relating to such matters as **voting for directors**, **the receipt of dividends**, and **the receipt of a portion of the corporation’s capital if and when that corporation is wound up**: see *CBCA* s 24(3). 
+
+!!! info "*Bowater Canadian Ltd. v. R.L. Crain Inc. (Ont. C.A.)*, [1987 CanLII 4037 (ON CA)](https://canlii.ca/t/g1khw){:target="\_blank"}"
+
+    - The appellant Bowater Canadian Limited (“**Bowater**”) filed an application in weekly court before **McRae J** challenging the voting provisions contained in the respondent R.L. Crain Inc.’s (“**Crain**”) articles of incorporation. **McRae J** held that the voting provisions offended the *Canada Business Corporations Act*, 1974-75-76 (Can.) c. 33 (“CBCA”), as amended, to the extent that the **special common** shares held by the respondent Craisec Ltd. (“**Craisec**”) carry **ten votes per share** in the hands of **Craisec**, but only one vote per share in the hands of a potential transferee. However, having regard to the knowledge and intentions of the parties and in light of the general principles of contract, and corporate law, he held that the **“step-down” provision** of the **special common shares was severable** with the result that the special common shares carry ten votes irrespective of whether they are held by **Craisec** or by a transferee.
+    - Subsections (3) ... of the *CBCA* provide:
+        - 24(3) Where a corporation has only **one class of shares**, **the rights of the holders thereof are equal in all respects**...
+    - Section 24(5) of the *Alberta Business Corporations Act*, provides
+        - 24(5) Subject to section 27, if a corporation has more than one class of shares, **the rights of the holders of the shares of *any class* are equal** in all respects.
+
+!!! info "*Atco Ltd. v. Calgary Power Ltd.*, [1982 CanLII 208 (SCC)](https://canlii.ca/t/1z1d4){:target="\_blank"}"
+
+    - WILSON J (dissenting): 
+    - I do not believe that a parent company as a matter of law “owns” or “operates” or “manages” or “controls” the physical plant of its subsidiary. To so hold would be to completely ignore a well-settled and, I believe, quite **fundamental principle of corporate law**, namely, that **shareholders have no proprietary interest in the assets of the company in which they hold shares**. Their proprietary interest is in their shares only.
+    - *De facto* control in this sense may obviously be obtained in a number of ways. It may be obtained by a majority holding of shares but it may be obtained by considerably less than a majority holding if the shares are widely held. It may be obtained through voting rights not commensurate with shareholding at all or through the right to appoint and remove directors. But it seems to me that when we are talking about this kind of *de facto* control we are always talking of **control over the company and not over its assets**. The company itself continues to own, operate, manage and control its assets regardless of who owns or controls it. This, as I understand it, is the essence of the separate legal personality of the incorporated company recognized by the House of Lords in the celebrated case of ***Salomon v. Salomon and Co.***, [1897] AC 22.
 
 
 
