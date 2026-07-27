@@ -106,6 +106,8 @@ nav:
           - New Condo Expedited Registration: realestate/newCondoReg.md
           - Out of Province Signing Instruction: realestate/ops.md
           - Special Formality of Remote Signing: realestate/remotesign.md
+      - Trusts:
+          - Introduction: laws/trusts/intro.md
       - Corporate:
           - Prepare Initial Minute Book: corporate/minbook.md
           - Minute Book of Share Transfer: corporate/minbook-2.md
