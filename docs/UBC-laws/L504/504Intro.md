@@ -1,27 +1,24 @@
 ---
 layout: post
-title: L588 Introduction
-date: 2026-01-05
+title: L504 Introduction
+date: 2026-08-16
 draft: false
 categories:
   - Law
 tags:
-  - LAW_V 588 99C 2025W2 Ethics and Professionalism
+  - 504A (99A & 99B) Property Law
   - Introduction
 ---
 
-# LAW_V 588 99C 2025W2 Ethics and Professionalism
+# LAW_V 504 99A & 99B Property Law
 
 This Distance Learning online course runs September 8th through December 22nd, 2026, including the examination period.
 
-
 ## Instructor
 
-**Tracey Ferreira**
+**Ms. Kim Willey**
 
-Email: [tferreir@mail.ubc.ca ](mailto:tferreir@mail.ubc.ca ){:target=" \_blank"}; [ubclaw588@gmail.com](mailto:ubclaw588@gmail.com){:target=" \_blank"}
-
-Administrative issues, such as exam deferrals or enrollment questions, should be directed to [distancelearning@allard.ubc.ca](mailto: distancelearning@allard.ubc.ca){:target=" \_blank"}
+Email: [kim.willey@ubc.ca](mailto:kim.willey@ubc.ca){:target=" \_blank"}
 
 <!-- ## Welcome
 
@@ -29,34 +26,18 @@ Throughout the course, we will refer to B.C. legislation and the  B.C. Law Socie
 
 ## Course Reading Materials
 
-Richard F. Devlin, Pooja Parmar, and Amy Salyzyn, ***Lawyers Ethics and Professional Regulation, 5th Ed.*** Lexus Nexis Canada, 2026. ISBN: 9780433543190
+Harris, Douglas, et al., ***A Property Law Reader: Cases, Questions and Commentary, 5th Edition***. Carswell, 2022. ISBN: 9781668714492
 
-<!-- Excerpts from two textbooks used for this course:
+N.B. the ***Property Law reader*** is available at 50% of the original list price at the UBC Bookstore. Please find the reader [linked](https://bookstore.ubc.ca/products/property-law-reader-cases-questions-commentary-5-stpv?variant=51689970204946&_pos=1&_sid=d6f74ff44&_ss=r) here.
 
-- Alice Woolley et al, eds, *Lawyers’ Ethics and Professional Regulation* (Toronto: LexisNexis Canada) (“Woolley”) 
-- Randal Graham, *Legal Ethics: Theories, Cases, and Professional Regulation*, 3rd Edition (Toronto: Emond, 2014) (“Graham”) 
+*OPTIONAL:*
+Kaplinski, Eran, et al,. ***Ziff’s Principles of Property Law, 7th Edition***. Carswell, 2023. ISBN: 9780779899470
 
-In addition the following online materials are used:
-
-- The *Legal Profession Act*, SBC 1998, c 9 [“***Act***”] can be accessed at: [https://www.bclaws.ca/civix/document/id/complete/statreg/98009_01](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/98009_01){:target=" \_blank"}.
-- The Law Society of British Columbia, *Code of Professional Conduct for British Columbia*, as of May 2019, [“***Code***”] can be accessed at: [https://www.lawsociety.bc.ca/support-and-resources-for-lawyers/act-rules-and-code/code-of-professional-conduct-for-british-columbia](https://www.lawsociety.bc.ca/for-lawyers/act-rules-and-code/code-of-professional-conduct/){:target=" \_blank"}. For listed Code rules you are also responsible for all of the commentaries to the rule,  but not the “annotations” in the online version.
-
-Other course materials including cases and articles may be posted on the course website. -->
-
-## Grading
-
-Discussion Group Participation will comprise 20% of course grade.
-
-Quizzes comprise 10% of your course grade.  Each Module (except for Module 10) will have one graded quiz. 
-
-The final exam comprises 70% of your course grade. 
-
-The final exam will be ==**open book**== and will include any cases and readings in the course, as well as any topics discussed in the course.  You will be expected to be familiar with and cite relevant sections of the *Legal Profession Act*, *Code of Professional Conduct of B.C.* as well as appropriate case law and/or other statutes along with any other relevant material from the course in your answers.
-
+<!-- ## Grading -->
 
 ## Course Schedule
 
-<table class="styled-table">
+<!-- <table class="styled-table">
     <thead>
     <tr>
         <th>Date</th>
@@ -121,5 +102,5 @@ The final exam will be ==**open book**== and will include any cases and readings
         <td style="text-align: left">Date and time to be set by UBC March 2026.</td>
     </tr>
     </tbody>
-</table>
+</table> -->
 
