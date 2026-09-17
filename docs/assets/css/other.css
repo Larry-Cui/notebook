@@ -27,40 +27,39 @@
 
 .highlight.red {
 	width: 100%;
-	background-color: rgba(222, 20, 60, 0.1);
-	/* border-radius: 5px; */
+	background-color: rgba(237, 237, 233, 0.1);
+	border-radius: 3px;
 	border-left: 0.3em solid rgb(178, 34, 34);
-	padding: 0.5em;
+	/* padding: 0.5em; */
 	padding-left: 1em;
 	margin: 0 auto;
 }
 
 .highlight.green {
 	width: 100%;
-	background-color: rgba(60, 222, 20, 0.05);
-	/* border-radius: 5px; */
+	background-color: rgba(237, 237, 233, 0.1);
+	border-radius: 3px;
 	border-left: 0.3em solid rgb(34, 178, 34, 0.7);
-	padding: 0.5em;
+	/* padding: 0.5em; */
 	padding-left: 1em;
 	margin: 0.5em auto;
 }
 
 .highlight.blue {
 	width: 100%;
-	background-color: rgba(151, 212, 233, 0.1);
-	/* border-radius: 5px; */
-	border-left: 0.3em solid #97d4e9;
-	padding: 0.5em;
+	background-color: rgba(237, 237, 233, 0.1);
+	border-radius: 3px;
+	border-left: 0.3em solid #03045e;
 	padding-left: 1em;
 	margin: 0.5em auto;
 }
 
 .highlight.yellow {
 	width: 100%;
-	background-color: rgba(255, 215, 0, 0.1);
-	/* border-radius: 5px; */
+	background-color: rgba(237, 237, 233, 0.1);
+	border-radius: 3px;
 	border-left: 0.3em solid rgb(218, 165, 32);
-	padding: 0.5em;
+	/* padding: 0.5em; */
 	padding-left: 1em;
 	margin: 0.5em auto;
 }
