@@ -58,7 +58,7 @@ nav:
               - Unit Discussion: UBC-laws/L505/Unit1-4Dis.md
               - Unit 5: UBC-laws/L505/505Unit5.md
               - Unit 6: UBC-laws/L505/505Unit6.md
-          - Law_V 509 Administrative:
+          - LAW_V 509 Administrative:
               - Intro: UBC-laws/L509/509Intro.md
               - Unit 1: UBC-laws/L509/509Unit1.md
               - Unit 2: UBC-laws/L509/509Unit2.md
@@ -67,7 +67,7 @@ nav:
               - Unit 5: UBC-laws/L509/509Unit5.md
               - Unit 6: UBC-laws/L509/509Unit6.md
               - Unit 7: UBC-laws/L509/509Unit7.md
-          - Law_V 503 Torts:
+          - LAW_V 503 Torts:
               - Intro: UBC-laws/L503/503Intro.md
               - Module 1: UBC-laws/L503/503Mod1.md
               - Module 2: UBC-laws/L503/503Mod2.md
@@ -79,7 +79,7 @@ nav:
               - Module 8: UBC-laws/L503/503Mod8.md
               - Module 9: UBC-laws/L503/503Mod9.md
               - Module 10: UBC-laws/L503/503Mod10.md
-          - Law_V 525 Criminal Law:
+          - LAW_V 525 Criminal Law:
               - Intro: UBC-laws/L525/525Intro.md
               - Unit 1: UBC-laws/L525/525Unit1.md
               - Unit 2: UBC-laws/L525/525Unit2.md
@@ -99,6 +99,7 @@ nav:
               - Intro: UBC-laws/L504/504Intro.md
               - Unit 1: UBC-laws/L504/504unit1.md
               - Unit 2: UBC-laws/L504/504unit2.md
+              - Unit 3: UBC-laws/L504/504unit3.md
       - UBC Application:
           - How to Apply: articles/2024-12-21-ubcOnline.md
           - Courses Introduction: UBC-laws/orientation.md
