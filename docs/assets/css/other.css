@@ -33,6 +33,7 @@
 	/* padding: 0.5em; */
 	padding-left: 1em;
 	margin: 0 auto;
+	color: grey;
 }
 
 .highlight.green {
@@ -43,6 +44,7 @@
 	/* padding: 0.5em; */
 	padding-left: 1em;
 	margin: 0.5em auto;
+	color: grey;
 }
 
 .highlight.blue {
@@ -52,6 +54,7 @@
 	border-left: 0.3em solid #03045e;
 	padding-left: 1em;
 	margin: 0.5em auto;
+	color: grey;
 }
 
 .highlight.yellow {
@@ -62,6 +65,7 @@
 	/* padding: 0.5em; */
 	padding-left: 1em;
 	margin: 0.5em auto;
+	color: grey;
 }
 
 span.Coral {
