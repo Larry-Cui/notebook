@@ -11,6 +11,7 @@ tags:
   - Engineering Admissions
   - Computer Science Admissions
   - Science Admissions
+draft: true
 ---
 
 # MEMORANDUM
