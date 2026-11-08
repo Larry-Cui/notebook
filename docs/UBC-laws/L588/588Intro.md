@@ -160,6 +160,8 @@ The final exam will be ==**open book**== and will include any cases and readings
         <td>Week 13 (Nov 30, 2026)</td>
         <td style="color:red">COURSE REVIEW/ STUDY FOR FINAL EXAM</td>
         <td style="text-align: left">Date and time to be set by UBC December 2026, to be published online at https://students.ubc.ca/enrolment/exams/exam-schedule</td>
+        <td style="text-align: left">Final Exam: 15:30pm, PST, Dec 15, 2026</td>
+        
     </tr>
     </tbody>
 </table>
